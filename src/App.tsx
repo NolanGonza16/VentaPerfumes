@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { perfumes, familias, ocasiones } from "./data/perfumes";
 import type { Occasion, OlfactoryFamily, Perfume } from "./data/perfumes";
 import { whatsappUrl } from "./config/store";
+import { fetchCatalogPerfumes } from "./lib/catalog";
 
 type SectionId = "inicio" | "catalogo" | "contacto";
 
@@ -173,19 +174,41 @@ function FilterGroup<T extends string>({ label, values, active, onChange }: { la
 }
 
 function CatalogSection() {
+  const [catalogPerfumes, setCatalogPerfumes] = useState<Perfume[]>(perfumes);
+  const [catalogMode, setCatalogMode] = useState<"loading" | "demo" | "live">("loading");
   const [search, setSearch] = useState("");
   const [family, setFamily] = useState<OlfactoryFamily | null>(null);
   const [occasion, setOccasion] = useState<Occasion | null>(null);
   const [gender, setGender] = useState<Perfume["genero"] | null>(null);
   const [selected, setSelected] = useState<Perfume | null>(null);
 
+  useEffect(() => {
+    let active = true;
+
+    fetchCatalogPerfumes()
+      .then((records) => {
+        if (!active) return;
+        if (records.length > 0) {
+          setCatalogPerfumes(records);
+          setCatalogMode("live");
+        } else {
+          setCatalogMode("demo");
+        }
+      })
+      .catch(() => {
+        if (active) setCatalogMode("demo");
+      });
+
+    return () => { active = false; };
+  }, []);
+
   const filtered = useMemo(() => {
     const query = normalizeText(search);
-    return perfumes.filter((perfume) => {
+    return catalogPerfumes.filter((perfume) => {
       const searchable = [perfume.nombre, perfume.marca, perfume.familia, perfume.descripcion, ...perfume.acordes.map((item) => item.nombre), ...perfume.notasSalida, ...perfume.notasCorazon, ...perfume.notasFondo].map(normalizeText);
       return (!query || searchable.some((item) => item.includes(query))) && (!family || perfume.familia === family) && (!occasion || perfume.ocasiones.includes(occasion)) && (!gender || perfume.genero === gender || perfume.genero === "Unisex");
     });
-  }, [search, family, occasion, gender]);
+  }, [catalogPerfumes, search, family, occasion, gender]);
 
   const hasFilters = Boolean(search || family || occasion || gender);
   const clearFilters = () => { setSearch(""); setFamily(null); setOccasion(null); setGender(null); };
@@ -194,7 +217,7 @@ function CatalogSection() {
     <section id="catalogo" className="catalog-section" aria-labelledby="catalog-title">
       {selected && <PerfumeDetail perfume={selected} onClose={() => setSelected(null)} />}
       <div className="section-heading">
-        <div><p className="eyebrow">Colección 2026</p><h2 id="catalog-title">Encuentra la fragancia<br /><em>que habla por ti.</em></h2></div>
+        <div><p className="eyebrow">{catalogMode === "live" ? "Colección disponible" : "Vista de demostración"}</p><h2 id="catalog-title">Encuentra la fragancia<br /><em>que habla por ti.</em></h2></div>
         <p>Explora por nombre, casa, notas u ocasión. Cada pieza ha sido seleccionada por su carácter, calidad y presencia.</p>
       </div>
       <div className="catalog-tools">
@@ -209,7 +232,13 @@ function CatalogSection() {
           <FilterGroup label="Ocasión" values={ocasiones} active={occasion} onChange={setOccasion} />
         </div>
       </div>
-      <div className="results-bar" aria-live="polite"><span>{String(filtered.length).padStart(2, "0")} fragancias</span>{hasFilters && <button onClick={clearFilters}>Limpiar filtros</button>}</div>
+      <div className="results-bar" aria-live="polite">
+        <span>{String(filtered.length).padStart(2, "0")} fragancias</span>
+        <div>
+          {catalogMode !== "live" && <small>{catalogMode === "loading" ? "Conectando…" : "Productos de ejemplo"}</small>}
+          {hasFilters && <button onClick={clearFilters}>Limpiar filtros</button>}
+        </div>
+      </div>
       {filtered.length ? (
         <div className="catalog-grid">{filtered.map((perfume) => <PerfumeCard key={perfume.id} perfume={perfume} onOpen={() => setSelected(perfume)} />)}</div>
       ) : (
