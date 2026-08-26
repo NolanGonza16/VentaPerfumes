@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { perfumes, familias, ocasiones } from "./data/perfumes";
 import type { Occasion, OlfactoryFamily, Perfume } from "./data/perfumes";
-import { whatsappUrl } from "./config/store";
+import { storeConfig, whatsappUrl } from "./config/store";
 import { fetchCatalogPerfumes } from "./lib/catalog";
 
 type SectionId = "inicio" | "catalogo" | "contacto";
@@ -10,7 +10,7 @@ const normalizeText = (value: string) =>
   value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
 
 function GoldMark() {
-  return <span className="brand-mark" aria-hidden="true"><img src="/essence-luxe-emblem.png" alt="" /></span>;
+  return <span className="brand-mark" aria-hidden="true"><img src={storeConfig.brandLogoUrl} alt="" /></span>;
 }
 
 function Header({ onNavigate }: { onNavigate: (section: SectionId) => void }) {
