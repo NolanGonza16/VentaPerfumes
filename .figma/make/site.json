@@ -1,0 +1,15 @@
+{
+  "title": "Essence Luxe | Perfumería de lujo en Costa Rica",
+  "description": "Explora una colección curada de perfumes de lujo, conoce sus notas y recibe asesoría personalizada por WhatsApp.",
+  "language": "es",
+  "robots": {
+    "index": true
+  },
+  "openGraph": {
+    "image": "/og.png"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
