@@ -6,7 +6,7 @@
     "index": true
   },
   "openGraph": {
-    "image": "/og.png"
+    "image": "https://essence-luxe-cr.nnagpt1.chatgpt.site/og.png"
   },
   "accessibility": {
     "addBypassLinks": false,
