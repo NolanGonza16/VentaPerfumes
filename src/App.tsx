@@ -10,7 +10,7 @@ const normalizeText = (value: string) =>
   value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
 
 function GoldMark() {
-  return <span className="brand-mark" aria-hidden="true">EL</span>;
+  return <span className="brand-mark" aria-hidden="true"><img src="/essence-luxe-mark.svg" alt="" /></span>;
 }
 
 function Header({ onNavigate }: { onNavigate: (section: SectionId) => void }) {
@@ -154,7 +154,7 @@ function PerfumeDetail({ perfume, onClose }: { perfume: Perfume; onClose: () => 
             <div className="performance-list"><PerformanceRow label="Duración" value={perfume.duracion} /><PerformanceRow label="Proyección" value={perfume.proyeccion} /><PerformanceRow label="Estela" value={perfume.estela} /></div>
           </section>
           <section className="occasion-section"><p className="eyebrow">Ideal para</p><div>{perfume.ocasiones.map((item) => <span key={item}>{item}</span>)}</div></section>
-          <a className="whatsapp-button" href={whatsappUrl(message)} target="_blank" rel="noreferrer"><span aria-hidden="true">◉</span> Consultar disponibilidad</a>
+          <a className="whatsapp-button" href={whatsappUrl(message)} target="_blank" rel="noreferrer"><span className="whatsapp-button-icon" aria-hidden="true">↗</span><span>Consultar disponibilidad</span></a>
           <p className="response-note">Atención personalizada · Respuesta en menos de 24 horas</p>
         </div>
       </article>

@@ -1,7 +1,7 @@
 export const storeConfig = {
   name: "Essence Luxe",
   country: "Costa Rica",
-  whatsappNumber: "50600000000",
+  whatsappNumber: "50686139525",
 } as const;
 
 export const whatsappUrl = (message: string) =>
