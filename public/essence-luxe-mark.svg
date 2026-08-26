@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
-  <title id="title">Emblema de Essence Luxe</title>
-  <circle cx="64" cy="64" r="59" fill="#0b0b0a" stroke="#C9A227" stroke-width="2"/>
-  <path d="M49 26h30v9H49z" fill="#F5EFE6"/>
-  <path d="M54 35h20v9c0 4 3 6 7 9 5 4 8 10 8 17v24c0 8-6 14-14 14H53c-8 0-14-6-14-14V70c0-7 3-13 8-17 4-3 7-5 7-9z" fill="none" stroke="#C9A227" stroke-width="5" stroke-linejoin="round"/>
-  <path d="M51 78h26M51 88h18" fill="none" stroke="#F5EFE6" stroke-width="5" stroke-linecap="round"/>
-  <path d="M75 67c0 0-8 9-8 15a8 8 0 0 0 16 0c0-6-8-15-8-15z" fill="#C9A227"/>
-</svg>

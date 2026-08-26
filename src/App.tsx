@@ -10,7 +10,7 @@ const normalizeText = (value: string) =>
   value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
 
 function GoldMark() {
-  return <span className="brand-mark" aria-hidden="true"><img src="/essence-luxe-mark.svg" alt="" /></span>;
+  return <span className="brand-mark" aria-hidden="true"><img src="/essence-luxe-emblem.png" alt="" /></span>;
 }
 
 function Header({ onNavigate }: { onNavigate: (section: SectionId) => void }) {

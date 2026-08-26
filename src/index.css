@@ -34,8 +34,8 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 1px solid 
 
 .site-header { position: fixed; z-index: 40; top: 0; left: 0; right: 0; height: 68px; display: flex; align-items: center; justify-content: space-between; padding: 0 5vw; border-bottom: 1px solid rgba(255, 255, 255, 0.055); background: rgba(8, 8, 8, 0.74); backdrop-filter: blur(20px) saturate(140%); }
 .brand-lockup { display: inline-flex; align-items: center; gap: 0.7rem; border: 0; background: none; color: var(--cream); font: 500 1rem var(--serif); letter-spacing: 0.04em; cursor: pointer; }
-.brand-mark { width: 34px; height: 34px; display: inline-grid; place-items: center; flex: none; border-radius: 50%; filter: drop-shadow(0 0 14px rgba(201, 162, 39, 0.16)); transition: transform 0.35s ease, filter 0.35s ease; }
-.brand-mark img { display: block; width: 100%; height: 100%; }
+.brand-mark { width: 38px; height: 38px; display: inline-grid; place-items: center; flex: none; border-radius: 50%; filter: drop-shadow(0 0 14px rgba(201, 162, 39, 0.16)); transition: transform 0.35s ease, filter 0.35s ease; }
+.brand-mark img { display: block; width: 100%; height: 100%; object-fit: contain; }
 .brand-lockup:hover .brand-mark { transform: rotate(-4deg) scale(1.045); filter: drop-shadow(0 0 18px rgba(201, 162, 39, 0.3)); }
 .desktop-nav { position: absolute; left: 50%; transform: translateX(-50%); display: flex; gap: 2.4rem; }
 .desktop-nav button, .header-cta { border: 0; background: none; cursor: pointer; }
