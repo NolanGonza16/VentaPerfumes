@@ -40,7 +40,9 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 1px solid 
 .desktop-nav { position: absolute; left: 50%; transform: translateX(-50%); display: flex; gap: 2.4rem; }
 .desktop-nav button, .header-cta { border: 0; background: none; cursor: pointer; }
 .desktop-nav button { padding: 0.7rem 0; color: #a6a19a; font-size: 0.73rem; letter-spacing: 0.08em; transition: color 0.25s ease; }
-.desktop-nav button:hover { color: var(--cream); }
+.desktop-nav button:hover, .desktop-nav button.active { color: var(--cream); }
+.desktop-nav button.active { position: relative; }
+.desktop-nav button.active::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0.22rem; height: 1px; background: linear-gradient(90deg, transparent, var(--gold-light), transparent); }
 .header-cta { padding: 0.62rem 1.1rem; border: 1px solid rgba(201, 162, 39, 0.48); border-radius: 999px; color: var(--gold-light); font-size: 0.72rem; letter-spacing: 0.08em; transition: background 0.25s ease; }
 .header-cta:hover { background: rgba(201, 162, 39, 0.1); }
 
@@ -80,8 +82,8 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 1px solid 
 
 .catalog-section { min-height: 100vh; padding: clamp(6rem, 11vw, 10rem) 6vw; background: linear-gradient(180deg, #080808, #0d0c0a 38%, #080808); scroll-margin-top: 60px; }
 .section-heading { max-width: 1440px; margin: 0 auto clamp(2.5rem, 5vw, 5rem); display: grid; grid-template-columns: 1fr minmax(280px, 420px); align-items: end; gap: 3rem; }
-.section-heading h2 { margin: 1rem 0 0; font: 400 clamp(2.6rem, 5vw, 5.5rem)/1 var(--serif); letter-spacing: -0.04em; }
-.section-heading h2 em { color: var(--gold-light); font-weight: 400; }
+.section-heading h1 { margin: 1rem 0 0; font: 400 clamp(2.6rem, 5vw, 5.5rem)/1 var(--serif); letter-spacing: -0.04em; }
+.section-heading h1 em { color: var(--gold-light); font-weight: 400; }
 .section-heading > p { margin: 0 0 0.5rem; color: #8f8a82; font-size: 0.9rem; line-height: 1.8; }
 .catalog-tools { max-width: 1440px; margin: 0 auto 2rem; padding: 1.2rem; border: 1px solid rgba(255, 255, 255, 0.06); border-radius: 1.25rem; background: rgba(255, 255, 255, 0.025); backdrop-filter: blur(18px); }
 .search-box { display: flex; align-items: center; gap: 0.8rem; min-height: 56px; padding: 0 1rem; border-bottom: 1px solid rgba(255, 255, 255, 0.08); }
@@ -113,14 +115,14 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 1px solid 
 .perfume-card:hover .image-hover-label { opacity: 1; transform: translate(-50%, 0); }
 .card-body { padding: 1.2rem; }
 .card-body > p { margin: 0 0 0.45rem; color: #77736d; font: 400 0.58rem var(--mono); letter-spacing: 0.12em; text-transform: uppercase; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.card-body h3 { min-height: 2.5em; margin: 0; color: var(--cream); font: 400 clamp(1.12rem, 1.55vw, 1.5rem)/1.2 var(--serif); }
+.card-body h2 { min-height: 2.5em; margin: 0; color: var(--cream); font: 400 clamp(1.12rem, 1.55vw, 1.5rem)/1.2 var(--serif); }
 .card-bottom { display: flex; justify-content: space-between; align-items: flex-end; gap: 0.6rem; margin-top: 1rem; padding-top: 1rem; border-top: 1px solid rgba(255, 255, 255, 0.06); }
 .card-bottom strong { color: var(--gold-light); font: 500 0.9rem var(--sans); white-space: nowrap; }
 .card-bottom button { padding: 0; border: 0; background: none; color: #9a958e; font-size: 0.68rem; cursor: pointer; transition: color 0.25s ease; }
 .card-bottom button:hover { color: var(--cream); }
 .empty-state { max-width: 740px; margin: 4rem auto; padding: 4rem 1.5rem; text-align: center; border: 1px solid var(--line); border-radius: 1.5rem; }
 .empty-state > span { color: var(--gold); font: 400 0.6rem var(--mono); letter-spacing: 0.2em; text-transform: uppercase; }
-.empty-state h3 { margin: 1rem auto 2rem; max-width: 500px; font: 400 2rem/1.2 var(--serif); }
+.empty-state h2 { margin: 1rem auto 2rem; max-width: 500px; font: 400 2rem/1.2 var(--serif); }
 
 .detail-overlay { position: fixed; z-index: 70; inset: 0; display: grid; place-items: center; padding: 2.5vw; background: rgba(3, 3, 3, 0.88); backdrop-filter: blur(20px); animation: fadeIn 0.28s ease both; }
 .detail-panel { position: relative; width: min(1120px, 96vw); max-height: 92svh; display: grid; grid-template-columns: minmax(360px, 0.82fr) 1fr; overflow: hidden; border: 1px solid rgba(201, 162, 39, 0.2); border-radius: 1.4rem; background: #0b0b0a; box-shadow: 0 50px 150px rgba(0, 0, 0, 0.8); animation: panelIn 0.42s cubic-bezier(.2,.8,.2,1) both; }
@@ -165,11 +167,11 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 1px solid 
 .whatsapp-button:active { transform: translateY(0) scale(0.985); }
 .response-note { margin: 0.8rem 0 0; color: #625f59; font: 400 0.53rem var(--mono); text-align: center; }
 
-.contact-section { position: relative; padding: clamp(7rem, 12vw, 12rem) 7vw; border-top: 1px solid rgba(201, 162, 39, 0.11); background: #090908; scroll-margin-top: 60px; overflow: hidden; }
+.contact-section { position: relative; min-height: calc(100svh - 110px); padding: clamp(8rem, 12vw, 12rem) 7vw; border-top: 1px solid rgba(201, 162, 39, 0.11); background: #090908; overflow: hidden; }
 .contact-glow { position: absolute; width: 55vw; aspect-ratio: 1; left: 50%; top: 25%; transform: translate(-50%, -50%); border-radius: 50%; background: radial-gradient(circle, rgba(201, 162, 39, 0.12), transparent 68%); filter: blur(20px); }
 .contact-content { position: relative; max-width: 950px; margin: 0 auto; text-align: center; }
-.contact-content h2 { margin: 1.2rem 0 1.5rem; font: 400 clamp(2.6rem, 5.8vw, 6rem)/1 var(--serif); letter-spacing: -0.04em; }
-.contact-content h2 em { color: var(--gold-light); font-weight: 400; }
+.contact-content h1 { margin: 1.2rem 0 1.5rem; font: 400 clamp(2.6rem, 5.8vw, 6rem)/1 var(--serif); letter-spacing: -0.04em; }
+.contact-content h1 em { color: var(--gold-light); font-weight: 400; }
 .contact-content > p:not(.eyebrow) { max-width: 620px; margin: 0 auto 2.3rem; color: #908b83; font-size: 0.9rem; line-height: 1.8; }
 .service-grid { position: relative; max-width: 1100px; margin: 6rem auto 0; display: grid; grid-template-columns: repeat(3, 1fr); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .service-grid > div { padding: 2rem; }
@@ -181,12 +183,14 @@ footer { min-height: 110px; display: flex; align-items: center; justify-content:
 footer p, footer small { margin: 0; font: 400 0.56rem var(--mono); letter-spacing: 0.08em; }
 footer .brand-lockup { color: var(--cream); }
 .bottom-nav { display: none; }
+.page-view { min-height: calc(100svh - 110px); animation: pageIn 0.45s cubic-bezier(.2,.75,.2,1) both; }
 
 @keyframes revealUp { from { opacity: 0; transform: translateY(28px); } to { opacity: 1; transform: translateY(0); } }
 @keyframes heroFloat { 0%, 100% { transform: scale(1.015) translateY(0); } 50% { transform: scale(1.035) translateY(-7px); } }
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 @keyframes panelIn { from { opacity: 0; transform: translateY(20px) scale(0.98); } to { opacity: 1; transform: translateY(0) scale(1); } }
 @keyframes grow { from { transform: scaleX(0); transform-origin: left; } to { transform: scaleX(1); transform-origin: left; } }
+@keyframes pageIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
 
 @media (max-width: 1100px) {
   .hero-section { padding-inline: 6vw; grid-template-columns: minmax(0, 1fr) minmax(330px, 0.72fr); gap: 3rem; }
@@ -219,7 +223,7 @@ footer .brand-lockup { color: var(--cream); }
   .hero-orbit { width: 80vw; right: -42vw; }
   .catalog-section { padding: 6rem 1rem 5rem; }
   .section-heading { display: block; margin-bottom: 2.5rem; }
-  .section-heading h2 { font-size: clamp(2.6rem, 12vw, 4rem); }
+  .section-heading h1 { font-size: clamp(2.6rem, 12vw, 4rem); }
   .section-heading > p { margin-top: 1.2rem; }
   .catalog-tools { padding: 0.8rem; }
   .search-box { padding-inline: 0.5rem; }
@@ -227,7 +231,7 @@ footer .brand-lockup { color: var(--cream); }
   .filter-scroll { margin-inline: -0.8rem; padding-inline: 0.8rem; }
   .catalog-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.75rem; }
   .card-body { padding: 0.9rem; }
-  .card-body h3 { min-height: 2.35em; font-size: 1.05rem; }
+  .card-body h2 { min-height: 2.35em; font-size: 1.05rem; }
   .card-bottom { align-items: flex-start; flex-direction: column; }
   .card-bottom button { width: 100%; min-height: 38px; display: flex; align-items: center; justify-content: space-between; padding: 0.6rem 0.7rem; border: 1px solid rgba(201, 162, 39, 0.22); border-radius: 999px; color: var(--gold-light); }
   .image-hover-label { display: none; }
@@ -239,7 +243,7 @@ footer .brand-lockup { color: var(--cream); }
   .detail-identity h2 { font-size: 2.6rem; }
   .detail-close { position: fixed; }
   .contact-section { padding: 7rem 1.2rem; }
-  .contact-content h2 { font-size: clamp(2.8rem, 12vw, 4.2rem); }
+  .contact-content h1 { font-size: clamp(2.8rem, 12vw, 4.2rem); }
   .service-grid { margin-top: 4rem; grid-template-columns: 1fr; }
   .service-grid > div + div { border-left: 0; border-top: 1px solid var(--line); }
   footer { padding: 2rem 1.2rem 3rem; flex-direction: column; text-align: center; }
