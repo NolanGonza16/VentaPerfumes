@@ -1,4 +1,5 @@
 import { useDeferredValue, useEffect, useMemo, useState } from "react"
+import type { CSSProperties } from "react"
 import { whatsappUrl } from "../config/store"
 import { familias, ocasiones, perfumes } from "../data/perfumes"
 import type { Occasion, OlfactoryFamily, Perfume } from "../data/perfumes"
@@ -10,6 +11,18 @@ const normalizeText = (value: string) =>
     .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase()
     .trim()
+
+const PRICE_STEP = 5000
+const colonFormatter = new Intl.NumberFormat("es-CR", {
+  maximumFractionDigits: 0,
+})
+
+const parsePrice = (value: string) => {
+  const numericValue = Number(value.replace(/[^0-9]/g, ""))
+  return Number.isFinite(numericValue) && numericValue > 0 ? numericValue : null
+}
+
+const formatColones = (value: number) => `₡${colonFormatter.format(value)}`
 
 function PerfumeCard({
   perfume,
@@ -239,6 +252,55 @@ function FilterGroup<T extends string>({
   )
 }
 
+function PriceRangeFilter({
+  minimum,
+  maximum,
+  selectedMaximum,
+  onMaximumChange,
+}: {
+  minimum: number
+  maximum: number
+  selectedMaximum: number
+  onMaximumChange: (value: number) => void
+}) {
+  const span = Math.max(maximum - minimum, 1)
+  const end = ((selectedMaximum - minimum) / span) * 100
+  const sliderStyle = {
+    "--price-end": `${end}%`,
+  } as CSSProperties
+
+  return (
+    <div className="price-filter">
+      <span>Precio</span>
+      <div className="price-filter-content">
+        <div className="price-values" aria-live="polite">
+          <div>
+            <small>Desde {formatColones(minimum)}</small>
+          </div>
+          <div>
+            <small>Presupuesto máximo</small>
+            <output htmlFor="maximum-price">
+              {formatColones(selectedMaximum)}
+            </output>
+          </div>
+        </div>
+        <div className="price-slider" style={sliderStyle}>
+          <input
+            id="maximum-price"
+            type="range"
+            min={minimum}
+            max={maximum}
+            step={PRICE_STEP}
+            value={selectedMaximum}
+            onChange={(event) => onMaximumChange(Number(event.target.value))}
+            aria-label="Precio máximo en colones"
+          />
+        </div>
+      </div>
+    </div>
+  )
+}
+
 export default function CatalogPage() {
   const [catalogPerfumes, setCatalogPerfumes] = useState<Perfume[]>(perfumes)
   const [catalogMode, setCatalogMode] = useState<"loading" | "demo" | "live">(
@@ -249,6 +311,7 @@ export default function CatalogPage() {
   const [family, setFamily] = useState<OlfactoryFamily | null>(null)
   const [occasion, setOccasion] = useState<Occasion | null>(null)
   const [gender, setGender] = useState<Perfume["genero"] | null>(null)
+  const [maximumPrice, setMaximumPrice] = useState<number | null>(null)
   const [selected, setSelected] = useState<Perfume | null>(null)
 
   useEffect(() => {
@@ -271,9 +334,29 @@ export default function CatalogPage() {
     }
   }, [])
 
+  const priceBounds = useMemo(() => {
+    const prices = catalogPerfumes
+      .map((perfume) => parsePrice(perfume.precio))
+      .filter((price): price is number => price !== null)
+
+    if (!prices.length) return { minimum: 0, maximum: 200000 }
+
+    return {
+      minimum: Math.floor(Math.min(...prices) / PRICE_STEP) * PRICE_STEP,
+      maximum: Math.ceil(Math.max(...prices) / PRICE_STEP) * PRICE_STEP,
+    }
+  }, [catalogPerfumes])
+
+  const selectedMaximumPrice = Math.max(
+    Math.min(maximumPrice ?? priceBounds.maximum, priceBounds.maximum),
+    priceBounds.minimum,
+  )
+  const hasPriceFilter = maximumPrice !== null
+
   const filtered = useMemo(() => {
     const query = normalizeText(deferredSearch)
     return catalogPerfumes.filter((perfume) => {
+      const perfumePrice = parsePrice(perfume.precio)
       const searchable = [
         perfume.nombre,
         perfume.marca,
@@ -284,21 +367,37 @@ export default function CatalogPage() {
         ...perfume.notasCorazon,
         ...perfume.notasFondo,
       ].map(normalizeText)
+      const matchesPrice =
+        !hasPriceFilter ||
+        (perfumePrice !== null && perfumePrice <= selectedMaximumPrice)
+
       return (
         (!query || searchable.some((item) => item.includes(query))) &&
         (!family || perfume.familia === family) &&
         (!occasion || perfume.ocasiones.includes(occasion)) &&
-        (!gender || perfume.genero === gender || perfume.genero === "Unisex")
+        (!gender || perfume.genero === gender || perfume.genero === "Unisex") &&
+        matchesPrice
       )
     })
-  }, [catalogPerfumes, deferredSearch, family, occasion, gender])
+  }, [
+    catalogPerfumes,
+    deferredSearch,
+    family,
+    occasion,
+    gender,
+    hasPriceFilter,
+    selectedMaximumPrice,
+  ])
 
-  const hasFilters = Boolean(search || family || occasion || gender)
+  const hasFilters = Boolean(
+    search || family || occasion || gender || hasPriceFilter,
+  )
   const clearFilters = () => {
     setSearch("")
     setFamily(null)
     setOccasion(null)
     setGender(null)
+    setMaximumPrice(null)
   }
 
   return (
@@ -357,6 +456,12 @@ export default function CatalogPage() {
             values={ocasiones}
             active={occasion}
             onChange={setOccasion}
+          />
+          <PriceRangeFilter
+            minimum={priceBounds.minimum}
+            maximum={priceBounds.maximum}
+            selectedMaximum={selectedMaximumPrice}
+            onMaximumChange={setMaximumPrice}
           />
         </div>
       </div>
