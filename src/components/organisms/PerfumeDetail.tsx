@@ -1,6 +1,7 @@
 import { useEffect, useId, useLayoutEffect, useRef, useState } from "react";
 import type { MouseEvent, PointerEvent } from "react";
 import { createPortal } from "react-dom";
+import Icon from "../atoms/Icon";
 import { whatsappUrl } from "../../config/store";
 import type { Perfume } from "../../data/perfumes";
 import "../../styles/product-detail.css";
@@ -391,9 +392,7 @@ export default function PerfumeDetail({
             />
           </svg>
           <span>Consultar disponibilidad</span>
-          <span className="pd-contact-arrow" aria-hidden="true">
-            ↗
-          </span>
+          <Icon name="arrow-up-right" className="pd-contact-arrow" />
         </a>
       </footer>
     </dialog>,

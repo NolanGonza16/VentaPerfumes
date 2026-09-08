@@ -440,10 +440,10 @@
   height: 22px;
   flex: none;
 }
-.pd-contact-arrow {
+.pd-contact > .pd-contact-arrow {
   margin-left: auto;
-  font-size: 1.2rem;
-  font-weight: 400;
+  width: 20px;
+  height: 20px;
 }
 .pd-contact:hover {
   filter: brightness(1.08);

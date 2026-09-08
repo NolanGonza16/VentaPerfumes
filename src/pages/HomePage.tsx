@@ -41,7 +41,7 @@ export default function HomePage() {
               Explorar la colección <Icon name="arrow" />
             </a>
             <a className="text-link" href="/contacto">
-              Encuentra tu esencia <span>↗</span>
+              Encuentra tu esencia <Icon name="arrow-up-right" />
             </a>
           </div>
           <div className="hero-footnote">

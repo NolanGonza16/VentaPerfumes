@@ -1,5 +1,6 @@
 export type IconName =
   | "arrow"
+  | "arrow-up-right"
   | "home"
   | "grid"
   | "message"
@@ -10,6 +11,7 @@ export type IconName =
   | "check";
 const paths: Record<IconName, string> = {
   arrow: "M4 12h15m-6-6 6 6-6 6",
+  "arrow-up-right": "M6 18 18 6M7 6h11v11",
   home: "m3 10 9-7 9 7v10H3V10m7 10v-7h4v7",
   grid: "M3 3h7v7H3zm11 0h7v7h-7zM3 14h7v7H3zm11 0h7v7h-7z",
   message:
