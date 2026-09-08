@@ -1,167 +1,143 @@
-import { useCallback, useEffect, useState } from "react"
-import { storeConfig } from "./config/store"
-import CatalogPage from "./pages/CatalogPage"
-import ContactPage from "./pages/ContactPage"
-import HomePage from "./pages/HomePage"
+import { lazy, Suspense, useEffect, useState } from "react";
+import type { MouseEvent } from "react";
+import Icon from "./components/atoms/Icon";
+import ErrorBoundary from "./components/organisms/ErrorBoundary";
 
-type PageId = "inicio" | "catalogo" | "contacto"
+const HomePage = lazy(() => import("./pages/HomePage"));
+const CatalogPage = lazy(() => import("./pages/CatalogPage"));
+const ContactPage = lazy(() => import("./pages/ContactPage"));
+const navigation = [
+  { path: "/", label: "Inicio", icon: "home" },
+  { path: "/catalogo", label: "Catálogo", icon: "grid" },
+  { path: "/contacto", label: "Contacto", icon: "message" },
+] as const;
 
-const pagePaths: Record<PageId, string> = {
-  inicio: "/",
-  catalogo: "/catalogo",
-  contacto: "/contacto",
-}
-
-const pageTitles: Record<PageId, string> = {
-  inicio: "Essence Luxe | Perfumería de lujo",
-  catalogo: "Catálogo | Essence Luxe",
-  contacto: "Asesoría | Essence Luxe",
-}
-
-function pageFromPath(pathname: string): PageId {
-  const cleanPath = pathname.replace(/\/+$/, "") || "/"
-  if (cleanPath === "/catalogo") return "catalogo"
-  if (cleanPath === "/contacto") return "contacto"
-  return "inicio"
-}
-
-function GoldMark() {
+function Brand() {
   return (
-    <span className="brand-mark" aria-hidden="true">
-      <img src={storeConfig.brandLogoUrl} alt="" />
+    <span className="brand">
+      <img src="/images/brand-mark.webp" alt="" width="48" height="48" />
+      <span>
+        ESSENCE LUXE<small>PERFUMERÍA SELECTA</small>
+      </span>
     </span>
-  )
-}
-
-function Header({
-  active,
-  onNavigate,
-}: {
-  active: PageId
-  onNavigate: (page: PageId) => void
-}) {
-  const navItems: { id: PageId label: string }[] = [
-    { id: "inicio", label: "Inicio" },
-    { id: "catalogo", label: "Catálogo" },
-    { id: "contacto", label: "Asesoría" },
-  ]
-
-  return (
-    <header className="site-header">
-      <button
-        className="brand-lockup"
-        onClick={() => onNavigate("inicio")}
-        aria-label="Ir al inicio"
-      >
-        <GoldMark />
-        <span>Essence Luxe</span>
-      </button>
-      <nav className="desktop-nav" aria-label="Navegación principal">
-        {navItems.map((item) => (
-          <button
-            key={item.id}
-            className={active === item.id ? "active" : ""}
-            onClick={() => onNavigate(item.id)}
-            aria-current={active === item.id ? "page" : undefined}
-          >
-            {item.label}
-          </button>
-        ))}
-      </nav>
-      <button className="header-cta" onClick={() => onNavigate("catalogo")}>
-        Explorar
-      </button>
-    </header>
-  )
-}
-
-function BottomNav({
-  active,
-  onNavigate,
-}: {
-  active: PageId
-  onNavigate: (page: PageId) => void
-}) {
-  const items: { id: PageId label: string icon: string }[] = [
-    { id: "inicio", label: "Inicio", icon: "⌂" },
-    { id: "catalogo", label: "Catálogo", icon: "◇" },
-    { id: "contacto", label: "Asesoría", icon: "◉" },
-  ]
-
-  return (
-    <nav className="bottom-nav" aria-label="Navegación móvil">
-      {items.map((item) => (
-        <button
-          key={item.id}
-          onClick={() => onNavigate(item.id)}
-          className={active === item.id ? "active" : ""}
-          aria-current={active === item.id ? "page" : undefined}
-        >
-          <span aria-hidden="true">{item.icon}</span>
-          <small>{item.label}</small>
-        </button>
-      ))}
-    </nav>
-  )
-}
-
-function Footer() {
-  return (
-    <footer>
-      <button
-        className="brand-lockup"
-        onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-      >
-        <GoldMark />
-        <span>Essence Luxe</span>
-      </button>
-      <p>Perfumería de lujo · Costa Rica</p>
-      <small>© 2026 Essence Luxe. Todos los derechos reservados.</small>
-    </footer>
-  )
+  );
 }
 
 export default function App() {
-  const [activePage, setActivePage] = useState<PageId>(() =>
-    pageFromPath(window.location.pathname),
-  )
-
-  const navigateTo = useCallback((page: PageId) => {
-    const nextPath = pagePaths[page]
-    if (window.location.pathname !== nextPath)
-      window.history.pushState({ page }, "", nextPath)
-    setActivePage(page)
-    window.scrollTo({ top: 0, behavior: "smooth" })
-  }, [])
-
+  const [location, setLocation] = useState(
+    () => window.location.pathname + window.location.search,
+  );
+  const pathname = location.split("?")[0].replace(/\/+$/, "") || "/";
+  const knownPage = navigation.find((item) => item.path === pathname);
   useEffect(() => {
-    const handlePopState = () => {
-      setActivePage(pageFromPath(window.location.pathname))
-      window.scrollTo({ top: 0 })
-    }
-    window.addEventListener("popstate", handlePopState)
-    return () => window.removeEventListener("popstate", handlePopState)
-  }, [])
-
+    const onPopState = () =>
+      setLocation(window.location.pathname + window.location.search);
+    window.addEventListener("popstate", onPopState);
+    return () => window.removeEventListener("popstate", onPopState);
+  }, []);
   useEffect(() => {
-    document.title = pageTitles[activePage]
-  }, [activePage])
+    document.title = `${knownPage?.label ?? "Página no encontrada"} | Essence Luxe`;
+  }, [knownPage]);
+
+  function handleNavigation(event: MouseEvent<HTMLDivElement>) {
+    if (
+      event.defaultPrevented ||
+      event.button !== 0 ||
+      event.metaKey ||
+      event.ctrlKey ||
+      event.shiftKey ||
+      event.altKey
+    )
+      return;
+    const link = (event.target as Element).closest("a");
+    if (!link || link.target || link.hasAttribute("download")) return;
+    const url = new URL(link.href);
+    if (
+      url.origin !== window.location.origin ||
+      url.hash ||
+      !navigation.some((item) => item.path === url.pathname)
+    )
+      return;
+    event.preventDefault();
+    const next = url.pathname + url.search;
+    if (next === location) return;
+    window.history.pushState(null, "", next);
+    setLocation(next);
+    window.scrollTo({ top: 0, behavior: "instant" });
+    document.getElementById("main-content")?.focus({ preventScroll: true });
+  }
 
   return (
-    <div className="app-shell">
-      <Header active={activePage} onNavigate={navigateTo} />
-      <main className="page-view" key={activePage}>
-        {activePage === "inicio" && (
-          <HomePage
-            onExplore={() => navigateTo("catalogo")}
-            onContact={() => navigateTo("contacto")}
-          />
-        )}
-        {activePage === "catalogo" && <CatalogPage />}
-        {activePage === "contacto" && <ContactPage />}
+    <div className="app-shell" onClick={handleNavigation}>
+      <a className="skip-link" href="#main-content">
+        Saltar al contenido
+      </a>
+      <header className="site-header">
+        <a href="/" className="brand-link" aria-label="Essence Luxe, inicio">
+          <Brand />
+        </a>
+        <nav className="desktop-nav" aria-label="Navegación principal">
+          {navigation.map((item) => (
+            <a
+              key={item.path}
+              href={item.path}
+              aria-current={pathname === item.path ? "page" : undefined}
+            >
+              {item.label}
+            </a>
+          ))}
+        </nav>
+        <a className="header-link" href="/catalogo">
+          Descubrir <Icon name="arrow" />
+        </a>
+      </header>
+      <main id="main-content" tabIndex={-1}>
+        <ErrorBoundary key={location}>
+          <Suspense
+            fallback={
+              <div className="page-loading" role="status">
+                <span className="loading-ring" />
+                Preparando tu experiencia…
+              </div>
+            }
+          >
+            {pathname === "/" ? (
+              <HomePage />
+            ) : pathname === "/catalogo" ? (
+              <CatalogPage key={location} />
+            ) : pathname === "/contacto" ? (
+              <ContactPage />
+            ) : (
+              <section className="empty-state">
+                <p className="eyebrow">404 · Un camino diferente</p>
+                <h1>Volvamos a tu esencia.</h1>
+                <a className="button button-gold" href="/">
+                  Ir al inicio <Icon name="arrow" />
+                </a>
+              </section>
+            )}
+          </Suspense>
+        </ErrorBoundary>
       </main>
-      <Footer />
-      <BottomNav active={activePage} onNavigate={navigateTo} />
+      <footer className="site-footer">
+        <a className="brand-link" href="/" aria-label="Essence Luxe, inicio">
+          <Brand />
+        </a>
+        <p>Una esencia. Tu firma personal.</p>
+        <small>© {new Date().getFullYear()} Essence Luxe · Costa Rica</small>
+      </footer>
+      <nav className="bottom-nav" aria-label="Navegación móvil">
+        {navigation.map((item) => (
+          <a
+            key={item.path}
+            href={item.path}
+            aria-current={pathname === item.path ? "page" : undefined}
+          >
+            <Icon name={item.icon} />
+            <span>{item.label}</span>
+          </a>
+        ))}
+      </nav>
     </div>
-  )
+  );
 }

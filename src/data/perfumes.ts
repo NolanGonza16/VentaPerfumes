@@ -10,13 +10,17 @@ export type OlfactoryFamily =
   | "Marino"
   | "Ámbar";
 
-export type Occasion = "Diario" | "Oficina" | "Noche" | "Citas" | "Eventos especiales";
+export type Occasion =
+  "Diario" | "Oficina" | "Noche" | "Citas" | "Eventos especiales";
+export type Availability = "disponible" | "bajo_pedido" | "agotado";
 
 export interface Perfume {
   id: string;
   nombre: string;
   marca: string;
   precio: string;
+  /** Use this value for comparisons; precio is presentation only. */
+  precioCrc: number;
   imagen: string;
   familia: OlfactoryFamily;
   ocasiones: Occasion[];
@@ -30,10 +34,16 @@ export interface Perfume {
   valoracion: number;
   descripcion: string;
   disponible: boolean;
+  disponibilidad: Availability;
+  esEjemplo?: boolean;
   genero: "Hombre" | "Mujer" | "Unisex";
 }
 
-export const perfumes: Perfume[] = [
+// Design examples only. These records must never be seeded into the live catalog.
+const demoRecords: Omit<
+  Perfume,
+  "precioCrc" | "disponibilidad" | "esEjemplo"
+>[] = [
   {
     id: "sauvage-elixir",
     nombre: "Sauvage Elixir",
@@ -305,6 +315,13 @@ export const perfumes: Perfume[] = [
     genero: "Mujer",
   },
 ];
+
+export const perfumes: Perfume[] = demoRecords.map((perfume) => ({
+  ...perfume,
+  precioCrc: Number(perfume.precio.replace(/[^0-9]/g, "")),
+  disponibilidad: perfume.disponible ? "disponible" : "bajo_pedido",
+  esEjemplo: true,
+}));
 
 export const familias: OlfactoryFamily[] = [
   "Amaderado",

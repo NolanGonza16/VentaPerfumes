@@ -1,0 +1,10 @@
+# Recursos visuales
+
+- Logo: imagen 3D EL previamente aprobada por el propietario, fuente `public/essence-luxe-emblem.png`, derivado optimizado `public/images/brand-mark.webp` (256px, 14KB). Sin cambio creativo del diseño aprobado.
+- Portada: generación nueva (`imagegen`, modo generate, sin referencias). `public/images/essence-campaign.webp` (1122 × 1402, 167KB) y `essence-campaign-640.webp` (640px, 63KB). Es un concepto visual de la marca, no un producto ofrecido.
+- Catálogo: conserva las imágenes de ejemplo preexistentes hasta recibir las fotografías/productos del propietario. Cada ficha demo indica que imágenes, precios y notas son ilustrativos.
+- Fallback: `public/images/perfume-placeholder.svg`, un indicador de imagen no disponible, no una fotografía de producto.
+
+## Prompt utilizado para la portada
+
+Use case: ads-marketing. Create a photorealistic high-end fragrance campaign still life for a luxury Costa Rican perfume discovery website called Essence Luxe. A single elegant architectural rectangular smoky amber glass perfume bottle, heavy transparent amber base, polished dark sculptural round cap with slim champagne brass collar. Tiny ivory label with only 'ESSENCE' and 'LUXE' tasteful serif, no other brand. Subject centered in a vertical 4:5-ish composition, the entire bottle visible with luxurious breathing room around. Bottle resting on warm ivory travertine block at lower right, one translucent amber glass panel behind, delicate directional afternoon sunlight through a tall studio window. Deep warm almost-black espresso background, beautiful golden caustics across stone, artful shadow, quiet hazy light from upper left. Boutique fashion magazine campaign photographed with 85mm lens, material realism, exceptional sharpness, refined and minimal, no glitter, no particles, no glowing sci-fi rings, no excessive props, no people. Need luminous amber bottle with a strong clean silhouette on very dark background that crops beautifully at mobile 4:5. No title typography outside bottle, no watermark. Generate HD production asset.

@@ -5,9 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "build": "vite build",
+    "build": "node --test tests/*.test.ts && tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test tests/*.test.ts",
     "preview": "vite preview",
-    "format": "oxfmt"
+    "format": "prettier --write src tests scripts docs README.md index.html package.json",
+    "format:check": "prettier --check src tests scripts docs README.md index.html package.json"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.112.4",
@@ -21,6 +24,7 @@
     "@types/react-dom": "^19.0.0",
     "@vitejs/plugin-react": "^6.0.0",
     "oxfmt": "^0.2.0",
+    "prettier": "3.9.6",
     "tailwindcss": "^4.0.0",
     "typescript": "^5.7.0",
     "vite": "^8.0.5"
