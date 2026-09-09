@@ -704,6 +704,9 @@ def _merge_research_batches(records: dict[int, dict]) -> tuple[int, int]:
             for source_field, target_field in field_map.items():
                 value = evidence.get(source_field)
                 if value not in (None, "", []):
+                    if target_field in {"duracion", "proyeccion", "estela", "valoracion"} and not isinstance(value, (int, float)):
+                        record[target_field] = None
+                        continue
                     if target_field == "genero":
                         value = {
                             "masculino": "Hombre",

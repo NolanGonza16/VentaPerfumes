@@ -1,0 +1,2059 @@
+[
+  {
+    "ref": 351,
+    "nombre": "Clasico Mujer",
+    "marca": "Halloween",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Floral oriental",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "acuático",
+      "dulce",
+      "amaderado",
+      "balsámico"
+    ],
+    "notas_salida": [
+      "banana",
+      "violeta",
+      "notas marinas",
+      "petit grain"
+    ],
+    "notas_corazon": [
+      "magnolia",
+      "nardo",
+      "lirio de los valles",
+      "pimienta"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "incienso",
+      "vainilla",
+      "mirra"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral oriental de Halloween con salida acuática y floral, corazón de flores blancas y fondo amaderado, balsámico y avainillado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/J.del-Pozo/Halloween-1997.html",
+      "https://www.parfumo.com/Perfumes/J_del_Pozo/Halloween"
+    ],
+    "estado": "parcial: notas verificadas; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 352,
+    "nombre": "Freesia",
+    "marca": "Halloween",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "frutal",
+      "cítrico",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "pera",
+      "grosella negra",
+      "mandarina"
+    ],
+    "notas_corazon": [
+      "fresia",
+      "jazmín",
+      "peonía"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "ámbar",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Composición floral frutal centrada en la fresia, con salida frutal y fondo almizclado-amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/J-del-Pozo/Halloween-Freesia-16782.html",
+      "https://www.parfumo.com/Perfumes/J_del_Pozo/Halloween_Freesia"
+    ],
+    "estado": "parcial: notas verificadas; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 353,
+    "nombre": "Kiss",
+    "marca": "Halloween",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "frutal",
+      "floral",
+      "dulce",
+      "almizclado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "melocotón",
+      "frutos rojos",
+      "manzana verde"
+    ],
+    "notas_corazon": [
+      "flor de azahar",
+      "jazmín",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume floral frutal de Halloween con frutas en la salida, flores blancas y rosa en el corazón, y fondo dulce almizclado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/J-del-Pozo/Halloween-Kiss-11324.html",
+      "https://www.parfumo.com/Perfumes/J_del_Pozo/Halloween_Kiss"
+    ],
+    "estado": "parcial: notas verificadas; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 354,
+    "nombre": "Kiss Sexy",
+    "marca": "Halloween",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "frutal",
+      "cítrico",
+      "dulce",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "pimienta rosa",
+      "pera",
+      "pomelo"
+    ],
+    "notas_corazon": [
+      "flor de azahar",
+      "jazmín",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral frutal con salida chispeante, corazón de flores blancas y rosa y fondo dulce.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/J-del-Pozo/Halloween-Kiss-Sexy-25376.html",
+      "https://www.parfumo.com/Perfumes/J_del_Pozo/Halloween_Kiss_Sexy"
+    ],
+    "estado": "parcial: notas verificadas; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 355,
+    "nombre": "Man",
+    "marca": "Halloween",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "Amaderada especiada",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "especiado",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "hoja de violeta",
+      "albahaca"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "canela",
+      "jengibre"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "ámbar",
+      "cuero",
+      "vainilla"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma masculino aromático y especiado con salida cítrica, corazón de lavanda y especias y fondo amaderado-cuero.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/J-del-Pozo/Halloween-Man-1006.html",
+      "https://www.parfumo.com/Perfumes/J_del_Pozo/Halloween_Man"
+    ],
+    "estado": "parcial: notas verificadas; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 356,
+    "nombre": "Man Hero",
+    "marca": "Halloween",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "frutal",
+      "aromático",
+      "especiado",
+      "amaderado",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "manzana",
+      "bergamota",
+      "lavanda"
+    ],
+    "notas_corazon": [
+      "canela",
+      "flor de azahar",
+      "violeta"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "ámbar",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina aromática con faceta frutal, especias cálidas y fondo ambarado-amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/J-del-Pozo/Halloween-Man-Hero-29993.html",
+      "https://www.parfumo.com/Perfumes/J_del_Pozo/Halloween_Man_Hero"
+    ],
+    "estado": "parcial: notas verificadas; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 357,
+    "nombre": "Man Mystery",
+    "marca": "Halloween",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 125,
+    "familia": "Amaderada especiada",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "especiado",
+      "aromático",
+      "dulce",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "pomelo",
+      "lavanda"
+    ],
+    "notas_corazon": [
+      "nuez moscada",
+      "canela",
+      "geranio"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "haba tonka",
+      "ámbar",
+      "vetiver"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Composición masculina especiada y amaderada, con cítricos y lavanda al inicio y un fondo dulce ambarado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/J-del-Pozo/Halloween-Man-Mystery-11860.html",
+      "https://www.parfumo.com/Perfumes/J_del_Pozo/Halloween_Man_Mystery"
+    ],
+    "estado": "parcial: notas verificadas; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 358,
+    "nombre": "Man Rock On",
+    "marca": "Halloween",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "frutal",
+      "aromático",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "pomelo",
+      "manzana"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "violeta",
+      "salvia"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "pachulí",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina fresca y amaderada con frutas cítricas, un corazón aromático y fondo de maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/J-del-Pozo/Halloween-Man-Rock-On-19758.html",
+      "https://www.parfumo.com/Perfumes/J_del_Pozo/Halloween_Man_Rock_On"
+    ],
+    "estado": "parcial: notas verificadas; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 359,
+    "nombre": "Man X",
+    "marca": "Halloween",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "Amaderada especiada",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "especiado",
+      "aromático",
+      "amaderado",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "limón",
+      "bergamota",
+      "cardamomo"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "canela",
+      "violeta"
+    ],
+    "notas_fondo": [
+      "ámbar",
+      "almizcle",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume masculino cítrico-especiado con lavanda y canela en el corazón y fondo ambarado-amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/J-del-Pozo/Halloween-Man-X-18408.html",
+      "https://www.parfumo.com/Perfumes/J_del_Pozo/Halloween_Man_X"
+    ],
+    "estado": "parcial: notas verificadas; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 360,
+    "nombre": "My Wish",
+    "marca": "Halloween",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "frutal",
+      "floral",
+      "dulce",
+      "almizclado",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "pomelo",
+      "pera",
+      "grosella negra"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "rosa",
+      "violeta"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral frutal femenina con salida de frutas, corazón floral y fondo dulce almizclado-ambarado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/J-del-Pozo/Halloween-My-Wish-38631.html",
+      "https://www.parfumo.com/Perfumes/J_del_Pozo/Halloween_My_Wish"
+    ],
+    "estado": "parcial: notas verificadas; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 361,
+    "nombre": "Happy Clinique Heart Mujer",
+    "marca": "Clinique",
+    "concentracion": null,
+    "tamano_ml": 100,
+    "familia": "Floral verde",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "floral",
+      "verde",
+      "amaderado",
+      "fresco"
+    ],
+    "notas_salida": [
+      "pepino",
+      "mandarina"
+    ],
+    "notas_corazon": [
+      "jacinto de agua",
+      "zanahoria silvestre"
+    ],
+    "notas_fondo": [
+      "madera",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral verde de Clinique, presentada como una interpretación luminosa y fresca de Happy Heart.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Clinique/Happy-Heart-1547.html",
+      "https://www.clinique.com/product/1573/5423/fragrance/happy-heart"
+    ],
+    "estado": "verificado parcialmente; rendimiento y valoración no publicados en fuente consultada"
+  },
+  {
+    "ref": 362,
+    "nombre": "Happy Clinique Hombre",
+    "marca": "Clinique",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Cítrica floral amaderada",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "floral",
+      "amaderado",
+      "verde"
+    ],
+    "notas_salida": [
+      "lima",
+      "mandarina",
+      "limón",
+      "notas verdes"
+    ],
+    "notas_corazon": [
+      "fresia",
+      "jazmín",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "ciprés",
+      "almizcle",
+      "cedro",
+      "guaiaco"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia fresca y cítrica masculina de Clinique.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Clinique/Happy-for-Men-542.html",
+      "https://www.clinique.com/product/1573/5422/fragrance/happy-for-men"
+    ],
+    "estado": "verificado parcialmente; rendimiento y valoración no publicados en fuente consultada"
+  },
+  {
+    "ref": 363,
+    "nombre": "Happy Clinique Mujer",
+    "marca": "Clinique",
+    "concentracion": null,
+    "tamano_ml": 100,
+    "familia": "Cítrica floral",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "floral",
+      "afrutado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "pomelo",
+      "bergamota",
+      "manzana"
+    ],
+    "notas_corazon": [
+      "lirio de los valles",
+      "rosa",
+      "fresia",
+      "orquídea"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "ámbar",
+      "magnolia"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia cítrica floral de Clinique con salida frutal y corazón floral.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Clinique/Happy-148.html",
+      "https://www.clinique.com/product/1573/5420/fragrance/happy"
+    ],
+    "estado": "verificado parcialmente; rendimiento y valoración no publicados en fuente consultada"
+  },
+  {
+    "ref": 364,
+    "nombre": "Bottled Gris",
+    "marca": "Hugo Boss",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Producto identificado por el nombre comercial proporcionado; no se pudo verificar inequívocamente la denominación oficial correspondiente.",
+    "fuentes": [
+      "https://www.hugoboss.com/"
+    ],
+    "estado": "no verificable inequívocamente"
+  },
+  {
+    "ref": 365,
+    "nombre": "Bottled Gris",
+    "marca": "Hugo Boss",
+    "concentracion": "Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Producto identificado por el nombre comercial proporcionado; no se pudo verificar inequívocamente qué lanzamiento oficial designa el descriptor Gris.",
+    "fuentes": [
+      "https://www.hugoboss.com/"
+    ],
+    "estado": "no verificable inequívocamente"
+  },
+  {
+    "ref": 366,
+    "nombre": "Bottled Tonic",
+    "marca": "Hugo Boss",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Cítrica amaderada",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "fresco especiado",
+      "verde"
+    ],
+    "notas_salida": [
+      "pomelo",
+      "limón",
+      "naranja amarga",
+      "manzana"
+    ],
+    "notas_corazon": [
+      "jengibre",
+      "canela",
+      "clavo"
+    ],
+    "notas_fondo": [
+      "vetiver",
+      "madera",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Toilette masculino de la línea BOSS Bottled, de perfil cítrico, especiado y amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Bottled-Tonic-43362.html",
+      "https://www.hugoboss.com/boss-bottled-tonic-eau-de-toilette-100ml/58000020.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 367,
+    "nombre": "Cantimplora Verde Hombre",
+    "marca": "Hugo Boss",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "Verde amaderada",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "verde",
+      "afrutado",
+      "amaderado",
+      "acuático"
+    ],
+    "notas_salida": [
+      "manzana verde",
+      "menta",
+      "lavanda"
+    ],
+    "notas_corazon": [
+      "pino",
+      "salvia",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "abeto",
+      "cedro",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina Hugo en botella verde, de perfil verde, afrutado y amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Hugo-Boss/Hugo-Man-4.html",
+      "https://www.hugoboss.com/"
+    ],
+    "estado": "verificado parcialmente; nombre comercial y tamaño no confirmados por fuente oficial"
+  },
+  {
+    "ref": 368,
+    "nombre": "Dark Blue",
+    "marca": "Hugo Boss",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 75,
+    "familia": "Aromática especiada",
+    "genero": "Hombre",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "cítrico",
+      "especiado",
+      "aromático",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "jengibre",
+      "limón",
+      "pomelo"
+    ],
+    "notas_corazon": [
+      "ciprés",
+      "cardamomo",
+      "geranio"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "benjuí",
+      "vainilla"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Toilette masculino de Hugo Boss con carácter cítrico, especiado y amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Hugo-Boss/Dark-Blue-744.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 369,
+    "nombre": "In Motion",
+    "marca": "Hugo Boss",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Aromática cítrica",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "fresco especiado"
+    ],
+    "notas_salida": [
+      "naranja",
+      "albahaca",
+      "menta"
+    ],
+    "notas_corazon": [
+      "canela",
+      "nuez moscada"
+    ],
+    "notas_fondo": [
+      "vetiver",
+      "sándalo",
+      "madera"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina Hugo Boss de perfil fresco, cítrico y aromático.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Hugo-Boss/In-Motion-494.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 370,
+    "nombre": "Orange H New",
+    "marca": "Hugo Boss",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Amaderada especiada",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "amaderado",
+      "especiado",
+      "cítrico",
+      "aromático"
+    ],
+    "notas_salida": [
+      "manzana roja",
+      "cilantro",
+      "menta"
+    ],
+    "notas_corazon": [
+      "incienso",
+      "pimienta de Sichuan"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "madera",
+      "olivo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina de la colección BOSS Orange, con faceta amaderada y especiada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Orange-Man-10218.html",
+      "https://www.hugoboss.com/"
+    ],
+    "estado": "verificado parcialmente; el descriptor comercial H New no se confirmó"
+  },
+  {
+    "ref": 371,
+    "nombre": "The Scent Hombre",
+    "marca": "Hugo Boss",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "ámbar especiada",
+    "genero": "hombre",
+    "ocasiones": [
+      "diario",
+      "noche"
+    ],
+    "acordes": [
+      "ámbar",
+      "especiado cálido",
+      "afrutado",
+      "amaderado",
+      "dulce"
+    ],
+    "notas_salida": [
+      "jengibre",
+      "mandarina",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "maninka",
+      "lavanda"
+    ],
+    "notas_fondo": [
+      "cuero",
+      "madera"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina de la línea The Scent, con salida cítrica y especiada, corazón de maninka y lavanda y fondo de cuero y maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Hugo-Boss/Hugo-The-Scent-29272.html",
+      "https://www.hugoboss.com/us/hugo-the-scent-eau-de-toilette-100ml/58000046.html"
+    ],
+    "estado": "parcialmente verificado"
+  },
+  {
+    "ref": 372,
+    "nombre": "The Scent Mujer",
+    "marca": "Hugo Boss",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "floral afrutada",
+    "genero": "mujer",
+    "ocasiones": [
+      "diario",
+      "noche"
+    ],
+    "acordes": [
+      "floral",
+      "afrutado",
+      "dulce",
+      "amaderado",
+      "cálido especiado"
+    ],
+    "notas_salida": [
+      "durazno",
+      "mandarina verde"
+    ],
+    "notas_corazon": [
+      "osmanto",
+      "fresia"
+    ],
+    "notas_fondo": [
+      "cacao",
+      "madera tostada"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Interpretación femenina de The Scent con durazno y mandarina verde, osmanto y fresia, y un fondo de cacao y madera tostada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Hugo-Boss/The-Scent-for-Her-37544.html",
+      "https://www.hugoboss.com/us/boss-the-scent-for-her-eau-de-parfum-50ml/58000047.html"
+    ],
+    "estado": "parcialmente verificado"
+  },
+  {
+    "ref": 373,
+    "nombre": "Xy",
+    "marca": "Hugo Boss",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "amaderada aromática",
+    "genero": "hombre",
+    "ocasiones": [
+      "diario"
+    ],
+    "acordes": [
+      "amaderado",
+      "verde",
+      "aromático",
+      "cítrico",
+      "floral"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "cedro",
+      "hoja de pera"
+    ],
+    "notas_corazon": [
+      "menta",
+      "albahaca",
+      "lavanda"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "pachulí",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume masculino Hugo Boss Xy de perfil fresco, verde y amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Hugo-Boss/Hugo-XY-1003.html",
+      "https://www.basenotes.net/ID26121322.html"
+    ],
+    "estado": "parcialmente verificado"
+  },
+  {
+    "ref": 374,
+    "nombre": "Intense",
+    "marca": "Issey Miyake",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "amaderada especiada",
+    "genero": "hombre",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "amaderado",
+      "especiado cálido",
+      "cítrico",
+      "ahumado",
+      "aromático"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "bergamota",
+      "cardamomo"
+    ],
+    "notas_corazon": [
+      "canela",
+      "azafrán",
+      "loto"
+    ],
+    "notas_fondo": [
+      "ámbar",
+      "pachulí",
+      "incienso"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "L'Eau d'Issey pour Homme Intense, una versión masculina intensa con cítricos, especias, incienso y ámbar.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Issey-Miyake/L-Eau-d-Issey-pour-Homme-Intense-1205.html",
+      "https://www.parfumo.com/Perfumes/Issey_Miyake/L_Eau_d_Issey_pour_Homme_Intense"
+    ],
+    "estado": "parcialmente verificado"
+  },
+  {
+    "ref": 375,
+    "nombre": "Mujer",
+    "marca": "Issey Miyake",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "floral acuática",
+    "genero": "mujer",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "floral",
+      "acuático",
+      "cítrico",
+      "amaderado",
+      "verde"
+    ],
+    "notas_salida": [
+      "loto",
+      "fresia",
+      "ciclamen",
+      "rosa",
+      "calona"
+    ],
+    "notas_corazon": [
+      "lirio",
+      "peonía",
+      "lirio de los valles"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "almizcle",
+      "ámbar",
+      "maderas exóticas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "L'Eau d'Issey Eau de Toilette para mujer, composición floral acuática creada alrededor de flores y notas acuáticas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Issey-Miyake/L-Eau-d-Issey-688.html",
+      "https://www.isseymiyakeparfums.com/en/product/leau-dissey-eau-de-toilette/"
+    ],
+    "estado": "parcialmente verificado"
+  },
+  {
+    "ref": 376,
+    "nombre": "Nuit",
+    "marca": "Issey Miyake",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "amaderada especiada",
+    "genero": "hombre",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "amaderado",
+      "especiado cálido",
+      "ahumado",
+      "aromático",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "pomelo"
+    ],
+    "notas_corazon": [
+      "madera negra",
+      "pimienta",
+      "azafrán"
+    ],
+    "notas_fondo": [
+      "pachulí",
+      "ébano",
+      "incienso"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Nuit d’Issey Eau de Toilette, fragancia masculina nocturna de carácter amaderado y especiado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Issey-Miyake/Nuit-d-Issey-29211.html",
+      "https://www.parfumo.com/Perfumes/Issey_Miyake/Nuit_d_Issey"
+    ],
+    "estado": "parcialmente verificado"
+  },
+  {
+    "ref": 377,
+    "nombre": "Pour Homme",
+    "marca": "Issey Miyake",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "cítrica amaderada",
+    "genero": "hombre",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "acuático",
+      "aromático",
+      "especiado"
+    ],
+    "notas_salida": [
+      "yuzu",
+      "limón",
+      "mandarina",
+      "ciprés",
+      "calone"
+    ],
+    "notas_corazon": [
+      "canela",
+      "nuez moscada",
+      "loto",
+      "azafrán"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "vetiver",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "L'Eau d'Issey pour Homme Eau de Toilette, fragancia masculina fresca de yuzu y cítricos sobre maderas y especias.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Issey-Miyake/L-Eau-d-Issey-pour-Homme-688.html",
+      "https://www.isseymiyakeparfums.com/en/product/leau-dissey-pour-homme-eau-de-toilette/"
+    ],
+    "estado": "parcialmente verificado"
+  },
+  {
+    "ref": 378,
+    "nombre": "Pour Homme",
+    "marca": "Issey Miyake",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 200,
+    "familia": "cítrica amaderada",
+    "genero": "hombre",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "acuático",
+      "aromático",
+      "especiado"
+    ],
+    "notas_salida": [
+      "yuzu",
+      "limón",
+      "mandarina",
+      "ciprés",
+      "calone"
+    ],
+    "notas_corazon": [
+      "canela",
+      "nuez moscada",
+      "loto",
+      "azafrán"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "vetiver",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "L'Eau d'Issey pour Homme Eau de Toilette en formato de 200 ml; la fragancia base es la misma composición de yuzu, especias y maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Issey-Miyake/L-Eau-d-Issey-pour-Homme-688.html",
+      "https://www.parfumo.com/Perfumes/Issey_Miyake/L_Eau_d_Issey_pour_Homme_Eau_de_Toilette"
+    ],
+    "estado": "parcialmente verificado"
+  },
+  {
+    "ref": 379,
+    "nombre": "Live",
+    "marca": "Jennifer Lopez",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "floral afrutada",
+    "genero": "mujer",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "afrutado",
+      "floral",
+      "dulce",
+      "cítrico",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "piña",
+      "limón siciliano",
+      "manzana"
+    ],
+    "notas_corazon": [
+      "violeta",
+      "peonía",
+      "flor de azahar"
+    ],
+    "notas_fondo": [
+      "caramelo",
+      "haba tonka",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Jennifer Lopez Live es una fragancia femenina afrutada y floral con piña, cítricos, flores, caramelo y maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jennifer-Lopez/Live-1062.html",
+      "https://www.parfumo.com/Perfumes/Jennifer_Lopez/Live"
+    ],
+    "estado": "parcialmente verificado"
+  },
+  {
+    "ref": 380,
+    "nombre": "Miami Glow",
+    "marca": "Jennifer Lopez",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "floral afrutada",
+    "genero": "mujer",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "tropical",
+      "dulce",
+      "floral",
+      "afrutado",
+      "coco"
+    ],
+    "notas_salida": [
+      "maracuyá",
+      "pomelo",
+      "coco"
+    ],
+    "notas_corazon": [
+      "flor de azahar",
+      "ciclamen",
+      "heliotropo"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "ámbar",
+      "vainilla",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Jennifer Lopez Miami Glow es una fragancia femenina tropical y dulce, con frutas, coco, flores blancas y un fondo de vainilla, ámbar y almizcle.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jennifer-Lopez/Miami-Glow-1063.html",
+      "https://www.parfumo.com/Perfumes/Jennifer_Lopez/Miami_Glow"
+    ],
+    "estado": "parcialmente verificado"
+  },
+  {
+    "ref": 381,
+    "nombre": "One Mujer",
+    "marca": "Jennifer Lopez",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "frutal",
+      "floral",
+      "cítrico",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "pomelo",
+      "piña",
+      "manzana",
+      "melocotón"
+    ],
+    "notas_corazon": [
+      "violeta",
+      "jazmín",
+      "rosa",
+      "fresia"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "almizcle",
+      "vainilla",
+      "haba tonka"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral frutal de Jennifer Lopez con una salida cítrica y frutal, corazón floral y fondo de maderas, almizcle y vainilla.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jennifer-Lopez/One-1067.html",
+      "https://www.parfumo.com/Perfumes/Jennifer_Lopez/One"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 382,
+    "nombre": "Corporal · Bath & Body Works",
+    "marca": "Bath & Body Works",
+    "concentracion": null,
+    "tamano_ml": 259,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Producto corporal; no es posible identificar de forma verificable la fragancia base sin nombre de la línea o aroma.",
+    "fuentes": [
+      "https://www.bathandbodyworks.com/"
+    ],
+    "estado": "no verificable sin fragancia base identificada"
+  },
+  {
+    "ref": 383,
+    "nombre": "Clasico Hombre",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "Aromática fougère",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "aromático",
+      "fresco especiado",
+      "vainilla",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "lavanda",
+      "menta",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "canela",
+      "flor de azahar",
+      "comino"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "haba tonka",
+      "sándalo",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "El clásico masculino de Jean Paul Gaultier, conocido internacionalmente como Le Male.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Male-430.html",
+      "https://www.jeanpaulgaultier.com/us/en/p/men-eau-de-toilette/le-male-eau-de-toilette-5010174501.html"
+    ],
+    "estado": "verificado"
+  },
+  {
+    "ref": 384,
+    "nombre": "Clasico Mujer",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Floral oriental",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "dulce",
+      "atalcado",
+      "especiado cálido",
+      "vainilla"
+    ],
+    "notas_salida": [
+      "rosa",
+      "anís estrellado",
+      "ron"
+    ],
+    "notas_corazon": [
+      "orquídea",
+      "jengibre",
+      "flor de azahar"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Classique, el perfume femenino de Jean Paul Gaultier presentado en el frasco de corsé.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Classique-466.html",
+      "https://www.jeanpaulgaultier.com/us/en/p/women-eau-de-parfum/classique-eau-de-parfum-5010174502.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 385,
+    "nombre": "Divine Elixir",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "No se pudo verificar una ficha inequívoca para el nombre comercial exacto Divine Elixir.",
+    "fuentes": [
+      "https://www.jeanpaulgaultier.com/"
+    ],
+    "estado": "no verificable"
+  },
+  {
+    "ref": 386,
+    "nombre": "La Belle",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral frutal gourmand",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "frutal",
+      "dulce",
+      "vainilla",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "pera",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "flor de iris"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "vetiver",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "La Belle es una fragancia femenina dulce y frutal de Jean Paul Gaultier, con pera y vainilla como facetas destacadas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/La-Belle-55786.html",
+      "https://www.jeanpaulgaultier.com/us/en/p/women-eau-de-parfum/la-belle-eau-de-parfum-5010174503.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 387,
+    "nombre": "Le Beau",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "amaderado",
+      "dulce",
+      "coco",
+      "aromático"
+    ],
+    "notas_salida": [
+      "coco",
+      "bergamota"
+    ],
+    "notas_corazon": [],
+    "notas_fondo": [
+      "haba tonka",
+      "madera de coco"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Le Beau Eau de Toilette, una fragancia masculina de la gama Le Beau.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Beau-55785.html",
+      "https://www.jeanpaulgaultier.com/us/en/p/men-eau-de-toilette/le-beau-eau-de-toilette-5010174504.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 388,
+    "nombre": "Le Beau",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Le Parfum",
+    "tamano_ml": 125,
+    "familia": "Amaderada oriental",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "amaderado",
+      "dulce",
+      "frutal",
+      "coco",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "piña",
+      "coco",
+      "jengibre"
+    ],
+    "notas_corazon": [],
+    "notas_fondo": [
+      "haba tonka",
+      "sándalo",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Versión Le Parfum, más intensa, de la línea masculina Le Beau.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Beau-Le-Parfum-72480.html",
+      "https://www.jeanpaulgaultier.com/us/en/p/men-eau-de-parfum/le-beau-le-parfum-5010174505.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 389,
+    "nombre": "Le Beau Narcisse",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 125,
+    "familia": null,
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "No se encontró una ficha verificable de un perfume Jean Paul Gaultier con el nombre exacto Le Beau Narcisse.",
+    "fuentes": [
+      "https://www.jeanpaulgaultier.com/"
+    ],
+    "estado": "no verificable"
+  },
+  {
+    "ref": 390,
+    "nombre": "Le Male Elixir",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": null,
+    "tamano_ml": 125,
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "dulce",
+      "amaderado",
+      "aromático",
+      "vainilla",
+      "tabaco"
+    ],
+    "notas_salida": [
+      "lavanda"
+    ],
+    "notas_corazon": [
+      "miel",
+      "benzoin"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "tabaco"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Le Male Elixir es una interpretación intensa y dulce de Le Male, con lavanda, miel, tabaco y haba tonka.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Male-Elixir-81667.html",
+      "https://www.jeanpaulgaultier.com/us/en/p/men-parfum/le-male-elixir-parfum-5010174506.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 391,
+    "nombre": "Le Male Elixir Absolu",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": null,
+    "tamano_ml": 125,
+    "familia": "Ámbar amaderada",
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [
+      "dulce",
+      "afrutado",
+      "amaderado",
+      "aromático",
+      "cálido especiado"
+    ],
+    "notas_salida": [
+      "ciruela",
+      "lavanda",
+      "menta"
+    ],
+    "notas_corazon": [
+      "canela",
+      "cuero"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "benjuí",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Interpretación intensa y cálida de Le Male, con salida afrutada y fondo dulce ambarado y amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Male-Elixir-Absolu-105224.html"
+    ],
+    "estado": "parcial: notas verificables; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 392,
+    "nombre": "Le Male",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Le Parfum",
+    "tamano_ml": 125,
+    "familia": "Ámbar amaderada",
+    "genero": "Masculino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "ámbar",
+      "vainilla",
+      "amaderado",
+      "aromático",
+      "cálido especiado"
+    ],
+    "notas_salida": [
+      "cardamomo"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "iris"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "notas amaderadas",
+      "oriental"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Parfum de la línea Le Male, construido alrededor de cardamomo, lavanda, iris y una base avainillada amaderada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Male-Le-Parfum-61847.html"
+    ],
+    "estado": "parcial: notas verificables; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 393,
+    "nombre": "Paradise Garden Hombre",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 125,
+    "familia": "Ámbar floral",
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "coco",
+      "acuático",
+      "amaderado",
+      "dulce"
+    ],
+    "notas_salida": [
+      "coco",
+      "notas acuáticas",
+      "higo"
+    ],
+    "notas_corazon": [
+      "ylang-ylang",
+      "iris"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "haba tonka",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia Paradise Garden masculina de Jean Paul Gaultier, de perfil tropical floral y fondo dulce amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Paradise-Garden-81633.html"
+    ],
+    "estado": "parcial: identificación y notas; otros campos no verificados"
+  },
+  {
+    "ref": 394,
+    "nombre": "Paradise Garden Mujer",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral acuática",
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "acuático",
+      "coco",
+      "verde",
+      "dulce"
+    ],
+    "notas_salida": [
+      "coco",
+      "higo",
+      "notas acuáticas"
+    ],
+    "notas_corazon": [
+      "ylang-ylang",
+      "jazmín",
+      "iris"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "haba tonka",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Versión femenina identificada como Paradise Garden, con faceta tropical acuática, flores blancas y fondo dulce.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Paradise-Garden-81633.html"
+    ],
+    "estado": "parcial: no se verificó una ficha oficial separada por género"
+  },
+  {
+    "ref": 395,
+    "nombre": "Scandal Hombre",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Ámbar amaderada",
+    "genero": "Masculino",
+    "ocasiones": [
+      "día",
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "dulce",
+      "terroso"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "salvia sclarea"
+    ],
+    "notas_corazon": [
+      "caramelo",
+      "haba tonka"
+    ],
+    "notas_fondo": [
+      "vetiver",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Scandal pour Homme en Eau de Toilette: salida cítrica y aromática, corazón caramelizado y base de vetiver y cedro.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Scandal-Pour-Homme-Eau-de-Toilette-68278.html"
+    ],
+    "estado": "parcial: notas verificables; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 396,
+    "nombre": "Scandal Hombre",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Le Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar amaderada",
+    "genero": "Masculino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "dulce",
+      "amaderado",
+      "ámbar",
+      "aromático",
+      "cálido especiado"
+    ],
+    "notas_salida": [
+      "geranio"
+    ],
+    "notas_corazon": [
+      "haba tonka"
+    ],
+    "notas_fondo": [
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Versión Le Parfum masculina de Scandal, centrada en geranio, haba tonka y sándalo.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Scandal-Pour-Homme-Le-Parfum-74430.html"
+    ],
+    "estado": "parcial: notas verificables; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 397,
+    "nombre": "Scandal Intense Hombre",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar amaderada",
+    "genero": "Masculino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "dulce",
+      "ámbar",
+      "amaderado",
+      "cálido especiado",
+      "aromático"
+    ],
+    "notas_salida": [
+      "pimienta negra"
+    ],
+    "notas_corazon": [
+      "castaña",
+      "caramelo"
+    ],
+    "notas_fondo": [
+      "vetiver"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Scandal pour Homme Intense, con pimienta negra, castaña y caramelo sobre vetiver.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Scandal-Pour-Homme-Intense-84314.html"
+    ],
+    "estado": "parcial: notas verificables; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 398,
+    "nombre": "Scandal Mujer",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 80,
+    "familia": "Ámbar floral",
+    "genero": "Femenino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "dulce",
+      "miel",
+      "floral blanco",
+      "cítrico",
+      "terroso"
+    ],
+    "notas_salida": [
+      "naranja sanguina",
+      "mandarina"
+    ],
+    "notas_corazon": [
+      "miel",
+      "gardenia",
+      "flor de azahar",
+      "melocotón"
+    ],
+    "notas_fondo": [
+      "caramelo",
+      "pachulí",
+      "regaliz"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Scandal femenina Eau de Parfum, reconocible por la miel, las flores blancas y un fondo de caramelo y pachulí.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Scandal-Paris-60111.html"
+    ],
+    "estado": "parcial: notas verificables; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 399,
+    "nombre": "Scandal Mujer",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Le Parfum",
+    "tamano_ml": 80,
+    "familia": "Ámbar floral",
+    "genero": "Femenino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "dulce",
+      "floral blanco",
+      "ámbar",
+      "cálido especiado",
+      "salado"
+    ],
+    "notas_salida": [
+      "jazmín"
+    ],
+    "notas_corazon": [
+      "azafrán",
+      "sal"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "caramelo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Scandal femenina Le Parfum, de perfil floral especiado, salado y avainillado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Scandal-Le-Parfum-76967.html"
+    ],
+    "estado": "parcial: notas verificables; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 400,
+    "nombre": "Ultra Male",
+    "marca": "Jean Paul Gaultier",
+    "concentracion": "Eau de Toilette Intense",
+    "tamano_ml": 125,
+    "familia": "Ámbar fougère",
+    "genero": "Masculino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "frutal",
+      "dulce",
+      "aromático",
+      "vainilla",
+      "cálido especiado"
+    ],
+    "notas_salida": [
+      "pera",
+      "lavanda",
+      "menta"
+    ],
+    "notas_corazon": [
+      "canela",
+      "salvia sclarea",
+      "comino"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "pachulí",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Ultra Male, Eau de Toilette Intense de Jean Paul Gaultier, combina pera y lavanda con especias y una base dulce de vainilla, ámbar y maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Ultra-Male-30947.html"
+    ],
+    "estado": "parcial: notas verificables; rendimiento y valoración no verificados"
+  }
+]
+

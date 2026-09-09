@@ -12,6 +12,15 @@ const catalog = JSON.parse(
   excluded: Array<Record<string, unknown>>;
 };
 
+const researchBatch200 = [1, 2, 3, 4].flatMap((part) =>
+  JSON.parse(
+    readFileSync(
+      new URL(`../research/batch-251-part${part}.json`, import.meta.url),
+      "utf8",
+    ),
+  ),
+) as Array<Record<string, unknown>>;
+
 test("the public August catalog contains every sellable supplier row", () => {
   assert.equal(catalog.records.length, 731);
   assert.equal(catalog.records.filter((record) => record.activo).length, 731);
@@ -91,6 +100,32 @@ test("the consecutive 100-product research batch preserves every PDF identity", 
   );
   assert.equal(researched.filter((record) => record.ficha_estado === "verificada").length, 4);
   assert.equal(researched.filter((record) => record.notas_salida?.length).length, 66);
+});
+
+test("the consecutive 200-product batch preserves PDF names, brands and sizes", () => {
+  const catalogRows = catalog.records.slice(240, 440);
+  assert.equal(researchBatch200.length, 200);
+  assert.equal(catalogRows.length, 200);
+  for (let index = 0; index < 200; index += 1) {
+    const source = catalogRows[index];
+    const researched = researchBatch200[index];
+    assert.equal(researched.ref, source.origen_ref);
+    assert.equal(researched.nombre, source.nombre);
+    assert.equal(researched.marca, source.marca);
+    assert.equal(
+      String(researched.tamano_ml ?? "").replace(/ml$/i, ""),
+      String(source.tamano_ml ?? ""),
+    );
+  }
+  assert.equal(
+    researchBatch200.filter(
+      (record) =>
+        record.notas_salida?.length &&
+        record.notas_corazon?.length &&
+        record.notas_fondo?.length,
+    ).length,
+    98,
+  );
 });
 
 test("reviewed Afnan records preserve supplier identity and sourced performance", () => {

@@ -1,0 +1,1966 @@
+[
+  {
+    "ref": 401,
+    "nombre": "Game Of Spades Blind-Bid",
+    "marca": "Jo Milano",
+    "concentracion": "Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://jomilano.com/"
+    ],
+    "estado": "No verificado: la ficha y sus notas no pudieron comprobarse en las fuentes consultadas."
+  },
+  {
+    "ref": 402,
+    "nombre": "Game Of Spades Gold",
+    "marca": "Jo Milano",
+    "concentracion": "Parfum",
+    "tamano_ml": 90,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://jomilano.com/"
+    ],
+    "estado": "No verificado: la ficha y sus notas no pudieron comprobarse en las fuentes consultadas."
+  },
+  {
+    "ref": 403,
+    "nombre": "Game Of Spades Jackpot",
+    "marca": "Jo Milano",
+    "concentracion": "Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://jomilano.com/"
+    ],
+    "estado": "No verificado: la ficha y sus notas no pudieron comprobarse en las fuentes consultadas."
+  },
+  {
+    "ref": 404,
+    "nombre": "Game Of Spades King",
+    "marca": "Jo Milano",
+    "concentracion": "Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://jomilano.com/"
+    ],
+    "estado": "No verificado: la ficha y sus notas no pudieron comprobarse en las fuentes consultadas."
+  },
+  {
+    "ref": 405,
+    "nombre": "Game Of Spades Ruby",
+    "marca": "Jo Milano",
+    "concentracion": "Parfum",
+    "tamano_ml": 90,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://jomilano.com/"
+    ],
+    "estado": "No verificado: la ficha y sus notas no pudieron comprobarse en las fuentes consultadas."
+  },
+  {
+    "ref": 406,
+    "nombre": "Femme",
+    "marca": "Joop!",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Floral aldehídica",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diaria",
+      "formal"
+    ],
+    "acordes": [
+      "floral",
+      "aldehídico",
+      "cítrico",
+      "especiado cálido",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "aldehídos",
+      "limón",
+      "bergamota",
+      "cilantro",
+      "durazno"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "flor de azahar",
+      "rosa",
+      "canela"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "vainilla",
+      "almizcle",
+      "ámbar",
+      "civeta"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume floral aldehídico para mujer, lanzado en 1987.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Joop/Joop-Femme-1450.html"
+    ],
+    "estado": "Parcialmente verificado; notas, familia, género y año proceden de la ficha de referencia; rendimiento y valoración no se consignan sin comprobación."
+  },
+  {
+    "ref": 407,
+    "nombre": "Homme",
+    "marca": "Joop!",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "Oriental fougère",
+    "genero": "Hombre",
+    "ocasiones": [
+      "noche",
+      "frío",
+      "formal"
+    ],
+    "acordes": [
+      "dulce",
+      "cálido especiado",
+      "amaderado",
+      "floral",
+      "balsámico"
+    ],
+    "notas_salida": [
+      "canela",
+      "bergamota",
+      "cardamomo"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "heliotropo",
+      "miel"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "haba tonka",
+      "sándalo",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia oriental fougère para hombre, lanzada en 1989.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Joop/Joop-Homme-589.html"
+    ],
+    "estado": "Parcialmente verificado; notas, familia, género y año proceden de la ficha de referencia; rendimiento y valoración no se consignan sin comprobación."
+  },
+  {
+    "ref": 408,
+    "nombre": "Musk For Women",
+    "marca": "Jovan",
+    "concentracion": null,
+    "tamano_ml": 96,
+    "familia": "Almizclada floral",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diaria"
+    ],
+    "acordes": [
+      "almizclado",
+      "floral",
+      "cítrico",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "limón",
+      "pimienta",
+      "clavel"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "ylang-ylang",
+      "madreselva"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "ámbar",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia almizclada floral para mujer.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Jovan/Musk-for-Women-6490.html"
+    ],
+    "estado": "Parcialmente verificado; notas y familia proceden de la ficha de referencia; rendimiento, valoración y tamaño no se consignan sin comprobación."
+  },
+  {
+    "ref": 409,
+    "nombre": "Meow",
+    "marca": "Katy Perry",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral frutal gourmand",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diaria",
+      "casual"
+    ],
+    "acordes": [
+      "floral",
+      "dulce",
+      "frutal",
+      "avainillado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "pera",
+      "naranja"
+    ],
+    "notas_corazon": [
+      "gardenia",
+      "lirio de los valles",
+      "flor de azahar",
+      "jazmín",
+      "madreselva"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "almizcle",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral frutal dulce para mujer.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Katy-Perry/Meow-10552.html"
+    ],
+    "estado": "Parcialmente verificado; notas y familia proceden de la ficha de referencia; rendimiento, valoración y tamaño no se consignan sin comprobación."
+  },
+  {
+    "ref": 410,
+    "nombre": "Purr",
+    "marca": "Katy Perry",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diaria",
+      "casual"
+    ],
+    "acordes": [
+      "floral",
+      "frutal",
+      "dulce",
+      "fresco"
+    ],
+    "notas_salida": [
+      "durazno",
+      "manzana",
+      "gardenia",
+      "bambú"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "fresia",
+      "rosa",
+      "coco"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "ámbar",
+      "vainilla",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral frutal para mujer.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Katy-Perry/Purr-10553.html"
+    ],
+    "estado": "Parcialmente verificado; notas y familia proceden de la ficha de referencia; rendimiento, valoración y tamaño no se consignan sin comprobación."
+  },
+  {
+    "ref": 411,
+    "nombre": "Black Hombre",
+    "marca": "Kenneth Cole",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Amaderada especiada",
+    "genero": "Masculino",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "noche"
+    ],
+    "acordes": [
+      "amaderado",
+      "especiado",
+      "cítrico",
+      "aromático",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "jengibre",
+      "mandarina",
+      "albahaca"
+    ],
+    "notas_corazon": [
+      "incienso",
+      "nuez moscada",
+      "cedro"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "ámbar",
+      "madera de cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina de perfil amaderado-especiado, presentada como Kenneth Cole Black for Him Eau de Toilette.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Kenneth-Cole/Kenneth-Cole-Black-For-Him-1044.html",
+      "https://www.kennethcole.com/products/black-for-him-eau-de-toilette"
+    ],
+    "estado": "parcial; notas y concentración verificables, rendimiento/valoración no verificados"
+  },
+  {
+    "ref": 412,
+    "nombre": "Island Dreams",
+    "marca": "Khadlaj",
+    "concentracion": "Extrait de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://khadlaj-perfumes.com/products/island-dreams"
+    ],
+    "estado": "no se pudieron verificar datos suficientes"
+  },
+  {
+    "ref": 413,
+    "nombre": "Island",
+    "marca": "Khadlaj",
+    "concentracion": "Extrait de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://khadlaj-perfumes.com/products/island"
+    ],
+    "estado": "no se pudieron verificar datos suficientes"
+  },
+  {
+    "ref": 414,
+    "nombre": "Essential",
+    "marca": "Lacoste",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "Cítrica aromática",
+    "genero": "Masculino",
+    "ocasiones": [
+      "diario",
+      "verano",
+      "oficina"
+    ],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "aromático",
+      "verde",
+      "acuático"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "casia",
+      "mandarina"
+    ],
+    "notas_corazon": [
+      "pimienta",
+      "rosa",
+      "tomate"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "pachulí",
+      "madera"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Toilette fresco y verde de Lacoste, conocido por su salida cítrica y base amaderada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lacoste/Lacoste-Essential-ಂತಹ.html",
+      "https://www.lacoste.com/us/lacoste/men/fragrances/"
+    ],
+    "estado": "parcial; la URL de tienda es catálogo general y el rendimiento no está verificado"
+  },
+  {
+    "ref": 415,
+    "nombre": "L12 Blanc",
+    "marca": "Lacoste",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Amaderada aromática",
+    "genero": "Masculino",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "floral",
+      "aromático",
+      "verde"
+    ],
+    "notas_salida": [
+      "pomelo",
+      "cardamomo",
+      "romero"
+    ],
+    "notas_corazon": [
+      "ylang-ylang",
+      "nardo"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "vetiver",
+      "cuero",
+      "gamuza"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "L.12.12 Blanc es una fragancia masculina fresca, limpia y amaderada de Lacoste.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lacoste/L-12-12-Blanc-Pure-White-11753.html",
+      "https://www.lacoste.com/us/lacoste/men/fragrances/l.12.12-blanc/"
+    ],
+    "estado": "parcial; notas y concentración verificables"
+  },
+  {
+    "ref": 416,
+    "nombre": "L12 Blanco",
+    "marca": "Lacoste",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 175,
+    "familia": "Amaderada aromática",
+    "genero": "Masculino",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "floral",
+      "aromático",
+      "verde"
+    ],
+    "notas_salida": [
+      "pomelo",
+      "cardamomo",
+      "romero"
+    ],
+    "notas_corazon": [
+      "ylang-ylang",
+      "nardo"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "vetiver",
+      "cuero",
+      "gamuza"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Nombre en español del L.12.12 Blanc/Pure White de Lacoste; corresponde a la misma fragancia.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lacoste/L-12-12-Blanc-Pure-White-11753.html",
+      "https://www.lacoste.com/us/lacoste/men/fragrances/l.12.12-blanc/"
+    ],
+    "estado": "parcial; equivalente lingüístico de L.12.12 Blanc"
+  },
+  {
+    "ref": 417,
+    "nombre": "L12 Eau Fraiche H",
+    "marca": "Lacoste",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Cítrica aromática",
+    "genero": "Masculino",
+    "ocasiones": [
+      "diario",
+      "verano",
+      "deporte"
+    ],
+    "acordes": [
+      "cítrico",
+      "acuático",
+      "amaderado",
+      "aromático",
+      "verde"
+    ],
+    "notas_salida": [
+      "limón",
+      "jengibre",
+      "pimienta"
+    ],
+    "notas_corazon": [
+      "manzana",
+      "notas acuáticas",
+      "lavanda"
+    ],
+    "notas_fondo": [
+      "madera",
+      "pachulí",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Versión fresca y acuática de la línea L.12.12.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lacoste/L-12-12-Eau-Fraiche-2018-48291.html",
+      "https://www.lacoste.com/us/lacoste/men/fragrances/"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 418,
+    "nombre": "L12 Noir",
+    "marca": "Lacoste",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Amaderada aromática",
+    "genero": "Masculino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "diario"
+    ],
+    "acordes": [
+      "amaderado",
+      "frutal",
+      "aromático",
+      "dulce",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "sandía",
+      "albahaca",
+      "verbena"
+    ],
+    "notas_corazon": [
+      "chocolate oscuro",
+      "cumarina"
+    ],
+    "notas_fondo": [
+      "pachulí",
+      "vetiver",
+      "chocolate"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia de la colección L.12.12 con faceta frutal, aromática y amaderada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lacoste/L-12-12-Noir-2013-20364.html",
+      "https://www.lacoste.com/us/lacoste/men/fragrances/"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 419,
+    "nombre": "Red H",
+    "marca": "Lacoste",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "Amaderada especiada",
+    "genero": "Masculino",
+    "ocasiones": [
+      "noche",
+      "diario",
+      "otoño"
+    ],
+    "acordes": [
+      "especiado",
+      "amaderado",
+      "aromático",
+      "dulce",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "té verde",
+      "mango"
+    ],
+    "notas_corazon": [
+      "cardamomo",
+      "pimienta negra",
+      "jengibre"
+    ],
+    "notas_fondo": [
+      "acacia",
+      "benjuí",
+      "madera"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "La versión roja de L.12.12, de carácter especiado y amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lacoste/L-12-12-Rouge-Red-15314.html",
+      "https://www.lacoste.com/us/lacoste/men/fragrances/"
+    ],
+    "estado": "parcial; 'Red H' no es una denominación confirmada en las fuentes"
+  },
+  {
+    "ref": 420,
+    "nombre": "Touch Of Pink",
+    "marca": "Lacoste",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 90,
+    "familia": "Floral frutal",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "floral",
+      "frutal",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "naranja sanguina",
+      "cardamomo",
+      "melocotón"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "violeta",
+      "semillas de cilantro"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Toilette femenino floral-frutal de Lacoste, fresco y luminoso.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lacoste/Touch-of-Pink-733.html",
+      "https://www.lacoste.com/us/lacoste/women/fragrances/"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 421,
+    "nombre": "Sportivo",
+    "marca": "Tonino Lamborghini",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "amaderada aromática",
+    "genero": "masculino",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "especiado fresco"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "limón",
+      "lavanda"
+    ],
+    "notas_corazon": [
+      "geranio",
+      "canela",
+      "nuez moscada"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "sándalo",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Toilette masculino de perfil fresco, aromático y amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Tonino-Lamborghini/Sportivo-11282.html",
+      "https://www.parfumo.com/Perfumes/Tonino_Lamborghini/Sportivo"
+    ],
+    "estado": "verificado parcialmente; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 422,
+    "nombre": "Hypnose",
+    "marca": "Lancôme",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 75,
+    "familia": "oriental vainilla",
+    "genero": "femenino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "cita"
+    ],
+    "acordes": [
+      "vainilla",
+      "amaderado",
+      "floral",
+      "empolvado"
+    ],
+    "notas_salida": [
+      "pasiflora"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "gardenia"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "vetiver"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina de vainilla y flores blancas, presentada por Lancôme como un perfume sensual.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lancome/Hypnose-187.html",
+      "https://www.lancome-usa.com/fragrance/fragrance-by-collection/hypnose/"
+    ],
+    "estado": "verificado parcialmente; tamaño puede variar según mercado"
+  },
+  {
+    "ref": 423,
+    "nombre": "Idole Leau De",
+    "marca": "Lancôme",
+    "concentracion": "Parfum",
+    "tamano_ml": 100,
+    "familia": "floral almizclada",
+    "genero": "femenino",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "floral",
+      "rosa",
+      "cítrico",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "pera",
+      "bergamota",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "rosa",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "almizcles blancos",
+      "vainilla",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Parfum floral centrado en rosa y jazmín, con pera y bergamota en la salida.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lancome/Idole-56169.html",
+      "https://www.lancome-usa.com/fragrance/fragrance-by-collection/idole/"
+    ],
+    "estado": "verificado parcialmente; la composición y presentaciones dependen de la ficha consultada"
+  },
+  {
+    "ref": 424,
+    "nombre": "La Vida Es Bella",
+    "marca": "Lancôme",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "floral frutal gourmand",
+    "genero": "femenino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "ocasión especial"
+    ],
+    "acordes": [
+      "dulce",
+      "vainilla",
+      "floral",
+      "frutal",
+      "atalcado"
+    ],
+    "notas_salida": [
+      "grosella negra",
+      "pera"
+    ],
+    "notas_corazon": [
+      "iris",
+      "jazmín",
+      "flor de azahar"
+    ],
+    "notas_fondo": [
+      "praliné",
+      "vainilla",
+      "haba tonka",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "El perfume emblemático de Lancôme, construido alrededor de iris, pachulí, gourmand y vainilla.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lancome/La-Vie-Est-Belle-14982.html",
+      "https://www.lancome-usa.com/fragrance/fragrance-by-collection/la-vie-est-belle/"
+    ],
+    "estado": "verificado parcialmente; tamaño indicado es una presentación habitual"
+  },
+  {
+    "ref": 425,
+    "nombre": "La Vida Es Bella Elixir",
+    "marca": "Lancôme",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "floral gourmand",
+    "genero": "femenino",
+    "ocasiones": [
+      "noche",
+      "invierno",
+      "ocasión especial"
+    ],
+    "acordes": [
+      "dulce",
+      "floral",
+      "vainilla",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "pimienta rosa",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "iris",
+      "rosa",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "praliné",
+      "pachulí",
+      "haba tonka"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Interpretación más concentrada de La Vie Est Belle, con perfil floral gourmand.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lancome/La-Vie-Est-Belle-L-Extrait-53725.html",
+      "https://www.lancome-usa.com/"
+    ],
+    "estado": "verificado parcialmente; nombre comercial y disponibilidad varían por país"
+  },
+  {
+    "ref": 426,
+    "nombre": "La Vida Es Bella Intensement",
+    "marca": "Lancôme",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "floral frutal gourmand",
+    "genero": "femenino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "cita"
+    ],
+    "acordes": [
+      "dulce",
+      "vainilla",
+      "frutal",
+      "floral",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "frambuesa",
+      "pimienta rosa",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "jazmín sambac",
+      "flor de azahar",
+      "heliotropo"
+    ],
+    "notas_fondo": [
+      "vainilla roja",
+      "sándalo",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Versión intensa y más frutal-gourmand de La Vie Est Belle, con frambuesa y vainilla roja.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lancome/La-Vie-Est-Belle-Intensement-58796.html",
+      "https://www.lancome-usa.com/"
+    ],
+    "estado": "verificado parcialmente; tamaño indicado es una presentación habitual"
+  },
+  {
+    "ref": 427,
+    "nombre": "La Vida Es Bella Iris Absolu",
+    "marca": "Lancôme",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "floral gourmand",
+    "genero": "femenino",
+    "ocasiones": [
+      "diario",
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "floral",
+      "dulce",
+      "atalcado",
+      "frutal",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "higo",
+      "flor de azahar",
+      "grosella negra"
+    ],
+    "notas_corazon": [
+      "iris",
+      "jazmín sambac"
+    ],
+    "notas_fondo": [
+      "pachulí",
+      "flor de loto",
+      "higo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Flanker de La Vie Est Belle que enfatiza el iris, acompañado por higo y flores blancas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lancome/La-Vie-Est-Belle-Iris-Absolu-78331.html",
+      "https://www.lancome-usa.com/"
+    ],
+    "estado": "verificado parcialmente; disponibilidad y presentación varían por mercado"
+  },
+  {
+    "ref": 428,
+    "nombre": "Woman",
+    "marca": "Ted Lapidus",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "floral aldehídica",
+    "genero": "femenino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "ocasión especial"
+    ],
+    "acordes": [
+      "floral",
+      "aldehídico",
+      "amaderado",
+      "atalcado",
+      "animalístico"
+    ],
+    "notas_salida": [
+      "aldehídos",
+      "bergamota",
+      "durazno",
+      "ciruela"
+    ],
+    "notas_corazon": [
+      "rosa",
+      "jazmín",
+      "ylang-ylang",
+      "clavel"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "vetiver",
+      "ámbar",
+      "almizcle",
+      "musgo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume femenino clásico de Ted Lapidus, floral aldehídico con fondo amaderado y almizclado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Ted-Lapidus/Woman-2597.html",
+      "https://www.parfumo.com/Perfumes/Ted_Lapidus/Woman"
+    ],
+    "estado": "verificado parcialmente; notas pueden diferir entre reformulaciones"
+  },
+  {
+    "ref": 429,
+    "nombre": "Affection",
+    "marca": "Lattafa",
+    "concentracion": null,
+    "tamano_ml": 100,
+    "familia": "floral gourmand",
+    "genero": "femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "otoño",
+      "cita"
+    ],
+    "acordes": [
+      "dulce",
+      "floral",
+      "frutal",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "pistacho",
+      "avellana",
+      "grosella negra"
+    ],
+    "notas_corazon": [
+      "peonía",
+      "jazmín",
+      "frambuesa"
+    ],
+    "notas_fondo": [
+      "algodón de azúcar",
+      "haba tonka",
+      "sándalo",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Parfum de Lattafa con salida de pistacho y avellana, corazón floral y fondo gourmand amaderado.",
+    "fuentes": [
+      "https://lattafa.com/product/affection/",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Affection-92288.html"
+    ],
+    "estado": "verificado parcialmente; datos de rendimiento no verificados"
+  },
+  {
+    "ref": 430,
+    "nombre": "Ajwaa Pride",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 90,
+    "familia": "oriental amaderada",
+    "genero": "unisex",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "ocasión especial"
+    ],
+    "acordes": [
+      "amaderado",
+      "especiado",
+      "ámbar",
+      "dulce"
+    ],
+    "notas_salida": [
+      "azafrán",
+      "canela",
+      "nuez moscada"
+    ],
+    "notas_corazon": [
+      "osmanto",
+      "jazmín",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "oud",
+      "sándalo",
+      "vainilla",
+      "ámbar",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume de la línea Lattafa Pride, de orientación oriental amaderada y presentado como unisex.",
+    "fuentes": [
+      "https://lattafa.com/product/ajwaa-pride/",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ajwaa-Pride-78547.html"
+    ],
+    "estado": "verificado parcialmente; notas y presentación requieren confirmación en ficha regional"
+  },
+  {
+    "ref": 431,
+    "nombre": "Ajwad Pink To Pink",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 60,
+    "familia": "Floral frutal",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "frutal",
+      "floral",
+      "dulce",
+      "afrutado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "pera",
+      "pomelo rosado",
+      "lichi"
+    ],
+    "notas_corazon": [
+      "rosa turca",
+      "magnolia",
+      "frambuesa"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume floral-frutal dulce de Lattafa, presentado en Eau de Parfum.",
+    "fuentes": [
+      "https://lattafa.com/product/ajwad-pink-to-pink/",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ajwad-Pink-to-Pink-90372.html"
+    ],
+    "estado": "parcialmente_verificado"
+  },
+  {
+    "ref": 432,
+    "nombre": "Al Areeq Gold",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Amaderada oriental",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "amaderado",
+      "ámbar",
+      "especiado",
+      "ahumado",
+      "cuero"
+    ],
+    "notas_salida": [
+      "azafrán",
+      "bergamota",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "cuero",
+      "incienso",
+      "madera de oud"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Parfum oriental amaderado de Lattafa.",
+    "fuentes": [
+      "https://lattafa.com/product/al-areeq-gold/",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Al-Areeq-Gold-75958.html"
+    ],
+    "estado": "parcialmente_verificado"
+  },
+  {
+    "ref": 433,
+    "nombre": "Al Areeq Silver",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Amaderada aromática",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "aromático",
+      "fresco",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "limón",
+      "bergamota",
+      "piña"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "jazmín",
+      "pachulí"
+    ],
+    "notas_fondo": [
+      "musgo de roble",
+      "ámbar",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Parfum fresco-amaderado de Lattafa.",
+    "fuentes": [
+      "https://lattafa.com/product/al-areeq-silver/",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Al-Areeq-Silver-75959.html"
+    ],
+    "estado": "parcialmente_verificado"
+  },
+  {
+    "ref": 434,
+    "nombre": "Al Noble Safeer",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Amaderada especiada",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "amaderado",
+      "especiado",
+      "cítrico",
+      "aromático",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "cítricos",
+      "manzana",
+      "lavanda"
+    ],
+    "notas_corazon": [
+      "canela",
+      "nuez moscada",
+      "pimienta rosa"
+    ],
+    "notas_fondo": [
+      "maderas",
+      "ámbar",
+      "vainilla"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Parfum amaderado-especiado de Lattafa.",
+    "fuentes": [
+      "https://lattafa.com/product/al-noble-safeer/",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Al-Noble-Safeer-75956.html"
+    ],
+    "estado": "parcialmente_verificado"
+  },
+  {
+    "ref": 435,
+    "nombre": "Al Noble Wazeer",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Amaderada aromática",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "aromático",
+      "fresco especiado",
+      "terroso"
+    ],
+    "notas_salida": [
+      "pomelo",
+      "bergamota",
+      "manzana"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "jazmín",
+      "pachulí"
+    ],
+    "notas_fondo": [
+      "vetiver",
+      "cedro",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Parfum aromático-amaderado de Lattafa.",
+    "fuentes": [
+      "https://lattafa.com/product/al-noble-wazeer/",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Al-Noble-Wazeer-75957.html"
+    ],
+    "estado": "parcialmente_verificado"
+  },
+  {
+    "ref": 436,
+    "nombre": "Al Qiam Gold",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Amaderada ámbar",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "amaderado",
+      "dulce",
+      "afrutado",
+      "especiado",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "piña",
+      "pimienta negra",
+      "manzana"
+    ],
+    "notas_corazon": [
+      "canela",
+      "jazmín",
+      "pachulí"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Parfum dulce-amaderado de Lattafa.",
+    "fuentes": [
+      "https://lattafa.com/product/al-qiam-gold/",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Al-Qiam-Gold-75955.html"
+    ],
+    "estado": "parcialmente_verificado"
+  },
+  {
+    "ref": 437,
+    "nombre": "Amethyst",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral amaderada almizclada",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "almizclado",
+      "amaderado",
+      "aromático",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "lavanda",
+      "romero",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "flor de azahar",
+      "heliotropo"
+    ],
+    "notas_fondo": [
+      "almizcle blanco",
+      "ámbar",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Parfum floral y almizclado de Lattafa.",
+    "fuentes": [
+      "https://lattafa.com/product/amethyst/",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Amethyst-75954.html"
+    ],
+    "estado": "parcialmente_verificado"
+  },
+  {
+    "ref": 438,
+    "nombre": "Ana Abiyedh",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 60,
+    "familia": "Floral frutal almizclada",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "afrutado",
+      "dulce",
+      "almizclado",
+      "cítrico",
+      "floral"
+    ],
+    "notas_salida": [
+      "naranja",
+      "bergamota",
+      "pera"
+    ],
+    "notas_corazon": [
+      "vainilla",
+      "flor de azahar",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "ámbar",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Parfum frutal, dulce y almizclado de Lattafa.",
+    "fuentes": [
+      "https://lattafa.com/product/ana-abiyedh/",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ana-Abiyedh-49140.html"
+    ],
+    "estado": "parcialmente_verificado"
+  },
+  {
+    "ref": 439,
+    "nombre": "Ana Abiyedh Rouge",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 60,
+    "familia": "Ámbar afrutada",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "dulce",
+      "afrutado",
+      "ámbar",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "pera nashi",
+      "kumquat",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "caramelo",
+      "ámbar",
+      "geranio"
+    ],
+    "notas_fondo": [
+      "musgo de roble",
+      "almizcle",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Parfum dulce, afrutado y ambarado de Lattafa.",
+    "fuentes": [
+      "https://lattafa.com/product/ana-abiyedh-rouge/",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ana-Abiyedh-Rouge-64001.html"
+    ],
+    "estado": "parcialmente_verificado"
+  },
+  {
+    "ref": 440,
+    "nombre": "Angham",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar vainilla floral",
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [
+      "dulce",
+      "vainilla",
+      "floral",
+      "ámbar",
+      "cálido especiado"
+    ],
+    "notas_salida": [
+      "jengibre",
+      "mandarina",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "praliné",
+      "jazmín",
+      "lavanda"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "cacao",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Parfum dulce floral de Lattafa.",
+    "fuentes": [
+      "https://lattafa.com/product/angham/",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Angham-89772.html"
+    ],
+    "estado": "parcialmente_verificado"
+  },
+  {
+    "ref": 441,
+    "nombre": "Art Of Nature 1",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Art%20Of%20Nature%201"
+    ],
+    "estado": "No se pudo verificar información suficiente en fuentes consultables"
+  },
+  {
+    "ref": 442,
+    "nombre": "Art Of Universe",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Art%20Of%20Universe"
+    ],
+    "estado": "No se pudo verificar información suficiente en fuentes consultables"
+  },
+  {
+    "ref": 443,
+    "nombre": "Asad",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "ámbar especiada",
+    "genero": "masculino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "especiado",
+      "ámbar",
+      "vainilla",
+      "amaderado",
+      "tabaco"
+    ],
+    "notas_salida": [
+      "pimienta negra",
+      "piña",
+      "tabaco"
+    ],
+    "notas_corazon": [
+      "café",
+      "iris",
+      "pachulí"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "maderas secas",
+      "benjuí",
+      "lábdano"
+    ],
+    "duracion": "larga",
+    "proyeccion": "fuerte",
+    "estela": "fuerte",
+    "valoracion": null,
+    "descripcion": "Perfume ambarado y especiado de perfil cálido, con pimienta, tabaco, café, vainilla y maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Asad",
+      "https://lattafa-usa.com/products/asad"
+    ],
+    "estado": "Datos de notas y presentación verificados; valoración comunitaria no verificada"
+  },
+  {
+    "ref": 444,
+    "nombre": "Asad Elixir",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Asad%20Elixir"
+    ],
+    "estado": "Presentación reportada en listados, pero pirámide olfativa no verificada"
+  },
+  {
+    "ref": 445,
+    "nombre": "Asad Zanzibar",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "ámbar",
+    "genero": "masculino",
+    "ocasiones": [
+      "día",
+      "verano"
+    ],
+    "acordes": [
+      "vainilla",
+      "salado",
+      "especiado",
+      "floral",
+      "coco"
+    ],
+    "notas_salida": [
+      "lavanda",
+      "agua de coco"
+    ],
+    "notas_corazon": [
+      "iris",
+      "sal"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "incienso",
+      "pimienta negra"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Composición ambarada con lavanda, coco, iris, sal, vainilla, incienso y pimienta negra.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Asad%20Zanzibar",
+      "https://lattafa-usa.com/products/asad-zanzibar"
+    ],
+    "estado": "Notas y formato reportados; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 446,
+    "nombre": "Breeze",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Breeze"
+    ],
+    "estado": "No se pudo verificar información suficiente en fuentes consultables"
+  },
+  {
+    "ref": 447,
+    "nombre": "Dalal",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "ámbar gourmand",
+    "genero": "unisex",
+    "ocasiones": [
+      "día",
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "cítrico",
+      "caramelo",
+      "vainilla",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "naranja"
+    ],
+    "notas_corazon": [
+      "caramelo"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "sándalo",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia dulce de naranja y caramelo sobre vainilla, sándalo y almizcle.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Dalal"
+    ],
+    "estado": "Notas y formato reportados; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 448,
+    "nombre": "Eclaire Banoffi",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Eclaire%20Banoffi"
+    ],
+    "estado": "No se pudo verificar información suficiente en fuentes consultables"
+  },
+  {
+    "ref": 449,
+    "nombre": "Eclaire Pistache",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Eclaire%20Pistache"
+    ],
+    "estado": "No se pudo verificar información suficiente en fuentes consultables"
+  },
+  {
+    "ref": 450,
+    "nombre": "Ejaazi Unisex",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "amaderada especiada",
+    "genero": "unisex",
+    "ocasiones": [
+      "día",
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "amaderado",
+      "especiado",
+      "cítrico",
+      "ámbar",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "manzana",
+      "canela",
+      "cardamomo",
+      "lavanda"
+    ],
+    "notas_corazon": [
+      "flor de azahar",
+      "rosa",
+      "orris"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "pachulí",
+      "ámbar",
+      "musgo",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia unisex especiada y amaderada con salida frutal-aromática y fondo de cedro, pachulí, ámbar, musgo y almizcle.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Ejaazi%20Unisex"
+    ],
+    "estado": "Notas y formato reportados; rendimiento y valoración no verificados"
+  }
+]
+
