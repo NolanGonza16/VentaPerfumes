@@ -8002,23 +8002,72 @@
       "precio_crc": 28050,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "blanco floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "atalcado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "jacinto",
+        "madreselva",
+        "galbano",
+        "grosella negra",
+        "bergamota"
+      ],
+      "notas_corazon": [
+        "lirio",
+        "lirio de los valles",
+        "jazmín",
+        "rosa",
+        "ylang-ylang"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "cedro",
+        "vetiver",
+        "ámbar",
+        "almizcle",
+        "musgo de roble"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia floral clásica de Cacharel, centrada en flores blancas y un fondo amaderado y almizclado.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/ANAIS-ANAIS.png?v=1571609909",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/anais-anais",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Cacharel/Anais-Anais-186.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -8038,26 +8087,74 @@
       "precio_crc": 56950,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Amaderada floral almizclada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "hierba cortada",
+        "bergamota",
+        "lavanda",
+        "especias verdes"
+      ],
+      "notas_corazon": [
+        "jengibre",
+        "violeta",
+        "gardenia",
+        "salvia"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "sándalo",
+        "incienso",
+        "madera de guayaco",
+        "labdanum"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Aroma masculino fresco y limpio de la línea 212, con salida verde y fondo amaderado almizclado.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Men-644.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1148,
       "sku": "AGOSTO-2026-0148",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 148,
       "presentacion_proveedor": "CAROLINA HERRERA 212 CLASICO HOMBRE EDT 100ML"
     },
@@ -8068,26 +8165,69 @@
       "precio_crc": 69700,
       "tamano_ml": 90,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Aromática frutal",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "casual",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "pera",
+        "jengibre",
+        "limón"
+      ],
+      "notas_corazon": [
+        "geranio",
+        "salvia"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "madera de cuero",
+        "madera de cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia fresca y frutal de 212 Heroes, con pera y cítricos sobre un corazón aromático y maderas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Heroes-64641.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1149,
       "sku": "AGOSTO-2026-0149",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 149,
       "presentacion_proveedor": "CAROLINA HERRERA 212 HEROES HOMBRE EDT 90ML"
     },
@@ -8098,26 +8238,70 @@
       "precio_crc": 73100,
       "tamano_ml": 80,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "casual",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "frambuesa",
+        "mandarina",
+        "pera"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "azahar",
+        "flor de azahar"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "sándalo",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Versión femenina de 212 Heroes, de perfil frutal-floral luminoso con fondo de maderas y almizcle.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Heroes-for-Her-64642.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1150,
       "sku": "AGOSTO-2026-0150",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 150,
       "presentacion_proveedor": "CAROLINA HERRERA 212 HEROES MUJER EDP 80ML"
     },
@@ -8128,26 +8312,71 @@
       "precio_crc": 55250,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
+      "familia": "Oriental fougère",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "noche",
+        "citas",
+        "otoño",
+        "invierno"
+      ],
+      "acordes": [
+        {
+          "nombre": "vainilla",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado cálido",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mandarina",
+        "guayaco",
+        "bergamota"
+      ],
+      "notas_corazon": [
+        "cardamomo",
+        "violeta",
+        "pimienta"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "sándalo",
+        "ámbar",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia masculina cálida y sensual, con especias, vainilla y maderas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Sexy-Men-204.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1151,
       "sku": "AGOSTO-2026-0151",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 151,
       "presentacion_proveedor": "CAROLINA HERRERA 212 SEXY HOMBRE 100ML"
     },
@@ -8158,26 +8387,73 @@
       "precio_crc": 58650,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
+      "familia": "Oriental floral",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "noche",
+        "citas",
+        "otoño",
+        "invierno"
+      ],
+      "acordes": [
+        {
+          "nombre": "vainilla",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mandarina",
+        "pimienta rosa",
+        "bergamota"
+      ],
+      "notas_corazon": [
+        "gardenia",
+        "pelargonio",
+        "algodón de azúcar",
+        "rosa"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "sándalo",
+        "almizcle",
+        "ámbar",
+        "pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Perfume femenino dulce y sensual con vainilla, flores y un fondo amaderado.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Sexy-167.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1152,
       "sku": "AGOSTO-2026-0152",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 152,
       "presentacion_proveedor": "CAROLINA HERRERA 212 SEXY MUJER 100ML"
     },
@@ -8188,26 +8464,68 @@
       "precio_crc": 64600,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental fougère",
+      "genero": "Hombre",
+      "ocasiones": [
+        "noche",
+        "fiesta",
+        "otoño",
+        "invierno"
+      ],
+      "acordes": [
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "vainilla",
+          "emoji": ""
+        },
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "absenta",
+        "anís",
+        "hinojo"
+      ],
+      "notas_corazon": [
+        "lavanda"
+      ],
+      "notas_fondo": [
+        "vainilla negra",
+        "almizcle",
+        "cáscara de vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Aroma masculino nocturno con absenta y lavanda, asentado en una vainilla oscura y almizcle.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Black-37030.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1153,
       "sku": "AGOSTO-2026-0153",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 153,
       "presentacion_proveedor": "CAROLINA HERRERA 212 VIP BLACK 100ML"
     },
@@ -8218,26 +8536,69 @@
       "precio_crc": 62900,
       "tamano_ml": 80,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "noche",
+        "fiesta",
+        "otoño",
+        "invierno"
+      ],
+      "acordes": [
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "vainilla",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "maracuyá",
+        "ron",
+        "pimienta"
+      ],
+      "notas_corazon": [
+        "gardenia",
+        "almizcle"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "haba tonka",
+        "benjuí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia femenina festiva y dulce, con maracuyá y ron sobre gardenia, vainilla y haba tonka.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-18596.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1154,
       "sku": "AGOSTO-2026-0154",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 154,
       "presentacion_proveedor": "CAROLINA HERRERA 212 VIP MUJER EDT 80ML"
     },
@@ -8248,26 +8609,68 @@
       "precio_crc": 70550,
       "tamano_ml": 80,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "noche",
+        "fiesta",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "champán",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "champán rosado",
+        "frutas"
+      ],
+      "notas_corazon": [
+        "flor de melocotonero",
+        "rosa"
+      ],
+      "notas_fondo": [
+        "maderas",
+        "almizcle blanco",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia femenina festiva de perfil frutal-floral, caracterizada por un acorde de champán rosado.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Rose-23672.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1155,
       "sku": "AGOSTO-2026-0155",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 155,
       "presentacion_proveedor": "CAROLINA HERRERA 212 VIP ROSE 80ML"
     },
@@ -8278,23 +8681,67 @@
       "precio_crc": 75650,
       "tamano_ml": 80,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "noche",
+        "fiesta",
+        "otoño",
+        "invierno"
+      ],
+      "acordes": [
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "cálido especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "lichi",
+        "mandarina",
+        "grosella negra"
+      ],
+      "notas_corazon": [
+        "rosa",
+        "jazmín",
+        "flor de azahar"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "haba tonka",
+        "sándalo",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Interpretación intensa de 212 VIP Rosé, con frutas y flores sobre un fondo dulce y amaderado.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/212-vip-rose-elixir.png?v=1731007650",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/212-vip-rose-elixir",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Rose-Elixir-84890.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -8332,6 +8779,11 @@
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/ch-bad-boy",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/Bad-Boy-54858.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -8367,6 +8819,11 @@
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/carolina-herrera-bad-boy-cobalt-electrique",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/Bad-Boy-Cobalt-72531.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -8404,6 +8861,11 @@
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/bad-boy-extreme",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/Bad-Boy-Le-Parfum-69263.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -8439,6 +8901,11 @@
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/ch-carolina-herrera-men",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/CH-Men-2301.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -8476,6 +8943,11 @@
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/ch-carolina-herrera",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/CH-Carolina-Herrera-604.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -8507,13 +8979,19 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/Carolina-Herrera-610.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1162,
       "sku": "AGOSTO-2026-0162",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 162,
       "presentacion_proveedor": "CAROLINA HERRERA CLÁSICO MUJER 100ML"
     },
@@ -8541,6 +9019,11 @@
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/ch-good-girl-blush",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Blush-78624.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -8573,13 +9056,19 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Blush-78624.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1164,
       "sku": "AGOSTO-2026-0164",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 164,
       "presentacion_proveedor": "CAROLINA HERRERA GOOD GIRL BLUSH POLKA PARADISE100ML"
     },
@@ -8607,6 +9096,11 @@
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/ch-good-girl",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-25300.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -8644,6 +9138,11 @@
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/carolina-herrera-good-girl-jasmine-absolute",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Jasmine-Absolute-81093.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -8662,26 +9161,60 @@
       "precio_crc": 85850,
       "tamano_ml": 80,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral afrutada",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "cereza"
+      ],
+      "notas_corazon": [
+        "rosa"
+      ],
+      "notas_fondo": [
+        "vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia femenina de la línea Good Girl; la información pública consultada no permite confirmar de forma suficiente todos los detalles de esta edición.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/search/?query=Good%20Girl%20Very",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.carolinaherrera.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1167,
       "sku": "AGOSTO-2026-0167",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 167,
       "presentacion_proveedor": "CAROLINA HERRERA GOOD GIRL VERY EDP 80ML"
     },
@@ -8692,10 +9225,23 @@
       "precio_crc": 85000,
       "tamano_ml": 80,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
+      "familia": "Floral afrutada",
+      "genero": "Mujer",
       "ocasiones": [],
-      "acordes": [],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [],
       "notas_corazon": [],
       "notas_fondo": [],
@@ -8703,12 +9249,22 @@
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Perfume femenino La Bomba de Carolina Herrera. No se han confirmado en una ficha permitida sus notas y rendimiento completos.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/La-Bomba.png?v=1764179417",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/la-bomba",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/search/?query=La%20Bomba%20Carolina%20Herrera",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.carolinaherrera.com/",
           "fecha": "2026-09-09"
         }
       ],
@@ -8728,26 +9284,71 @@
       "precio_crc": 66300,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada especiada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "abedul",
+        "naranja amarga",
+        "bergamota",
+        "neroli"
+      ],
+      "notas_corazon": [
+        "cardamomo",
+        "pimienta",
+        "enebro"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "vetiver",
+        "musgo de roble"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Declaración es una fragancia amaderada especiada de Cartier, creada por Jean-Claude Ellena.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Cartier/Declaration-13.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.cartier.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1170,
       "sku": "AGOSTO-2026-0170",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 170,
       "presentacion_proveedor": "CARTIER DECLARACIÓN EDT 100ML"
     },
@@ -8758,26 +9359,70 @@
       "precio_crc": 117300,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "naranja",
+        "mandarina",
+        "acorde marino"
+      ],
+      "notas_corazon": [
+        "pimienta",
+        "cedro"
+      ],
+      "notas_fondo": [
+        "haba tonka",
+        "almizcle",
+        "ámbar",
+        "vetiver"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia fresca y amaderada de Chanel para hombre.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Chanel/Allure-Homme-Sport-607.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.chanel.com/us/fragrance/p/123610/allure-homme-sport-eau-de-toilette-spray/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1171,
       "sku": "AGOSTO-2026-0171",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 171,
       "presentacion_proveedor": "CHANEL ALLURE HOMME SPORT EDT 100ML"
     },
@@ -8788,26 +9433,69 @@
       "precio_crc": 134300,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral afrutada",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "membrillo",
+        "toronja"
+      ],
+      "notas_corazon": [
+        "jacinto",
+        "jazmín"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "iris",
+        "cedro",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una composición floral afrutada de Chanel, ligera y delicada.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Tendre-806.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.chanel.com/us/fragrance/p/126260/chance-eau-tendre-eau-de-toilette-spray/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1172,
       "sku": "AGOSTO-2026-0172",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 172,
       "presentacion_proveedor": "CHANEL CHANCE EAU TENDRE EDT 100ML"
     },
@@ -8818,26 +9506,69 @@
       "precio_crc": 129200,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Cítrica floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "naranja sanguina",
+        "pomelo",
+        "limón"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "jacinto"
+      ],
+      "notas_fondo": [
+        "vetiver",
+        "cedro",
+        "almizcle blanco"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Eau de toilette cítrica y floral de la colección Chance de Chanel.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Vive-30917.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.chanel.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1173,
       "sku": "AGOSTO-2026-0173",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 173,
       "presentacion_proveedor": "CHANEL CHANCE EAU VIVE EDT 100ML"
     },
@@ -8848,26 +9579,71 @@
       "precio_crc": 134300,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Ámbar amaderada",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "parche floral",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "naranja",
+        "bergamota",
+        "limón"
+      ],
+      "notas_corazon": [
+        "rosa",
+        "jazmín"
+      ],
+      "notas_fondo": [
+        "pachulí",
+        "vetiver",
+        "vainilla",
+        "almizcle blanco",
+        "haba tonka"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia ámbar amaderada de Chanel, con un carácter fresco y sofisticado.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-611.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.chanel.com/us/fragrance/p/116520/coco-mademoiselle-eau-de-parfum-spray/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1174,
       "sku": "AGOSTO-2026-0174",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 174,
       "presentacion_proveedor": "CHANEL COCO MADEMOISELLE EDT 100ML"
     },
@@ -8878,26 +9654,70 @@
       "precio_crc": 137700,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral amarillo",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mandarina",
+        "toronja",
+        "grosella negra"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "ylang-ylang",
+        "azahar",
+        "tuberosa"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "almizcle",
+        "cáscara de cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Gabrielle es una composición floral luminosa de Chanel, construida alrededor de flores blancas y amarillas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Chanel/Gabrielle-43286.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.chanel.com/us/fragrance/p/120630/gabrielle-chanel-eau-de-parfum-spray/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1175,
       "sku": "AGOSTO-2026-0175",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 175,
       "presentacion_proveedor": "CHANEL GABRIELLE EDP 100ML"
     },
@@ -8908,8 +9728,8 @@
       "precio_crc": 10200,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
+      "familia": "Floral oriental",
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -8925,6 +9745,11 @@
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/charlie-gold",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Revlon/Charlie-Gold-1053.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -8944,23 +9769,66 @@
       "precio_crc": 24650,
       "tamano_ml": 200,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral amaderada almizclada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "bergamota",
+        "lavanda",
+        "mandarina",
+        "menta",
+        "enebro"
+      ],
+      "notas_corazon": [
+        "durazno",
+        "jazmín",
+        "orquídea",
+        "magnolia"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "almizcle",
+        "vainilla",
+        "ámbar",
+        "cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "bergamota y lavanda abren una fragancia de perfil floral amaderada almizclada, con un corazón de durazno y jazmín y un fondo de sándalo y almizcle. Una composición de carácter floral pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/119918_spo.jpg?v=1571609951",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/ck-be",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Calvin-Klein/CK-Be-274.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -8980,23 +9848,68 @@
       "precio_crc": 25500,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Amaderada floral almizclada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "lima",
+        "mandarina",
+        "lavanda",
+        "salvia"
+      ],
+      "notas_corazon": [
+        "nuez moscada",
+        "jazmín",
+        "violeta",
+        "cilantro"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "almizcle",
+        "ámbar",
+        "haba tonka"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "lima y mandarina abren una fragancia de perfil amaderada floral almizclada, con un corazón de nuez moscada y jazmín y un fondo de sándalo y almizcle. Una composición de carácter floral pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/153911_ed3c573e-6ca9-4c7a-8d9b-e8efe697c8dd_spo.jpg?v=1571609940",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/ck-contradiction-men",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Calvin-Klein/Contradiction-for-Men-250.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -9016,23 +9929,70 @@
       "precio_crc": 25500,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Aromática acuática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "melón",
+        "manzana",
+        "mandarina",
+        "toronja",
+        "eucalipto"
+      ],
+      "notas_corazon": [
+        "salvia",
+        "ciprés",
+        "romero",
+        "abeto",
+        "lavanda"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "vetiver",
+        "ámbar",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "melón y manzana abren una fragancia de perfil aromática acuática, con un corazón de salvia y ciprés y un fondo de sándalo y vetiver. Una composición de carácter aromático pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/CKESC100M_spo.jpg?v=1571609951",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/ck-escape-men",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Calvin-Klein/Escape-for-Men-249.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -9052,23 +10012,69 @@
       "precio_crc": 29750,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Aromática fougère",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "lavanda",
+        "limón",
+        "bergamota",
+        "mandarina"
+      ],
+      "notas_corazon": [
+        "salvia",
+        "enebro",
+        "albahaca",
+        "geranio",
+        "jazmín"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "vetiver",
+        "almizcle",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "lavanda y limón abren una fragancia de perfil aromática fougère, con un corazón de salvia y enebro y un fondo de sándalo y vetiver. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/153911_997ddf7b-19b8-4bec-90ce-06c8c3912662_spo.jpg?v=1571609911",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/ck-eternity-men",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Calvin-Klein/Eternity-for-Men-248.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -9088,26 +10094,69 @@
       "precio_crc": 29750,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "jengibre",
+        "pimienta"
+      ],
+      "notas_corazon": [
+        "salvia negra",
+        "albahaca",
+        "cedro"
+      ],
+      "notas_fondo": [
+        "ámbar",
+        "pachulí",
+        "gamuza",
+        "brasil"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "jengibre y pimienta abren una fragancia de perfil amaderada aromática, con un corazón de salvia negra y albahaca y un fondo de ámbar y pachulí. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Calvin-Klein/Euphoria-Men-217.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1181,
       "sku": "AGOSTO-2026-0181",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 181,
       "presentacion_proveedor": "CK EUPHORIA HOMBRE EDT 100ML"
     },
@@ -9118,23 +10167,66 @@
       "precio_crc": 37400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral oriental",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "balsámico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "granada",
+        "caqui",
+        "acorde verde"
+      ],
+      "notas_corazon": [
+        "orquídea negra",
+        "loto",
+        "champaca"
+      ],
+      "notas_fondo": [
+        "ámbar",
+        "caoba",
+        "almizcle",
+        "violeta"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "granada y caqui abren una fragancia de perfil floral oriental, con un corazón de orquídea negra y loto y un fondo de ámbar y caoba. Una composición de carácter floral pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/CK-EUPHORIA.png?v=1740152158",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/ck-euphoria-w",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Calvin-Klein/Euphoria-女性-200.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -9154,26 +10246,67 @@
       "precio_crc": 24650,
       "tamano_ml": 150,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "balsámico",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "limón",
+        "hoja de tomate"
+      ],
+      "notas_corazon": [
+        "cacao",
+        "pimienta"
+      ],
+      "notas_fondo": [
+        "vetiver",
+        "cedro",
+        "almizcle blanco"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "limón y hoja de tomate abren una fragancia de perfil amaderada aromática, con un corazón de cacao y pimienta y un fondo de vetiver y cedro. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Calvin-Klein/IN2U-for-Him-151.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1183,
       "sku": "AGOSTO-2026-0183",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 183,
       "presentacion_proveedor": "CK IN2U HOMBRE EDT 150ML"
     },
@@ -9184,26 +10317,68 @@
       "precio_crc": 24650,
       "tamano_ml": 150,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "vainilla",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "toronja rosa",
+        "bergamota siciliana",
+        "hoja de grosella negra"
+      ],
+      "notas_corazon": [
+        "orquídea",
+        "cactus"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "ámbar",
+        "cedro rojo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "toronja rosa y bergamota siciliana abren una fragancia de perfil floral frutal, con un corazón de orquídea y cactus y un fondo de vainilla y ámbar. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Calvin-Klein/IN2U-for-Her-150.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1184,
       "sku": "AGOSTO-2026-0184",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 184,
       "presentacion_proveedor": "CK IN2U MUJER EDT 150ML"
     },
@@ -9214,26 +10389,75 @@
       "precio_crc": 28050,
       "tamano_ml": 200,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Cítrica aromática",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "cardamomo",
+        "papaya",
+        "piña",
+        "mandarina",
+        "bergamota",
+        "limón"
+      ],
+      "notas_corazon": [
+        "nuez moscada",
+        "violeta",
+        "rosa",
+        "jazmín",
+        "lirio de los valles"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "ámbar",
+        "almizcle",
+        "cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "cardamomo y papaya abren una fragancia de perfil cítrica aromática, con un corazón de nuez moscada y violeta y un fondo de sándalo y ámbar. Una composición de carácter floral pensada para noche.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-276.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1185,
       "sku": "AGOSTO-2026-0185",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 185,
       "presentacion_proveedor": "CK ONE EDT 200ML"
     },
@@ -9244,26 +10468,71 @@
       "precio_crc": 28050,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada aromática",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "higo",
+        "bergamota",
+        "cardamomo"
+      ],
+      "notas_corazon": [
+        "neroli",
+        "jazmín",
+        "violeta",
+        "salvia"
+      ],
+      "notas_fondo": [
+        "vetiver",
+        "madera de guaiaco",
+        "ámbar",
+        "pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "higo y bergamota abren una fragancia de perfil amaderada aromática, con un corazón de neroli y jazmín y un fondo de vetiver y madera de guaiaco. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-Gold-40720.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1186,
       "sku": "AGOSTO-2026-0186",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 186,
       "presentacion_proveedor": "CK ONE GOLD EDT 100ML"
     },
@@ -9274,26 +10543,70 @@
       "precio_crc": 23800,
       "tamano_ml": 200,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental especiada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "tabaco",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado cálido",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "clementina",
+        "pepino",
+        "cardamomo"
+      ],
+      "notas_corazon": [
+        "pimienta negra",
+        "pimienta",
+        "osmanto"
+      ],
+      "notas_fondo": [
+        "tabaco",
+        "ámbar",
+        "pachulí",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "clementina y pepino abren una fragancia de perfil oriental especiada, con un corazón de pimienta negra y pimienta y un fondo de tabaco y ámbar. Una composición de carácter especiado pensada para noche.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-Shock-for-Him-10128.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1187,
       "sku": "AGOSTO-2026-0187",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 187,
       "presentacion_proveedor": "CK ONE SHOCK FOR HIM EDT 200ML"
     },
@@ -9304,23 +10617,76 @@
       "precio_crc": 22100,
       "tamano_ml": 125,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Aromática acuática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "agua de mar",
+        "lavanda",
+        "menta",
+        "romero",
+        "calone",
+        "cilantro"
+      ],
+      "notas_corazon": [
+        "sándalo",
+        "neroli",
+        "geranio",
+        "jazmín"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "tabaco",
+        "ámbar",
+        "cedro",
+        "musgo de roble"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 4,
+      "descripcion": "Fragancia masculina fresca y acuática, con salida marina y aromática y un fondo amaderado y almizclado.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Cool-Water-Men.jpg?v=1571609926",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/cool-water-men-1",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Davidoff/Cool-Water-For-Men-507.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.davidoff.com/",
           "fecha": "2026-09-09"
         }
       ],
@@ -9329,7 +10695,7 @@
       "orden": 1188,
       "sku": "AGOSTO-2026-0188",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 188,
       "presentacion_proveedor": "COOL WATER HOMBRE EDT 125ML"
     },
@@ -9340,23 +10706,77 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Floral acuática",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "cítricos",
+        "mielón",
+        "grosella negra",
+        "piña",
+        "membrillo"
+      ],
+      "notas_corazon": [
+        "lirio de los valles",
+        "jazmín",
+        "nenúfar",
+        "espino blanco",
+        "rosa"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "melocotón",
+        "mora",
+        "frambuesa",
+        "almizcle",
+        "vainilla"
+      ],
+      "duracion": 3,
+      "proyeccion": 2,
+      "estela": 3,
+      "valoracion": 3.8,
+      "descripcion": "Composición floral acuática de carácter fresco, frutal y limpio.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Cool-Water.png?v=1571609926",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/cool-water-women",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Davidoff/Cool-Water-Woman-473.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.davidoff.com/",
           "fecha": "2026-09-09"
         }
       ],
@@ -9365,7 +10785,7 @@
       "orden": 1189,
       "sku": "AGOSTO-2026-0189",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 189,
       "presentacion_proveedor": "COOL WATER MUJER EDT 100ML"
     },
@@ -9376,23 +10796,74 @@
       "precio_crc": 251600,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Chipre frutal",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "ocasiones": [
+        "formal",
+        "oficina",
+        "noche",
+        "todo el año"
+      ],
+      "acordes": [
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "ahumado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "piña",
+        "bergamota",
+        "grosella negra",
+        "manzana"
+      ],
+      "notas_corazon": [
+        "abedul",
+        "pachulí",
+        "jazmín de Marruecos",
+        "rosa"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "musgo de roble",
+        "vainilla",
+        "ámbar gris"
+      ],
+      "duracion": 4,
+      "proyeccion": 4,
+      "estela": 4,
+      "valoracion": 4.3,
+      "descripcion": "Aventus combina una apertura frutal con corazón ahumado y un fondo amaderado, almizclado y ligeramente dulce.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/CREED-AVENTUS-75ML-AFTER-SHAVE-MEN.png?v=1576499374",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/creed-aventus",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Creed/Aventus-9828.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://creedboutique.com/products/aventus",
           "fecha": "2026-09-09"
         }
       ],
@@ -9401,7 +10872,7 @@
       "orden": 1190,
       "sku": "AGOSTO-2026-0190",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 190,
       "presentacion_proveedor": "CREED AVENTUS HOMBRE EDP 100ML"
     },
@@ -9412,26 +10883,71 @@
       "precio_crc": 24650,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada especiada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "diario",
+        "noche",
+        "otoño",
+        "invierno"
+      ],
+      "acordes": [
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado cálido",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mandarina",
+        "lavanda",
+        "canela"
+      ],
+      "notas_corazon": [
+        "cedro",
+        "iris",
+        "cardamomo"
+      ],
+      "notas_fondo": [
+        "tabaco",
+        "haba tonka",
+        "vainilla",
+        "sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "mandarina y lavanda abren una fragancia de perfil amaderada especiada, con un corazón de cedro y iris y un fondo de tabaco y haba tonka. Una composición de carácter amaderado pensada para diario.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Cristiano-Ronaldo/CR7-Game-On-56606.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1191,
       "sku": "AGOSTO-2026-0191",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 191,
       "presentacion_proveedor": "CRISTIANO RONALDO CR7 ROJO EDT 100ML"
     },
@@ -9442,26 +10958,65 @@
       "precio_crc": 27200,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada aromática",
+      "genero": "Hombre",
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mandarina",
+        "manzana",
+        "bergamota"
+      ],
+      "notas_corazon": [
+        "lavanda",
+        "violeta",
+        "manzanilla"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "madera de cachemira",
+        "vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "mandarina y manzana abren una fragancia de perfil amaderada aromática, con un corazón de lavanda y violeta y un fondo de almizcle y madera de cachemira. Una composición de carácter cítrico pensada para diario.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1192,
       "sku": "AGOSTO-2026-0192",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 192,
       "presentacion_proveedor": "CRISTIANO RONALDO DISCOVER EDT 100ML"
     },
@@ -9472,26 +11027,66 @@
       "precio_crc": 25500,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromática especiada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "diario",
+        "otoño",
+        "invierno"
+      ],
+      "acordes": [
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado cálido",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "bergamota",
+        "hoja de laurel",
+        "canela"
+      ],
+      "notas_corazon": [
+        "lavanda",
+        "salvia",
+        "iris"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "pachulí",
+        "ámbar",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "bergamota y hoja de laurel abren una fragancia de perfil aromática especiada, con un corazón de lavanda y salvia y un fondo de sándalo y pachulí. Una composición de carácter amaderado pensada para diario.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1193,
       "sku": "AGOSTO-2026-0193",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 193,
       "presentacion_proveedor": "CRISTIANO RONALDO ORIGINS EDT 100ML"
     },
@@ -9502,10 +11097,30 @@
       "precio_crc": 20400,
       "tamano_ml": 125,
       "concentracion": null,
-      "familia": null,
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "diario",
+        "noche"
+      ],
+      "acordes": [
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [],
       "notas_corazon": [],
       "notas_fondo": [],
@@ -9515,13 +11130,19 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1194,
       "sku": "AGOSTO-2026-0194",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 194,
       "presentacion_proveedor": "CURVE BLACK HOMBRE 125ML"
     },
@@ -9532,10 +11153,30 @@
       "precio_crc": 13600,
       "tamano_ml": 125,
       "concentracion": null,
-      "familia": null,
+      "familia": "Aromática acuática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "diario",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [],
       "notas_corazon": [],
       "notas_fondo": [],
@@ -9545,13 +11186,19 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1195,
       "sku": "AGOSTO-2026-0195",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 195,
       "presentacion_proveedor": "CURVE CHILL HOMBRE 125ML"
     },
@@ -9562,10 +11209,31 @@
       "precio_crc": 12410,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
+      "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [],
       "notas_corazon": [],
       "notas_fondo": [],
@@ -9575,13 +11243,19 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1196,
       "sku": "AGOSTO-2026-0196",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 196,
       "presentacion_proveedor": "CURVE CHILL MUJER 100ML"
     },
@@ -9592,26 +11266,72 @@
       "precio_crc": 22100,
       "tamano_ml": 125,
       "concentracion": null,
-      "familia": null,
+      "familia": "Aromática fougère",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "noche"
+      ],
+      "acordes": [
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "limón",
+        "lavanda",
+        "piña",
+        "bergamota"
+      ],
+      "notas_corazon": [
+        "salvia",
+        "pimienta",
+        "cardamomo",
+        "violeta"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "cedro",
+        "ámbar",
+        "almizcle"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 3.8,
+      "descripcion": "Fragancia masculina aromática y amaderada con salida cítrica y un fondo cálido.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-for-Men-376.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1197,
       "sku": "AGOSTO-2026-0197",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 197,
       "presentacion_proveedor": "CURVE CLASICO HOMBRE 125ML"
     },
@@ -9641,7 +11361,7 @@
       "orden": 1198,
       "sku": "AGOSTO-2026-0198",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 198,
       "presentacion_proveedor": "CURVE CLASICO MUJER 100ML"
     },
@@ -9671,7 +11391,7 @@
       "orden": 1199,
       "sku": "AGOSTO-2026-0199",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 199,
       "presentacion_proveedor": "CURVE CONNECT HOMBRE 125ML"
     },
@@ -9701,7 +11421,7 @@
       "orden": 1200,
       "sku": "AGOSTO-2026-0200",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 200,
       "presentacion_proveedor": "CURVE CONNECT MUJER 100ML"
     },
@@ -9731,7 +11451,7 @@
       "orden": 1201,
       "sku": "AGOSTO-2026-0201",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 201,
       "presentacion_proveedor": "CURVE CRUSH HOMBRE 125ML"
     },
@@ -9761,7 +11481,7 @@
       "orden": 1202,
       "sku": "AGOSTO-2026-0202",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 202,
       "presentacion_proveedor": "CURVE CRUSH MUJER 100ML"
     },
@@ -9791,7 +11511,7 @@
       "orden": 1203,
       "sku": "AGOSTO-2026-0203",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 203,
       "presentacion_proveedor": "CURVE SPORT HOMBRE 125ML"
     },
@@ -9821,7 +11541,7 @@
       "orden": 1204,
       "sku": "AGOSTO-2026-0204",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 204,
       "presentacion_proveedor": "CURVE WAVE HOMBRE 125ML"
     },
@@ -9851,7 +11571,7 @@
       "orden": 1205,
       "sku": "AGOSTO-2026-0205",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 205,
       "presentacion_proveedor": "CURVE WAVE MUJER 100ML"
     },
@@ -9881,7 +11601,7 @@
       "orden": 1206,
       "sku": "AGOSTO-2026-0206",
       "tipo_producto": "Decant",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 206,
       "presentacion_proveedor": "DECANT ARIANA GRANDE CLOUD PINK 2ML"
     },
@@ -9911,7 +11631,7 @@
       "orden": 1207,
       "sku": "AGOSTO-2026-0207",
       "tipo_producto": "Decant",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 207,
       "presentacion_proveedor": "DECANT ARMAF ODYSSEY ARTISTO 5ML"
     },
@@ -9922,26 +11642,69 @@
       "precio_crc": 3570,
       "tamano_ml": 5,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Ámbar amaderada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mandarina",
+        "limón",
+        "pomelo"
+      ],
+      "notas_corazon": [
+        "pachulí",
+        "lavanda",
+        "vetiver"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "sándalo",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia masculina cítrica y amaderada de Armaf.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Ventana-55580.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1208,
       "sku": "AGOSTO-2026-0208",
       "tipo_producto": "Decant",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 208,
       "presentacion_proveedor": "DECANT ARMAF VENTANA 5ML"
     },
@@ -9952,26 +11715,66 @@
       "precio_crc": 14450,
       "tamano_ml": 10,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral afrutada",
+      "genero": "Mujer",
+      "ocasiones": [
+        "día",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "champán",
+        "frutas"
+      ],
+      "notas_corazon": [
+        "flor de melocotonero"
+      ],
+      "notas_fondo": [
+        "maderas",
+        "almizcle blanco",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Aroma femenino afrutado-floral con una salida de champán y fondo suave amaderado.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Rose-13933.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1209,
       "sku": "AGOSTO-2026-0209",
       "tipo_producto": "Decant",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 209,
       "presentacion_proveedor": "DECANT CAROLINA HERRERA 212 VIP ROSE 10ML"
     },
@@ -9982,26 +11785,71 @@
       "precio_crc": 7140,
       "tamano_ml": 5,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromática fougère",
+      "genero": "Hombre",
+      "ocasiones": [
+        "día",
+        "noche",
+        "todo el año"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "bergamota de Calabria",
+        "pimienta"
+      ],
+      "notas_corazon": [
+        "pimienta de Sichuan",
+        "lavanda",
+        "geranio",
+        "pachulí",
+        "vetiver",
+        "elemi"
+      ],
+      "notas_fondo": [
+        "ambroxan",
+        "cedro",
+        "lábdano"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia aromática masculina de bergamota, especias y ambroxan.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dior/Sauvage-31861.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1210,
       "sku": "AGOSTO-2026-0210",
       "tipo_producto": "Decant",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 210,
       "presentacion_proveedor": "DECANT DIOR SAUVAGE EDT 5ML"
     },
@@ -10025,13 +11873,19 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Art-Of-Nature-85735.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1211,
       "sku": "AGOSTO-2026-0211",
       "tipo_producto": "Decant",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 211,
       "presentacion_proveedor": "DECANT LATTAFA ART OF NATURE 5ML"
     },
@@ -10042,26 +11896,70 @@
       "precio_crc": 3825,
       "tamano_ml": 5,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral afrutada",
+      "genero": "Mujer",
+      "ocasiones": [
+        "día",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "naranja amarga",
+        "pimienta rosa",
+        "grosella roja"
+      ],
+      "notas_corazon": [
+        "violeta",
+        "peonía",
+        "té verde",
+        "jazmín"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "almizcle",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia femenina fresca y floral con cítricos, peonía y un fondo amaderado almizclado.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Moschino/Funny-700.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1215,
       "sku": "AGOSTO-2026-0215",
       "tipo_producto": "Decant",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 215,
       "presentacion_proveedor": "DECANT MOSCHINO FUNNY 5ML"
     },
@@ -10072,26 +11970,74 @@
       "precio_crc": 4505,
       "tamano_ml": 5,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral afrutada",
+      "genero": "Mujer",
+      "ocasiones": [
+        "día",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "cítricos",
+        "frutas confitadas",
+        "melocotón",
+        "limón italiano",
+        "grosella confitada"
+      ],
+      "notas_corazon": [
+        "chicle",
+        "rosa búlgara",
+        "arándano",
+        "melocotón",
+        "canela",
+        "melocotón blanco"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "ambroxan",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia floral afrutada dulce inspirada en el chicle, con rosa y fondo amaderado almizclado.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Moschino/Toy-2-Bubble-Gum-63249.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1216,
       "sku": "AGOSTO-2026-0216",
       "tipo_producto": "Decant",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 216,
       "presentacion_proveedor": "DECANT MOSCHINO TOY 2 BUBBLE GUM 5ML"
     },
@@ -10102,26 +12048,73 @@
       "precio_crc": 2465,
       "tamano_ml": 2,
       "concentracion": null,
-      "familia": null,
+      "familia": "Aromática fougère",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "día",
+        "noche",
+        "todo el año"
+      ],
+      "acordes": [
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "acuático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "bergamota",
+        "pomelo",
+        "hoja de higuera",
+        "notas acuáticas"
+      ],
+      "notas_corazon": [
+        "ambroxan",
+        "pachulí",
+        "papiro",
+        "violeta",
+        "pimienta negra"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "haba tonka",
+        "azafrán",
+        "incienso"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia masculina aromática y amaderada con faceta acuática, cítricos y ambroxan.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Versace/Dylan-Blue-Pour-Homme-39290.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1217,
       "sku": "AGOSTO-2026-0217",
       "tipo_producto": "Decant",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 217,
       "presentacion_proveedor": "DECANT VERSACE DYLAN BLUE HOMBRE 2ML"
     },
@@ -10151,7 +12144,7 @@
       "orden": 1218,
       "sku": "AGOSTO-2026-0218",
       "tipo_producto": "Corporal",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 218,
       "presentacion_proveedor": "DESODORANTE PERRY ELLIS 360 RED HOMBRE 170ML"
     },
@@ -10162,23 +12155,64 @@
       "precio_crc": 80750,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "amaderada floral almizclada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "violeta",
+          "emoji": ""
+        },
+        {
+          "nombre": "cuero",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mandarina",
+        "bergamota",
+        "limón",
+        "lavanda"
+      ],
+      "notas_corazon": [
+        "violeta",
+        "nuez moscada",
+        "clavel",
+        "madreselva"
+      ],
+      "notas_fondo": [
+        "cuero",
+        "vetiver",
+        "pachulí",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "mandarina y bergamota abren una fragancia de perfil amaderada floral almizclada, con un corazón de violeta y nuez moscada y un fondo de cuero y vetiver. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/CDFAH100M_spo.jpg?v=1571609902",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/dior-fahrenheit",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dior/Fahrenheit-228.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -10198,23 +12232,64 @@
       "precio_crc": 124100,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "florales",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutales",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderados",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "pera",
+        "melón",
+        "melocotón",
+        "mandarina",
+        "bergamota"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "violeta",
+        "rosa",
+        "nardo",
+        "fresia",
+        "lirio de los valles",
+        "orquídea"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "vainilla",
+        "mora",
+        "cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "pera y melón abren una fragancia de perfil floral, con un corazón de jazmín y violeta y un fondo de almizcle y vainilla. Una composición de carácter floral pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/JADORE.png?v=1571609905",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/jadore",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dior/J-adore-210.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -10234,23 +12309,59 @@
       "precio_crc": 105400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "aromática fougère",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítricos",
+          "emoji": ""
+        },
+        {
+          "nombre": "frescos especiados",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderados",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "bergamota de Calabria",
+        "pimienta"
+      ],
+      "notas_corazon": [
+        "pimienta de Sichuan",
+        "lavanda",
+        "pimienta rosa",
+        "vetiver",
+        "pachulí",
+        "geranio"
+      ],
+      "notas_fondo": [
+        "ambroxan",
+        "cedro",
+        "lábdano"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "bergamota de Calabria y pimienta abren una fragancia de perfil aromática fougère, con un corazón de pimienta de Sichuan y lavanda y un fondo de ambroxan y cedro. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-sauvage-Edp.png?v=1571609964",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/dior-sauvage",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dior/Sauvage-31861.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -10270,26 +12381,61 @@
       "precio_crc": 25500,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "florales",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutales",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítricos",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "pomelo",
+        "casia",
+        "abrótano"
+      ],
+      "notas_corazon": [
+        "manzana roja",
+        "lirio de los valles",
+        "rosa",
+        "jazmín"
+      ],
+      "notas_fondo": [
+        "maderas",
+        "notas amaderadas"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "pomelo y casia abren una fragancia de perfil floral frutal, con un corazón de manzana roja y lirio de los valles y un fondo de maderas y notas amaderadas. Una composición de carácter floral pensada para noche.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/DKNY/Fresh-Blossom-533.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1222,
       "sku": "AGOSTO-2026-0222",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 222,
       "presentacion_proveedor": "DKNY FRESH BLOSSOM EDP 100ML"
     },
@@ -10300,26 +12446,66 @@
       "precio_crc": 37400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítricos",
+          "emoji": ""
+        },
+        {
+          "nombre": "florales",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutales",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderados",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mandarina",
+        "naranja",
+        "chirimoya",
+        "vodka"
+      ],
+      "notas_corazon": [
+        "loto",
+        "orquídea",
+        "narciso"
+      ],
+      "notas_fondo": [
+        "abedul",
+        "tulipán",
+        "maderas"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "mandarina y naranja abren una fragancia de perfil floral frutal, con un corazón de loto y orquídea y un fondo de abedul y tulipán. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/DKNY/DKNY-Women-100.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1223,
       "sku": "AGOSTO-2026-0223",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 223,
       "presentacion_proveedor": "DKNY WOMEN EDP 100ML"
     },
@@ -10330,26 +12516,61 @@
       "precio_crc": 41650,
       "tamano_ml": 75,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "florales",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutales",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítricos",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "maracuyá",
+        "bergamota",
+        "pomelo"
+      ],
+      "notas_corazon": [
+        "lirio",
+        "rosa",
+        "acorde ozónico"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "almizcle",
+        "maderas"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "maracuyá y bergamota abren una fragancia de perfil floral frutal, con un corazón de lirio y rosa y un fondo de vainilla y almizcle. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Lily-68972.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1224,
       "sku": "AGOSTO-2026-0224",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 224,
       "presentacion_proveedor": "DOLCE & GABANNA DOLCE LILY EDT 75ML"
     },
@@ -10379,7 +12600,7 @@
       "orden": 1225,
       "sku": "AGOSTO-2026-0225",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 225,
       "presentacion_proveedor": "DOLCE & GABANNA YOUR DEVOTION EDP INTENSE 100ML"
     },
@@ -10439,13 +12660,19 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.dolcegabbana.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1227,
       "sku": "AGOSTO-2026-0227",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 227,
       "presentacion_proveedor": "DOLCE & GABBANA DOLCE EDP 75ML"
     },
@@ -10456,26 +12683,69 @@
       "precio_crc": 41650,
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mango",
+        "toronja",
+        "membrillo"
+      ],
+      "notas_corazon": [
+        "mango",
+        "jazmín",
+        "azahar"
+      ],
+      "notas_fondo": [
+        "almizcle blanco",
+        "maderas",
+        "sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 3.84,
+      "descripcion": "Fragancia floral frutal femenina de Dolce & Gabbana, centrada en mango y flores blancas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Shine-59929.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1228,
       "sku": "AGOSTO-2026-0228",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 228,
       "presentacion_proveedor": "DOLCE & GABBANA DOLCE SHINE EDP 75ML"
     },
@@ -10505,7 +12775,7 @@
       "orden": 1229,
       "sku": "AGOSTO-2026-0229",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 229,
       "presentacion_proveedor": "DOLCE & GABBANA EMPERATRIZ 100ML"
     },
@@ -10516,23 +12786,66 @@
       "precio_crc": 49300,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada aromática",
+      "genero": "Hombre",
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "otoño",
+        "invierno"
+      ],
+      "acordes": [
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "limón",
+        "naranja sanguina",
+        "pimiento morrón"
+      ],
+      "notas_corazon": [
+        "higo",
+        "lavanda",
+        "geranio"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "vetiver",
+        "pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 3.82,
+      "descripcion": "Perfume masculino amaderado aromático de Dolce & Gabbana.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/dg-king-edp.png?v=1613493387",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/dolce-gabbana-king-edp",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/King-103962.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -10552,23 +12865,66 @@
       "precio_crc": 39100,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada aromática",
+      "genero": "Hombre",
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado fresco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "naranja sanguina",
+        "limón",
+        "pimiento morrón"
+      ],
+      "notas_corazon": [
+        "higo",
+        "lavanda",
+        "geranio"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "vetiver",
+        "pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 3.78,
+      "descripcion": "Versión Eau de Toilette masculina, amaderada y aromática.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/DG-KING-100ML-EDT-MEN.png?v=1571610020",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/dg-king",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/King-Eau-de-Toilette-74110.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -10588,23 +12944,64 @@
       "precio_crc": 63750,
       "tamano_ml": 100,
       "concentracion": "Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada aromática",
+      "genero": "Hombre",
+      "ocasiones": [
+        "noche",
+        "otoño",
+        "invierno"
+      ],
+      "acordes": [
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "terroso",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "limón",
+        "naranja sanguina"
+      ],
+      "notas_corazon": [
+        "higo",
+        "lavanda",
+        "geranio"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "vetiver",
+        "pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 3.86,
+      "descripcion": "Interpretación Parfum masculina de la línea King.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/8054754405095-1.jpg?v=1748270966",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/k-parfum",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/King-Parfum-79179.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -10624,26 +13021,69 @@
       "precio_crc": 41650,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Aromática acuática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "bergamota",
+        "pomelo",
+        "enebro"
+      ],
+      "notas_corazon": [
+        "romero",
+        "pimienta de Sichuan",
+        "palo de rosa"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "incienso",
+        "maderas"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 3.95,
+      "descripcion": "Fragancia masculina fresca, cítrica y amaderada de la familia Light Blue.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Pour-Homme-107.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1233,
       "sku": "AGOSTO-2026-0233",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 233,
       "presentacion_proveedor": "DOLCE & GABBANA LIGHT BLUE HOMBRE NUEVO EDT 100ML"
     },
@@ -10654,26 +13094,67 @@
       "precio_crc": 59500,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "limón",
+        "manzana Granny Smith"
+      ],
+      "notas_corazon": [
+        "caléndula",
+        "jazmín"
+      ],
+      "notas_fondo": [
+        "ámbar",
+        "almizcle",
+        "maderas"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 3.83,
+      "descripcion": "Versión intensa femenina, fresca y floral frutal.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Eau-Intense-for-Women-43444.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1234,
       "sku": "AGOSTO-2026-0234",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 234,
       "presentacion_proveedor": "DOLCE & GABBANA LIGHT BLUE INTENSE MUJER EDP 100ML"
     },
@@ -10684,26 +13165,69 @@
       "precio_crc": 43350,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
+      "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "manzana Granny Smith",
+        "cedro",
+        "campanilla"
+      ],
+      "notas_corazon": [
+        "bambú",
+        "jazmín",
+        "rosa blanca"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "almizcle",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 3.92,
+      "descripcion": "El Eau de Toilette femenino original Light Blue.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-485.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1235,
       "sku": "AGOSTO-2026-0235",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 235,
       "presentacion_proveedor": "DOLCE & GABBANA LIGHT BLUE MUJER 100ML"
     },
@@ -10714,26 +13238,69 @@
       "precio_crc": 59500,
       "tamano_ml": 200,
       "concentracion": null,
-      "familia": null,
+      "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "manzana Granny Smith",
+        "cedro",
+        "campanilla"
+      ],
+      "notas_corazon": [
+        "bambú",
+        "jazmín",
+        "rosa blanca"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "almizcle",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 3.92,
+      "descripcion": "El mismo Light Blue Eau de Toilette femenino original en formato de 200 ml.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-485.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1236,
       "sku": "AGOSTO-2026-0236",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 236,
       "presentacion_proveedor": "DOLCE & GABBANA LIGHT BLUE MUJER 200ML"
     },
@@ -10744,26 +13311,66 @@
       "precio_crc": 37400,
       "tamano_ml": 125,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromática acuática",
+      "genero": "Hombre",
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "bergamota",
+        "mandarina"
+      ],
+      "notas_corazon": [
+        "romero",
+        "ciprés"
+      ],
+      "notas_fondo": [
+        "maderas",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Edición de verano masculina de la colección Light Blue.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Summer-Vibes-Pour-Homme-80056.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1237,
       "sku": "AGOSTO-2026-0237",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 237,
       "presentacion_proveedor": "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES H EDT 125ML"
     },
@@ -10774,26 +13381,64 @@
       "precio_crc": 67150,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
+      "familia": "cítrica floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "día",
+        "verano",
+        "casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "bergamota",
+        "durazno"
+      ],
+      "notas_corazon": [
+        "coco"
+      ],
+      "notas_fondo": [
+        "madera de cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia fresca y veraniega de la línea Light Blue, con salida cítrica y frutal, corazón de coco y fondo amaderado.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Summer-Vibes-74282.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1238,
       "sku": "AGOSTO-2026-0238",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 238,
       "presentacion_proveedor": "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES MUJER 100ML"
     },
@@ -10804,23 +13449,65 @@
       "precio_crc": 46750,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "día",
+        "oficina",
+        "noche"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "neroli",
+        "frambuesa",
+        "mandarina"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "azahar"
+      ],
+      "notas_fondo": [
+        "malvavisco",
+        "vainilla",
+        "sándalo",
+        "heliotropo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Composición femenina floral y frutal con un carácter dulce y fondo amaderado.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/117705_spo.jpg?v=1571609930",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/dolce-gabbana",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Gabbana-Pour-Femme-486.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -10840,26 +13527,71 @@
       "precio_crc": 39100,
       "tamano_ml": 125,
       "concentracion": null,
-      "familia": null,
+      "familia": "cítrica aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "día",
+        "oficina",
+        "casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "neroli",
+        "bergamota",
+        "mandarina",
+        "limón"
+      ],
+      "notas_corazon": [
+        "salvia",
+        "pimienta",
+        "lavanda"
+      ],
+      "notas_fondo": [
+        "haba tonka",
+        "tabaco",
+        "cedro",
+        "cumarina"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Aroma masculino cítrico-aromático con hierbas, especias frescas y base amaderada con tabaco.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Gabbana-Pour-Homme-486.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1240,
       "sku": "AGOSTO-2026-0240",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 240,
       "presentacion_proveedor": "DOLCE & GABBANA POUR HOMME 125ML"
     },
@@ -10870,23 +13602,63 @@
       "precio_crc": 43350,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "día",
+        "primavera",
+        "ocasiones especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "limón siciliano",
+        "naranja sanguina",
+        "jazmín"
+      ],
+      "notas_corazon": [
+        "cereza",
+        "heliotropo"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia femenina frutal-floral con cítricos, cereza y un fondo de cedro y almizcle.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Dolce-_-Gabbana-Queen.png?v=1699031065",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/d-g-queen",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Q-74499.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -10906,26 +13678,70 @@
       "precio_crc": 45050,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "ámbar amaderada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "noche",
+        "otoño",
+        "invierno",
+        "cita"
+      ],
+      "acordes": [
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "tabaco",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado cálido",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "toronja",
+        "cilantro",
+        "albahaca"
+      ],
+      "notas_corazon": [
+        "jengibre",
+        "cardamomo",
+        "azahar"
+      ],
+      "notas_fondo": [
+        "tabaco",
+        "ámbar",
+        "cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia masculina cálida y especiada, centrada en tabaco, ámbar y maderas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-for-Men-1835.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1242,
       "sku": "AGOSTO-2026-0242",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 242,
       "presentacion_proveedor": "DOLCE & GABBANA THE ONE HOMBRE EDT 100ML"
     },
@@ -10936,26 +13752,71 @@
       "precio_crc": 50150,
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "ámbar floral",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "noche",
+        "otoño",
+        "invierno",
+        "cita"
+      ],
+      "acordes": [
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "vainilla",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "durazno",
+        "litchi",
+        "mandarina"
+      ],
+      "notas_corazon": [
+        "lirio blanco",
+        "jazmín",
+        "lirio de los valles"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "ámbar",
+        "almizcle",
+        "musgo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Aroma femenino floral-ámbar con frutas luminosas, flores blancas y fondo cálido.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-for-Women-698.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1243,
       "sku": "AGOSTO-2026-0243",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 243,
       "presentacion_proveedor": "DOLCE & GABBANA THE ONE MUJER EDP 75ML"
     },
@@ -10966,23 +13827,71 @@
       "precio_crc": 22950,
       "tamano_ml": 200,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "aromática fougère",
+      "genero": "Hombre",
+      "ocasiones": [
+        "día",
+        "oficina",
+        "casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado fresco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "lavanda",
+        "limón",
+        "romero",
+        "bergamota",
+        "menta"
+      ],
+      "notas_corazon": [
+        "ajenjo",
+        "albahaca",
+        "angela",
+        "canela",
+        "jazmín"
+      ],
+      "notas_fondo": [
+        "musgo de roble",
+        "cuero",
+        "vetiver",
+        "cedro",
+        "pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fougère masculino clásico, aromático y amaderado, con lavanda, hierbas y musgo de roble.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/DRAK200M.jpg?v=1571609907",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/drakkar-noir",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Guy-Laroche/Drakkar-Noir-198.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -11003,7 +13912,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -11015,13 +13924,19 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/search/?query=Dumont%20Nitro%20Platinum",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1245,
       "sku": "AGOSTO-2026-0245",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 245,
       "presentacion_proveedor": "DUMONT NITRO PLATINUM EDP 100ML"
     },
@@ -11050,6 +13965,11 @@
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/nitro-red",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/search/?query=Dumont%20Nitro%20Red",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -11069,7 +13989,7 @@
       "tamano_ml": 100,
       "concentracion": "Extrait de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -11081,13 +14001,19 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/search/?query=Dumont%20Nitro%20Red%20Intensely",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1247,
       "sku": "AGOSTO-2026-0247",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 247,
       "presentacion_proveedor": "DUMONT NITRO RED INTENSELY EXTRAIT DE PARFUM 100ML"
     },
@@ -11098,26 +14024,72 @@
       "precio_crc": 22950,
       "tamano_ml": 125,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "día",
+        "oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "atalcado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "tilo",
+        "lirio de los valles",
+        "mandarina",
+        "bergamota"
+      ],
+      "notas_corazon": [
+        "violeta",
+        "jazmín",
+        "rosa",
+        "clavel",
+        "nuez moscada"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "ámbar",
+        "almizcle",
+        "vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Floral femenino clásico con cítricos y flores en un fondo suave de maderas, ámbar y almizcle.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Elizabeth-Arden/5th-Avenue-819.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1248,
       "sku": "AGOSTO-2026-0248",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 248,
       "presentacion_proveedor": "ELIZABETH ARDEN 5TA AVENIDA 125ML"
     },
@@ -11128,23 +14100,69 @@
       "precio_crc": 16150,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "cítrica aromática",
+      "genero": "Mujer",
+      "ocasiones": [
+        "día",
+        "verano",
+        "casual",
+        "oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "limón",
+        "naranja",
+        "bergamota",
+        "menta",
+        "ruibarbo"
+      ],
+      "notas_corazon": [
+        "té verde",
+        "jazmín",
+        "clavel",
+        "hinojo"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "ámbar",
+        "musgo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia fresca y ligera inspirada en el té verde, con cítricos, hierbas y una base limpia.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/GREEN-TEA.png?v=1571609915",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/green-tea",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Elizabeth-Arden/Green-Tea- ರೂಪ.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -11164,23 +14182,70 @@
       "precio_crc": 28900,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "noche",
+        "ocasiones especiales",
+        "otoño",
+        "invierno"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "rosa",
+        "violeta",
+        "flor de azahar",
+        "melocotón"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "ylang-ylang",
+        "miel",
+        "nardo",
+        "clavel"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "ámbar",
+        "almizcle",
+        "vetiver"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Floral intenso y clásico con rosa, flores blancas, miel y una base cálida amaderada.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Red-Door.png?v=1571609935",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/red-door",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Elizabeth-Arden/Red-Door-168.html",
           "fecha": "2026-09-09"
         }
       ],

@@ -58,18 +58,39 @@ test("verified manufacturer matches add Spanish notes and never reuse a wrong ed
   assert.equal(ambiguousFakhar?.imagen_url, null);
 });
 
-test("verified retailer matches add only an exact-size visual reference", () => {
+test("verified visual matches can later receive exact fragrance research", () => {
   const sauvage = catalog.records.find((record) => record.origen_ref === 221);
   assert.match(String(sauvage?.imagen_url), /^https:\/\/cdn\.shopify\.com\//);
   assert.equal(sauvage?.ficha_estado, "parcial");
-  assert.deepEqual(sauvage?.notas_salida, []);
+  assert.deepEqual(sauvage?.notas_salida, ["bergamota de Calabria", "pimienta"]);
   assert.match(JSON.stringify(sauvage?.fuentes), /Referencia visual/);
+  assert.match(JSON.stringify(sauvage?.fuentes), /Investigación olfativa/);
 
   const wrongSize = catalog.records.find(
     (record) => record.origen_ref === 634,
   );
   assert.equal(wrongSize?.imagen_url, null);
   assert.equal(wrongSize?.ficha_estado, "pendiente");
+});
+
+test("the consecutive 100-product research batch preserves every PDF identity", () => {
+  const researched = catalog.records.slice(140, 240);
+  assert.equal(researched.length, 100);
+  assert.deepEqual(
+    researched.map((record) => record.origen_ref),
+    [
+      147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159,
+      160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 171, 172, 173,
+      174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186,
+      187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199,
+      200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 215,
+      216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228,
+      229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241,
+      242, 243, 244, 245, 246, 247, 248, 249, 250,
+    ],
+  );
+  assert.equal(researched.filter((record) => record.ficha_estado === "verificada").length, 4);
+  assert.equal(researched.filter((record) => record.notas_salida?.length).length, 66);
 });
 
 test("reviewed Afnan records preserve supplier identity and sourced performance", () => {

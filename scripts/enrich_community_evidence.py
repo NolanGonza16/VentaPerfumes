@@ -675,10 +675,80 @@ def _derive_sourced_profile(record: dict) -> bool:
     return True
 
 
+def _merge_research_batches(records: dict[int, dict]) -> tuple[int, int]:
+    """Merge externally researched rows without changing supplier identity fields."""
+    merged = 0
+    complete = 0
+    research_dir = ROOT / "research"
+    for batch_path in sorted(research_dir.glob("batch-*.json")):
+        for evidence in json.loads(batch_path.read_text(encoding="utf-8")):
+            ref = int(evidence["ref"])
+            record = records.get(ref)
+            if not record:
+                continue
+
+            # Names, brands, concentrations and sizes always remain those from the PDF.
+            field_map = {
+                "familia": "familia",
+                "genero": "genero",
+                "ocasiones": "ocasiones",
+                "notas_salida": "notas_salida",
+                "notas_corazon": "notas_corazon",
+                "notas_fondo": "notas_fondo",
+                "duracion": "duracion",
+                "proyeccion": "proyeccion",
+                "estela": "estela",
+                "valoracion": "valoracion",
+                "descripcion": "descripcion",
+            }
+            for source_field, target_field in field_map.items():
+                value = evidence.get(source_field)
+                if value not in (None, "", []):
+                    if target_field == "genero":
+                        value = {
+                            "masculino": "Hombre",
+                            "hombre": "Hombre",
+                            "femenino": "Mujer",
+                            "mujer": "Mujer",
+                            "unisex": "Unisex",
+                        }.get(str(value).casefold(), value)
+                    record[target_field] = value
+
+            accords = evidence.get("acordes") or []
+            if accords:
+                record["acordes"] = [
+                    item if isinstance(item, dict) else {"nombre": item, "emoji": ""}
+                    for item in accords
+                ]
+
+            existing_urls = {source.get("url") for source in record.get("fuentes", [])}
+            for url in evidence.get("fuentes") or []:
+                if url and url not in existing_urls:
+                    record.setdefault("fuentes", []).append(
+                        {"titulo": "Investigación olfativa", "url": url, "fecha": REVIEW_DATE}
+                    )
+                    existing_urls.add(url)
+
+            has_pyramid = all(
+                record.get(field)
+                for field in ("notas_salida", "notas_corazon", "notas_fondo")
+            )
+            has_presence = all(
+                record.get(field) is not None
+                for field in ("duracion", "proyeccion", "estela")
+            )
+            record["ficha_estado"] = "verificada" if has_pyramid and has_presence else "parcial"
+            merged += 1
+            complete += int(record["ficha_estado"] == "verificada")
+    return merged, complete
+
+
 def run() -> None:
     path = ROOT / "catalog" / "august-products.json"
     catalog = json.loads(path.read_text(encoding="utf-8"))
     records = {record["origen_ref"]: record for record in catalog["records"]}
+
+    batch_merged, batch_complete = _merge_research_batches(records)
 
     derived = 0
     for record in records.values():
@@ -699,7 +769,13 @@ def run() -> None:
     path.write_text(
         json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
-    print(json.dumps({"updated": len(REVIEWED), "derived_profiles": derived, "refs": sorted(REVIEWED)}))
+    print(json.dumps({
+        "updated": len(REVIEWED),
+        "batch_merged": batch_merged,
+        "batch_complete": batch_complete,
+        "derived_profiles": derived,
+        "refs": sorted(REVIEWED),
+    }))
 
 
 if __name__ == "__main__":

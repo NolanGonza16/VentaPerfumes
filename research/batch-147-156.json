@@ -1,0 +1,3741 @@
+[
+  {
+    "ref": 147,
+    "nombre": "Anais Anais",
+    "marca": "Cacharel",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Floral",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "floral",
+      "blanco floral",
+      "verde",
+      "amaderado",
+      "atalcado"
+    ],
+    "notas_salida": [
+      "jacinto",
+      "madreselva",
+      "galbano",
+      "grosella negra",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "lirio",
+      "lirio de los valles",
+      "jazmín",
+      "rosa",
+      "ylang-ylang"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "cedro",
+      "vetiver",
+      "ámbar",
+      "almizcle",
+      "musgo de roble"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral clásica de Cacharel, centrada en flores blancas y un fondo amaderado y almizclado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Cacharel/Anais-Anais-186.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 148,
+    "nombre": "212 Clasico Hombre",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Amaderada floral almizclada",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "verde",
+      "floral",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "hierba cortada",
+      "bergamota",
+      "lavanda",
+      "especias verdes"
+    ],
+    "notas_corazon": [
+      "jengibre",
+      "violeta",
+      "gardenia",
+      "salvia"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "sándalo",
+      "incienso",
+      "madera de guayaco",
+      "labdanum"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma masculino fresco y limpio de la línea 212, con salida verde y fondo amaderado almizclado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Men-644.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 149,
+    "nombre": "212 Heroes Hombre",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "90ml",
+    "familia": "Aromática frutal",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "casual",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "frutal",
+      "cítrico",
+      "verde",
+      "amaderado",
+      "aromático"
+    ],
+    "notas_salida": [
+      "pera",
+      "jengibre",
+      "limón"
+    ],
+    "notas_corazon": [
+      "geranio",
+      "salvia"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "madera de cuero",
+      "madera de cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia fresca y frutal de 212 Heroes, con pera y cítricos sobre un corazón aromático y maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Heroes-64641.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 150,
+    "nombre": "212 Heroes Mujer",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "80ml",
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "casual",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "frutal",
+      "floral",
+      "cítrico",
+      "amaderado",
+      "dulce"
+    ],
+    "notas_salida": [
+      "frambuesa",
+      "mandarina",
+      "pera"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "azahar",
+      "flor de azahar"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "sándalo",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Versión femenina de 212 Heroes, de perfil frutal-floral luminoso con fondo de maderas y almizcle.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Heroes-for-Her-64642.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 151,
+    "nombre": "212 Sexy Hombre",
+    "marca": "Carolina Herrera",
+    "concentracion": null,
+    "tamano_ml": "100ml",
+    "familia": "Oriental fougère",
+    "genero": "Hombre",
+    "ocasiones": [
+      "noche",
+      "citas",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "vainilla",
+      "ámbar",
+      "especiado cálido",
+      "amaderado",
+      "aromático"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "guayaco",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "cardamomo",
+      "violeta",
+      "pimienta"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "sándalo",
+      "ámbar",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina cálida y sensual, con especias, vainilla y maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Sexy-Men-204.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 152,
+    "nombre": "212 Sexy Mujer",
+    "marca": "Carolina Herrera",
+    "concentracion": null,
+    "tamano_ml": "100ml",
+    "familia": "Oriental floral",
+    "genero": "Mujer",
+    "ocasiones": [
+      "noche",
+      "citas",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "vainilla",
+      "dulce",
+      "floral",
+      "afrutado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "pimienta rosa",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "gardenia",
+      "pelargonio",
+      "algodón de azúcar",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "sándalo",
+      "almizcle",
+      "ámbar",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume femenino dulce y sensual con vainilla, flores y un fondo amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Sexy-167.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 153,
+    "nombre": "212 Vip Black",
+    "marca": "Carolina Herrera",
+    "concentracion": null,
+    "tamano_ml": "100ml",
+    "familia": "Oriental fougère",
+    "genero": "Hombre",
+    "ocasiones": [
+      "noche",
+      "fiesta",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "aromático",
+      "vainilla",
+      "afrutado",
+      "dulce",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "absenta",
+      "anís",
+      "hinojo"
+    ],
+    "notas_corazon": [
+      "lavanda"
+    ],
+    "notas_fondo": [
+      "vainilla negra",
+      "almizcle",
+      "cáscara de vainilla"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma masculino nocturno con absenta y lavanda, asentado en una vainilla oscura y almizcle.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Black-37030.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 154,
+    "nombre": "212 Vip Mujer",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "80ml",
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [
+      "noche",
+      "fiesta",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "frutal",
+      "dulce",
+      "floral",
+      "amaderado",
+      "vainilla"
+    ],
+    "notas_salida": [
+      "maracuyá",
+      "ron",
+      "pimienta"
+    ],
+    "notas_corazon": [
+      "gardenia",
+      "almizcle"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "haba tonka",
+      "benjuí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina festiva y dulce, con maracuyá y ron sobre gardenia, vainilla y haba tonka.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-18596.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 155,
+    "nombre": "212 Vip Rose",
+    "marca": "Carolina Herrera",
+    "concentracion": null,
+    "tamano_ml": "80ml",
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [
+      "noche",
+      "fiesta",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "champán",
+      "frutal",
+      "floral",
+      "cítrico",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "champán rosado",
+      "frutas"
+    ],
+    "notas_corazon": [
+      "flor de melocotonero",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "maderas",
+      "almizcle blanco",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina festiva de perfil frutal-floral, caracterizada por un acorde de champán rosado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Rose-23672.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 156,
+    "nombre": "212 Vip Rose Elixir",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "80ml",
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [
+      "noche",
+      "fiesta",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "dulce",
+      "frutal",
+      "floral",
+      "amaderado",
+      "cálido especiado"
+    ],
+    "notas_salida": [
+      "lichi",
+      "mandarina",
+      "grosella negra"
+    ],
+    "notas_corazon": [
+      "rosa",
+      "jazmín",
+      "flor de azahar"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "haba tonka",
+      "sándalo",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Interpretación intensa de 212 VIP Rosé, con frutas y flores sobre un fondo dulce y amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Rose-Elixir-84890.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 157,
+    "nombre": "Bad Boy Clasico",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/Bad-Boy-54858.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 158,
+    "nombre": "Bad Boy Cobalt",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/Bad-Boy-Cobalt-72531.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 159,
+    "nombre": "Bad Boy Extreme",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/Bad-Boy-Le-Parfum-69263.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 160,
+    "nombre": "Ch Men",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/CH-Men-2301.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 161,
+    "nombre": "Ch Mujer",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/CH-Carolina-Herrera-604.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 162,
+    "nombre": "Clásico Mujer",
+    "marca": "Carolina Herrera",
+    "concentracion": null,
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/Carolina-Herrera-610.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 163,
+    "nombre": "Good Girl Blush",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "80ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Blush-78624.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 164,
+    "nombre": "Good Girl Blush Polka Paradise100Ml",
+    "marca": "Carolina Herrera",
+    "concentracion": null,
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Blush-78624.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 165,
+    "nombre": "Good Girl Clasico",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "80ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-25300.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 166,
+    "nombre": "Good Girl Jasmine Absolute",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "80ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Jasmine-Absolute-81093.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 167,
+    "nombre": "Good Girl Very",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "80ml",
+    "familia": "Floral afrutada",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "afrutado",
+      "floral",
+      "dulce"
+    ],
+    "notas_salida": [
+      "cereza"
+    ],
+    "notas_corazon": [
+      "rosa"
+    ],
+    "notas_fondo": [
+      "vainilla"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina de la línea Good Girl; la información pública consultada no permite confirmar de forma suficiente todos los detalles de esta edición.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Good%20Girl%20Very",
+      "https://www.carolinaherrera.com/"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 168,
+    "nombre": "La Bomba",
+    "marca": "Carolina Herrera",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "80ml",
+    "familia": "Floral afrutada",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "afrutado",
+      "dulce"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume femenino La Bomba de Carolina Herrera. No se han confirmado en una ficha permitida sus notas y rendimiento completos.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=La%20Bomba%20Carolina%20Herrera",
+      "https://www.carolinaherrera.com/"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 170,
+    "nombre": "Declaración",
+    "marca": "Cartier",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Amaderada especiada",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "especiado",
+      "aromático"
+    ],
+    "notas_salida": [
+      "abedul",
+      "naranja amarga",
+      "bergamota",
+      "neroli"
+    ],
+    "notas_corazon": [
+      "cardamomo",
+      "pimienta",
+      "enebro"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "vetiver",
+      "musgo de roble"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Declaración es una fragancia amaderada especiada de Cartier, creada por Jean-Claude Ellena.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Cartier/Declaration-13.html",
+      "https://www.cartier.com/"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 171,
+    "nombre": "Allure Homme Sport",
+    "marca": "Chanel",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "aromático",
+      "fresco especiado"
+    ],
+    "notas_salida": [
+      "naranja",
+      "mandarina",
+      "acorde marino"
+    ],
+    "notas_corazon": [
+      "pimienta",
+      "cedro"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "almizcle",
+      "ámbar",
+      "vetiver"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia fresca y amaderada de Chanel para hombre.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Chanel/Allure-Homme-Sport-607.html",
+      "https://www.chanel.com/us/fragrance/p/123610/allure-homme-sport-eau-de-toilette-spray/"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 172,
+    "nombre": "Chance Eau Tendre",
+    "marca": "Chanel",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Floral afrutada",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "afrutado",
+      "cítrico",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "membrillo",
+      "toronja"
+    ],
+    "notas_corazon": [
+      "jacinto",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "iris",
+      "cedro",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Una composición floral afrutada de Chanel, ligera y delicada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Tendre-806.html",
+      "https://www.chanel.com/us/fragrance/p/126260/chance-eau-tendre-eau-de-toilette-spray/"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 173,
+    "nombre": "Chance Eau Vive",
+    "marca": "Chanel",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Cítrica floral",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "floral",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "naranja sanguina",
+      "pomelo",
+      "limón"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "jacinto"
+    ],
+    "notas_fondo": [
+      "vetiver",
+      "cedro",
+      "almizcle blanco"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de toilette cítrica y floral de la colección Chance de Chanel.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Vive-30917.html",
+      "https://www.chanel.com/"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 174,
+    "nombre": "Coco Mademoiselle",
+    "marca": "Chanel",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Ámbar amaderada",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "ámbar",
+      "parche floral"
+    ],
+    "notas_salida": [
+      "naranja",
+      "bergamota",
+      "limón"
+    ],
+    "notas_corazon": [
+      "rosa",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "pachulí",
+      "vetiver",
+      "vainilla",
+      "almizcle blanco",
+      "haba tonka"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia ámbar amaderada de Chanel, con un carácter fresco y sofisticado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-611.html",
+      "https://www.chanel.com/us/fragrance/p/116520/coco-mademoiselle-eau-de-parfum-spray/"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 175,
+    "nombre": "Gabrielle",
+    "marca": "Chanel",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": "Floral",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "floral blanco",
+      "cítrico",
+      "floral amarillo",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "toronja",
+      "grosella negra"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "ylang-ylang",
+      "azahar",
+      "tuberosa"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "almizcle",
+      "cáscara de cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Gabrielle es una composición floral luminosa de Chanel, construida alrededor de flores blancas y amarillas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Chanel/Gabrielle-43286.html",
+      "https://www.chanel.com/us/fragrance/p/120630/gabrielle-chanel-eau-de-parfum-spray/"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 176,
+    "nombre": "Charlie Gold",
+    "marca": "Revlon",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Floral oriental",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Revlon/Charlie-Gold-1053.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 177,
+    "nombre": "Be",
+    "marca": "Calvin Klein",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "200ml",
+    "familia": "Floral amaderada almizclada",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "floral",
+      "almizclado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "lavanda",
+      "mandarina",
+      "menta",
+      "enebro"
+    ],
+    "notas_corazon": [
+      "durazno",
+      "jazmín",
+      "orquídea",
+      "magnolia"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "almizcle",
+      "vainilla",
+      "ámbar",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Calvin-Klein/CK-Be-274.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 178,
+    "nombre": "Contradiction Hombre",
+    "marca": "Calvin Klein",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Amaderada floral almizclada",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "amaderado",
+      "floral",
+      "verde",
+      "fresco especiado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "lima",
+      "mandarina",
+      "lavanda",
+      "salvia"
+    ],
+    "notas_corazon": [
+      "nuez moscada",
+      "jazmín",
+      "violeta",
+      "cilantro"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "almizcle",
+      "ámbar",
+      "haba tonka"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Calvin-Klein/Contradiction-for-Men-250.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 179,
+    "nombre": "Escape Hombre",
+    "marca": "Calvin Klein",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Aromática acuática",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "acuático",
+      "cítrico",
+      "aromático",
+      "verde",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "melón",
+      "manzana",
+      "mandarina",
+      "toronja",
+      "eucalipto"
+    ],
+    "notas_corazon": [
+      "salvia",
+      "ciprés",
+      "romero",
+      "abeto",
+      "lavanda"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "vetiver",
+      "ámbar",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Calvin-Klein/Escape-for-Men-249.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 180,
+    "nombre": "Eternity Clasico Hombre",
+    "marca": "Calvin Klein",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Aromática fougère",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "aromático",
+      "cítrico",
+      "amaderado",
+      "floral",
+      "verde"
+    ],
+    "notas_salida": [
+      "lavanda",
+      "limón",
+      "bergamota",
+      "mandarina"
+    ],
+    "notas_corazon": [
+      "salvia",
+      "enebro",
+      "albahaca",
+      "geranio",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "vetiver",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Calvin-Klein/Eternity-for-Men-248.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 181,
+    "nombre": "Euphoria Hombre",
+    "marca": "Calvin Klein",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "amaderado",
+      "aromático",
+      "especiado fresco",
+      "verde",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "jengibre",
+      "pimienta"
+    ],
+    "notas_corazon": [
+      "salvia negra",
+      "albahaca",
+      "cedro"
+    ],
+    "notas_fondo": [
+      "ámbar",
+      "pachulí",
+      "gamuza",
+      "brasil"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Calvin-Klein/Euphoria-Men-217.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 182,
+    "nombre": "Euphoria Mujer",
+    "marca": "Calvin Klein",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": "Floral oriental",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "frutal",
+      "amaderado",
+      "ámbar",
+      "balsámico"
+    ],
+    "notas_salida": [
+      "granada",
+      "caqui",
+      "acorde verde"
+    ],
+    "notas_corazon": [
+      "orquídea negra",
+      "loto",
+      "champaca"
+    ],
+    "notas_fondo": [
+      "ámbar",
+      "caoba",
+      "almizcle",
+      "violeta"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Calvin-Klein/Euphoria-女性-200.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 183,
+    "nombre": "In2U Hombre",
+    "marca": "Calvin Klein",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "150ml",
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "aromático",
+      "balsámico",
+      "fresco especiado"
+    ],
+    "notas_salida": [
+      "limón",
+      "hoja de tomate"
+    ],
+    "notas_corazon": [
+      "cacao",
+      "pimienta"
+    ],
+    "notas_fondo": [
+      "vetiver",
+      "cedro",
+      "almizcle blanco"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Calvin-Klein/IN2U-for-Him-151.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 184,
+    "nombre": "In2U Mujer",
+    "marca": "Calvin Klein",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "150ml",
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "floral",
+      "frutal",
+      "vainilla",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "toronja rosa",
+      "bergamota siciliana",
+      "hoja de grosella negra"
+    ],
+    "notas_corazon": [
+      "orquídea",
+      "cactus"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "cedro rojo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Calvin-Klein/IN2U-for-Her-150.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 185,
+    "nombre": "One",
+    "marca": "Calvin Klein",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "200ml",
+    "familia": "Cítrica aromática",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "verde",
+      "floral",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "cardamomo",
+      "papaya",
+      "piña",
+      "mandarina",
+      "bergamota",
+      "limón"
+    ],
+    "notas_corazon": [
+      "nuez moscada",
+      "violeta",
+      "rosa",
+      "jazmín",
+      "lirio de los valles"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "ámbar",
+      "almizcle",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-276.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 186,
+    "nombre": "One Gold",
+    "marca": "Calvin Klein",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Amaderada aromática",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "aromático",
+      "verde",
+      "floral"
+    ],
+    "notas_salida": [
+      "higo",
+      "bergamota",
+      "cardamomo"
+    ],
+    "notas_corazon": [
+      "neroli",
+      "jazmín",
+      "violeta",
+      "salvia"
+    ],
+    "notas_fondo": [
+      "vetiver",
+      "madera de guaiaco",
+      "ámbar",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-Gold-40720.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 187,
+    "nombre": "One Shock For Him",
+    "marca": "Calvin Klein",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "200ml",
+    "familia": "Oriental especiada",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "ámbar",
+      "tabaco",
+      "dulce",
+      "especiado cálido",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "clementina",
+      "pepino",
+      "cardamomo"
+    ],
+    "notas_corazon": [
+      "pimienta negra",
+      "pimienta",
+      "osmanto"
+    ],
+    "notas_fondo": [
+      "tabaco",
+      "ámbar",
+      "pachulí",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-Shock-for-Him-10128.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 188,
+    "nombre": "Cool Water Hombre",
+    "marca": "Davidoff",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "125ml",
+    "familia": "Aromática acuática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "verano"
+    ],
+    "acordes": [
+      "acuático",
+      "aromático",
+      "fresco especiado",
+      "verde",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "agua de mar",
+      "lavanda",
+      "menta",
+      "romero",
+      "calone",
+      "cilantro"
+    ],
+    "notas_corazon": [
+      "sándalo",
+      "neroli",
+      "geranio",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "tabaco",
+      "ámbar",
+      "cedro",
+      "musgo de roble"
+    ],
+    "duracion": 3,
+    "proyeccion": 3,
+    "estela": 3,
+    "valoracion": 4,
+    "descripcion": "Fragancia masculina fresca y acuática, con salida marina y aromática y un fondo amaderado y almizclado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Davidoff/Cool-Water-For-Men-507.html",
+      "https://www.davidoff.com/"
+    ],
+    "estado": "confirmado"
+  },
+  {
+    "ref": 189,
+    "nombre": "Cool Water Mujer",
+    "marca": "Davidoff",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Floral acuática",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "acuático",
+      "floral",
+      "frutal",
+      "fresco",
+      "verde"
+    ],
+    "notas_salida": [
+      "cítricos",
+      "mielón",
+      "grosella negra",
+      "piña",
+      "membrillo"
+    ],
+    "notas_corazon": [
+      "lirio de los valles",
+      "jazmín",
+      "nenúfar",
+      "espino blanco",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "melocotón",
+      "mora",
+      "frambuesa",
+      "almizcle",
+      "vainilla"
+    ],
+    "duracion": 3,
+    "proyeccion": 2,
+    "estela": 3,
+    "valoracion": 3.8,
+    "descripcion": "Composición floral acuática de carácter fresco, frutal y limpio.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Davidoff/Cool-Water-Woman-473.html",
+      "https://www.davidoff.com/"
+    ],
+    "estado": "confirmado"
+  },
+  {
+    "ref": 190,
+    "nombre": "Aventus Hombre",
+    "marca": "Creed",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": "Chipre frutal",
+    "genero": "Hombre",
+    "ocasiones": [
+      "formal",
+      "oficina",
+      "noche",
+      "todo el año"
+    ],
+    "acordes": [
+      "frutal",
+      "ahumado",
+      "amaderado",
+      "dulce",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "piña",
+      "bergamota",
+      "grosella negra",
+      "manzana"
+    ],
+    "notas_corazon": [
+      "abedul",
+      "pachulí",
+      "jazmín de Marruecos",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "musgo de roble",
+      "vainilla",
+      "ámbar gris"
+    ],
+    "duracion": 4,
+    "proyeccion": 4,
+    "estela": 4,
+    "valoracion": 4.3,
+    "descripcion": "Aventus combina una apertura frutal con corazón ahumado y un fondo amaderado, almizclado y ligeramente dulce.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Creed/Aventus-9828.html",
+      "https://creedboutique.com/products/aventus"
+    ],
+    "estado": "confirmado"
+  },
+  {
+    "ref": 191,
+    "nombre": "Cr7 Rojo",
+    "marca": "Cristiano Ronaldo",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Amaderada especiada",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "amaderado",
+      "especiado cálido",
+      "cítrico",
+      "aromático",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "lavanda",
+      "canela"
+    ],
+    "notas_corazon": [
+      "cedro",
+      "iris",
+      "cardamomo"
+    ],
+    "notas_fondo": [
+      "tabaco",
+      "haba tonka",
+      "vainilla",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Cristiano-Ronaldo/CR7-Game-On-56606.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 192,
+    "nombre": "Discover",
+    "marca": "Cristiano Ronaldo",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "fresco especiado"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "manzana",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "violeta",
+      "manzanilla"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "madera de cachemira",
+      "vainilla"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 193,
+    "nombre": "Origins",
+    "marca": "Cristiano Ronaldo",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Aromática especiada",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "aromático",
+      "amaderado",
+      "especiado cálido",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "hoja de laurel",
+      "canela"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "salvia",
+      "iris"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "pachulí",
+      "ámbar",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 194,
+    "nombre": "Curve Black Hombre",
+    "marca": "Liz Claiborne",
+    "concentracion": null,
+    "tamano_ml": "125ml",
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "noche"
+    ],
+    "acordes": [
+      "amaderado",
+      "aromático",
+      "fresco especiado",
+      "cítrico"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 195,
+    "nombre": "Curve Chill Hombre",
+    "marca": "Liz Claiborne",
+    "concentracion": null,
+    "tamano_ml": "125ml",
+    "familia": "Aromática acuática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "verano"
+    ],
+    "acordes": [
+      "acuático",
+      "cítrico",
+      "aromático",
+      "verde"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 196,
+    "nombre": "Curve Chill Mujer",
+    "marca": "Liz Claiborne",
+    "concentracion": null,
+    "tamano_ml": "100ml",
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "frutal",
+      "floral",
+      "fresco",
+      "cítrico"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 197,
+    "nombre": "Curve Clasico Hombre",
+    "marca": "Liz Claiborne",
+    "concentracion": null,
+    "tamano_ml": "125ml",
+    "familia": "Aromática fougère",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "noche"
+    ],
+    "acordes": [
+      "aromático",
+      "amaderado",
+      "cítrico",
+      "verde",
+      "fresco especiado"
+    ],
+    "notas_salida": [
+      "limón",
+      "lavanda",
+      "piña",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "salvia",
+      "pimienta",
+      "cardamomo",
+      "violeta"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "cedro",
+      "ámbar",
+      "almizcle"
+    ],
+    "duracion": 3,
+    "proyeccion": 3,
+    "estela": 3,
+    "valoracion": 3.8,
+    "descripcion": "Fragancia masculina aromática y amaderada con salida cítrica y un fondo cálido.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-for-Men-376.html"
+    ],
+    "estado": "confirmado"
+  },
+  {
+    "ref": 198,
+    "nombre": "Curve Clasico Mujer",
+    "marca": "Liz Claiborne",
+    "concentracion": null,
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 199,
+    "nombre": "Curve Connect Hombre",
+    "marca": "Liz Claiborne",
+    "concentracion": null,
+    "tamano_ml": "125ml",
+    "familia": null,
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 200,
+    "nombre": "Curve Connect Mujer",
+    "marca": "Liz Claiborne",
+    "concentracion": null,
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 201,
+    "nombre": "Curve Crush Hombre",
+    "marca": "Liz Claiborne",
+    "concentracion": null,
+    "tamano_ml": "125ml",
+    "familia": null,
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 202,
+    "nombre": "Curve Crush Mujer",
+    "marca": "Liz Claiborne",
+    "concentracion": null,
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 203,
+    "nombre": "Curve Sport Hombre",
+    "marca": "Liz Claiborne",
+    "concentracion": null,
+    "tamano_ml": "125ml",
+    "familia": null,
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 204,
+    "nombre": "Curve Wave Hombre",
+    "marca": "Liz Claiborne",
+    "concentracion": null,
+    "tamano_ml": "125ml",
+    "familia": null,
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 205,
+    "nombre": "Curve Wave Mujer",
+    "marca": "Liz Claiborne",
+    "concentracion": null,
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 206,
+    "nombre": "Decant · Cloud Pink",
+    "marca": "Ariana Grande",
+    "concentracion": null,
+    "tamano_ml": "2ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 207,
+    "nombre": "Decant · Odyssey Artisto",
+    "marca": "Armaf",
+    "concentracion": null,
+    "tamano_ml": "5ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 208,
+    "nombre": "Decant · Ventana",
+    "marca": "Armaf",
+    "concentracion": null,
+    "tamano_ml": "5ml",
+    "familia": "Ámbar amaderada",
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "aromático",
+      "especiado fresco",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "limón",
+      "pomelo"
+    ],
+    "notas_corazon": [
+      "pachulí",
+      "lavanda",
+      "vetiver"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "sándalo",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina cítrica y amaderada de Armaf.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Armaf/Ventana-55580.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 209,
+    "nombre": "Decant · 212 Vip Rose",
+    "marca": "Carolina Herrera",
+    "concentracion": null,
+    "tamano_ml": "10ml",
+    "familia": "Floral afrutada",
+    "genero": "Femenino",
+    "ocasiones": [
+      "día",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "afrutado",
+      "floral",
+      "cítrico",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "champán",
+      "frutas"
+    ],
+    "notas_corazon": [
+      "flor de melocotonero"
+    ],
+    "notas_fondo": [
+      "maderas",
+      "almizcle blanco",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma femenino afrutado-floral con una salida de champán y fondo suave amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Rose-13933.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 210,
+    "nombre": "Decant · Sauvage",
+    "marca": "Dior",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "5ml",
+    "familia": "Aromática fougère",
+    "genero": "Masculino",
+    "ocasiones": [
+      "día",
+      "noche",
+      "todo el año"
+    ],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "especiado fresco",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "bergamota de Calabria",
+      "pimienta"
+    ],
+    "notas_corazon": [
+      "pimienta de Sichuan",
+      "lavanda",
+      "geranio",
+      "pachulí",
+      "vetiver",
+      "elemi"
+    ],
+    "notas_fondo": [
+      "ambroxan",
+      "cedro",
+      "lábdano"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia aromática masculina de bergamota, especias y ambroxan.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dior/Sauvage-31861.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 211,
+    "nombre": "Decant · Art Of Nature",
+    "marca": "Lattafa",
+    "concentracion": null,
+    "tamano_ml": "5ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Art-Of-Nature-85735.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 215,
+    "nombre": "Decant · Funny",
+    "marca": "Moschino",
+    "concentracion": null,
+    "tamano_ml": "5ml",
+    "familia": "Floral afrutada",
+    "genero": "Femenino",
+    "ocasiones": [
+      "día",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "floral",
+      "afrutado",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "naranja amarga",
+      "pimienta rosa",
+      "grosella roja"
+    ],
+    "notas_corazon": [
+      "violeta",
+      "peonía",
+      "té verde",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina fresca y floral con cítricos, peonía y un fondo amaderado almizclado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Moschino/Funny-700.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 216,
+    "nombre": "Decant · Toy 2 Bubble Gum",
+    "marca": "Moschino",
+    "concentracion": null,
+    "tamano_ml": "5ml",
+    "familia": "Floral afrutada",
+    "genero": "Femenino",
+    "ocasiones": [
+      "día",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "afrutado",
+      "floral",
+      "dulce",
+      "cítrico",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "cítricos",
+      "frutas confitadas",
+      "melocotón",
+      "limón italiano",
+      "grosella confitada"
+    ],
+    "notas_corazon": [
+      "chicle",
+      "rosa búlgara",
+      "arándano",
+      "melocotón",
+      "canela",
+      "melocotón blanco"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "ambroxan",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral afrutada dulce inspirada en el chicle, con rosa y fondo amaderado almizclado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Moschino/Toy-2-Bubble-Gum-63249.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 217,
+    "nombre": "Decant · Dylan Blue Hombre",
+    "marca": "Versace",
+    "concentracion": null,
+    "tamano_ml": "2ml",
+    "familia": "Aromática fougère",
+    "genero": "Masculino",
+    "ocasiones": [
+      "día",
+      "noche",
+      "todo el año"
+    ],
+    "acordes": [
+      "aromático",
+      "cítrico",
+      "amaderado",
+      "especiado fresco",
+      "acuático"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "pomelo",
+      "hoja de higuera",
+      "notas acuáticas"
+    ],
+    "notas_corazon": [
+      "ambroxan",
+      "pachulí",
+      "papiro",
+      "violeta",
+      "pimienta negra"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "haba tonka",
+      "azafrán",
+      "incienso"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina aromática y amaderada con faceta acuática, cítricos y ambroxan.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Versace/Dylan-Blue-Pour-Homme-39290.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 218,
+    "nombre": "Corporal · 360 Red Hombre",
+    "marca": "Perry Ellis",
+    "concentracion": null,
+    "tamano_ml": "170ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 219,
+    "nombre": "Fahrenheit",
+    "marca": "Dior",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "amaderada floral almizclada",
+    "genero": "hombre",
+    "ocasiones": [],
+    "acordes": [
+      "amaderado",
+      "violeta",
+      "cuero",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "bergamota",
+      "limón",
+      "lavanda"
+    ],
+    "notas_corazon": [
+      "violeta",
+      "nuez moscada",
+      "clavel",
+      "madreselva"
+    ],
+    "notas_fondo": [
+      "cuero",
+      "vetiver",
+      "pachulí",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dior/Fahrenheit-228.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 220,
+    "nombre": "Jadore",
+    "marca": "Dior",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": "floral",
+    "genero": "mujer",
+    "ocasiones": [],
+    "acordes": [
+      "florales",
+      "frutales",
+      "amaderados"
+    ],
+    "notas_salida": [
+      "pera",
+      "melón",
+      "melocotón",
+      "mandarina",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "violeta",
+      "rosa",
+      "nardo",
+      "fresia",
+      "lirio de los valles",
+      "orquídea"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "vainilla",
+      "mora",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dior/J-adore-210.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 221,
+    "nombre": "Sauvage",
+    "marca": "Dior",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": "aromática fougère",
+    "genero": "hombre",
+    "ocasiones": [],
+    "acordes": [
+      "cítricos",
+      "frescos especiados",
+      "amaderados"
+    ],
+    "notas_salida": [
+      "bergamota de Calabria",
+      "pimienta"
+    ],
+    "notas_corazon": [
+      "pimienta de Sichuan",
+      "lavanda",
+      "pimienta rosa",
+      "vetiver",
+      "pachulí",
+      "geranio"
+    ],
+    "notas_fondo": [
+      "ambroxan",
+      "cedro",
+      "lábdano"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dior/Sauvage-31861.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 222,
+    "nombre": "Fresh Blossom",
+    "marca": "DKNY",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": "floral frutal",
+    "genero": "mujer",
+    "ocasiones": [],
+    "acordes": [
+      "florales",
+      "frutales",
+      "cítricos"
+    ],
+    "notas_salida": [
+      "pomelo",
+      "casia",
+      "abrótano"
+    ],
+    "notas_corazon": [
+      "manzana roja",
+      "lirio de los valles",
+      "rosa",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "maderas",
+      "notas amaderadas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/DKNY/Fresh-Blossom-533.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 223,
+    "nombre": "Women",
+    "marca": "DKNY",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": "floral frutal",
+    "genero": "mujer",
+    "ocasiones": [],
+    "acordes": [
+      "cítricos",
+      "florales",
+      "frutales",
+      "amaderados"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "naranja",
+      "chirimoya",
+      "vodka"
+    ],
+    "notas_corazon": [
+      "loto",
+      "orquídea",
+      "narciso"
+    ],
+    "notas_fondo": [
+      "abedul",
+      "tulipán",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/DKNY/DKNY-Women-100.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 224,
+    "nombre": "Dolce Lily",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "75ml",
+    "familia": "floral frutal",
+    "genero": "mujer",
+    "ocasiones": [],
+    "acordes": [
+      "florales",
+      "frutales",
+      "cítricos"
+    ],
+    "notas_salida": [
+      "maracuyá",
+      "bergamota",
+      "pomelo"
+    ],
+    "notas_corazon": [
+      "lirio",
+      "rosa",
+      "acorde ozónico"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Lily-68972.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 225,
+    "nombre": "Your Devotion Intense",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 226,
+    "nombre": "Devotion Hombre",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": "hombre",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 227,
+    "nombre": "Dolce",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "75ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.dolcegabbana.com/"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 228,
+    "nombre": "Dolce Shine",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "75ml",
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "frutal",
+      "floral",
+      "cítrico",
+      "dulce",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "mango",
+      "toronja",
+      "membrillo"
+    ],
+    "notas_corazon": [
+      "mango",
+      "jazmín",
+      "azahar"
+    ],
+    "notas_fondo": [
+      "almizcle blanco",
+      "maderas",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": 3.84,
+    "descripcion": "Fragancia floral frutal femenina de Dolce & Gabbana, centrada en mango y flores blancas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Shine-59929.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 229,
+    "nombre": "Emperatriz",
+    "marca": "Dolce & Gabbana",
+    "concentracion": null,
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 230,
+    "nombre": "King",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "amaderado",
+      "aromático",
+      "cítrico",
+      "especiado fresco",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "limón",
+      "naranja sanguina",
+      "pimiento morrón"
+    ],
+    "notas_corazon": [
+      "higo",
+      "lavanda",
+      "geranio"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "vetiver",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": 3.82,
+    "descripcion": "Perfume masculino amaderado aromático de Dolce & Gabbana.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/King-103962.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 231,
+    "nombre": "King",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "aromático",
+      "verde",
+      "especiado fresco"
+    ],
+    "notas_salida": [
+      "naranja sanguina",
+      "limón",
+      "pimiento morrón"
+    ],
+    "notas_corazon": [
+      "higo",
+      "lavanda",
+      "geranio"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "vetiver",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": 3.78,
+    "descripcion": "Versión Eau de Toilette masculina, amaderada y aromática.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/King-Eau-de-Toilette-74110.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 232,
+    "nombre": "King",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Parfum",
+    "tamano_ml": "100ml",
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "amaderado",
+      "aromático",
+      "cítrico",
+      "especiado",
+      "terroso"
+    ],
+    "notas_salida": [
+      "limón",
+      "naranja sanguina"
+    ],
+    "notas_corazon": [
+      "higo",
+      "lavanda",
+      "geranio"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "vetiver",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": 3.86,
+    "descripcion": "Interpretación Parfum masculina de la línea King.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/King-Parfum-79179.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 233,
+    "nombre": "Light Blue Hombre Nuevo",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "Aromática acuática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "marino",
+      "fresco especiado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "pomelo",
+      "enebro"
+    ],
+    "notas_corazon": [
+      "romero",
+      "pimienta de Sichuan",
+      "palo de rosa"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "incienso",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": 3.95,
+    "descripcion": "Fragancia masculina fresca, cítrica y amaderada de la familia Light Blue.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Pour-Homme-107.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 234,
+    "nombre": "Light Blue Intense Mujer",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "frutal",
+      "floral",
+      "acuático",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "limón",
+      "manzana Granny Smith"
+    ],
+    "notas_corazon": [
+      "caléndula",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "ámbar",
+      "almizcle",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": 3.83,
+    "descripcion": "Versión intensa femenina, fresca y floral frutal.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Eau-Intense-for-Women-43444.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 235,
+    "nombre": "Light Blue Mujer",
+    "marca": "Dolce & Gabbana",
+    "concentracion": null,
+    "tamano_ml": "100ml",
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "frutal",
+      "floral",
+      "amaderado",
+      "dulce"
+    ],
+    "notas_salida": [
+      "manzana Granny Smith",
+      "cedro",
+      "campanilla"
+    ],
+    "notas_corazon": [
+      "bambú",
+      "jazmín",
+      "rosa blanca"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": 3.92,
+    "descripcion": "El Eau de Toilette femenino original Light Blue.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-485.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 236,
+    "nombre": "Light Blue Mujer",
+    "marca": "Dolce & Gabbana",
+    "concentracion": null,
+    "tamano_ml": "200ml",
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "frutal",
+      "floral",
+      "amaderado",
+      "dulce"
+    ],
+    "notas_salida": [
+      "manzana Granny Smith",
+      "cedro",
+      "campanilla"
+    ],
+    "notas_corazon": [
+      "bambú",
+      "jazmín",
+      "rosa blanca"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": 3.92,
+    "descripcion": "El mismo Light Blue Eau de Toilette femenino original en formato de 200 ml.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-485.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 237,
+    "nombre": "Light Blue Summer Vibes H",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "125ml",
+    "familia": "Aromática acuática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "marino",
+      "aromático",
+      "amaderado",
+      "fresco especiado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "mandarina"
+    ],
+    "notas_corazon": [
+      "romero",
+      "ciprés"
+    ],
+    "notas_fondo": [
+      "maderas",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Edición de verano masculina de la colección Light Blue.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Summer-Vibes-Pour-Homme-80056.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 238,
+    "nombre": "Light Blue Summer Vibes Mujer",
+    "marca": "Dolce & Gabbana",
+    "concentracion": null,
+    "tamano_ml": "100ml",
+    "familia": "cítrica floral frutal",
+    "genero": "mujer",
+    "ocasiones": [
+      "día",
+      "verano",
+      "casual"
+    ],
+    "acordes": [
+      "cítrico",
+      "frutal",
+      "floral",
+      "amaderado",
+      "dulce"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "durazno"
+    ],
+    "notas_corazon": [
+      "coco"
+    ],
+    "notas_fondo": [
+      "madera de cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia fresca y veraniega de la línea Light Blue, con salida cítrica y frutal, corazón de coco y fondo amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Summer-Vibes-74282.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 239,
+    "nombre": "Pour Femme",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "floral frutal",
+    "genero": "mujer",
+    "ocasiones": [
+      "día",
+      "oficina",
+      "noche"
+    ],
+    "acordes": [
+      "floral",
+      "frutal",
+      "dulce",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "neroli",
+      "frambuesa",
+      "mandarina"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "azahar"
+    ],
+    "notas_fondo": [
+      "malvavisco",
+      "vainilla",
+      "sándalo",
+      "heliotropo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Composición femenina floral y frutal con un carácter dulce y fondo amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Gabbana-Pour-Femme-486.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 240,
+    "nombre": "Pour Homme",
+    "marca": "Dolce & Gabbana",
+    "concentracion": null,
+    "tamano_ml": "125ml",
+    "familia": "cítrica aromática",
+    "genero": "hombre",
+    "ocasiones": [
+      "día",
+      "oficina",
+      "casual"
+    ],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "especiado fresco",
+      "floral"
+    ],
+    "notas_salida": [
+      "neroli",
+      "bergamota",
+      "mandarina",
+      "limón"
+    ],
+    "notas_corazon": [
+      "salvia",
+      "pimienta",
+      "lavanda"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "tabaco",
+      "cedro",
+      "cumarina"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma masculino cítrico-aromático con hierbas, especias frescas y base amaderada con tabaco.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Gabbana-Pour-Homme-486.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 241,
+    "nombre": "Q",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": "floral frutal",
+    "genero": "mujer",
+    "ocasiones": [
+      "día",
+      "primavera",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "cítrico",
+      "frutal",
+      "floral",
+      "amaderado",
+      "dulce"
+    ],
+    "notas_salida": [
+      "limón siciliano",
+      "naranja sanguina",
+      "jazmín"
+    ],
+    "notas_corazon": [
+      "cereza",
+      "heliotropo"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina frutal-floral con cítricos, cereza y un fondo de cedro y almizcle.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/Q-74499.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 242,
+    "nombre": "The One Hombre",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "ámbar amaderada",
+    "genero": "hombre",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "cita"
+    ],
+    "acordes": [
+      "ámbar",
+      "tabaco",
+      "amaderado",
+      "especiado cálido",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "toronja",
+      "cilantro",
+      "albahaca"
+    ],
+    "notas_corazon": [
+      "jengibre",
+      "cardamomo",
+      "azahar"
+    ],
+    "notas_fondo": [
+      "tabaco",
+      "ámbar",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina cálida y especiada, centrada en tabaco, ámbar y maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-for-Men-1835.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 243,
+    "nombre": "The One Mujer",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "75ml",
+    "familia": "ámbar floral",
+    "genero": "mujer",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "cita"
+    ],
+    "acordes": [
+      "ámbar",
+      "floral blanco",
+      "frutal",
+      "dulce",
+      "vainilla"
+    ],
+    "notas_salida": [
+      "durazno",
+      "litchi",
+      "mandarina"
+    ],
+    "notas_corazon": [
+      "lirio blanco",
+      "jazmín",
+      "lirio de los valles"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "almizcle",
+      "musgo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma femenino floral-ámbar con frutas luminosas, flores blancas y fondo cálido.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-for-Women-698.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 244,
+    "nombre": "Drakkar Noir",
+    "marca": "Guy Laroche",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "200ml",
+    "familia": "aromática fougère",
+    "genero": "hombre",
+    "ocasiones": [
+      "día",
+      "oficina",
+      "casual"
+    ],
+    "acordes": [
+      "aromático",
+      "amaderado",
+      "cítrico",
+      "verde",
+      "especiado fresco"
+    ],
+    "notas_salida": [
+      "lavanda",
+      "limón",
+      "romero",
+      "bergamota",
+      "menta"
+    ],
+    "notas_corazon": [
+      "ajenjo",
+      "albahaca",
+      "angela",
+      "canela",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "musgo de roble",
+      "cuero",
+      "vetiver",
+      "cedro",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fougère masculino clásico, aromático y amaderado, con lavanda, hierbas y musgo de roble.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Guy-Laroche/Drakkar-Noir-198.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 245,
+    "nombre": "Nitro Platinum",
+    "marca": "Dumont",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": "hombre",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Dumont%20Nitro%20Platinum"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 246,
+    "nombre": "Nitro Red Hombre",
+    "marca": "Dumont",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": "hombre",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Dumont%20Nitro%20Red"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 247,
+    "nombre": "Nitro Red Intensely",
+    "marca": "Dumont",
+    "concentracion": "Extrait de Parfum",
+    "tamano_ml": "100ml",
+    "familia": null,
+    "genero": "hombre",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Dumont%20Nitro%20Red%20Intensely"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 248,
+    "nombre": "5Ta Avenida",
+    "marca": "Elizabeth Arden",
+    "concentracion": null,
+    "tamano_ml": "125ml",
+    "familia": "floral",
+    "genero": "mujer",
+    "ocasiones": [
+      "día",
+      "oficina"
+    ],
+    "acordes": [
+      "floral",
+      "amaderado",
+      "cítrico",
+      "verde",
+      "atalcado"
+    ],
+    "notas_salida": [
+      "tilo",
+      "lirio de los valles",
+      "mandarina",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "violeta",
+      "jazmín",
+      "rosa",
+      "clavel",
+      "nuez moscada"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "ámbar",
+      "almizcle",
+      "vainilla"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Floral femenino clásico con cítricos y flores en un fondo suave de maderas, ámbar y almizcle.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Elizabeth-Arden/5th-Avenue-819.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 249,
+    "nombre": "Green Tea",
+    "marca": "Elizabeth Arden",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": "100ml",
+    "familia": "cítrica aromática",
+    "genero": "mujer",
+    "ocasiones": [
+      "día",
+      "verano",
+      "casual",
+      "oficina"
+    ],
+    "acordes": [
+      "cítrico",
+      "verde",
+      "aromático",
+      "floral",
+      "fresco especiado"
+    ],
+    "notas_salida": [
+      "limón",
+      "naranja",
+      "bergamota",
+      "menta",
+      "ruibarbo"
+    ],
+    "notas_corazon": [
+      "té verde",
+      "jazmín",
+      "clavel",
+      "hinojo"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "ámbar",
+      "musgo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia fresca y ligera inspirada en el té verde, con cítricos, hierbas y una base limpia.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Elizabeth-Arden/Green-Tea- ರೂಪ.html"
+    ],
+    "estado": "requiere_revision"
+  },
+  {
+    "ref": 250,
+    "nombre": "Red Door",
+    "marca": "Elizabeth Arden",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": "100ml",
+    "familia": "floral",
+    "genero": "mujer",
+    "ocasiones": [
+      "noche",
+      "ocasiones especiales",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "floral",
+      "floral blanco",
+      "amaderado",
+      "ámbar",
+      "dulce"
+    ],
+    "notas_salida": [
+      "rosa",
+      "violeta",
+      "flor de azahar",
+      "melocotón"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "ylang-ylang",
+      "miel",
+      "nardo",
+      "clavel"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "ámbar",
+      "almizcle",
+      "vetiver"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Floral intenso y clásico con rosa, flores blancas, miel y una base cálida amaderada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Elizabeth-Arden/Red-Door-168.html"
+    ],
+    "estado": "requiere_revision"
+  }
+]
+
