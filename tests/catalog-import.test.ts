@@ -71,3 +71,28 @@ test("verified retailer matches add only an exact-size visual reference", () => 
   assert.equal(wrongSize?.imagen_url, null);
   assert.equal(wrongSize?.ficha_estado, "pendiente");
 });
+
+test("reviewed Afnan records preserve supplier identity and sourced performance", () => {
+  const nineAm = catalog.records.find((record) => record.origen_ref === 7);
+  assert.equal(nineAm?.nombre, "9 AM");
+  assert.equal(nineAm?.presentacion_proveedor, "AFNAN 9AM BLANCO EDP 100ML");
+  assert.equal(nineAm?.duracion, null);
+
+  const ninePm = catalog.records.find((record) => record.origen_ref === 10);
+  assert.equal(ninePm?.duracion, 4);
+  assert.equal(ninePm?.proyeccion, 4);
+  assert.equal(ninePm?.estela, 4);
+  assert.match(JSON.stringify(ninePm?.fuentes), /parfumo\.com/);
+
+  const electric = catalog.records.find((record) => record.origen_ref === 11);
+  assert.equal(electric?.nombre, "Turathi Electric");
+  assert.equal(electric?.marca, "Afnan");
+  assert.equal(electric?.tamano_ml, 90);
+  assert.deepEqual(electric?.notas_salida, [
+    "Pera",
+    "Toronja rosada",
+    "Mandarina",
+    "Bergamota",
+  ]);
+  assert.equal(electric?.ficha_estado, "verificada");
+});

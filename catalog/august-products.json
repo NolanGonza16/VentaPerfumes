@@ -240,7 +240,12 @@
         {
           "titulo": "Ficha oficial de Afnan",
           "url": "https://us.afnan.com/products/9-am",
-          "fecha": "2026-09-08"
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Opiniones de la comunidad en Parfumo",
+          "url": "https://www.parfumo.com/Perfumes/Afnan_Perfumes/9am",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -296,17 +301,22 @@
         "Jengibre",
         "Sándalo"
       ],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
+      "duracion": 4,
+      "proyeccion": 4,
+      "estela": 4,
+      "valoracion": 3.7,
       "descripcion": "Cítricos vibrantes y menta abren una composición fresca, con matices de incienso y un fondo de maderas. Una propuesta enérgica de espíritu cotidiano.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0714/3129/1097/files/9AM-Dive-01_d4bc61ac-c620-48b5-984b-c18d267d8e82.jpg?v=1775552891&width=1080",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Afnan",
           "url": "https://us.afnan.com/products/9-am-dive",
-          "fecha": "2026-09-08"
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Valoraciones de la comunidad en Parfumo",
+          "url": "https://www.parfumo.com/Perfumes/Afnan_Perfumes/9am-dive",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -366,9 +376,9 @@
         "Pachulí",
         "Vainilla"
       ],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
+      "duracion": 4,
+      "proyeccion": 4,
+      "estela": 4,
       "valoracion": null,
       "descripcion": "Especias cálidas, cuero y resinas dibujan una presencia profunda. La vainilla suaviza el fondo de una fragancia de carácter envolvente, pensada para destacar al caer la noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0714/3129/1097/files/STILL_ELIXIR_SQUARE_08_2048x2048_7342c733-73a2-4e3e-b3b6-0ee0333c671d.png?v=1775218859&width=1080",
@@ -376,7 +386,12 @@
         {
           "titulo": "Ficha oficial de Afnan",
           "url": "https://afnan.com/products/9-pm-elixir",
-          "fecha": "2026-09-08"
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Opiniones de la comunidad en Parfumo",
+          "url": "https://www.parfumo.com/Perfumes/Afnan_Perfumes/9pm-elixir",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -436,17 +451,22 @@
         "Vainilla",
         "Haba tonka"
       ],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
+      "duracion": 4,
+      "proyeccion": 4,
+      "estela": 4,
+      "valoracion": 4.0,
       "descripcion": "Manzana y canela dan paso a flores suaves y un fondo dulce de vainilla y haba tonka. Cálido y expresivo, es una sugerencia para salidas nocturnas y encuentros especiales.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0714/3129/1097/files/03_9PM.jpg?v=1775552889&width=1080",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Afnan",
           "url": "https://us.afnan.com/products/9-pm",
-          "fecha": "2026-09-08"
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Valoraciones de la comunidad en Parfumo",
+          "url": "https://www.parfumo.com/Perfumes/Afnan_Perfumes/9pm",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -465,23 +485,61 @@
       "precio_crc": 30600,
       "tamano_ml": 90,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Floral",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Pera",
+        "Toronja rosada",
+        "Mandarina",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Azahar",
+        "Manzana",
+        "Cedro"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Ámbar",
+        "Vainilla"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 3.8,
+      "descripcion": "Una fragancia luminosa de cítricos y frutas jugosas que evoluciona hacia un fondo limpio de almizcle, ámbar y vainilla. Fresca, moderna y versátil para el día, la oficina y los momentos casuales.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/TurathiElectric.png?v=1750714838",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/afnan-turathi-electric",
+          "titulo": "Ficha olfativa de Fragrantica",
+          "url": "https://www.fragrantica.es/perfume/Afnan/Turathi-Electric-108244.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Valoraciones de la comunidad en Parfumo",
+          "url": "https://www.parfumo.com/Perfumes/Afnan_Perfumes/turathi-electric",
           "fecha": "2026-09-09"
         }
       ],
@@ -490,7 +548,7 @@
       "orden": 1011,
       "sku": "AGOSTO-2026-0011",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 11,
       "presentacion_proveedor": "AFNAN TURATHI ELECTRIC EDP 90ML"
     },
