@@ -72,15 +72,26 @@ def notes(s):
     body=s.get("body") or ""
     blocks=re.findall(r'class="notesfinal"[^>]*>(.*?)</div>',body,re.I|re.S)
     groups={}
+    joined=" ".join(bodytext(block) for block in blocks)
+    tiers=re.search(
+        r"Top Notes\s*:?\s*(.*?)\s*(?:Middle|Heart) Notes\s*:?\s*(.*?)\s*Base Notes\s*:?\s*(.*)",
+        joined,
+        re.I,
+    )
+    if tiers:
+        groups=dict(zip(["salida","corazon","fondo"],tiers.groups()))
     for b in blocks:
         txt=bodytext(b)
         m=re.match(r"(Top|Middle|Heart|Base) Notes\s*:?\s*(.+)",txt,re.I)
-        if m:groups[{"top":"salida","middle":"corazon","heart":"corazon","base":"fondo"}[m[1].lower()]]=m[2]
+        if m and not tiers:groups[{"top":"salida","middle":"corazon","heart":"corazon","base":"fondo"}[m[1].lower()]]=m[2]
     if len(groups)<3:
         txt=bodytext(body)
         m=re.search(r"Opening with (.+?), the heart reveals (.+?), resting on a base of ([^.]+)",txt,re.I)
         if m:groups=dict(zip(["salida","corazon","fondo"],m.groups()))
-    return {k:[n.strip().strip(".") for n in re.split(r",|;|\s+and\s+",v) if n.strip()] for k,v in groups.items()}
+    return {
+        k:[n.strip().strip(".") for n in re.split(r",|;|\s+and\s+",re.split(r"Available in\s*:",v,flags=re.I)[0]) if n.strip() and n.strip()!="0"]
+        for k,v in groups.items()
+    }
 
 def run():
     catalog=json.loads((ROOT/"catalog/august-products.json").read_text(encoding="utf-8"))

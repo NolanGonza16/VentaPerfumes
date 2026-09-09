@@ -38,3 +38,22 @@ test("the public artifact has retail prices but never supplier costs", () => {
   assert.equal(yslY?.nombre, "Y");
   assert.equal(yslY?.precio_crc, 74800);
 });
+
+test("verified manufacturer matches add Spanish notes and never reuse a wrong edition", () => {
+  const auraFresh = catalog.records.find((record) => record.origen_ref === 43);
+  assert.equal(auraFresh?.ficha_estado, "parcial");
+  assert.match(String(auraFresh?.imagen_url), /^https:\/\/cdn\.shopify\.com\//);
+  assert.deepEqual(auraFresh?.notas_salida, [
+    "Limón",
+    "Bergamota",
+    "Cardamomo",
+    "Carambola",
+  ]);
+  assert.match(JSON.stringify(auraFresh?.fuentes), /armaf\.com/);
+
+  const ambiguousFakhar = catalog.records.find(
+    (record) => record.origen_ref === 453,
+  );
+  assert.equal(ambiguousFakhar?.ficha_estado, "pendiente");
+  assert.equal(ambiguousFakhar?.imagen_url, null);
+});

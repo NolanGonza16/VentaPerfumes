@@ -1,5 +1,5 @@
 {
-  "status": "enrichment_in_progress",
+  "status": "manufacturer_enrichment_partial",
   "records": [
     {
       "slug": "abercrombie-fitch-fierce-cologne-100-1",
@@ -190,7 +190,10 @@
       "concentracion": "Eau de Parfum",
       "familia": "Fresco",
       "genero": "Unisex",
-      "ocasiones": ["Diario", "Oficina"],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
       "acordes": [
         {
           "nombre": "Cítrico",
@@ -209,9 +212,24 @@
           "emoji": ""
         }
       ],
-      "notas_salida": ["Mandarina", "Cidra", "Cardamomo", "Pimienta rosa"],
-      "notas_corazon": ["Lavanda", "Azahar", "Rosa", "Manzana verde"],
-      "notas_fondo": ["Cedro", "Musgo", "Pachulí", "Almizcle"],
+      "notas_salida": [
+        "Mandarina",
+        "Cidra",
+        "Cardamomo",
+        "Pimienta rosa"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Azahar",
+        "Rosa",
+        "Manzana verde"
+      ],
+      "notas_fondo": [
+        "Cedro",
+        "Musgo",
+        "Pachulí",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
@@ -243,7 +261,10 @@
       "concentracion": "Eau de Parfum",
       "familia": "Fresco",
       "genero": "Unisex",
-      "ocasiones": ["Diario", "Oficina"],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
       "acordes": [
         {
           "nombre": "Fresco",
@@ -258,9 +279,23 @@
           "emoji": ""
         }
       ],
-      "notas_salida": ["Limón", "Pimienta rosa", "Menta", "Grosella negra"],
-      "notas_corazon": ["Manzana", "Incienso", "Cedro"],
-      "notas_fondo": ["Pachulí", "Jazmín", "Jengibre", "Sándalo"],
+      "notas_salida": [
+        "Limón",
+        "Pimienta rosa",
+        "Menta",
+        "Grosella negra"
+      ],
+      "notas_corazon": [
+        "Manzana",
+        "Incienso",
+        "Cedro"
+      ],
+      "notas_fondo": [
+        "Pachulí",
+        "Jazmín",
+        "Jengibre",
+        "Sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
@@ -292,7 +327,11 @@
       "concentracion": "Parfum Intense",
       "familia": "Especiado",
       "genero": "Unisex",
-      "ocasiones": ["Noche", "Citas", "Eventos especiales"],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "Especiado",
@@ -311,9 +350,22 @@
           "emoji": ""
         }
       ],
-      "notas_salida": ["Nuez moscada", "Elemí", "Cardamomo"],
-      "notas_corazon": ["Pimienta de Jamaica", "Lavandín", "Cuero"],
-      "notas_fondo": ["Jara", "Ládano", "Pachulí", "Vainilla"],
+      "notas_salida": [
+        "Nuez moscada",
+        "Elemí",
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Pimienta de Jamaica",
+        "Lavandín",
+        "Cuero"
+      ],
+      "notas_fondo": [
+        "Jara",
+        "Ládano",
+        "Pachulí",
+        "Vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
@@ -345,7 +397,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Dulce",
       "genero": "Hombre",
-      "ocasiones": ["Noche", "Citas", "Eventos especiales"],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "Dulce",
@@ -364,9 +420,22 @@
           "emoji": ""
         }
       ],
-      "notas_salida": ["Bergamota", "Lavandín", "Canela", "Manzana"],
-      "notas_corazon": ["Lirio del valle", "Azahar"],
-      "notas_fondo": ["Pachulí", "Ámbar", "Vainilla", "Haba tonka"],
+      "notas_salida": [
+        "Bergamota",
+        "Lavandín",
+        "Canela",
+        "Manzana"
+      ],
+      "notas_corazon": [
+        "Lirio del valle",
+        "Azahar"
+      ],
+      "notas_fondo": [
+        "Pachulí",
+        "Ámbar",
+        "Vainilla",
+        "Haba tonka"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
@@ -1357,25 +1426,45 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Limón",
+        "Bergamota",
+        "Cardamomo",
+        "Carambola"
+      ],
+      "notas_corazon": [
+        "Pimienta",
+        "Salvia"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Cedro",
+        "Amaderado",
+        "Azafrán",
+        "Ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Aura Fresh abre con Limón, Bergamota, Cardamomo; evoluciona hacia Pimienta, Salvia; descansa sobre un fondo de Almizcle, Cedro, Amaderado.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/armaf-aura-fresh-eau-de-parfum-for-men.jpg?v=1759863192",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/armaf-aura-fresh",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1043,
       "sku": "AGOSTO-2026-0043",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 43,
       "presentacion_proveedor": "ARMAF AURA FRESH EDP 100ML"
     },
@@ -1387,25 +1476,40 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Frutas tropicales",
+        "Toronja"
+      ],
+      "notas_corazon": [
+        "Agua de mar",
+        "Guayaba"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Notas amaderadas"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Beach Party abre con Frutas tropicales, Toronja; evoluciona hacia Agua de mar, Guayaba; descansa sobre un fondo de Almizcle, Notas amaderadas.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/armafbeach.png?v=1744396383",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/beach-party-spr",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1044,
       "sku": "AGOSTO-2026-0044",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 44,
       "presentacion_proveedor": "ARMAF BEACH PARTY EDP 100ML"
     },
@@ -1420,22 +1524,43 @@
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Limón",
+        "Mandarina",
+        "Neroli",
+        "Lima"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Romero",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Cedro",
+        "Vainilla",
+        "Musgo de roble"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Blue Homme abre con Bergamota, Limón, Mandarina; evoluciona hacia Lavanda, Romero, Jazmín; descansa sobre un fondo de Ámbar, Cedro, Vainilla.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Q-132ABLUEHOMME100ML_M_509ed8b8-a321-4bdf-b78c-0e083d5ecacb.jpg?v=1739111254",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/blue-homme",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1045,
       "sku": "AGOSTO-2026-0045",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 45,
       "presentacion_proveedor": "ARMAF BLUE HOMME EDP 100ML"
     },
@@ -1507,25 +1632,39 @@
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Cítricos"
+      ],
+      "notas_corazon": [
+        "Flower Prism",
+        "Stardust"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Velvet Wood"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Club De Nuit Bling abre con Cítricos; evoluciona hacia Flower Prism, Stardust; descansa sobre un fondo de Vainilla, Velvet Wood.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CDN_BLING_313469_-A-1-SF.png?v=1775252102",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/club-de-nuit-bling",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1048,
       "sku": "AGOSTO-2026-0048",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 48,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT BLING EDP 75ML"
     },
@@ -1537,25 +1676,50 @@
       "tamano_ml": 105,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Toronja",
+        "Limón",
+        "Menta",
+        "Pimienta rosa",
+        "Cilantro"
+      ],
+      "notas_corazon": [
+        "Jengibre",
+        "Nuez moscada",
+        "Jazmín",
+        "Melón"
+      ],
+      "notas_fondo": [
+        "Incienso",
+        "Ámbar",
+        "Cedro",
+        "Sándalo",
+        "Pachulí",
+        "Ládano",
+        "Amaderado"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Club De Nuit Iconic abre con Toronja, Limón, Menta; evoluciona hacia Jengibre, Nuez moscada, Jazmín; descansa sobre un fondo de Incienso, Ámbar, Cedro.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image.webp?v=1767893940",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/club-de-nuit-blue-iconic-200ml",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1049,
       "sku": "AGOSTO-2026-0049",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 49,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT ICONIC EDP 105ML"
     },
@@ -1567,25 +1731,45 @@
       "tamano_ml": 105,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Lichi",
+        "Bergamota",
+        "Nuez moscada"
+      ],
+      "notas_corazon": [
+        "Rosa turca",
+        "Peonía",
+        "Almizcle",
+        "Vainilla"
+      ],
+      "notas_fondo": [
+        "Cachemira",
+        "Cedro",
+        "Incienso",
+        "Vetiver"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Club De Nuit Imperiale abre con Lichi, Bergamota, Nuez moscada; evoluciona hacia Rosa turca, Peonía, Almizcle; descansa sobre un fondo de Cachemira, Cedro, Incienso.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/65.png?v=1758576123",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/armaf-club-de-nuit-white-imperial-buy-original-perfumes-online-uae",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1050,
       "sku": "AGOSTO-2026-0050",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 50,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT IMPERIALE EDP 105ML"
     },
@@ -1600,22 +1784,43 @@
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Manzana",
+        "Bergamota",
+        "Grosella negra",
+        "Piña",
+        "Limón"
+      ],
+      "notas_corazon": [
+        "Rosa",
+        "Abedul",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Ámbar gris",
+        "Pachulí",
+        "Vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Club De Nuit Intense Man abre con Manzana, Bergamota, Grosella negra; evoluciona hacia Rosa, Abedul, Jazmín; descansa sobre un fondo de Almizcle, Ámbar gris, Pachulí.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CDN12.png?v=1781552801",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/club-de-nuit-intense-man-4",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1051,
       "sku": "AGOSTO-2026-0051",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 51,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT INTENSE MAN EDT 105ML"
     },
@@ -1690,22 +1895,38 @@
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Lavanda",
+        "Menta"
+      ],
+      "notas_corazon": [
+        "Benjuí",
+        "Vainilla"
+      ],
+      "notas_fondo": [
+        "Miel",
+        "Haba tonka",
+        "Tabaco"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Club De Nuit Lionheart Man abre con Lavanda, Menta; evoluciona hacia Benjuí, Vainilla; descansa sobre un fondo de Miel, Haba tonka, Tabaco.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Lionheart..png?v=1765209131",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/cdn-lion-heart-man-spr",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1054,
       "sku": "AGOSTO-2026-0054",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 54,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT LIONHEART MAN EDP 100ML"
     },
@@ -1720,22 +1941,38 @@
       "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Lavanda",
+        "Menta"
+      ],
+      "notas_corazon": [
+        "Benjuí",
+        "Vainilla"
+      ],
+      "notas_fondo": [
+        "Miel",
+        "Haba tonka",
+        "Tabaco"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Club De Nuit Lionheart Woman abre con Lavanda, Menta; evoluciona hacia Benjuí, Vainilla; descansa sobre un fondo de Miel, Haba tonka, Tabaco.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CLUBDENUITLIONHEARTWOMAN...png?v=1765210005",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/cdn-lion-heart-spr",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1055,
       "sku": "AGOSTO-2026-0055",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 55,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT LIONHEART WOMAN EDP 100ML"
     },
@@ -1750,22 +1987,43 @@
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Mandarina",
+        "Toronja",
+        "Menta"
+      ],
+      "notas_corazon": [
+        "Canela",
+        "Clavo de olor",
+        "Jengibre",
+        "Pimienta"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Notas especiadas",
+        "Notas amaderadas",
+        "Cuero",
+        "Pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Club De Nuit Man abre con Mandarina, Toronja, Menta; evoluciona hacia Canela, Clavo de olor, Jengibre; descansa sobre un fondo de Ámbar, Notas especiadas, Notas amaderadas.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/74.png?v=1758576648",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/club-de-nuit-man1",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1056,
       "sku": "AGOSTO-2026-0056",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 56,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT MAN EDT 105ML"
     },
@@ -1777,25 +2035,43 @@
       "tamano_ml": 105,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Frutos rojos",
+        "Acordes marinos"
+      ],
+      "notas_corazon": [
+        "Violeta",
+        "Sándalo",
+        "Maderas blancas"
+      ],
+      "notas_fondo": [
+        "Vetiver",
+        "Almizcle",
+        "Ambroxan"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Club De Nuit Milestone abre con Bergamota, Frutos rojos, Acordes marinos; evoluciona hacia Violeta, Sándalo, Maderas blancas; descansa sobre un fondo de Vetiver, Almizcle, Ambroxan.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/67.png?v=1758576374",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/club-de-nuit-milestone",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1057,
       "sku": "AGOSTO-2026-0057",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 57,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT MILESTONE EDP 105ML"
     },
@@ -1897,25 +2173,44 @@
       "tamano_ml": 105,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Limón",
+        "Lima",
+        "Jengibre",
+        "Grosella negra",
+        "Hojas de violeta"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Iris",
+        "Rosa"
+      ],
+      "notas_fondo": [
+        "Sandalwood Cedar wood Musk Ambroxan"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Club De Nuit Sillage abre con Bergamota, Limón, Lima; evoluciona hacia Jazmín, Iris, Rosa; descansa sobre un fondo de Sandalwood Cedar wood Musk Ambroxan.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/68.png?v=1758576452",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/armaf-club-de-nuit-silage-men",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1061,
       "sku": "AGOSTO-2026-0061",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 61,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT SILLAGE EDP 105ML"
     },
@@ -1927,25 +2222,40 @@
       "tamano_ml": 105,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Azafrán",
+        "Jazmín"
+      ],
+      "notas_corazon": [
+        "Madera de ámbar",
+        "Ámbar gris"
+      ],
+      "notas_fondo": [
+        "Resina de abeto",
+        "Cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Club De Nuit Untold abre con Azafrán, Jazmín; evoluciona hacia Madera de ámbar, Ámbar gris; descansa sobre un fondo de Resina de abeto, Cedro.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/64.png?v=1758576052",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/armaf-club-de-nuit-untold",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1062,
       "sku": "AGOSTO-2026-0062",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 62,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT UNTOLD EDP 105ML"
     },
@@ -1960,22 +2270,43 @@
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Menta",
+        "Toronja",
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Cedro",
+        "Jengibre",
+        "Nuez moscada"
+      ],
+      "notas_fondo": [
+        "Pachulí",
+        "Vetiver",
+        "Sándalo",
+        "Musgo de roble"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Club De Nuit Urban Man abre con Bergamota, Menta, Toronja; evoluciona hacia Lavanda, Cedro, Jengibre; descansa sobre un fondo de Pachulí, Vetiver, Sándalo.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CLUBDENUITURBANMAN01.png?v=1765209493",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/club-de-nuit-iconic",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1063,
       "sku": "AGOSTO-2026-0063",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 63,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT URBAN MAN EDP 105ML"
     },
@@ -1990,22 +2321,46 @@
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Pimienta rosa",
+        "Azahar",
+        "Jazmín"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Tagetes",
+        "Geranio",
+        "Vetiver",
+        "Elemí",
+        "Azafrán"
+      ],
+      "notas_fondo": [
+        "Ambroxan",
+        "Ámbar",
+        "Pachulí",
+        "Cedro",
+        "Ládano"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Club De Nuit Urban Man Elixir abre con Bergamota, Pimienta rosa, Azahar; evoluciona hacia Lavanda, Tagetes, Geranio; descansa sobre un fondo de Ambroxan, Ámbar, Pachulí.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/66.png?v=1758576197",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/club-de-nuit-urban-elixir-100ml",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1064,
       "sku": "AGOSTO-2026-0064",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 64,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT URBAN MAN ELIXIR EDP 105ML"
     },
@@ -2020,22 +2375,43 @@
       "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Toronja",
+        "Durazno",
+        "Naranja"
+      ],
+      "notas_corazon": [
+        "Geranio",
+        "Jazmín",
+        "Lichi",
+        "Rosa"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Pachulí",
+        "Vainilla",
+        "Vetiver"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Club De Nuit Woman abre con Bergamota, Toronja, Durazno; evoluciona hacia Geranio, Jazmín, Lichi; descansa sobre un fondo de Almizcle, Pachulí, Vainilla.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CDN1.png?v=1774468835",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/club-de-nuit-w",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1065,
       "sku": "AGOSTO-2026-0065",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 65,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT WOMAN EDP 105ML"
     },
@@ -2050,22 +2426,42 @@
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Manzana verde",
+        "Toronja",
+        "Jengibre",
+        "Aldehídos"
+      ],
+      "notas_corazon": [
+        "Geranio",
+        "Lavanda",
+        "Salvia"
+      ],
+      "notas_fondo": [
+        "Olíbano",
+        "Haba tonka",
+        "Pachulí",
+        "Cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Connoisseur Man abre con Manzana verde, Toronja, Jengibre; evoluciona hacia Geranio, Lavanda, Salvia; descansa sobre un fondo de Olíbano, Haba tonka, Pachulí.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/armafcm_0b1cadc1-27b2-4f11-bb45-f54237b74f54.png?v=1744395852",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/connoisseur-spr-1",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1066,
       "sku": "AGOSTO-2026-0066",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 66,
       "presentacion_proveedor": "ARMAF CONNOISSEUR MAN EDP 100ML"
     },
@@ -2110,22 +2506,44 @@
       "genero": null,
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Pepper Lemon",
+        "Aceite de naranja",
+        "Bergamota italiana",
+        "Grapefruit Pineapple"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Geranio egipcio",
+        "Ylang-ylang",
+        "Caramelo"
+      ],
+      "notas_fondo": [
+        "Pachulí",
+        "Vetiver",
+        "Cedro",
+        "Musk Leather",
+        "Ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Eter Arabian Sky abre con Pepper Lemon, Aceite de naranja, Bergamota italiana; evoluciona hacia Lavanda, Geranio egipcio, Ylang-ylang; descansa sobre un fondo de Pachulí, Vetiver, Cedro.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ArabianSky.jpg?v=1739111241",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/eter-arabian-sky",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1068,
       "sku": "AGOSTO-2026-0068",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 68,
       "presentacion_proveedor": "ARMAF ETER ARABIAN SKY EDP 100ML"
     },
@@ -2170,22 +2588,40 @@
       "genero": null,
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bayas silvestres",
+        "Notas verdes"
+      ],
+      "notas_corazon": [
+        "Coco",
+        "Azahar",
+        "Lactonas",
+        "Nenúfar"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Haba tonka",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Island Bliss abre con Bayas silvestres, Notas verdes; evoluciona hacia Coco, Azahar, Lactonas; descansa sobre un fondo de Vainilla, Haba tonka, Almizcle.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/armafislandbliss.png?v=1744392136",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/island-bliss-delights-spr",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1070,
       "sku": "AGOSTO-2026-0070",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 70,
       "presentacion_proveedor": "ARMAF ISLAND BLISS EDP 100ML"
     },
@@ -2200,22 +2636,35 @@
       "genero": null,
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Durazno",
+        "Bayas silvestres"
+      ],
+      "notas_corazon": [
+        "Rosa"
+      ],
+      "notas_fondo": [
+        "Almizcle blanco"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Island Breeze abre con Durazno, Bayas silvestres; evoluciona hacia Rosa; descansa sobre un fondo de Almizcle blanco.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/islandbliss_900x_f77557f2-593e-41e6-85fb-8facf61de479.webp?v=1762464766",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/island-breeze",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1071,
       "sku": "AGOSTO-2026-0071",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 71,
       "presentacion_proveedor": "ARMAF ISLAND BREEZE EDP 100ML"
     },
@@ -2230,22 +2679,41 @@
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Grosella negra",
+        "Piña",
+        "Limón"
+      ],
+      "notas_corazon": [
+        "Rosa",
+        "Acordes especiados",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Ámbar gris",
+        "Almizcle",
+        "Vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Le Parfait Hombre abre con Bergamota, Grosella negra, Piña; evoluciona hacia Rosa, Acordes especiados, Jazmín; descansa sobre un fondo de Ámbar gris, Almizcle, Vainilla.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/LEPARFAITHOMME-100MLFIF_ac83b61a-000f-40b2-8064-166eb20dfdb1.jpg?v=1739111260",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/le-pa-rfait-homme",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1072,
       "sku": "AGOSTO-2026-0072",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 72,
       "presentacion_proveedor": "ARMAF LE PARFAIT HOMBRE EDP 100ML"
     },
@@ -2260,22 +2728,42 @@
       "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Limón",
+        "Durazno",
+        "Lichi"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Canela",
+        "Manzana",
+        "Lirio del valle"
+      ],
+      "notas_fondo": [
+        "Andalwood",
+        "Almizcle",
+        "Madera de cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Legasi Mujer abre con Bergamota, Limón, Durazno; evoluciona hacia Jazmín, Canela, Manzana; descansa sobre un fondo de Andalwood, Almizcle, Madera de cedro.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/LEGACYEDPFORWOMEN100ML_ARMAFSERIES_FIF.jpg?v=1739111291",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/legasi",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1073,
       "sku": "AGOSTO-2026-0073",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 73,
       "presentacion_proveedor": "ARMAF LEGASI MUJER EDP 100ML"
     },
@@ -2317,25 +2805,42 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Azafrán",
+        "Nuez moscada",
+        "Lavanda"
+      ],
+      "notas_corazon": [
+        "Oud",
+        "Notas amaderadas"
+      ],
+      "notas_fondo": [
+        "Pachulí",
+        "Almizcle",
+        "Ambroxan"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Aoud abre con Azafrán, Nuez moscada, Lavanda; evoluciona hacia Oud, Notas amaderadas; descansa sobre un fondo de Pachulí, Almizcle, Ambroxan.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image-2023-05-04T101554.235.jpg?v=1739111569",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-aoud-edition",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1075,
       "sku": "AGOSTO-2026-0075",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 75,
       "presentacion_proveedor": "ARMAF ODYSSEY AOUD EDP 100ML"
     },
@@ -2407,25 +2912,47 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Caramelo",
+        "Cereza",
+        "Canela",
+        "Lactonas",
+        "Flores blancas"
+      ],
+      "notas_corazon": [
+        "Dátiles",
+        "Miel",
+        "Nuez moscada"
+      ],
+      "notas_fondo": [
+        "Praliné",
+        "Haba tonka",
+        "Vainilla",
+        "Notas amaderadas",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Black Forest abre con Caramelo, Cereza, Canela; evoluciona hacia Dátiles, Miel, Nuez moscada; descansa sobre un fondo de Praliné, Haba tonka, Vainilla.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image-2025-09-17T095429.126_900x_1bb05c54-723a-444a-bee4-2221e5041539.webp?v=1762473601",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-toffee-coffee-copy-1",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1078,
       "sku": "AGOSTO-2026-0078",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 78,
       "presentacion_proveedor": "ARMAF ODYSSEY BLACK FOREST EDP 100ML"
     },
@@ -2497,25 +3024,46 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Limón",
+        "Pimienta rosa",
+        "Jengibre",
+        "Flores blancas"
+      ],
+      "notas_corazon": [
+        "Mango",
+        "Haba tonka",
+        "Maderas secas"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Ámbar",
+        "Madera de gaiac",
+        "Almizcle",
+        "Notas de frutos secos"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Go Mango abre con Limón, Pimienta rosa, Jengibre; evoluciona hacia Mango, Haba tonka, Maderas secas; descansa sobre un fondo de Vainilla, Ámbar, Madera de gaiac.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ODYSSEYGOMANGO2.png?v=1767893488",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-go-mango",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1081,
       "sku": "AGOSTO-2026-0081",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 81,
       "presentacion_proveedor": "ARMAF ODYSSEY GO MANGO EDP 100ML"
     },
@@ -2530,22 +3078,40 @@
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Mandarina",
+        "Neroli",
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Rosa",
+        "Azahar"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Vainilla",
+        "Ámbar",
+        "Acordes amaderados"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Homme abre con Mandarina, Neroli, Cardamomo; evoluciona hacia Rosa, Azahar; descansa sobre un fondo de Sándalo, Vainilla, Ámbar.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image-2023-05-19T090307.426.jpg?v=1739111580",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-homme-man",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1082,
       "sku": "AGOSTO-2026-0082",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 82,
       "presentacion_proveedor": "ARMAF ODYSSEY HOMME EDP 100ML"
     },
@@ -2557,7 +3123,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -2568,14 +3134,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ODYSSEYLI_CHILUSHEDP-1.png?v=1774993705",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-lichi-lush-edp",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1083,
       "sku": "AGOSTO-2026-0083",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 83,
       "presentacion_proveedor": "ARMAF ODYSSEY LICHI LUSH EDP 100ML"
     },
@@ -2587,25 +3159,44 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Limón",
+        "Naranja dulce",
+        "Bergamota",
+        "Mandarina"
+      ],
+      "notas_corazon": [
+        "Jengibre",
+        "Azahar",
+        "Notas marinas"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Almizcle",
+        "Blue Tea"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Limoni abre con Limón, Naranja dulce, Bergamota; evoluciona hacia Jengibre, Azahar, Notas marinas; descansa sobre un fondo de Ámbar, Almizcle, Blue Tea.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/limoni.png?v=1744391985",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/armaf-odyssey-limoni-fresh-edition",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1084,
       "sku": "AGOSTO-2026-0084",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 84,
       "presentacion_proveedor": "ARMAF ODYSSEY LIMONI EDP 100ML"
     },
@@ -2617,25 +3208,44 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Salvia",
+        "Mandarina",
+        "Naranja",
+        "Azafrán"
+      ],
+      "notas_corazon": [
+        "Caramelo",
+        "Haba tonka",
+        "Tagetes"
+      ],
+      "notas_fondo": [
+        "Vetiver",
+        "Cedro",
+        "Ambroxan"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Mandarin Sky abre con Salvia, Mandarina, Naranja; evoluciona hacia Caramelo, Haba tonka, Tagetes; descansa sobre un fondo de Vetiver, Cedro, Ambroxan.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/odysseymandarinsky-bottle.jpg?v=1739111516",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-mega-for-men",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1085,
       "sku": "AGOSTO-2026-0085",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 85,
       "presentacion_proveedor": "ARMAF ODYSSEY MANDARIN SKY EDP 100ML"
     },
@@ -2647,25 +3257,44 @@
       "tamano_ml": 200,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Salvia",
+        "Mandarina",
+        "Naranja",
+        "Azafrán"
+      ],
+      "notas_corazon": [
+        "Caramelo",
+        "Haba tonka",
+        "Tagetes"
+      ],
+      "notas_fondo": [
+        "Vetiver",
+        "Cedro",
+        "Ambroxan"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Mandarin Sky abre con Salvia, Mandarina, Naranja; evoluciona hacia Caramelo, Haba tonka, Tagetes; descansa sobre un fondo de Vetiver, Cedro, Ambroxan.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/odysseymandarinsky-bottle.jpg?v=1739111516",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-mega-for-men",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1086,
       "sku": "AGOSTO-2026-0086",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 86,
       "presentacion_proveedor": "ARMAF ODYSSEY MANDARIN SKY EDP 200ML"
     },
@@ -2680,22 +3309,41 @@
       "genero": null,
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Salvia",
+        "Mandarina",
+        "Naranja",
+        "Azafrán"
+      ],
+      "notas_corazon": [
+        "Caramelo",
+        "Haba tonka",
+        "Tagetes"
+      ],
+      "notas_fondo": [
+        "Vetiver",
+        "Cedro",
+        "Ambroxan"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Mandarin Sky Elixir abre con Salvia, Mandarina, Naranja; evoluciona hacia Caramelo, Haba tonka, Tagetes; descansa sobre un fondo de Vetiver, Cedro, Ambroxan.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Untitleddesign_74.png?v=1749140075",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-mandarin-sky-elixir",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1087,
       "sku": "AGOSTO-2026-0087",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 87,
       "presentacion_proveedor": "ARMAF ODYSSEY MANDARIN SKY ELIXIR EDP 100ML"
     },
@@ -2707,25 +3355,42 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Notas verdes",
+        "Naranja"
+      ],
+      "notas_corazon": [
+        "Madreselva",
+        "Nardo",
+        "Jazmín egipcio"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Raíz de lirio",
+        "Sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Mandarin Sky Vintage abre con Notas verdes, Naranja; evoluciona hacia Madreselva, Nardo, Jazmín egipcio; descansa sobre un fondo de Vainilla, Raíz de lirio, Sándalo.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ODYSSEYMANDARINSKYVINTAGEEDITION2.png?v=1767891216",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-mandarin-sky-vintage-edition",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1088,
       "sku": "AGOSTO-2026-0088",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 88,
       "presentacion_proveedor": "ARMAF ODYSSEY MANDARIN SKY VINTAGE EDP 100ML"
     },
@@ -2740,22 +3405,48 @@
       "genero": null,
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Coco",
+        "Manzana",
+        "Limón",
+        "Peonía",
+        "Lirio del valle"
+      ],
+      "notas_corazon": [
+        "Malvavisco",
+        "Fresa",
+        "Durazno",
+        "Albaricoque",
+        "Frambuesa",
+        "Azahar"
+      ],
+      "notas_fondo": [
+        "Mascarpone",
+        "Praliné",
+        "Vainilla",
+        "Almizcle",
+        "Haba tonka",
+        "Ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Marshmallow abre con Coco, Manzana, Limón; evoluciona hacia Malvavisco, Fresa, Durazno; descansa sobre un fondo de Mascarpone, Praliné, Vainilla.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image_25_900x_2cb9bf8a-a238-4c48-bb1d-3dfe1f9ae017.webp?v=1762879674",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-marshmallow",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1089,
       "sku": "AGOSTO-2026-0089",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 89,
       "presentacion_proveedor": "ARMAF ODYSSEY MARSHMALLOW EDP 100ML"
     },
@@ -2767,25 +3458,47 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Jengibre",
+        "Bergamota",
+        "Naranja",
+        "Limón",
+        "Menta"
+      ],
+      "notas_corazon": [
+        "Piña",
+        "Salvia",
+        "Enebro",
+        "Geranio"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Cedro",
+        "Vetiver",
+        "Haba tonka"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Mega abre con Jengibre, Bergamota, Naranja; evoluciona hacia Piña, Salvia, Enebro; descansa sobre un fondo de Almizcle, Cedro, Vetiver.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image-2023-05-19T085855.929.jpg?v=1739111579",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-mega-man",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1090,
       "sku": "AGOSTO-2026-0090",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 90,
       "presentacion_proveedor": "ARMAF ODYSSEY MEGA EDP 100ML"
     },
@@ -2827,7 +3540,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -2838,14 +3551,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ODYSSEYPINKPOPEDP-1.png?v=1774993773",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-pink-pop-edp",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1092,
       "sku": "AGOSTO-2026-0092",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 92,
       "presentacion_proveedor": "ARMAF ODYSSEY PINK POP EDP 100ML"
     },
@@ -2887,25 +3606,50 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Cítricos",
+        "Jengibre",
+        "Lavanda",
+        "Menta",
+        "Cola refrescante"
+      ],
+      "notas_corazon": [
+        "Neroli",
+        "Corteza de canela",
+        "Nuez moscada",
+        "Té negro"
+      ],
+      "notas_fondo": [
+        "Vainilla bourbon",
+        "Haba tonka",
+        "Madera de ámbar",
+        "Sándalo",
+        "Pachulí",
+        "Olíbano",
+        "Almizcle blanco y benjuí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Soda Pop abre con Cítricos, Jengibre, Lavanda; evoluciona hacia Neroli, Corteza de canela, Nuez moscada; descansa sobre un fondo de Vainilla bourbon, Haba tonka, Madera de ámbar.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/OD1.png?v=1780678997",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-soda-pop",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1094,
       "sku": "AGOSTO-2026-0094",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 94,
       "presentacion_proveedor": "ARMAF ODYSSEY SODA POP EDP 100ML"
     },
@@ -2947,25 +3691,46 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Canela",
+        "Bergamota",
+        "Manzana"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Canela",
+        "Lirio del valle",
+        "Azahar"
+      ],
+      "notas_fondo": [
+        "Tabaco",
+        "Ámbar",
+        "Haba tonka",
+        "Pachulí",
+        "Vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Spectra abre con Canela, Bergamota, Manzana; evoluciona hacia Lavanda, Canela, Lirio del valle; descansa sobre un fondo de Tabaco, Ámbar, Haba tonka.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/514MTBtPnoL.jpg?v=1744398353",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/armaf-odyssey-spectra-rainbow-edition",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1096,
       "sku": "AGOSTO-2026-0096",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 96,
       "presentacion_proveedor": "ARMAF ODYSSEY SPECTRA EDP 100ML"
     },
@@ -2977,25 +3742,49 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Café",
+        "Dulce de leche",
+        "Miel",
+        "Azafrán",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Toffee",
+        "Lactonas",
+        "Musgo de roble",
+        "Flores blancas",
+        "Rosa búlgara"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Caña de azúcar",
+        "Ámbar",
+        "Notas amaderadas",
+        "Almizcle blanco"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Toffee Coffee abre con Café, Dulce de leche, Miel; evoluciona hacia Toffee, Lactonas, Musgo de roble; descansa sobre un fondo de Vainilla, Caña de azúcar, Ámbar.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image-2025-09-17T101436.297_900x_e81ecbd2-c355-4e04-8ea5-102a8f264326.webp?v=1762473558",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-toffee-coffee",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1097,
       "sku": "AGOSTO-2026-0097",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 97,
       "presentacion_proveedor": "ARMAF ODYSSEY TOFFEE COFFEE EDP 100ML"
     },
@@ -3007,25 +3796,43 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Toronja",
+        "Notas cítricas"
+      ],
+      "notas_corazon": [
+        "Pimienta",
+        "Lavanda",
+        "Geranio",
+        "Elemí"
+      ],
+      "notas_fondo": [
+        "Vetiver",
+        "Cedro",
+        "Notas amaderadas y ambroxan"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Tyrant abre con Toronja, Notas cítricas; evoluciona hacia Pimienta, Lavanda, Geranio; descansa sobre un fondo de Vetiver, Cedro, Notas amaderadas y ambroxan.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image-2023-05-04T122514.706.jpg?v=1739111572",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-tyrant-special-edition",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1098,
       "sku": "AGOSTO-2026-0098",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 98,
       "presentacion_proveedor": "ARMAF ODYSSEY TYRANT EDP 100ML"
     },
@@ -3037,25 +3844,43 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Menta",
+        "Pimienta rosa",
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Salvia",
+        "Piña",
+        "Acordes acuáticos"
+      ],
+      "notas_fondo": [
+        "Cedro",
+        "Madera de ámbar",
+        "Vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey White abre con Menta, Pimienta rosa, Cardamomo; evoluciona hacia Salvia, Piña, Acordes acuáticos; descansa sobre un fondo de Cedro, Madera de ámbar, Vainilla.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Q325BODYSSEYHOMMEWHITEEDITION_ARMAFSERIES_d4304b7d-8f65-4fec-a6c9-dd0195d38aaf.jpg?v=1739111282",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-homme-white-edition",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1099,
       "sku": "AGOSTO-2026-0099",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 99,
       "presentacion_proveedor": "ARMAF ODYSSEY WHITE EDP 100ML"
     },
@@ -3067,25 +3892,48 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Pimienta",
+        "Limón",
+        "Menta"
+      ],
+      "notas_corazon": [
+        "Pimienta rosa",
+        "Lavanda",
+        "Vetiver",
+        "Jengibre"
+      ],
+      "notas_fondo": [
+        "Pachulí",
+        "Sándalo",
+        "Vetiver",
+        "Cedro",
+        "Elemí",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Odyssey Wild One abre con Bergamota, Pimienta, Limón; evoluciona hacia Pimienta rosa, Lavanda, Vetiver; descansa sobre un fondo de Pachulí, Sándalo, Vetiver.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/armafbeach_12.png?v=1744408713",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/odyssey-wild-one",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1100,
       "sku": "AGOSTO-2026-0100",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 100,
       "presentacion_proveedor": "ARMAF ODYSSEY WILD ONE EDP 100ML"
     },
@@ -3097,7 +3945,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -3108,14 +3956,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/SPARTACUSEDP-3.png?v=1775080965",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/spartacus-edp",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1101,
       "sku": "AGOSTO-2026-0101",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 101,
       "presentacion_proveedor": "ARMAF SPARTACUS EDP 100ML"
     },
@@ -3187,25 +4041,45 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Toronja",
+        "Menta",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Naranja sanguina",
+        "Canela",
+        "Pimienta"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Ámbar",
+        "Maderas blancas",
+        "Pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Tag Him Prestige abre con Toronja, Menta, Bergamota; evoluciona hacia Lavanda, Naranja sanguina, Canela; descansa sobre un fondo de Vainilla, Ámbar, Maderas blancas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/tag-him-prestige",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1104,
       "sku": "AGOSTO-2026-0104",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 104,
       "presentacion_proveedor": "ARMAF TAG HIM PRESTIGE EDT 100ML"
     },
@@ -3310,22 +4184,34 @@
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamot Mandarin Aquatic accords"
+      ],
+      "notas_corazon": [
+        "Patchouli Musk Amber"
+      ],
+      "notas_fondo": [
+        "Rosemary Lavender Cypress"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Tres Nuit Lyric Pour Homme abre con Bergamot Mandarin Aquatic accords; evoluciona hacia Patchouli Musk Amber; descansa sobre un fondo de Rosemary Lavender Cypress.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Tres-uit-Lyric-bottle.jpg?v=1739111462",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/tres-nuit-lyric",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1108,
       "sku": "AGOSTO-2026-0108",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 108,
       "presentacion_proveedor": "ARMAF TRES NUIT LYRIC POUR HOMME EDP 100ML"
     },
@@ -3367,25 +4253,46 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Petitgrain",
+        "Cidra",
+        "Bergamota de Calabria",
+        "Naranja siciliana",
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Jengibre nigeriano",
+        "Tunisian Neroli Ceylon Cinnamon",
+        "Romero",
+        "Lirio del valle",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Brazilian Rosewood Sandalwood Chinese Black Tea",
+        "Madera de gaiac"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Ventana Marine abre con Petitgrain, Cidra, Bergamota de Calabria; evoluciona hacia Jengibre nigeriano, Tunisian Neroli Ceylon Cinnamon, Romero; descansa sobre un fondo de Brazilian Rosewood Sandalwood Chinese Black Tea, Madera de gaiac.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ArmafVentanaBottle11.jpg?v=1739111646",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/ventana-marine",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1110,
       "sku": "AGOSTO-2026-0110",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 110,
       "presentacion_proveedor": "ARMAF VENTANA MARINE EDP 100ML"
     },
@@ -3400,22 +4307,44 @@
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Toronja",
+        "Mandarina",
+        "Limón",
+        "Frutos rojos"
+      ],
+      "notas_corazon": [
+        "Geranio",
+        "Lavanda",
+        "Pachulí",
+        "Vetiver"
+      ],
+      "notas_fondo": [
+        "Cedro",
+        "Maderas preciosas",
+        "Ládano",
+        "Ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Ventana Pour Homme abre con Bergamota, Toronja, Mandarina; evoluciona hacia Geranio, Lavanda, Pachulí; descansa sobre un fondo de Cedro, Maderas preciosas, Ládano.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/VENTANAPOURHOMME-100ML_ARMAFSERIES_FIF_0276143c-8c72-44a0-acb5-34241f49b0c4.jpg?v=1739111262",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/ventana-pour-homme",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1111,
       "sku": "AGOSTO-2026-0111",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 111,
       "presentacion_proveedor": "ARMAF VENTANA POUR HOMME EDP 100ML"
     },
@@ -3430,22 +4359,41 @@
       "genero": null,
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bayas silvestres",
+        "Cereza",
+        "Naranja",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Rosa",
+        "Flores blancas",
+        "Vainilla"
+      ],
+      "notas_fondo": [
+        "Notas atalcadas",
+        "Almizcle",
+        "Ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Yum Yum abre con Bayas silvestres, Cereza, Naranja; evoluciona hacia Rosa, Flores blancas, Vainilla; descansa sobre un fondo de Notas atalcadas, Almizcle, Ámbar.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Untitleddesign_71.png?v=1748451245",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/yum-yum-spr",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1112,
       "sku": "AGOSTO-2026-0112",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 112,
       "presentacion_proveedor": "ARMAF YUM YUM EDP 100ML"
     },
@@ -3798,14 +4746,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-kive-image_5_d630c43c-1ebd-4f98-8e34-9aebde4edde9.png?v=1772127699",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Bharara",
+          "url": "https://www.bhararabeauty.com/products/bharara-chocolate-eau-de-parfum",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1124,
       "sku": "AGOSTO-2026-0124",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 124,
       "presentacion_proveedor": "BHARARA CHOCOLATE EDP 100ML"
     },
@@ -3828,14 +4782,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/Gemini_Generated_Image_eokjadeokjadeokj.png?v=1772746597",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Bharara",
+          "url": "https://www.bhararabeauty.com/products/bharara-king",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1125,
       "sku": "AGOSTO-2026-0125",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 125,
       "presentacion_proveedor": "BHARARA KING EDP 100ML"
     },
@@ -3858,14 +4818,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_30.png?v=1772133191",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Bharara",
+          "url": "https://www.bhararabeauty.com/products/bharara-king-gold-edition-eau-de-parfum",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1126,
       "sku": "AGOSTO-2026-0126",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 126,
       "presentacion_proveedor": "BHARARA KING GOLD EDITION EDP 100ML"
     },
@@ -3978,14 +4944,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/Generated_with_Kive.ai_-_kive-image_b9e6bea9-e93d-4413-9c10-6c17164e40fb.png?v=1772570580",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Bharara",
+          "url": "https://www.bhararabeauty.com/products/bharara-viking-kashmir-3-4-parfum-spray",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1130,
       "sku": "AGOSTO-2026-0130",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 130,
       "presentacion_proveedor": "BHARARA VIKING KASHMIR PARFUM 100ML"
     },
@@ -4008,14 +4980,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcentreit.png?v=1771945994",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Bharara",
+          "url": "https://www.bhararabeauty.com/products/bharara-viking-rio-3-4-parfum-spray",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1131,
       "sku": "AGOSTO-2026-0131",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 131,
       "presentacion_proveedor": "BHARARA VIKING RIO PARFUM 100ML"
     },
@@ -12697,25 +13675,46 @@
       "tamano_ml": 60,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Guayaba",
+        "Toronja rosada",
+        "Lichi",
+        "Pimienta rosa"
+      ],
+      "notas_corazon": [
+        "Rosa",
+        "Peonía",
+        "Magnolia"
+      ],
+      "notas_fondo": [
+        "Cuero",
+        "Almizcle",
+        "Ámbar gris",
+        "Vainilla",
+        "Musgo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Ajwad Pink To Pink abre con Guayaba, Toronja rosada, Lichi; evoluciona hacia Rosa, Peonía, Magnolia; descansa sobre un fondo de Cuero, Almizcle, Ámbar gris.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Ajwad-Pink-to-Pink-1_f07e8195-9952-48c7-8445-1779e409295b.png?v=1747415196",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/ajwad-pink-to-pink",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1431,
       "sku": "AGOSTO-2026-0431",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 431,
       "presentacion_proveedor": "LATTAFA AJWAD PINK TO PINK EDP 60ML"
     },
@@ -12727,25 +13726,42 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Azafrán",
+        "Té negro"
+      ],
+      "notas_corazon": [
+        "Suede",
+        "Cuero",
+        "Incienso"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Madera de ámbar",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Al Areeq Gold abre con Azafrán, Té negro; evoluciona hacia Suede, Cuero, Incienso; descansa sobre un fondo de Vainilla, Madera de ámbar, Almizcle.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_225e9dfc-4c43-441a-a5bc-ed8c0d11bea6.png?v=1749363844",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/al-areeq-gold",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1432,
       "sku": "AGOSTO-2026-0432",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 432,
       "presentacion_proveedor": "LATTAFA AL AREEQ GOLD EDP 100ML"
     },
@@ -12757,25 +13773,45 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Cardamomo",
+        "Manzana",
+        "Lavanda"
+      ],
+      "notas_corazon": [
+        "Tabaco",
+        "Oud",
+        "Ciprés",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Cuero",
+        "Almizcle",
+        "Sándalo",
+        "Vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Al Areeq Silver abre con Cardamomo, Manzana, Lavanda; evoluciona hacia Tabaco, Oud, Ciprés; descansa sobre un fondo de Cuero, Almizcle, Sándalo.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_d29b0561-f93c-4d30-948b-4ec589a28f1b.png?v=1749363812",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/al-areeq-silver",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1433,
       "sku": "AGOSTO-2026-0433",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 433,
       "presentacion_proveedor": "LATTAFA AL AREEQ SILVER EDP 100ML"
     },
@@ -12787,25 +13823,46 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Jengibre",
+        "Pimienta negra",
+        "Bergamota",
+        "Toronja"
+      ],
+      "notas_corazon": [
+        "Heliotropo",
+        "Jazmín",
+        "Caramelo"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Cypriol",
+        "Cashmere",
+        "Ámbar gris",
+        "Vanilla Guaiac Wood"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Al Noble Safeer abre con Jengibre, Pimienta negra, Bergamota; evoluciona hacia Heliotropo, Jazmín, Caramelo; descansa sobre un fondo de Almizcle, Cypriol, Cashmere.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_e42b94e8-2b9a-434c-b247-4e12f50c005c.png?v=1756143307",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/al-noble-safeer",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1434,
       "sku": "AGOSTO-2026-0434",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 434,
       "presentacion_proveedor": "LATTAFA AL NOBLE SAFEER EDP 100ML"
     },
@@ -12847,25 +13904,43 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Frambuesa",
+        "Azafrán"
+      ],
+      "notas_corazon": [
+        "Cuero",
+        "Pachulí"
+      ],
+      "notas_fondo": [
+        "Oud",
+        "Ámbar",
+        "Benjuí",
+        "Madera de gaiac",
+        "Vetiver"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Al Qiam Gold abre con Frambuesa, Azafrán; evoluciona hacia Cuero, Pachulí; descansa sobre un fondo de Oud, Ámbar, Benjuí.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_1ebbd235-e7f4-4809-ad42-cb3a7fecfcab.png?v=1749363777",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/al-qiam-gold",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1436,
       "sku": "AGOSTO-2026-0436",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 436,
       "presentacion_proveedor": "LATTAFA AL QIAM GOLD EDP 100ML"
     },
@@ -12937,25 +14012,42 @@
       "tamano_ml": 60,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Nashi Pear",
+        "Kumquat",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Caramelo",
+        "Geranio"
+      ],
+      "notas_fondo": [
+        "Ámbar gris",
+        "Almizcle",
+        "Musgo de roble"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Ana Abiyedh Rouge abre con Nashi Pear, Kumquat, Bergamota; evoluciona hacia Caramelo, Geranio; descansa sobre un fondo de Ámbar gris, Almizcle, Musgo de roble.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Ana_Rouge.png?v=1750264009",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/ana-abiyedh-rouge-set",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1439,
       "sku": "AGOSTO-2026-0439",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 439,
       "presentacion_proveedor": "LATTAFA ANA ABIYEDH ROUGE EDP 60ML"
     },
@@ -12967,25 +14059,44 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Jengibre",
+        "Mandarina",
+        "Pimienta rosa"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Praliné",
+        "Cacao",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Ámbar",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Angham abre con Jengibre, Mandarina, Pimienta rosa; evoluciona hacia Lavanda, Praliné, Cacao; descansa sobre un fondo de Vainilla, Ámbar, Almizcle.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Angham-1_fea96331-1cd0-467d-be6d-56ad073a7f86.png?v=1747415391",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/angham",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1440,
       "sku": "AGOSTO-2026-0440",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 440,
       "presentacion_proveedor": "LATTAFA ANGHAM EDP 100ML"
     },
@@ -13027,25 +14138,43 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Mandarina",
+        "Bergamota",
+        "Menta",
+        "Jengibre"
+      ],
+      "notas_corazon": [
+        "Pera",
+        "Azahar"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Ámbar",
+        "Cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Art Of Universe abre con Mandarina, Bergamota, Menta; evoluciona hacia Pera, Azahar; descansa sobre un fondo de Almizcle, Ámbar, Cedro.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_95e6ea50-ba7d-4fde-8082-c749525eb33a.png?v=1747555499",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/art-of-universe",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1442,
       "sku": "AGOSTO-2026-0442",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 442,
       "presentacion_proveedor": "LATTAFA ART OF UNIVERSE EDP 100ML"
     },
@@ -13057,25 +14186,45 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Pimienta negra",
+        "Tabaco",
+        "Piña"
+      ],
+      "notas_corazon": [
+        "Pachulí",
+        "Café",
+        "Iris"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Ámbar",
+        "Maderas secas",
+        "Benjuí",
+        "Ládano"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Asad abre con Pimienta negra, Tabaco, Piña; evoluciona hacia Pachulí, Café, Iris; descansa sobre un fondo de Vainilla, Ámbar, Maderas secas.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Asad-1_ceed76c7-7a80-46b3-b372-68cc309137f4.png?v=1747421311",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/asad",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1443,
       "sku": "AGOSTO-2026-0443",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 443,
       "presentacion_proveedor": "LATTAFA ASAD EDP 100ML"
     },
@@ -13087,25 +14236,44 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Pimienta rosa",
+        "Azafrán",
+        "Toronja"
+      ],
+      "notas_corazon": [
+        "Tabaco",
+        "Cedro",
+        "Vainilla"
+      ],
+      "notas_fondo": [
+        "Pachulí",
+        "Olíbano",
+        "Cachemira",
+        "Ámbar seco"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Asad Elixir abre con Pimienta rosa, Azafrán, Toronja; evoluciona hacia Tabaco, Cedro, Vainilla; descansa sobre un fondo de Pachulí, Olíbano, Cachemira.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/ASADELIXIRBOTTLE.png?v=1760805808",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/asad-elixir",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1444,
       "sku": "AGOSTO-2026-0444",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 444,
       "presentacion_proveedor": "LATTAFA ASAD ELIXIR EDP 100ML"
     },
@@ -13117,25 +14285,41 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Lavanda",
+        "Pimienta negra"
+      ],
+      "notas_corazon": [
+        "Agua de coco",
+        "Iris",
+        "Sal"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Incienso"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Asad Zanzibar abre con Lavanda, Pimienta negra; evoluciona hacia Agua de coco, Iris, Sal; descansa sobre un fondo de Vainilla, Incienso.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Asad-Zanzibar-1_ab5df442-9906-4109-81d1-a21265914bfd.png?v=1747415448",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/asad-zanzibar",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1445,
       "sku": "AGOSTO-2026-0445",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 445,
       "presentacion_proveedor": "LATTAFA ASAD ZANZIBAR EDP 100ML"
     },
@@ -13147,25 +14331,42 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Incienso",
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Cyclamen"
+      ],
+      "notas_fondo": [
+        "Cedro",
+        "Almizcle",
+        "Sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Breeze abre con Bergamota, Incienso, Cardamomo; evoluciona hacia Jazmín, Cyclamen; descansa sobre un fondo de Cedro, Almizcle, Sándalo.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_8788a841-a9a6-4735-891b-73302d8da882.png?v=1749363469",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/breeze",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1446,
       "sku": "AGOSTO-2026-0446",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 446,
       "presentacion_proveedor": "LATTAFA BREEZE EDP 100ML"
     },
@@ -13188,14 +14389,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/LattafaDalalEDP100mlSpray.png?v=1763744096",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/dalal",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1447,
       "sku": "AGOSTO-2026-0447",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 447,
       "presentacion_proveedor": "LATTAFA DALAL EDP 100ML"
     },
@@ -13207,25 +14414,41 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Crema de banana",
+        "Dulce de leche"
+      ],
+      "notas_corazon": [
+        "Crema batida",
+        "Vainilla"
+      ],
+      "notas_fondo": [
+        "Praliné",
+        "Galleta",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Eclaire Banoffi abre con Crema de banana, Dulce de leche; evoluciona hacia Crema batida, Vainilla; descansa sobre un fondo de Praliné, Galleta, Almizcle.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/LattafaEclaireBanoffiBottle.png?v=1755279168",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/eclaire-banoffi",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1448,
       "sku": "AGOSTO-2026-0448",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 448,
       "presentacion_proveedor": "LATTAFA ECLAIRE BANOFFI EDP 100ML"
     },
@@ -13237,25 +14460,42 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Crema de pistacho",
+        "Pistacho tostado"
+      ],
+      "notas_corazon": [
+        "Coco",
+        "Cacao",
+        "Crema batida"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Leche",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Eclaire Pistache abre con Crema de pistacho, Pistacho tostado; evoluciona hacia Coco, Cacao, Crema batida; descansa sobre un fondo de Vainilla, Leche, Almizcle.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/LattafaEclairePistacheBottle.png?v=1755277744",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/eclaire-pistache",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1449,
       "sku": "AGOSTO-2026-0449",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 449,
       "presentacion_proveedor": "LATTAFA ECLAIRE PISTACHE EDP 100ML"
     },
@@ -13270,22 +14510,46 @@
       "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Cítricos",
+        "Lavanda",
+        "Naranja",
+        "Cardamomo",
+        "Mirto"
+      ],
+      "notas_corazon": [
+        "Pimienta",
+        "Pachulí",
+        "Lirio del valle",
+        "Hoja de canela"
+      ],
+      "notas_fondo": [
+        "Ambroxan",
+        "Notas amaderadas",
+        "Ámbar",
+        "Cedro",
+        "Musgo de roble",
+        "Vetiver"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Ejaazi Unisex abre con Cítricos, Lavanda, Naranja; evoluciona hacia Pimienta, Pachulí, Lirio del valle; descansa sobre un fondo de Ambroxan, Notas amaderadas, Ámbar.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_9e48a67b-8701-4929-a666-ca6e8ba5391a.png?v=1747500687",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/ejaazi",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1450,
       "sku": "AGOSTO-2026-0450",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 450,
       "presentacion_proveedor": "LATTAFA EJAAZI UNISEX EDP 100ML"
     },
@@ -13297,25 +14561,44 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Azahar",
+        "Bergamota",
+        "Grosella negra"
+      ],
+      "notas_corazon": [
+        "Nardo",
+        "Jazmín",
+        "Caléndula"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Almizcle",
+        "Pachulí",
+        "Cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Emaan abre con Azahar, Bergamota, Grosella negra; evoluciona hacia Nardo, Jazmín, Caléndula; descansa sobre un fondo de Vainilla, Almizcle, Pachulí.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Emaan-1.png?v=1747421403",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/emaan",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1451,
       "sku": "AGOSTO-2026-0451",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 451,
       "presentacion_proveedor": "LATTAFA EMAAN EDP 100ML"
     },
@@ -13327,25 +14610,44 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Cardamomo",
+        "Toronja",
+        "Pimienta rosa"
+      ],
+      "notas_corazon": [
+        "Nardo",
+        "Notas solares",
+        "Artemisa"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Cachemira",
+        "Cuero",
+        "Ládano"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Fakhar Extrait abre con Cardamomo, Toronja, Pimienta rosa; evoluciona hacia Nardo, Notas solares, Artemisa; descansa sobre un fondo de Ámbar, Cachemira, Cuero.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Fakhar-Lattafa-Extrait-01.png?v=1747745010",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/fakhar-extrait",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1452,
       "sku": "AGOSTO-2026-0452",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 452,
       "presentacion_proveedor": "LATTAFA FAKHAR EXTRAIT EDP 100ML"
     },
@@ -13387,25 +14689,43 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Pimienta rosa",
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Jengibre",
+        "Lavanda",
+        "Guayaba"
+      ],
+      "notas_fondo": [
+        "Palo santo",
+        "Incienso",
+        "Sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Fakhar Platin abre con Bergamota, Pimienta rosa, Cardamomo; evoluciona hacia Jengibre, Lavanda, Guayaba; descansa sobre un fondo de Palo santo, Incienso, Sándalo.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_f62c90bc-f6e9-4202-b755-e33db925e687.png?v=1749465623",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/fakhar-platin",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1454,
       "sku": "AGOSTO-2026-0454",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 454,
       "presentacion_proveedor": "LATTAFA FAKHAR PLATIN EDP 100ML"
     },
@@ -13567,25 +14887,45 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Pimienta rosa",
+        "Nuez moscada",
+        "Bergamota",
+        "Jengibre"
+      ],
+      "notas_corazon": [
+        "Cedro",
+        "Notas amaderadas",
+        "Incienso",
+        "Ládano"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Ámbar",
+        "Ámbar gris"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Hayaati Al Maleky abre con Pimienta rosa, Nuez moscada, Bergamota; evoluciona hacia Cedro, Notas amaderadas, Incienso; descansa sobre un fondo de Almizcle, Ámbar, Ámbar gris.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Hayaati-Al-Maleky-1_82fc5b2a-21fd-4701-a02b-31c167a0104c.png?v=1747415752",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/hayaati-al-maleky",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1460,
       "sku": "AGOSTO-2026-0460",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 460,
       "presentacion_proveedor": "LATTAFA HAYAATI AL MALEKY EDP 100ML"
     },
@@ -13627,25 +14967,44 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Toronja",
+        "Cassis"
+      ],
+      "notas_corazon": [
+        "Cuero",
+        "Durazno",
+        "Azafrán"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Ámbar",
+        "Almizcle",
+        "Vetiver"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Hayaati Gold Elixir abre con Bergamota, Toronja, Cassis; evoluciona hacia Cuero, Durazno, Azafrán; descansa sobre un fondo de Vainilla, Ámbar, Almizcle.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_622d5a3a-38d8-4d84-bd4b-d9d5fddcaee4.png?v=1747499445",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/hayaati-gold-elixir",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1462,
       "sku": "AGOSTO-2026-0462",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 462,
       "presentacion_proveedor": "LATTAFA HAYAATI GOLD ELIXIR EDP 100ML"
     },
@@ -13657,25 +15016,43 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Mystikal",
+        "Canela"
+      ],
+      "notas_corazon": [
+        "Nardo",
+        "Jazmín",
+        "Incienso",
+        "Mahonial"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Haba tonka",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Her Confession abre con Mystikal, Canela; evoluciona hacia Nardo, Jazmín, Incienso; descansa sobre un fondo de Vainilla, Haba tonka, Almizcle.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Her-Confession-1_37f3fdce-b4e7-4c30-969a-f41ff87de13c.png?v=1747415953",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/her-confession",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1463,
       "sku": "AGOSTO-2026-0463",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 463,
       "presentacion_proveedor": "LATTAFA HER CONFESSION EDP 100ML"
     },
@@ -13687,25 +15064,47 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Canela",
+        "Lavanda",
+        "Mandarina"
+      ],
+      "notas_corazon": [
+        "Iris",
+        "Benjuí",
+        "Ciprés",
+        "Mahonial"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Haba tonka",
+        "Ámbar",
+        "Cedro",
+        "Incienso",
+        "Pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "His Confession abre con Canela, Lavanda, Mandarina; evoluciona hacia Iris, Benjuí, Ciprés; descansa sobre un fondo de Vainilla, Haba tonka, Ámbar.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/His-Confession-1_2614a68d-8561-4a94-9c54-7739ae06f986.png?v=1747415996",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/his-confession",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1464,
       "sku": "AGOSTO-2026-0464",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 464,
       "presentacion_proveedor": "LATTAFA HIS CONFESSION EDP 100ML"
     },
@@ -13747,25 +15146,45 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Cardamomo",
+        "Pimienta",
+        "Canela"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Geranio",
+        "Tabaco"
+      ],
+      "notas_fondo": [
+        "Haba tonka",
+        "Vetiver",
+        "Cuero",
+        "Pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Jasoor abre con Bergamota, Cardamomo, Pimienta; evoluciona hacia Lavanda, Geranio, Tabaco; descansa sobre un fondo de Haba tonka, Vetiver, Cuero.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/IMG-1760.png?v=1757261428",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/untitled-sep7_12-04",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1466,
       "sku": "AGOSTO-2026-0466",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 466,
       "presentacion_proveedor": "LATTAFA JASOOR EDP 100ML"
     },
@@ -13777,25 +15196,46 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Especias",
+        "Pimienta de Jamaica",
+        "Mandarina"
+      ],
+      "notas_corazon": [
+        "Incienso",
+        "Ládano",
+        "Azahar",
+        "Pachulí"
+      ],
+      "notas_fondo": [
+        "Tabaco",
+        "Praliné",
+        "Ámbar",
+        "Haba tonka",
+        "Benjuí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Khamrah Dukhan abre con Especias, Pimienta de Jamaica, Mandarina; evoluciona hacia Incienso, Ládano, Azahar; descansa sobre un fondo de Tabaco, Praliné, Ámbar.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Khamrah-Dukhan-1_a62cb1af-0737-4709-86c2-f275a5f5b023.png?v=1747416848",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/khamrah-dukhan",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1467,
       "sku": "AGOSTO-2026-0467",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 467,
       "presentacion_proveedor": "LATTAFA KHAMRAH DUKHAN EDP 100ML"
     },
@@ -13807,25 +15247,47 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Canela",
+        "Nuez moscada",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Dátiles",
+        "Praliné",
+        "Nardo",
+        "Mahonial"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Haba tonka",
+        "Madera de ámbar",
+        "Mirra",
+        "Benjuí",
+        "Akigalawood"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Khamrah abre con Canela, Nuez moscada, Bergamota; evoluciona hacia Dátiles, Praliné, Nardo; descansa sobre un fondo de Vainilla, Haba tonka, Madera de ámbar.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Khamrah-1_0ffa4f52-30e3-4dea-9399-9bae4b8cb4af.png?v=1747421472",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/khamrah",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1468,
       "sku": "AGOSTO-2026-0468",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 468,
       "presentacion_proveedor": "LATTAFA KHAMRAH EDP 100ML"
     },
@@ -13837,25 +15299,45 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Canela",
+        "Cardamomo",
+        "Jengibre"
+      ],
+      "notas_corazon": [
+        "Praliné",
+        "Frutas confitadas",
+        "Flores blancas"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Café",
+        "Haba tonka",
+        "Benjuí",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Khamrah Qahwa abre con Canela, Cardamomo, Jengibre; evoluciona hacia Praliné, Frutas confitadas, Flores blancas; descansa sobre un fondo de Vainilla, Café, Haba tonka.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Khamrah-Qahwa-1_a2c9fdc2-8264-4da1-83e2-e5e065cecd53.png?v=1747416095",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/khamrah-qahwa",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1469,
       "sku": "AGOSTO-2026-0469",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 469,
       "presentacion_proveedor": "LATTAFA KHAMRAH QAHWA EDP 100ML"
     },
@@ -13927,25 +15409,47 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Pimienta negra",
+        "Pimienta rosa",
+        "Azafrán"
+      ],
+      "notas_corazon": [
+        "Aceite de cade",
+        "Ládano",
+        "Bálsamo de gurjan",
+        "Ruibarbo"
+      ],
+      "notas_fondo": [
+        "Cuero",
+        "Cedro",
+        "Madera de gaiac",
+        "Pachulí",
+        "Almizcle",
+        "Musgo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Maahir Black Edition abre con Pimienta negra, Pimienta rosa, Azafrán; evoluciona hacia Aceite de cade, Ládano, Bálsamo de gurjan; descansa sobre un fondo de Cuero, Cedro, Madera de gaiac.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_1d0da0b7-db99-47fe-9cb8-9540f491e47d.png?v=1747501020",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/maahir-black-edition",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1472,
       "sku": "AGOSTO-2026-0472",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 472,
       "presentacion_proveedor": "LATTAFA MAAHIR BLACK EDITION EDP 100ML"
     },
@@ -13957,25 +15461,43 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Pimienta",
+        "Lavanda"
+      ],
+      "notas_corazon": [
+        "Incienso",
+        "Nardo",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Caramelo",
+        "Ámbar",
+        "Cedro",
+        "Cachemira"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Maharjan Gold abre con Pimienta, Lavanda; evoluciona hacia Incienso, Nardo, Jazmín; descansa sobre un fondo de Caramelo, Ámbar, Cedro.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_1e7eb6ae-97dd-44e6-90f9-268abcee6ee6.png?v=1749363094",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/maharjan-gold",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1473,
       "sku": "AGOSTO-2026-0473",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 473,
       "presentacion_proveedor": "LATTAFA MAHARJAN GOLD EDP 100ML"
     },
@@ -13987,25 +15509,41 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Fresa",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Cherry Jam",
+        "Cacao"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Pachulí",
+        "Ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Mayar Cherry Intense abre con Fresa, Bergamota; evoluciona hacia Cherry Jam, Cacao; descansa sobre un fondo de Vainilla, Pachulí, Ámbar.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_a400747a-6731-4eec-b41c-79b2e209a7fc.png?v=1756361945",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/mayar-cherry-intense",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1474,
       "sku": "AGOSTO-2026-0474",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 474,
       "presentacion_proveedor": "LATTAFA MAYAR CHERRY INTENSE EDP 100ML"
     },
@@ -14017,25 +15555,45 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Higo",
+        "Mandarina verde",
+        "Melón",
+        "Agua de coco"
+      ],
+      "notas_corazon": [
+        "Loto",
+        "Nenúfar",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Ambroxan",
+        "Almizcle",
+        "Sándalo",
+        "Vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Mayar Natural Intense abre con Higo, Mandarina verde, Melón; evoluciona hacia Loto, Nenúfar, Jazmín; descansa sobre un fondo de Ambroxan, Almizcle, Sándalo.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Mayar-Natural-Intense-1_2b8dfe9b-6ebd-4d24-99e6-68565cda61d5.png?v=1747416289",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/mayar-natural-intense",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1475,
       "sku": "AGOSTO-2026-0475",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 475,
       "presentacion_proveedor": "LATTAFA MAYAR NATURAL INTENSE EDP 100ML"
     },
@@ -14077,25 +15635,43 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Frutos rojos",
+        "Azafrán",
+        "Nuez moscada"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Rosa"
+      ],
+      "notas_fondo": [
+        "Oud",
+        "Cedro",
+        "Benjuí",
+        "Ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Natural Oud abre con Frutos rojos, Azafrán, Nuez moscada; evoluciona hacia Jazmín, Rosa; descansa sobre un fondo de Oud, Cedro, Benjuí.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_a94273e8-adbd-48e8-97b7-9764a64059b3.png?v=1749362927",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/natural-oud",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1477,
       "sku": "AGOSTO-2026-0477",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 477,
       "presentacion_proveedor": "LATTAFA NATURAL OUD EDP 100ML"
     },
@@ -14197,25 +15773,41 @@
       "tamano_ml": 90,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Piña",
+        "Azafrán"
+      ],
+      "notas_corazon": [
+        "Abeto balsámico",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Cedro",
+        "Madera de oud"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Qaed Al Fursan abre con Piña, Azafrán; evoluciona hacia Abeto balsámico, Jazmín; descansa sobre un fondo de Ámbar, Cedro, Madera de oud.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_9fb3182c-ce4b-4238-ac54-ed0498a19be6.png?v=1747501113",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/qaed-al-fursan",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1481,
       "sku": "AGOSTO-2026-0481",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 481,
       "presentacion_proveedor": "LATTAFA QAED AL FURSAN EDP 90ML"
     },
@@ -14257,25 +15849,44 @@
       "tamano_ml": 90,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Coco",
+        "Cítricos",
+        "Piña"
+      ],
+      "notas_corazon": [
+        "Ylang-ylang",
+        "Frangipani",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Almizcle",
+        "Sándalo",
+        "Notas dulces"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Qaed Al Fursan Untamed abre con Coco, Cítricos, Piña; evoluciona hacia Ylang-ylang, Frangipani, Jazmín; descansa sobre un fondo de Vainilla, Almizcle, Sándalo.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Qaed-Al-Fursan-Untamed-1_85250e2a-2ec7-4f49-9612-1161bec0e54b.png?v=1747417147",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/qaed-al-fursan-unlimited",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1483,
       "sku": "AGOSTO-2026-0483",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 483,
       "presentacion_proveedor": "LATTAFA QAED AL FURSAN UNTAMED EDP 90ML"
     },
@@ -14320,22 +15931,38 @@
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Madera de oud",
+        "Cedro"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Salvia",
+        "Romero"
+      ],
+      "notas_fondo": [
+        "Pachulí",
+        "Vetiver"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Qimmah Hombre abre con Madera de oud, Cedro; evoluciona hacia Lavanda, Salvia, Romero; descansa sobre un fondo de Pachulí, Vetiver.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_51f22846-368f-4710-b74d-8e092d101f71.png?v=1756361872",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/lattafa-qimmah-for-men",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1485,
       "sku": "AGOSTO-2026-0485",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 485,
       "presentacion_proveedor": "LATTAFA QIMMAH HOMBRE EDP 100ML"
     },
@@ -14377,25 +16004,47 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Caramelo",
+        "Regaliz",
+        "Madera de gaiac",
+        "Cedro"
+      ],
+      "notas_corazon": [
+        "Madera de oud",
+        "Azúcar",
+        "Sándalo",
+        "Madera de cachemira"
+      ],
+      "notas_fondo": [
+        "Incienso",
+        "Vainilla",
+        "Ámbar",
+        "Musgo de roble",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Raghba Wood Intense abre con Caramelo, Regaliz, Madera de gaiac; evoluciona hacia Madera de oud, Azúcar, Sándalo; descansa sobre un fondo de Incienso, Vainilla, Ámbar.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_ffa1241f-15e7-42c7-ae41-0b4b53c4db7e.png?v=1747498771",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/raghba-wood-intense",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1487,
       "sku": "AGOSTO-2026-0487",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 487,
       "presentacion_proveedor": "LATTAFA RAGHBA WOOD INTENSE EDP 100ML"
     },
@@ -14407,25 +16056,46 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Manzana",
+        "Durazno",
+        "Grosella negra",
+        "Pera",
+        "Naranja dulce"
+      ],
+      "notas_corazon": [
+        "Rosa",
+        "Jazmín sambac",
+        "Azahar"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Almizcle blanco",
+        "Vainilla",
+        "Pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Ramz Gold abre con Manzana, Durazno, Grosella negra; evoluciona hacia Rosa, Jazmín sambac, Azahar; descansa sobre un fondo de Sándalo, Almizcle blanco, Vainilla.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_c6d0426c-2ea1-402e-9cfc-23f656a8fddf.png?v=1747499087",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/ramz-gold",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1488,
       "sku": "AGOSTO-2026-0488",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 488,
       "presentacion_proveedor": "LATTAFA RAMZ GOLD EDP 100ML"
     },
@@ -14470,22 +16140,39 @@
       "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Almendra amarga",
+        "Canela"
+      ],
+      "notas_corazon": [
+        "Akigalawood",
+        "Pomarose",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Absoluto de vainilla",
+        "Haba tonka",
+        "Ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Sehr Unisex abre con Almendra amarga, Canela; evoluciona hacia Akigalawood, Pomarose, Jazmín; descansa sobre un fondo de Absoluto de vainilla, Haba tonka, Ámbar.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Sehr-Lattafa-1_ac1003e9-5414-48ce-a22d-624ce8705711.png?v=1747416393",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/sehr",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1490,
       "sku": "AGOSTO-2026-0490",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 490,
       "presentacion_proveedor": "LATTAFA SEHR EDP 100ML UNISEX"
     },
@@ -14497,25 +16184,41 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Piña",
+        "Toronja"
+      ],
+      "notas_corazon": [
+        "Higo",
+        "Lavanda"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Haba tonka",
+        "Pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Shaheen Gold abre con Piña, Toronja; evoluciona hacia Higo, Lavanda; descansa sobre un fondo de Vainilla, Haba tonka, Pachulí.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_c8222ab0-b780-478f-b854-e18ad4cf34da.png?v=1749325975",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/shaheen-gold",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1491,
       "sku": "AGOSTO-2026-0491",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 491,
       "presentacion_proveedor": "LATTAFA SHAHEEN GOLD EDP 100ML"
     },
@@ -14527,25 +16230,41 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Cassis"
+      ],
+      "notas_corazon": [
+        "Pachulí",
+        "Rosa"
+      ],
+      "notas_fondo": [
+        "Musgo de roble",
+        "Almizcle",
+        "Ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Shaheen Silver abre con Bergamota, Cassis; evoluciona hacia Pachulí, Rosa; descansa sobre un fondo de Musgo de roble, Almizcle, Ámbar.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_4cd7ff91-530a-4867-a0c2-87a5f6700f92.png?v=1749326179",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/shaheen-silver",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1492,
       "sku": "AGOSTO-2026-0492",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 492,
       "presentacion_proveedor": "LATTAFA SHAHEEN SILVER EDP 100ML"
     },
@@ -14557,25 +16276,47 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Caramelo",
+        "Almendra amarga",
+        "Albaricoque",
+        "Pimienta rosa"
+      ],
+      "notas_corazon": [
+        "Miel",
+        "Ruibarbo",
+        "Flores blancas",
+        "Rosa"
+      ],
+      "notas_fondo": [
+        "Cuero",
+        "Vainilla",
+        "Almizcle",
+        "Vetiver",
+        "Ládano"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Teriaq abre con Caramelo, Almendra amarga, Albaricoque; evoluciona hacia Miel, Ruibarbo, Flores blancas; descansa sobre un fondo de Cuero, Vainilla, Almizcle.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Teriaq-1_9cd52e8c-943a-4aa4-be16-2a30638fc421.png?v=1747416456",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/teriaq",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1493,
       "sku": "AGOSTO-2026-0493",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 493,
       "presentacion_proveedor": "LATTAFA TERIAQ EDP 100ML"
     },
@@ -14587,25 +16328,41 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Menta",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Clary Sage",
+        "Lavanda"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Vetiver",
+        "Cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Tharwah Silver abre con Menta, Bergamota; evoluciona hacia Clary Sage, Lavanda; descansa sobre un fondo de Almizcle, Vetiver, Cedro.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_2d2d0bd6-397d-4d6b-851f-0c27d76d6492.png?v=1749326270",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/tharwah-silver",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1494,
       "sku": "AGOSTO-2026-0494",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 494,
       "presentacion_proveedor": "LATTAFA THARWAH SILVER EDP 100ML"
     },
@@ -14677,25 +16434,42 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Orquídea",
+        "Heliotropo",
+        "Mandarina"
+      ],
+      "notas_corazon": [
+        "Acorde gourmand",
+        "Frutas tropicales"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Almizcle",
+        "Sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Yara abre con Orquídea, Heliotropo, Mandarina; evoluciona hacia Acorde gourmand, Frutas tropicales; descansa sobre un fondo de Vainilla, Almizcle, Sándalo.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_7682153c-2dce-4b60-a9e6-20557f8502cf.png?v=1747500015",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/yara",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1497,
       "sku": "AGOSTO-2026-0497",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 497,
       "presentacion_proveedor": "LATTAFA YARA EDP 100ML"
     },
@@ -14707,25 +16481,43 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Pera",
+        "Pimienta rosa",
+        "Grosella negra"
+      ],
+      "notas_corazon": [
+        "Nardo",
+        "Jazmín",
+        "Almendra"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Cachemira",
+        "Pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Yara Moi abre con Pera, Pimienta rosa, Grosella negra; evoluciona hacia Nardo, Jazmín, Almendra; descansa sobre un fondo de Vainilla, Cachemira, Pachulí.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Yara-Moi-1_81ec2a74-066f-45ef-b35a-465dfda22eac.png?v=1747422182",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/yara-moi",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1498,
       "sku": "AGOSTO-2026-0498",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 498,
       "presentacion_proveedor": "LATTAFA YARA MOI EDP 100ML"
     },
@@ -14737,25 +16529,43 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Mango",
+        "Coco",
+        "Maracuyá"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Azahar",
+        "Heliotropo"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Almizcle",
+        "Cachemira"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "descripcion": "Yara Tous abre con Mango, Coco, Maracuyá; evoluciona hacia Jazmín, Azahar, Heliotropo; descansa sobre un fondo de Vainilla, Almizcle, Cachemira.",
+      "imagen_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_5fe75433-0467-4d06-87e9-d9e81ac2da00.png?v=1749487600",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Lattafa",
+          "url": "https://lattafa-usa.com/products/yara-tous",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1499,
       "sku": "AGOSTO-2026-0499",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 499,
       "presentacion_proveedor": "LATTAFA YARA TOUS EDP 100ML"
     },
