@@ -96,3 +96,27 @@ test("reviewed Afnan records preserve supplier identity and sourced performance"
   ]);
   assert.equal(electric?.ficha_estado, "verificada");
 });
+
+test("reviewed profiles never alter exact Al Haramain presentations", () => {
+  const femme = catalog.records.find((record) => record.origen_ref === 17);
+  assert.equal(femme?.nombre, "L Aventure Femme");
+  assert.equal(femme?.tamano_ml, 100);
+  assert.deepEqual(femme?.notas_salida, [
+    "Piña",
+    "Grosella negra",
+    "Bergamota",
+    "Bayas silvestres",
+  ]);
+
+  const homme = catalog.records.find((record) => record.origen_ref === 18);
+  assert.equal(homme?.nombre, "L Aventure Hombre");
+  assert.deepEqual(homme?.notas_salida, ["Limón", "Bergamota", "Elemí"]);
+
+  const goldSizes = catalog.records.filter(
+    (record) => record.nombre === "Amber Oud Gold Edition",
+  );
+  assert.deepEqual(
+    goldSizes.map((record) => record.tamano_ml),
+    [120, 200],
+  );
+});

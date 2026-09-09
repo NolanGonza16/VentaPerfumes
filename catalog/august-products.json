@@ -8,26 +8,69 @@
       "precio_crc": 37400,
       "tamano_ml": 100,
       "concentracion": "Eau de Cologne",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromático",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Manzana",
+        "Limón",
+        "Naranja",
+        "Petitgrain"
+      ],
+      "notas_corazon": [
+        "Cardamomo",
+        "Romero",
+        "Salvia",
+        "Lavanda",
+        "Rosa",
+        "Geranio"
+      ],
+      "notas_fondo": [
+        "Musgo de roble",
+        "Sándalo",
+        "Vetiver",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una colonia masculina fresca y segura, con salida cítrica, corazón aromático y un fondo limpio de maderas y almizcle. Versátil para el día y la oficina.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha olfativa de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Abercrombie-Fitch/Fierce-Cologne-64168.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1001,
       "sku": "AGOSTO-2026-0001",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 1,
       "presentacion_proveedor": "ABERCROMBIE & FITCH FIERCE COLOGNE EDC 100ML"
     },
@@ -38,26 +81,62 @@
       "precio_crc": 39950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Flor de cactus"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Romero"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Almizcle",
+        "Vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una fragancia floral y amaderada de carácter natural, sereno y moderno. Su equilibrio aromático resulta cómodo para el uso diario y ambientes profesionales.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha olfativa de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Abercrombie-Fitch/Naturally-Fierce-68533.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1002,
       "sku": "AGOSTO-2026-0002",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 2,
       "presentacion_proveedor": "ABERCROMBIE & FITCH NATURALLY FIERCE EDP 100ML"
     },
@@ -560,7 +639,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -572,13 +651,19 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha olfativa de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Agatha-Ruiz-de-la-Prada/12-Gotas-de-Color-10454.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1012,
       "sku": "AGOSTO-2026-0012",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 12,
       "presentacion_proveedor": "AGATHA RUIZ DE LA PRADA GOTAS DE COLOR EDT 100ML"
     },
@@ -589,23 +674,57 @@
       "precio_crc": 71400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Ámbar",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Oud",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Oud",
+        "Ámbar",
+        "Almizcle"
+      ],
+      "notas_corazon": [
+        "Rosa",
+        "Frambuesa",
+        "Abedul",
+        "Azafrán"
+      ],
+      "notas_fondo": [
+        "Benjuí",
+        "Madera de ámbar",
+        "Geranio"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una composición cálida y envolvente de ámbar, oud y almizcle, iluminada por rosa y frambuesa. Elegante y profunda para noches, citas y eventos especiales.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Al_Haramain_Amber_Musk.png?v=1740235422",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/al-haramain-amber-musk",
+          "titulo": "Presentación de la colección Musk de Al Haramain",
+          "url": "https://www.fragrantica.com/news/Al-Haramain-Musk-Series-Amber-Musk-Musk-Collection-Musk-Maliki-and-Royal-Musk-16284.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -625,26 +744,69 @@
       "precio_crc": 44200,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Rosa",
+          "emoji": ""
+        },
+        {
+          "nombre": "Oud",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Azafrán",
+        "Elemí"
+      ],
+      "notas_corazon": [
+        "Oud",
+        "Rosa búlgara"
+      ],
+      "notas_fondo": [
+        "Almizcle blanco",
+        "Haba tonka",
+        "Ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 4.4,
+      "descripcion": "Bergamota y azafrán abren una fragancia oriental intensa, con oud y rosa búlgara sobre un fondo cálido de ámbar, almizcle y haba tonka. Hecha para destacar de noche.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Catálogo oficial de Al Haramain",
+          "url": "https://shop.alharamainperfumes.com/E-Catalog/e-catalog.pdf",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Valoraciones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Dubai-Night-96481.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1014,
       "sku": "AGOSTO-2026-0014",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 14,
       "presentacion_proveedor": "AL HARAMAIN AMBER OUD DUBAI NIGHT 100ML"
     },
@@ -655,23 +817,56 @@
       "precio_crc": 40800,
       "tamano_ml": 120,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Notas verdes"
+      ],
+      "notas_corazon": [
+        "Melón",
+        "Piña",
+        "Ámbar",
+        "Acorde gourmand"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Almizcle",
+        "Notas amaderadas"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 4.3,
+      "descripcion": "Una fragancia oriental dulce y frutal, donde melón y piña se funden con vainilla, almizcle y maderas. Envolvente y llamativa para citas y ocasiones especiales.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Amber-Oud-Gold-Edition.png?v=1574709551",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/amber-oud-gold-edition",
+          "titulo": "Ficha y valoraciones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Gold-Edition-51816.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -691,23 +886,56 @@
       "precio_crc": 57800,
       "tamano_ml": 200,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Notas verdes"
+      ],
+      "notas_corazon": [
+        "Melón",
+        "Piña",
+        "Ámbar",
+        "Acorde gourmand"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Almizcle",
+        "Notas amaderadas"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 4.3,
+      "descripcion": "Una fragancia oriental dulce y frutal, donde melón y piña se funden con vainilla, almizcle y maderas. Envolvente y llamativa para citas y ocasiones especiales.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Amber-Oud-Gold-Edition.png?v=1574709551",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/amber-oud-gold-edition",
+          "titulo": "Ficha y valoraciones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Gold-Edition-51816.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -727,23 +955,58 @@
       "precio_crc": 28050,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Piña",
+        "Grosella negra",
+        "Bergamota",
+        "Bayas silvestres"
+      ],
+      "notas_corazon": [
+        "Cedro",
+        "Fresia",
+        "Rosa"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Sándalo",
+        "Ámbar",
+        "Vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 3.8,
+      "descripcion": "Frutas luminosas y flores elegantes descansan sobre almizcle, sándalo y vainilla. Una fragancia femenina segura y versátil para el día, la oficina o una cita.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/61H54S7MigL._SL1500.jpg?v=1626102154",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/laventure-femme",
+          "titulo": "Ficha y valoraciones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/L-Aventure-Femme-51820.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -763,23 +1026,60 @@
       "precio_crc": 31450,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ahumado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Limón",
+        "Bergamota",
+        "Elemí"
+      ],
+      "notas_corazon": [
+        "Notas amaderadas",
+        "Jazmín",
+        "Lirio del valle"
+      ],
+      "notas_fondo": [
+        "Pachulí",
+        "Ámbar",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 3.9,
+      "descripcion": "Un perfil masculino cítrico y fresco con corazón amaderado y un fondo de pachulí, ámbar y almizcle. Seguro y pulido para el día y la oficina.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/AL-HARAMAIN-L_AVENTURE-100ML-EDP-MEN.png?v=1571610018",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/al-haramain-laventure",
+          "titulo": "Ficha y valoraciones de Parfumo",
+          "url": "https://www.parfumo.com/Perfumes/Al_Haramain/L_Aventure",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Pirámide olfativa de Basenotes",
+          "url": "https://basenotes.com/fragrances/laventure-by-al-haramain.26151080",
           "fecha": "2026-09-09"
         }
       ],
@@ -799,23 +1099,62 @@
       "precio_crc": 71400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Manzana verde",
+        "Limón",
+        "Violeta",
+        "Hojas de violeta"
+      ],
+      "notas_corazon": [
+        "Jazmín marroquí",
+        "Jazmín italiano",
+        "Rosa búlgara",
+        "Geranio"
+      ],
+      "notas_fondo": [
+        "Narciso",
+        "Almizcle",
+        "Sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 4.0,
+      "descripcion": "Un jardín floral limpio y atalcado, animado por manzana verde, limón y violeta antes de descansar sobre almizcle y sándalo. Suave y elegante para el día.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Al-Haramain-Musk-Malaki.png?v=1667226653",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/al-haramain-musk-malaki",
+          "titulo": "Presentación de la colección Musk de Al Haramain",
+          "url": "https://www.fragrantica.com/news/Al-Haramain-Musk-Series-Amber-Musk-Musk-Collection-Musk-Maliki-and-Royal-Musk-16284.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Valoraciones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfumes/Al-Haramain-Perfumes/Musk-Maliki-70385.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -824,7 +1163,7 @@
       "orden": 1019,
       "sku": "AGOSTO-2026-0019",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 19,
       "presentacion_proveedor": "AL HARAMAIN MUSK MALIKI EDP 100ML"
     },
@@ -835,23 +1174,60 @@
       "precio_crc": 71400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Miel",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Pimienta",
+        "Ylang-ylang"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Lirio del valle",
+        "Raíz de lirio"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Cera de abeja"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 3.9,
+      "descripcion": "Una interpretación refinada del almizcle, con cítricos especiados, flores blancas y un fondo suave de cera de abeja. Limpia y distintiva para diario, oficina o citas.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Royal-Musk.png?v=1721023438",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/royal-musk",
+          "titulo": "Presentación de la colección Musk de Al Haramain",
+          "url": "https://www.fragrantica.com/news/Al-Haramain-Musk-Series-Amber-Musk-Musk-Collection-Musk-Maliki-and-Royal-Musk-16284.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Valoraciones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Royal-Musk-70384.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -860,7 +1236,7 @@
       "orden": 1020,
       "sku": "AGOSTO-2026-0020",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 20,
       "presentacion_proveedor": "AL HARAMAIN ROYAL MUSK EDP 100ML"
     },
