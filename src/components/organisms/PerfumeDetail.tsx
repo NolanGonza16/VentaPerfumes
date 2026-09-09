@@ -156,7 +156,13 @@ export default function PerfumeDetail({
     );
   };
 
-  const message = `Hola, estoy interesado en el perfume ${perfume.nombre} de ${perfume.marca}. Me gustaría conocer precio y disponibilidad.`;
+  const presentation = [
+    perfume.concentracion,
+    perfume.tamanoMl ? `${perfume.tamanoMl} ml` : null,
+  ]
+    .filter(Boolean)
+    .join(" · ");
+  const message = `Hola, estoy interesado en el perfume ${perfume.nombre} de ${perfume.marca}${presentation ? ` (${presentation})` : ""}. Me gustaría conocer precio y disponibilidad.`;
 
   return createPortal(
     <dialog
@@ -242,6 +248,7 @@ export default function PerfumeDetail({
           <header className="pd-identity">
             <p className="pd-eyebrow">{perfume.marca}</p>
             <h2 id={titleId}>{perfume.nombre}</h2>
+            {presentation && <p className="pd-small-print">{presentation}</p>}
             <div className="pd-price-line">
               <strong>{perfume.precio}</strong>
               <span>
@@ -341,9 +348,32 @@ export default function PerfumeDetail({
                   <span key={occasion}>{occasion}</span>
                 ))}
               </div>
+              <p className="pd-small-print">
+                Sugerencias editoriales según su perfil olfativo.
+              </p>
             </section>
           )}
 
+          {!!perfume.fuentes?.length && (
+            <section className="pd-section" aria-label="Fuentes de la ficha">
+              <h3>Sobre esta fragancia</h3>
+              <p className="pd-small-print">
+                Notas contrastadas con el fabricante. La disponibilidad se
+                confirma al consultar.
+              </p>
+              {perfume.fuentes.map((source) => (
+                <p key={source.url} className="pd-small-print">
+                  <a
+                    href={source.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {source.titulo} <Icon name="arrow-up-right" />
+                  </a>
+                </p>
+              ))}
+            </section>
+          )}
           {rating > 0 && (
             <div className="pd-editorial-rating">
               <strong>

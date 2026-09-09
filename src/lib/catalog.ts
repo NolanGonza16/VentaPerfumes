@@ -5,7 +5,7 @@ import { formatColones } from "./prices.ts";
 export const CATALOG_IMAGE_FALLBACK = "/images/perfume-placeholder.svg";
 const CATALOG_TIMEOUT_MS = 12000;
 const fields =
-  "id, slug, nombre, marca, precio_crc, imagen_url, familia, genero, ocasiones, acordes, notas_salida, notas_corazon, notas_fondo, duracion, proyeccion, estela, valoracion, descripcion, disponibilidad";
+  "id, slug, nombre, marca, precio_crc, imagen_url, familia, genero, ocasiones, acordes, notas_salida, notas_corazon, notas_fondo, duracion, proyeccion, estela, valoracion, descripcion, disponibilidad, concentracion, tamano_ml, fuentes";
 
 const text = (value: unknown): string =>
   typeof value === "string" ? value.trim() : "";
@@ -70,6 +70,18 @@ export function normalizeCatalogRow(value: unknown): Perfume | null {
     marca: brand,
     precioCrc: price,
     precio: formatColones(price),
+    concentracion: text(row.concentracion) || undefined,
+    tamanoMl: numeric(row.tamano_ml) || undefined,
+    fuentes: Array.isArray(row.fuentes)
+      ? row.fuentes.flatMap((source) => {
+          if (!source || typeof source !== "object") return [];
+          const url = normalizeImageUrl(source.url);
+          if (!url.startsWith("https://") || !text(source.titulo)) return [];
+          return [
+            { titulo: text(source.titulo), url, fecha: text(source.fecha) },
+          ];
+        })
+      : [],
     imagen: normalizeImageUrl(row.imagen_url),
     familia: enumValue(row.familia, familias, "Aromático"),
     genero: enumValue<Perfume["genero"]>(

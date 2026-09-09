@@ -84,25 +84,13 @@ export default function CatalogPage() {
         onBudget={setBudget}
         onToggle={() => setFiltersOpen((value) => !value)}
       />
-      {catalog.isDemo && (
-        <div className="catalog-notice">
-          <span className="notice-dot" />
-          <p>
-            Colección de muestra{" "}
-            <span>
-              · Imágenes, precios y notas ilustrativos. Catálogo real
-              próximamente.
-            </span>
-          </p>
-        </div>
-      )}
       {catalog.mode === "offline" && (
         <div className="connection-notice" role="status">
           <p>
             No pudimos actualizar el catálogo.{" "}
-            {catalog.isDemo
-              ? "Estás viendo ejemplos."
-              : "Estás viendo la última versión cargada."}
+            {catalog.source === "cache"
+              ? "Estás viendo la última versión cargada."
+              : "Intenta conectarte nuevamente."}
           </p>
           <button onClick={catalog.retry}>
             Reintentar <Icon name="arrow" />
@@ -170,6 +158,18 @@ export default function CatalogPage() {
               onOpen={() => setSelected(perfume)}
             />
           ))}
+        </div>
+      ) : !catalog.perfumes.length ? (
+        <div className="empty-state">
+          <p className="eyebrow">LA NUEVA COLECCIÓN</p>
+          <h2>Estamos preparando cada detalle.</h2>
+          <p>
+            Pronto podrás explorar nuestro catálogo. Mientras tanto, consulta
+            por tu fragancia favorita.
+          </p>
+          <a className="button button-gold" href="/contacto">
+            Consultar una fragancia <Icon name="arrow" />
+          </a>
         </div>
       ) : (
         <div className="empty-state">

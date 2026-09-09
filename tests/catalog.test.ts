@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { perfumes as examples } from "../src/data/perfumes.ts";
+import { perfumes as examples } from "./fixtures/perfumes.ts";
 import {
   CatalogConfigurationError,
   CATALOG_IMAGE_FALLBACK,
@@ -220,13 +220,13 @@ test("navigation and concurrent readers reuse one fresh catalog request", async 
   assert.equal(requests, 2);
 });
 
-test("empty database intentionally shows labelled examples without seeding", async () => {
+test("empty database never substitutes demonstration products", async () => {
   const store = createCatalogStore(async () => []);
   await store.load();
-  assert.equal(store.getSnapshot().mode, "demo");
+  assert.equal(store.getSnapshot().mode, "live");
   assert.equal(store.getSnapshot().source, "empty");
-  assert.equal(store.getSnapshot().isDemo, true);
-  assert.ok(store.getSnapshot().perfumes.every((p) => p.esEjemplo));
+  assert.equal(store.getSnapshot().isDemo, false);
+  assert.deepEqual(store.getSnapshot().perfumes, []);
 });
 
 test("missing configuration stays usable and is distinct from network errors", async () => {
@@ -234,7 +234,7 @@ test("missing configuration stays usable and is distinct from network errors", a
     throw new CatalogConfigurationError();
   });
   await store.load();
-  assert.equal(store.getSnapshot().mode, "demo");
+  assert.equal(store.getSnapshot().mode, "offline");
   assert.equal(store.getSnapshot().source, "unconfigured");
   assert.equal(store.getSnapshot().loading, false);
 });
@@ -260,7 +260,7 @@ test("offline retains last live records and retry recovers; no silent demo subst
   assert.equal(store.getSnapshot().error, null);
 });
 
-test("offline before first load explicitly returns examples and retries are throttled", async () => {
+test("offline before first load stays empty and retries are throttled", async () => {
   let attempts = 0;
   const store = createCatalogStore(async () => {
     attempts++;
@@ -271,6 +271,7 @@ test("offline before first load explicitly returns examples and retries are thro
   assert.equal(attempts, 1);
   assert.equal(store.getSnapshot().mode, "offline");
   assert.equal(store.getSnapshot().source, "unavailable");
-  assert.equal(store.getSnapshot().isDemo, true);
+  assert.equal(store.getSnapshot().isDemo, false);
+  assert.deepEqual(store.getSnapshot().perfumes, []);
   assert.equal(store.getSnapshot().loading, false);
 });

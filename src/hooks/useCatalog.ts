@@ -1,12 +1,11 @@
 import { useEffect, useSyncExternalStore } from "react";
-import { perfumes as examples } from "../data/perfumes.ts";
 import type { Perfume } from "../data/perfumes.ts";
 import {
   CatalogConfigurationError,
   fetchCatalogPerfumes,
 } from "../lib/catalog.ts";
 
-export type CatalogMode = "loading" | "demo" | "live" | "offline";
+export type CatalogMode = "loading" | "live" | "offline";
 export type CatalogSource =
   "pending" | "database" | "empty" | "unconfigured" | "cache" | "unavailable";
 export interface CatalogState {
@@ -22,11 +21,11 @@ export interface CatalogState {
 const FRESHNESS_MS = 5 * 60 * 1000;
 const RETRY_DELAY_MS = 30 * 1000;
 const initialState: CatalogState = {
-  perfumes: examples,
+  perfumes: [],
   mode: "loading",
   source: "pending",
   loading: true,
-  isDemo: true,
+  isDemo: false,
   error: null,
   updatedAt: null,
 };
@@ -60,11 +59,11 @@ export function createCatalogStore(
         lastLive = hasRecords ? records : null;
         freshUntil = now() + FRESHNESS_MS;
         publish({
-          perfumes: hasRecords ? records : examples,
-          mode: hasRecords ? "live" : "demo",
+          perfumes: records,
+          mode: "live",
           source: hasRecords ? "database" : "empty",
           loading: false,
-          isDemo: !hasRecords,
+          isDemo: false,
           error: null,
           updatedAt: now(),
         });
@@ -75,15 +74,15 @@ export function createCatalogStore(
         freshUntil = now() + (notConfigured ? FRESHNESS_MS : RETRY_DELAY_MS);
         publish({
           ...state,
-          perfumes: lastLive ?? examples,
-          mode: notConfigured ? "demo" : "offline",
+          perfumes: lastLive ?? [],
+          mode: "offline",
           source: notConfigured
             ? "unconfigured"
             : lastLive
               ? "cache"
               : "unavailable",
           loading: false,
-          isDemo: !lastLive,
+          isDemo: false,
           error: notConfigured
             ? null
             : "No pudimos actualizar el catálogo. Intenta de nuevo.",
