@@ -1,0 +1,1893 @@
+[
+  {
+    "ref": 451,
+    "nombre": "Emaan",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "cítrico",
+      "avainillado",
+      "almizclado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "cítricos",
+      "grosella negra",
+      "azahar"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "tuberosa",
+      "caléndula"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "pachulí",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume floral con salida cítrica y un fondo dulce de vainilla, almizcle y maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Emaan-78547.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 452,
+    "nombre": "Fakhar Extrait",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "No se encontraron datos públicos suficientemente verificables para identificar sus notas y rendimiento.",
+    "fuentes": [],
+    "estado": "sin datos verificables"
+  },
+  {
+    "ref": 453,
+    "nombre": "Fakhar Hombre",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Aromática amaderada",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "aromático",
+      "cítrico",
+      "amaderado",
+      "ámbar",
+      "verde"
+    ],
+    "notas_salida": [
+      "manzana",
+      "jengibre",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "salvia",
+      "geranio"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "ámbar",
+      "cedro",
+      "vetiver"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aromática amaderada de perfil fresco, con manzana y cítricos sobre lavanda, maderas y haba tonka.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Fakhar-Black-70412.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 454,
+    "nombre": "Fakhar Platin",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Aromática amaderada",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "ámbar",
+      "floral blanco"
+    ],
+    "notas_salida": [
+      "pomelo",
+      "lavanda",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "pachulí",
+      "flor de naranjo"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "maderas de ámbar",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia aromática amaderada con pomelo y lavanda, un corazón floral y un fondo de tonka y maderas ambaradas.",
+    "fuentes": [],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 455,
+    "nombre": "Give Me Gourmand Choco Overdose",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 75,
+    "familia": "Gourmand",
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [
+      "chocolate"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia gourmand cuyo perfil se identifica por un acorde dominante de chocolate.",
+    "fuentes": [],
+    "estado": "datos limitados"
+  },
+  {
+    "ref": 456,
+    "nombre": "Give Me Gourmand Cookie Crave",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 75,
+    "familia": "Gourmand",
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [
+      "dulce",
+      "gourmand"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia gourmand inspirada en el perfil dulce de una galleta; no se verificaron notas detalladas.",
+    "fuentes": [],
+    "estado": "datos limitados"
+  },
+  {
+    "ref": 457,
+    "nombre": "Give Me Gourmand Mallow Madness",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 75,
+    "familia": "Gourmand",
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [
+      "dulce",
+      "gourmand"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia gourmand de perfil dulce; no se verificaron públicamente sus notas específicas.",
+    "fuentes": [],
+    "estado": "datos limitados"
+  },
+  {
+    "ref": 458,
+    "nombre": "Give Me Gourmand Vanilla Freak",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 75,
+    "familia": "Gourmand",
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [
+      "avainillado",
+      "dulce"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia gourmand centrada en un perfil de vainilla; no se verificaron notas detalladas.",
+    "fuentes": [],
+    "estado": "datos limitados"
+  },
+  {
+    "ref": 459,
+    "nombre": "Give Me Gourmand Whipped Pleasure",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 75,
+    "familia": "Gourmand",
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [
+      "dulce",
+      "gourmand"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia gourmand de perfil dulce; no se verificaron públicamente sus notas específicas.",
+    "fuentes": [],
+    "estado": "datos limitados"
+  },
+  {
+    "ref": 460,
+    "nombre": "Hayaati Al Maleky",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "No se encontraron datos públicos suficientemente verificables para completar la pirámide olfativa.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Hayaati-Al-Maleky-82975.html"
+    ],
+    "estado": "sin datos verificables"
+  },
+  {
+    "ref": 461,
+    "nombre": "Hayaati",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Aromática amaderada",
+    "genero": "Masculino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "fresco especiado",
+      "amaderado",
+      "almizclado",
+      "aromático"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "pomelo",
+      "manzana"
+    ],
+    "notas_corazon": [
+      "canela",
+      "notas amaderadas"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "ámbar",
+      "cedro",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma fresco y especiado con salida cítrica, corazón de canela y fondo amaderado almizclado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Hayaati-75449.html",
+      "https://lattafa-usa.com/products/hayaati-men-eau-de-parfum"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 462,
+    "nombre": "Hayaati Gold Elixir",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar amaderada",
+    "genero": "Unisex",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "ámbar",
+      "dulce",
+      "frutal",
+      "especiado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "pomelo",
+      "bergamota",
+      "manzana"
+    ],
+    "notas_corazon": [
+      "canela",
+      "azafrán",
+      "flor de naranjo"
+    ],
+    "notas_fondo": [
+      "ámbar",
+      "vainilla",
+      "almizcle",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Composición dulce y ambarada que combina frutas y especias con vainilla, almizcle y cedro.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Hayaati-Gold-Elixir-78504.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 463,
+    "nombre": "Her Confession",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar floral",
+    "genero": "Femenino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "floral",
+      "ámbar",
+      "vainilla",
+      "especiado",
+      "atalcado"
+    ],
+    "notas_salida": [
+      "canela",
+      "hoja de violeta",
+      "ciclamen"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "tuberosa",
+      "iris",
+      "lavanda"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "haba tonka",
+      "ámbar",
+      "almizcle",
+      "incienso"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume floral ambarado de matiz especiado, con flores blancas y un fondo avainillado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Her-Confession-89583.html",
+      "https://lattafa-usa.com/products/her-confession"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 464,
+    "nombre": "His Confession",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar amaderada",
+    "genero": "Masculino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "ámbar",
+      "especiado",
+      "amaderado",
+      "aromático",
+      "dulce"
+    ],
+    "notas_salida": [
+      "lavanda",
+      "canela",
+      "mandarina"
+    ],
+    "notas_corazon": [
+      "iris",
+      "benjuí"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "ámbar",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia cálida y especiada con lavanda, iris y un fondo dulce de tonka y ámbar.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/His-Confession-88483.html",
+      "https://lattafa-usa.com/products/his-confession"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 465,
+    "nombre": "Honor & Glory",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar gourmand",
+    "genero": "Unisex",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "dulce",
+      "frutal",
+      "gourmand",
+      "especiado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "piña",
+      "crema brûlée",
+      "canela",
+      "cúrcuma",
+      "pimienta negra"
+    ],
+    "notas_corazon": [
+      "vainilla",
+      "jazmín",
+      "benjuí"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "musgo",
+      "cashmeran"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Gourmand dulce de piña y crema brûlée, matizado por especias, vainilla y maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Honor-Glory-75889.html",
+      "https://lattafa-usa.com/products/honor-glory"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 466,
+    "nombre": "Jasoor",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar amaderada",
+    "genero": "Masculino",
+    "ocasiones": [
+      "diario",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "amaderado",
+      "aromático",
+      "especiado",
+      "dulce",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "cardamomo",
+      "canela"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "geranio",
+      "haba tonka"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma especiado y amaderado con apertura cítrica, corazón aromático y base de vainilla y ámbar.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Jasoor-89072.html",
+      "https://lattafa-usa.com/products/jasoor"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 467,
+    "nombre": "Khamrah Dukhan",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar especiada",
+    "genero": "Unisex",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "ahumado",
+      "dulce",
+      "especiado",
+      "ámbar",
+      "tabaco"
+    ],
+    "notas_salida": [
+      "manzana",
+      "mandarina",
+      "incienso"
+    ],
+    "notas_corazon": [
+      "canela",
+      "flor de naranjo",
+      "cuero"
+    ],
+    "notas_fondo": [
+      "tabaco",
+      "ámbar",
+      "vainilla",
+      "haba tonka",
+      "benjuí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Versión ahumada y especiada de Khamrah, con fruta, incienso, tabaco y un fondo dulce.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Khamrah-Dukhan-98232.html",
+      "https://lattafa-usa.com/products/khamrah-dukhan"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 468,
+    "nombre": "Khamrah",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar gourmand",
+    "genero": "Unisex",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "dulce",
+      "especiado",
+      "gourmand",
+      "ámbar",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "canela",
+      "nuez moscada",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "dátiles",
+      "praliné",
+      "tuberosa",
+      "mahonia"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "haba tonka",
+      "ámbar gris",
+      "mirra",
+      "benjuí",
+      "madera de akigala"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Gourmand cálido de dátiles, praliné y especias, asentado sobre vainilla, tonka y maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Khamrah-75805.html",
+      "https://lattafa-usa.com/products/khamrah"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 469,
+    "nombre": "Khamrah Qahwa",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar gourmand",
+    "genero": "Unisex",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "dulce",
+      "café",
+      "especiado",
+      "gourmand",
+      "vainilla"
+    ],
+    "notas_salida": [
+      "canela",
+      "cardamomo",
+      "jengibre"
+    ],
+    "notas_corazon": [
+      "praliné",
+      "frutas confitadas",
+      "flores blancas"
+    ],
+    "notas_fondo": [
+      "café",
+      "vainilla",
+      "haba tonka",
+      "benjuí",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Interpretación gourmand de Khamrah con especias, praliné y un fondo marcado de café y vainilla.",
+    "fuentes": [
+      "https://lattafa-usa.com/products/khamrah-qahwa"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 470,
+    "nombre": "Kids Variados",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 75,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "No identifica un perfume infantil concreto; no es posible atribuir notas o rendimiento verificables.",
+    "fuentes": [],
+    "estado": "no verificable como producto específico"
+  },
+  {
+    "ref": 471,
+    "nombre": "Luxe",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume de Lattafa; no se ha podido verificar de forma fiable su pirámide olfativa.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Luxe"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 472,
+    "nombre": "Maahir Black Edition",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "amaderada especiada",
+    "genero": "unisex",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "amaderado",
+      "especiado",
+      "ahumado",
+      "ámbar",
+      "animalic"
+    ],
+    "notas_salida": [
+      "pimienta negra",
+      "azafrán",
+      "comino"
+    ],
+    "notas_corazon": [
+      "cuero",
+      "madera de oud",
+      "violeta"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "ámbar",
+      "vainilla",
+      "musk"
+    ],
+    "duracion": "larga",
+    "proyeccion": "fuerte",
+    "estela": "fuerte",
+    "valoracion": null,
+    "descripcion": "Fragancia oscura, especiada y amaderada, con cuero y oud de presencia intensa.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Maahir%20Black%20Edition"
+    ],
+    "estado": "verificado_parcialmente"
+  },
+  {
+    "ref": 473,
+    "nombre": "Maharjan Gold",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "oriental amaderada",
+    "genero": "unisex",
+    "ocasiones": [
+      "noche",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "oud",
+      "ámbar",
+      "amaderado",
+      "especiado",
+      "floral"
+    ],
+    "notas_salida": [
+      "azafrán",
+      "bergamota",
+      "frutas"
+    ],
+    "notas_corazon": [
+      "rosa",
+      "jazmín",
+      "oud"
+    ],
+    "notas_fondo": [
+      "ámbar",
+      "sándalo",
+      "vainilla",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Composición oriental de oud, flores y ámbar con salida especiada.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Maharjan%20Gold"
+    ],
+    "estado": "verificado_parcialmente"
+  },
+  {
+    "ref": 474,
+    "nombre": "Mayar Cherry Intense",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "floral frutal gourmand",
+    "genero": "femenino",
+    "ocasiones": [
+      "día",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "frutal",
+      "floral",
+      "dulce",
+      "avainillado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "cereza",
+      "fresa",
+      "frambuesa"
+    ],
+    "notas_corazon": [
+      "heliotropo",
+      "jazmín",
+      "orquídea"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "sándalo",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia frutal y dulce centrada en cereza y frutos rojos, suavizada por flores y vainilla.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Mayar%20Cherry%20Intense"
+    ],
+    "estado": "verificado_parcialmente"
+  },
+  {
+    "ref": 475,
+    "nombre": "Mayar Natural Intense",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "floral frutal",
+    "genero": "femenino",
+    "ocasiones": [
+      "día",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "frutal",
+      "floral",
+      "verde",
+      "amaderado",
+      "dulce"
+    ],
+    "notas_salida": [
+      "higo",
+      "pera",
+      "mandarina verde"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "nenúfar",
+      "avellana"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "vainilla",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma luminoso de higo, pera y cítricos verdes con corazón floral y fondo cremoso.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Mayar%20Natural%20Intense"
+    ],
+    "estado": "verificado_parcialmente"
+  },
+  {
+    "ref": 476,
+    "nombre": "Musaman White Intense",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "amaderada floral",
+    "genero": "unisex",
+    "ocasiones": [
+      "día",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "floral",
+      "cremoso",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "naranja",
+      "coco"
+    ],
+    "notas_corazon": [
+      "ylang-ylang",
+      "jazmín",
+      "ambroxan"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "vainilla",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia luminosa y cremosa con cítricos, coco, flores blancas y maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Musamam%20White%20Intense"
+    ],
+    "estado": "verificado_parcialmente"
+  },
+  {
+    "ref": 477,
+    "nombre": "Natural Oud",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "oud amaderada",
+    "genero": "unisex",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "oud",
+      "amaderado",
+      "ámbar",
+      "especiado"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume de oud y maderas; la pirámide completa no se ha podido verificar.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Natural%20Oud"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 478,
+    "nombre": "Noble Blush",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "floral frutal gourmand",
+    "genero": "femenino",
+    "ocasiones": [
+      "día",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "floral",
+      "dulce",
+      "frutal",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "fresa",
+      "rosa"
+    ],
+    "notas_corazon": [
+      "peonía",
+      "vainilla"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina dulce y floral con matices frutales y fondo suave de almizcle.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Noble%20Blush"
+    ],
+    "estado": "verificado_parcialmente"
+  },
+  {
+    "ref": 479,
+    "nombre": "Oud Al Rumaan",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "oriental floral",
+    "genero": "unisex",
+    "ocasiones": [
+      "noche",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "frutal",
+      "floral",
+      "oud",
+      "dulce",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "ciruela",
+      "azafrán",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "rosa",
+      "jazmín",
+      "oud"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Oriental frutal y floral que combina ciruela, azafrán, rosa y oud.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Oud%20Al%20Rumaan"
+    ],
+    "estado": "verificado_parcialmente"
+  },
+  {
+    "ref": 480,
+    "nombre": "Oud For Glory",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "oriental amaderada",
+    "genero": "unisex",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "oud",
+      "amaderado",
+      "especiado",
+      "cálido especiado",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "lavanda",
+      "nuez moscada",
+      "azafrán"
+    ],
+    "notas_corazon": [
+      "oud",
+      "pachulí"
+    ],
+    "notas_fondo": [
+      "oud",
+      "pachulí",
+      "almizcle"
+    ],
+    "duracion": "larga",
+    "proyeccion": "fuerte",
+    "estela": "fuerte",
+    "valoracion": null,
+    "descripcion": "Oud intenso y especiado con azafrán, pachulí y una base amaderada persistente.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Lattafa%20Oud%20For%20Glory"
+    ],
+    "estado": "verificado_parcialmente"
+  },
+  {
+    "ref": 481,
+    "nombre": "Qaed Al Fursan",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 90,
+    "familia": "Amaderada frutal",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "frutal",
+      "dulce",
+      "amaderado",
+      "ahumado",
+      "avainillado"
+    ],
+    "notas_salida": [
+      "piña",
+      "azafrán"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "bálsamo de abeto"
+    ],
+    "notas_fondo": [
+      "madera de cedro",
+      "ámbar",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume dulce y frutal, dominado por la piña, con matices amaderados y ahumados.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Qaed-Al-Fursan-53181.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 482,
+    "nombre": "Qaed Al Fursan Unlimited",
+    "marca": "Lattafa",
+    "concentracion": null,
+    "tamano_ml": 90,
+    "familia": "Floral frutal",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "coco",
+      "frutal",
+      "floral",
+      "dulce",
+      "cremoso"
+    ],
+    "notas_salida": [
+      "piña",
+      "cítricos"
+    ],
+    "notas_corazon": [
+      "coco",
+      "ylang-ylang",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma tropical y cremoso con coco, frutas y un fondo dulce de vainilla.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Qaed-Al-Fursan-Unlimited-68496.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 483,
+    "nombre": "Qaed Al Fursan Untamed",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 90,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "No se encontraron datos verificables suficientes para describir esta referencia.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Qaed%20Al%20Fursan%20Untamed"
+    ],
+    "estado": "sin datos verificables suficientes"
+  },
+  {
+    "ref": 484,
+    "nombre": "Qasaed Al Sultan",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "No se encontraron datos verificables suficientes para describir esta referencia.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Qasaed%20Al%20Sultan"
+    ],
+    "estado": "sin datos verificables suficientes"
+  },
+  {
+    "ref": 485,
+    "nombre": "Qimmah Hombre",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Oriental especiada",
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [
+      "café",
+      "especiado cálido",
+      "dulce",
+      "amaderado",
+      "avainillado"
+    ],
+    "notas_salida": [
+      "canela",
+      "cardamomo"
+    ],
+    "notas_corazon": [
+      "café",
+      "sándalo"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "haba tonka",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Composición cálida de café y especias, con base dulce de vainilla y haba tonka.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Qimmah-for-Men-53554.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 486,
+    "nombre": "Raghba For Men Limited Edition",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Oriental amaderada",
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [
+      "dulce",
+      "amaderado",
+      "ahumado",
+      "avainillado",
+      "ámbar"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia oriental masculina de perfil dulce, amaderado y ahumado.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Raghba%20For%20Men%20Limited%20Edition"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 487,
+    "nombre": "Raghba Wood Intense",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Amaderada oriental",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "amaderado",
+      "ahumado",
+      "dulce",
+      "ámbar",
+      "balsámico"
+    ],
+    "notas_salida": [
+      "regaliz",
+      "caramelo"
+    ],
+    "notas_corazon": [
+      "madera de oud",
+      "madera de guayaco",
+      "sándalo"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "incienso"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Versión intensa y ahumada de Raghba, con maderas oscuras, caramelo y vainilla.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Raghba-Wood-Intense-44417.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 488,
+    "nombre": "Ramz Gold",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Oriental frutal",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "frutal",
+      "dulce",
+      "ámbar",
+      "avainillado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "pera",
+      "manzana",
+      "piña"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "azahar"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "almizcle",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia dulce y frutal con salida jugosa y un fondo cálido de vainilla y ámbar.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Ramz%20Gold%20Lattafa"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 489,
+    "nombre": "Raw Human",
+    "marca": "Lattafa",
+    "concentracion": null,
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "No se encontraron datos verificables suficientes para describir esta referencia.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Raw%20Human%20Lattafa"
+    ],
+    "estado": "sin datos verificables suficientes"
+  },
+  {
+    "ref": 490,
+    "nombre": "Sehr Unisex",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "No se encontraron datos verificables suficientes para describir esta referencia.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Sehr%20Unisex%20Lattafa"
+    ],
+    "estado": "sin datos verificables suficientes"
+  },
+  {
+    "ref": 491,
+    "nombre": "Shaheen Gold",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Chipre frutal",
+    "genero": "Unisex",
+    "ocasiones": [
+      "diario",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "frutal",
+      "cítrico",
+      "amaderado",
+      "terroso",
+      "dulce",
+      "floral"
+    ],
+    "notas_salida": [
+      "piña",
+      "grosella negra",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "cedro",
+      "pachulí",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "musgo de roble",
+      "vainilla",
+      "ámbar gris"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia unisex frutal y amaderada, con piña y grosella negra sobre un fondo de musgo, vainilla y maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Shaheen-Gold-78521.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 492,
+    "nombre": "Shaheen Silver",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Amaderada aromática",
+    "genero": "Unisex",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "especiado fresco",
+      "terroso"
+    ],
+    "notas_salida": [
+      "limón",
+      "bergamota",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "geranio",
+      "cardamomo"
+    ],
+    "notas_fondo": [
+      "vetiver",
+      "cedro",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma cítrico-aromático de perfil fresco, con lavanda y especias sobre vetiver, cedro y pachulí.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Shaheen-Silver-78522.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 493,
+    "nombre": "Teriaq",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar gourmand",
+    "genero": "Femenino",
+    "ocasiones": [
+      "tarde",
+      "noche",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "dulce",
+      "gourmand",
+      "afrutado",
+      "floral",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "almendra amarga",
+      "pimienta rosa",
+      "caramelo",
+      "albaricoque"
+    ],
+    "notas_corazon": [
+      "miel",
+      "ruibarbo",
+      "flores blancas",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "haba tonka",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Composición dulce y gourmand de caramelo, miel y vainilla, matizada por frutas, flores blancas y especias.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Teriaq-90766.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 494,
+    "nombre": "Tharwah Silver",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Aromática amaderada",
+    "genero": "Unisex",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "aromático",
+      "cítrico",
+      "floral blanco",
+      "amaderado",
+      "terroso"
+    ],
+    "notas_salida": [
+      "lavanda",
+      "bergamota",
+      "limón"
+    ],
+    "notas_corazon": [
+      "flor de azahar",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "vetiver",
+      "cedro",
+      "pachulí",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia fresca y aromática de lavanda y cítricos, con corazón floral y fondo amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Tharwah-Silver-72247.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 495,
+    "nombre": "The Kingdom",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar fougère",
+    "genero": "Masculino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "aromático",
+      "dulce",
+      "ámbar",
+      "cítrico",
+      "especiado cálido"
+    ],
+    "notas_salida": [
+      "lavanda",
+      "menta",
+      "canela"
+    ],
+    "notas_corazon": [
+      "vainilla",
+      "flor de azahar",
+      "haba tonka"
+    ],
+    "notas_fondo": [
+      "ámbar",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma masculino aromático y dulce, con lavanda y menta sobre vainilla, tonka y ámbar.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/The-Kingdom-96937.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 496,
+    "nombre": "Yara Candy",
+    "marca": "Lattafa",
+    "concentracion": null,
+    "tamano_ml": 100,
+    "familia": "Floral frutal gourmand",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "dulce",
+      "afrutado",
+      "floral",
+      "almizclado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "mandarina verde",
+      "grosella negra"
+    ],
+    "notas_corazon": [
+      "fresa efervescente",
+      "gardenia"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "vainilla",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina dulce y afrutada, con mandarina, fresa y gardenia sobre vainilla, sándalo y almizcle.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Yara-Candy-92265.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 497,
+    "nombre": "Yara",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar floral frutal",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "dulce",
+      "afrutado",
+      "floral",
+      "vainilla",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "orquídea",
+      "heliotropo",
+      "mandarina"
+    ],
+    "notas_corazon": [
+      "acorde tropical",
+      "frutas gourmand"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma femenino dulce y cremoso con orquídea, heliotropo y frutas tropicales, asentado en vainilla y sándalo.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Yara-80421.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 498,
+    "nombre": "Yara Moi",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar floral",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "tarde",
+      "otoño"
+    ],
+    "acordes": [
+      "floral blanco",
+      "dulce",
+      "afrutado",
+      "amaderado",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "pera",
+      "pimienta rosa",
+      "grosella negra"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "nardo"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "cachemira",
+      "ámbar",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral dulce con pera y grosella negra, un corazón de jazmín y nardo y fondo cálido de vainilla.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Yara-Moi-75290.html"
+    ],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 499,
+    "nombre": "Yara Tous",
+    "marca": "Lattafa",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral frutal tropical",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "tropical",
+      "afrutado",
+      "dulce",
+      "floral",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "mango",
+      "coco",
+      "fruta de la pasión"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "flor de azahar"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "cachemira"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume tropical y dulce de mango, coco y fruta de la pasión, con flores blancas y fondo avainillado.",
+    "fuentes": [],
+    "estado": "verificado parcialmente"
+  },
+  {
+    "ref": 500,
+    "nombre": "Muharib Alpha",
+    "marca": "Le Falcone",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 85,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://lattafa.com/"
+    ],
+    "estado": "sin datos verificables suficientes"
+  }
+]
+

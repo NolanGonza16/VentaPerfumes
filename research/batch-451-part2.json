@@ -1,0 +1,1772 @@
+[
+  {
+    "ref": 501,
+    "nombre": "Homme",
+    "marca": "Lolita Lempicka",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "amaderada aromática",
+    "genero": "masculino",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lolita-Lempicka/Lolita-Lempicka-Homme-688.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 502,
+    "nombre": "Baroque Rouge Extrait",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "ámbar floral",
+    "genero": "unisex",
+    "ocasiones": [
+      "noche",
+      "formal"
+    ],
+    "acordes": [
+      "ámbar",
+      "amaderado",
+      "floral",
+      "almendrado",
+      "especiado"
+    ],
+    "notas_salida": [
+      "almendra",
+      "azafrán"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "cedro"
+    ],
+    "notas_fondo": [
+      "ámbar gris",
+      "almizcle",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Interpretación de Baccarat Rouge 540 Extrait de Maison Francis Kurkdjian.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Maison-Alhambra/Baroque-Rouge-Extrait-78547.html",
+      "https://www.franciskurkdjian.com/us-en/p/baccarat-rouge-540-extrait-de-parfum-RA112.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 503,
+    "nombre": "Bright Peach",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 80,
+    "familia": "frutal amaderada",
+    "genero": "unisex",
+    "ocasiones": [
+      "casual",
+      "día"
+    ],
+    "acordes": [
+      "frutal",
+      "dulce",
+      "cítrico",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "durazno",
+      "naranja sanguina",
+      "davana"
+    ],
+    "notas_corazon": [
+      "ron",
+      "coñac",
+      "jazmín",
+      "patchouli"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "vainilla",
+      "haba tonka",
+      "benjuí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Inspirada en Bitter Peach de Tom Ford.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Maison-Alhambra/Bright-Peach-75184.html",
+      "https://www.tomfordbeauty.com/product/bitter-peach-eau-de-parfum"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 504,
+    "nombre": "Candid Hombre",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "amaderada aromática",
+    "genero": "masculino",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Maison%20Alhambra%20Candid%20Hombre"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 505,
+    "nombre": "Chants Tenderina",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "floral cítrica",
+    "genero": "femenino",
+    "ocasiones": [
+      "día",
+      "casual"
+    ],
+    "acordes": [
+      "cítrico",
+      "floral",
+      "frutal",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "toronja",
+      "membrillo",
+      "litchi"
+    ],
+    "notas_corazon": [
+      "jacinto",
+      "jazmín",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "cedro",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Inspirada en Chance Eau Tendre de Chanel.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Tendre-Eau-de-Parfum-52170.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 506,
+    "nombre": "Como Moiselle",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "chipre floral",
+    "genero": "femenino",
+    "ocasiones": [
+      "formal",
+      "oficina",
+      "noche"
+    ],
+    "acordes": [
+      "cítrico",
+      "floral",
+      "amaderado",
+      "terroso",
+      "dulce"
+    ],
+    "notas_salida": [
+      "naranja",
+      "bergamota",
+      "mandarina"
+    ],
+    "notas_corazon": [
+      "rosa",
+      "jazmín",
+      "mimosa",
+      "ylang-ylang"
+    ],
+    "notas_fondo": [
+      "patchouli",
+      "vetiver",
+      "vainilla",
+      "haba tonka",
+      "almizcle blanco"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Inspirada en Coco Mademoiselle de Chanel.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-ju.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 507,
+    "nombre": "Delilah Pour Femme",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "floral frutal",
+    "genero": "femenino",
+    "ocasiones": [
+      "día",
+      "formal",
+      "noche"
+    ],
+    "acordes": [
+      "floral",
+      "frutal",
+      "cítrico",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "litchi",
+      "ruibarbo",
+      "bergamota",
+      "nuez moscada"
+    ],
+    "notas_corazon": [
+      "rosa turca",
+      "peonía",
+      "vainilla"
+    ],
+    "notas_fondo": [
+      "cashmeran",
+      "almizcle",
+      "vetiver",
+      "incienso",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Inspirada en Delina de Parfums de Marly.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Maison-Alhambra/Delilah-65866.html",
+      "https://parfums-de-marly.com/products/delina"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 508,
+    "nombre": "Glacier Bella",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "frutal floral",
+    "genero": "femenino",
+    "ocasiones": [
+      "día",
+      "casual"
+    ],
+    "acordes": [
+      "frutal",
+      "dulce",
+      "floral",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "fresa",
+      "frambuesa",
+      "grosella negra"
+    ],
+    "notas_corazon": [
+      "violeta",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "ámbar",
+      "cashmeran",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Inspirada en Burberry Her Eau de Parfum.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Maison-Alhambra/Glacier-Bella-78548.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 509,
+    "nombre": "Glacier Bold",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "amaderada aromática",
+    "genero": "masculino",
+    "ocasiones": [
+      "día",
+      "casual"
+    ],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "aromático",
+      "especiado"
+    ],
+    "notas_salida": [
+      "limón",
+      "bergamota",
+      "menta"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "geranio",
+      "piña"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "sándalo",
+      "ambroxan",
+      "patchouli"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Inspirada en Bleu de Chanel.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Maison%20Alhambra%20Glacier%20Bold"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 510,
+    "nombre": "Glacier Hombre",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "amaderada aromática",
+    "genero": "masculino",
+    "ocasiones": [
+      "día",
+      "casual"
+    ],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "especiado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "pimienta",
+      "elemí"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "pimienta rosa",
+      "vetiver",
+      "patchouli"
+    ],
+    "notas_fondo": [
+      "ambroxan",
+      "cedro",
+      "labdanum"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Inspirada en Sauvage de Dior.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Maison%20Alhambra%20Glacier%20Homme",
+      "https://www.dior.com/en_us/beauty/products/sauvage-eau-de-toilette-Y0685240"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 511,
+    "nombre": "Jean Lowe Azure",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 512,
+    "nombre": "Libbra",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 513,
+    "nombre": "Maitre De Blue",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 514,
+    "nombre": "Megara",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 50,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 515,
+    "nombre": "No 2 Men",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": null,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 516,
+    "nombre": "Pink Shimmer Secret",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 517,
+    "nombre": "Precious Pink",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 80,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 518,
+    "nombre": "Rose Petals",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 80,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 519,
+    "nombre": "Salvo",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 520,
+    "nombre": "Tabac",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 521,
+    "nombre": "Victorioso",
+    "marca": "Maison Alhambra",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "amaderada aromática",
+    "genero": "masculino",
+    "ocasiones": [
+      "diario",
+      "verano",
+      "ocasiones informales"
+    ],
+    "acordes": [
+      "cítrico",
+      "marino",
+      "aromático",
+      "amaderado",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "pomelo",
+      "acorde marino",
+      "mandarina"
+    ],
+    "notas_corazon": [
+      "hoja de laurel",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "ámbar gris",
+      "madera de guayaco",
+      "pachulí",
+      "musgo de roble"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia de Maison Alhambra inspirada en Invictus, con salida cítrica y marina y fondo amaderado-ambarado.",
+    "fuentes": [
+      "https://maisonalhambra.co/products/victorioso-eau-de-parfum",
+      "https://www.fragrantica.com/perfume/Maison-Alhambra/Victorioso-75073.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 522,
+    "nombre": "Cedrat Boise Intense",
+    "marca": "Mancera",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 120,
+    "familia": "cítrica amaderada",
+    "genero": "unisex",
+    "ocasiones": [
+      "diario",
+      "noche",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "afrutado",
+      "cuero",
+      "especiado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "limón",
+      "pimienta negra",
+      "canela",
+      "azafrán"
+    ],
+    "notas_corazon": [
+      "cuero",
+      "pachulí",
+      "jazmín",
+      "madera de oud"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "musgo",
+      "ámbar",
+      "almizcle",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Versión intensa de Cedrat Boise, cítrica y afrutada sobre una base de cuero, oud, vainilla y maderas.",
+    "fuentes": [
+      "https://manceraparfums.com/en/products/cedrat-boise-intense",
+      "https://www.fragrantica.com/perfume/Mancera/Cedrat-Boise-Intense-77863.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 523,
+    "nombre": "Red Tobacco",
+    "marca": "Mancera",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 120,
+    "familia": "ámbar amaderada",
+    "genero": "unisex",
+    "ocasiones": [
+      "noche",
+      "invierno",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "tabaco",
+      "especiado",
+      "amaderado",
+      "ámbar",
+      "dulce"
+    ],
+    "notas_salida": [
+      "canela",
+      "azafrán",
+      "incienso",
+      "nuez moscada",
+      "melocotón",
+      "manzana verde",
+      "oud"
+    ],
+    "notas_corazon": [
+      "tabaco",
+      "pachulí",
+      "jazmín",
+      "flor de naranjo"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "almizcle blanco",
+      "sándalo",
+      "vetiver",
+      "maderas de guayaco"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Composición intensa de tabaco especiado con oud, incienso, frutas y un fondo dulce amaderado.",
+    "fuentes": [
+      "https://manceraparfums.com/en/products/red-tobacco",
+      "https://www.fragrantica.com/perfume/Mancera/Red-Tobacco-46663.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 524,
+    "nombre": "Daisy Dream",
+    "marca": "Marc Jacobs",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "floral afrutada",
+    "genero": "femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "floral",
+      "afrutado",
+      "dulce",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "pera",
+      "pomelo",
+      "mora"
+    ],
+    "notas_corazon": [
+      "glicina",
+      "jazmín",
+      "litchi"
+    ],
+    "notas_fondo": [
+      "almizcle blanco",
+      "maderas",
+      "agua de coco"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Floral afrutada ligera y aérea, centrada en mora, glicina y jazmín sobre almizcles y maderas.",
+    "fuentes": [
+      "https://www.marcjacobs.com/default/daisy-dream-eau-de-toilette/",
+      "https://www.fragrantica.com/perfume/Marc-Jacobs/Daisy-Dream-23996.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 525,
+    "nombre": "Daisy Eau So Fresh",
+    "marca": "Marc Jacobs",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 125,
+    "familia": "floral afrutada",
+    "genero": "femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "afrutado",
+      "floral",
+      "cítrico",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "pomelo",
+      "pera",
+      "frambuesa",
+      "verde"
+    ],
+    "notas_corazon": [
+      "violeta",
+      "rosa",
+      "jazmín",
+      "lichi",
+      "flor de manzano"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "cedro",
+      "ciruela"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Interpretación fresca y afrutada de Daisy, con frambuesa y pomelo, corazón floral y base almizclada.",
+    "fuentes": [
+      "https://www.marcjacobs.com/default/daisy-eau-so-fresh-eau-de-toilette/",
+      "https://www.fragrantica.com/perfume/Marc-Jacobs/Daisy-Eau-So-Fresh-13399.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 526,
+    "nombre": "Daisy",
+    "marca": "Marc Jacobs",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "floral amaderada almizclada",
+    "genero": "femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "floral",
+      "amaderado",
+      "almizclado",
+      "verde",
+      "afrutado"
+    ],
+    "notas_salida": [
+      "hoja de violeta",
+      "fresa",
+      "pomelo"
+    ],
+    "notas_corazon": [
+      "violeta",
+      "gardenia",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "vainilla",
+      "maderas blancas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Floral fresca y juvenil de Marc Jacobs, con violeta y fresa en la salida y una base suave de almizcles y maderas.",
+    "fuentes": [
+      "https://www.marcjacobs.com/default/daisy-eau-de-toilette/",
+      "https://www.fragrantica.com/perfume/Marc-Jacobs/Daisy-136.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 527,
+    "nombre": "Daisy Ever So Fresh",
+    "marca": "Marc Jacobs",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 125,
+    "familia": "floral cítrica",
+    "genero": "femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "floral",
+      "afrutado",
+      "amaderado",
+      "dulce"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "mango",
+      "piña"
+    ],
+    "notas_corazon": [
+      "flor de naranjo",
+      "rosa",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "maderas de cachemira",
+      "sándalo",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Daisy luminosa y afrutada con mandarina y mango, corazón de flores blancas y fondo amaderado.",
+    "fuentes": [
+      "https://www.marcjacobs.com/default/daisy-ever-so-fresh-eau-de-parfum/",
+      "https://www.fragrantica.com/perfume/Marc-Jacobs/Daisy-Ever-So-Fresh-75074.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 528,
+    "nombre": "Daisy Love Eau So Sweet",
+    "marca": "Marc Jacobs",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "floral afrutada dulce",
+    "genero": "femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "dulce",
+      "afrutado",
+      "floral",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "pera blanca",
+      "frambuesa",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "margarita",
+      "jazmín",
+      "madreselva"
+    ],
+    "notas_fondo": [
+      "almizcle blanco",
+      "maderas",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Versión más dulce de Daisy Love, con pera y frambuesa sobre flores blancas, almizcle y maderas.",
+    "fuentes": [
+      "https://www.marcjacobs.com/default/daisy-love-eau-so-sweet-eau-de-toilette/",
+      "https://www.fragrantica.com/perfume/Marc-Jacobs/Daisy-Love-Eau-So-Sweet-55714.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 529,
+    "nombre": "Daisy Wild",
+    "marca": "Marc Jacobs",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "floral afrutada",
+    "genero": "femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "floral",
+      "afrutado",
+      "verde",
+      "cítrico",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "banana flower",
+      "fresa",
+      "pomelo"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "macadamia",
+      "vetiver"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "maderas",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Floral afrutada de aire natural, con banana flower, fresa y pomelo, seguida de jazmín y maderas.",
+    "fuentes": [
+      "https://www.marcjacobs.com/default/daisy-wild-eau-de-toilette/",
+      "https://www.fragrantica.com/perfume/Marc-Jacobs/Daisy-Wild-72842.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 530,
+    "nombre": "Perfect Elixir",
+    "marca": "Marc Jacobs",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "ámbar floral",
+    "genero": "femenino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "ámbar",
+      "floral",
+      "dulce",
+      "amaderado",
+      "afrutado"
+    ],
+    "notas_salida": [
+      "ruibarbo",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "narciso",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ámbar",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Interpretación intensa y cálida de Perfect, con ruibarbo especiado, flores blancas y fondo de vainilla y ámbar.",
+    "fuentes": [
+      "https://www.marcjacobs.com/default/perfect-elixir-eau-de-parfum/",
+      "https://www.fragrantica.com/perfume/Marc-Jacobs/Perfect-Elixir-88383.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 531,
+    "nombre": "Perfect Intense",
+    "marca": "Marc Jacobs",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral ambarada",
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "almendrado",
+      "amaderado",
+      "dulce",
+      "atalcado"
+    ],
+    "notas_salida": [
+      "narciso"
+    ],
+    "notas_corazon": [
+      "jazmín nocturno",
+      "almendra tostada"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "cashmeran",
+      "sésamo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia intensa de Marc Jacobs construida alrededor de narciso, jazmín nocturno y almendra tostada, con fondo amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Marc-Jacobs/Perfect-Intense-68622.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 532,
+    "nombre": "Peace For Him",
+    "marca": "Mast Perfume",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 533,
+    "nombre": "Rome Imagine",
+    "marca": "Mast Perfume",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 534,
+    "nombre": "Rome Ivory Pour Homme",
+    "marca": "Mast Perfume",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 535,
+    "nombre": "Rome Pour Homme",
+    "marca": "Mast Perfume",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 536,
+    "nombre": "Sweet Velvet",
+    "marca": "Mast Perfume",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 537,
+    "nombre": "Santorini",
+    "marca": "Matin Martin",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Cítrica aromática",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 538,
+    "nombre": "Red",
+    "marca": "Merazur",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 539,
+    "nombre": "Messi",
+    "marca": "Messi",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 540,
+    "nombre": "Miniatura · Amethyst",
+    "marca": "Lattafa",
+    "concentracion": null,
+    "tamano_ml": 5,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "parcial"
+  },
+  {
+    "ref": 541,
+    "nombre": "Miniatura · Honor & Glory",
+    "marca": "Lattafa",
+    "concentracion": null,
+    "tamano_ml": 5,
+    "familia": "ámbar gourmand",
+    "genero": "unisex",
+    "ocasiones": [
+      "noche",
+      "otoño/invierno"
+    ],
+    "acordes": [
+      "dulce",
+      "frutal",
+      "especiado",
+      "vainilla",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "piña",
+      "crema brûlée",
+      "canela",
+      "cúrcuma",
+      "pimienta negra"
+    ],
+    "notas_corazon": [
+      "vainilla",
+      "benjuí",
+      "musgo"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "ámbar amaderado",
+      "cashmeran"
+    ],
+    "duracion": "larga (aprox. 8+ h)",
+    "proyeccion": "alta al inicio",
+    "estela": "moderada a amplia",
+    "valoracion": null,
+    "descripcion": "La miniatura corresponde a la fragancia base Honor & Glory de Lattafa, un gourmand afrutado y especiado con piña y crema brûlée.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Honor-Glory-785THOOK.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 542,
+    "nombre": "Miniatura · Oud For Glory",
+    "marca": "Lattafa",
+    "concentracion": null,
+    "tamano_ml": 5,
+    "familia": "ámbar amaderada",
+    "genero": "unisex",
+    "ocasiones": [
+      "noche",
+      "otoño/invierno",
+      "formal"
+    ],
+    "acordes": [
+      "amaderado",
+      "cálido especiado",
+      "oud",
+      "ámbar",
+      "terroso"
+    ],
+    "notas_salida": [
+      "azafrán",
+      "nuez moscada",
+      "lavanda"
+    ],
+    "notas_corazon": [
+      "oud",
+      "patchouli"
+    ],
+    "notas_fondo": [
+      "oud",
+      "patchouli",
+      "almizcle"
+    ],
+    "duracion": "larga (aprox. 8+ h)",
+    "proyeccion": "alta",
+    "estela": "amplia",
+    "valoracion": null,
+    "descripcion": "Miniatura de Oud For Glory (Bade'e Al Oud), una composición intensa de oud, especias y patchouli.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Bade-e-Al-Oud-Oud-for-Glory-64948.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 543,
+    "nombre": "Miniatura · Sublime",
+    "marca": "Lattafa",
+    "concentracion": null,
+    "tamano_ml": 5,
+    "familia": "chipre frutal",
+    "genero": "femenino",
+    "ocasiones": [
+      "diario",
+      "primavera/verano"
+    ],
+    "acordes": [
+      "frutal",
+      "floral",
+      "verde",
+      "dulce",
+      "terroso"
+    ],
+    "notas_salida": [
+      "manzana",
+      "litchi",
+      "rosa"
+    ],
+    "notas_corazon": [
+      "ciruela",
+      "jazmín",
+      "violeta"
+    ],
+    "notas_fondo": [
+      "musgo",
+      "vainilla",
+      "patchouli"
+    ],
+    "duracion": "moderada a larga",
+    "proyeccion": "moderada",
+    "estela": "moderada",
+    "valoracion": null,
+    "descripcion": "Miniatura de Sublime de Lattafa, fragancia frutal-floral con fondo de musgo, vainilla y patchouli.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Sublime-87411.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 544,
+    "nombre": "Miniatura · Yara Candy",
+    "marca": "Lattafa",
+    "concentracion": null,
+    "tamano_ml": 5,
+    "familia": "floral frutal gourmand",
+    "genero": "femenino",
+    "ocasiones": [
+      "diario",
+      "primavera/verano",
+      "casual"
+    ],
+    "acordes": [
+      "dulce",
+      "frutal",
+      "floral",
+      "vainilla",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "mandarina verde",
+      "grosella negra"
+    ],
+    "notas_corazon": [
+      "fresa",
+      "gardenia"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": "moderada",
+    "proyeccion": "moderada",
+    "estela": "moderada",
+    "valoracion": null,
+    "descripcion": "Miniatura de Yara Candy, perfil dulce y frutal con fresa, gardenia, vainilla y almizcle.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Yara-Candy-88195.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 545,
+    "nombre": "Miniatura · Yara Moi",
+    "marca": "Lattafa",
+    "concentracion": null,
+    "tamano_ml": 5,
+    "familia": "ámbar floral",
+    "genero": "femenino",
+    "ocasiones": [
+      "diario",
+      "noche",
+      "otoño/invierno"
+    ],
+    "acordes": [
+      "ámbar",
+      "dulce",
+      "floral",
+      "amaderado",
+      "balsámico"
+    ],
+    "notas_salida": [
+      "melocotón",
+      "jazmín"
+    ],
+    "notas_corazon": [
+      "caramelo",
+      "ámbar"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "patchouli"
+    ],
+    "duracion": "moderada a larga",
+    "proyeccion": "moderada",
+    "estela": "moderada",
+    "valoracion": null,
+    "descripcion": "Miniatura de Yara Moi, un ámbar floral dulce con melocotón, jazmín, caramelo y sándalo.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Yara-Moi-74656.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 546,
+    "nombre": "Miniatura · Yara Tous",
+    "marca": "Lattafa",
+    "concentracion": null,
+    "tamano_ml": 5,
+    "familia": "floral frutal tropical",
+    "genero": "femenino",
+    "ocasiones": [
+      "diario",
+      "primavera/verano",
+      "vacaciones"
+    ],
+    "acordes": [
+      "tropical",
+      "frutal",
+      "floral",
+      "dulce",
+      "cremoso"
+    ],
+    "notas_salida": [
+      "mango",
+      "coco",
+      "maracuyá"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "flor de azahar",
+      "heliotropo"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "cashmeran"
+    ],
+    "duracion": "moderada",
+    "proyeccion": "moderada",
+    "estela": "moderada",
+    "valoracion": null,
+    "descripcion": "Miniatura de Yara Tous, fragancia tropical cremosa centrada en mango, coco y maracuyá.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Yara-Tous-78632.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 547,
+    "nombre": "Miniatura · Versense",
+    "marca": "Versace",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 5,
+    "familia": "cítrica amaderada",
+    "genero": "femenino",
+    "ocasiones": [
+      "diario",
+      "primavera/verano",
+      "oficina"
+    ],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "floral",
+      "verde",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "mandarina verde",
+      "higo",
+      "pera",
+      "cardamomo"
+    ],
+    "notas_corazon": [
+      "lirio",
+      "jazmín",
+      "cardamomo"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "cedro",
+      "olivo",
+      "almizcle"
+    ],
+    "duracion": "moderada",
+    "proyeccion": "moderada",
+    "estela": "moderada",
+    "valoracion": null,
+    "descripcion": "Miniatura de Versense de Versace, una EDT fresca cítrica y amaderada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Versace/Versense-580.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 548,
+    "nombre": "Emblem",
+    "marca": "Montblanc",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "amaderada especiada",
+    "genero": "masculino",
+    "ocasiones": [
+      "oficina",
+      "diario",
+      "otoño/invierno"
+    ],
+    "acordes": [
+      "amaderado",
+      "especiado",
+      "cítrico",
+      "aromático",
+      "verde"
+    ],
+    "notas_salida": [
+      "cardamomo",
+      "pomelo",
+      "salvia esclarea"
+    ],
+    "notas_corazon": [
+      "hoja de violeta",
+      "canela"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "maderas"
+    ],
+    "duracion": "moderada (aprox. 5–7 h)",
+    "proyeccion": "moderada",
+    "estela": "moderada",
+    "valoracion": null,
+    "descripcion": "Emblem es una EDT masculina amaderada especiada de Montblanc, con cardamomo, pomelo y hoja de violeta.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Montblanc/Emblem-25880.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 549,
+    "nombre": "Explorer",
+    "marca": "Montblanc",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "amaderada aromática",
+    "genero": "masculino",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "viajes",
+      "otoño/primavera"
+    ],
+    "acordes": [
+      "amaderado",
+      "aromático",
+      "cítrico",
+      "terroso",
+      "cuero"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "pimienta rosa",
+      "salvia esclarea"
+    ],
+    "notas_corazon": [
+      "vetiver",
+      "cuero"
+    ],
+    "notas_fondo": [
+      "ambroxan",
+      "patchouli",
+      "cacao"
+    ],
+    "duracion": "moderada a larga (aprox. 7–9 h)",
+    "proyeccion": "moderada",
+    "estela": "moderada",
+    "valoracion": null,
+    "descripcion": "Explorer es una EDP amaderada aromática de Montblanc, con bergamota, vetiver, cuero, ambroxan y patchouli.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Montblanc/Explorer-52002.html"
+    ],
+    "estado": "parcial"
+  },
+  {
+    "ref": 550,
+    "nombre": "Legend",
+    "marca": "Montblanc",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "aromática fougère",
+    "genero": "masculino",
+    "ocasiones": [
+      "oficina",
+      "diario",
+      "primavera/otoño"
+    ],
+    "acordes": [
+      "aromático",
+      "frutal",
+      "amaderado",
+      "floral",
+      "fresco"
+    ],
+    "notas_salida": [
+      "lavanda",
+      "piña",
+      "bergamota",
+      "verbena"
+    ],
+    "notas_corazon": [
+      "manzana roja",
+      "rosa",
+      "geranio",
+      "musgo de roble",
+      "haba tonka"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "haba tonka",
+      "evernyl"
+    ],
+    "duracion": "moderada (aprox. 5–7 h)",
+    "proyeccion": "moderada",
+    "estela": "moderada",
+    "valoracion": null,
+    "descripcion": "Legend es una EDT masculina fougère de Montblanc con lavanda, piña, manzana, rosa, musgo y haba tonka.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Montblanc/Legend-11777.html"
+    ],
+    "estado": "parcial"
+  }
+]
+

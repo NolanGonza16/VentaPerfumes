@@ -1,0 +1,1868 @@
+[
+  {
+    "ref": 551,
+    "nombre": "Legend Spirit",
+    "marca": "Montblanc",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Aromática acuática",
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "acuático",
+      "fresco especiado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "toronja",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "cardamomo",
+      "notas acuáticas"
+    ],
+    "notas_fondo": [
+      "maderas blancas",
+      "sándalo",
+      "musgo de roble",
+      "madera de cachemira",
+      "almizcle blanco"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina fresca y amaderada con salida cítrica y un corazón aromático-acuático.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Montblanc/Legend-Spirit-31957.html"
+    ],
+    "estado": "parcial: notas y concentración verificables; tamaño, rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 552,
+    "nombre": "Starwalker",
+    "marca": "Montblanc",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 75,
+    "familia": "Amaderada especiada",
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [
+      "amaderado",
+      "cítrico",
+      "aromático",
+      "verde",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "mandarina",
+      "bambú"
+    ],
+    "notas_corazon": [
+      "sándalo",
+      "cedro blanco",
+      "abeto",
+      "jengibre"
+    ],
+    "notas_fondo": [
+      "almizcle blanco",
+      "abeto",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Composición amaderada fresca de Montblanc, con cítricos, bambú y maderas suaves.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Montblanc/Starwalker-1064.html"
+    ],
+    "estado": "parcial: notas y concentración verificables; tamaño, rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 553,
+    "nombre": "Funny",
+    "marca": "Moschino",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Floral frutal",
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "floral",
+      "frutal",
+      "verde",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "naranja amarga",
+      "grosella roja",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "violeta",
+      "peonía",
+      "jazmín",
+      "té verde"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina floral-frutal, luminosa y fresca, de Moschino.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Moschino/Funny-437.html"
+    ],
+    "estado": "parcial: notas y concentración verificables; tamaño, rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 554,
+    "nombre": "I Love Love",
+    "marca": "Moschino",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Cítrica floral",
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "floral",
+      "amaderado",
+      "frutal",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "toronja",
+      "naranja",
+      "limón",
+      "grosella roja"
+    ],
+    "notas_corazon": [
+      "rosa de té",
+      "lirio de los valles",
+      "canela"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "cedro",
+      "madera de tanaka"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma cítrico y floral de Moschino, fresco y juvenil.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Moschino/I-Love-Love-975.html"
+    ],
+    "estado": "parcial: notas y concentración verificables; tamaño, rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 555,
+    "nombre": "Pink Bouquet",
+    "marca": "Moschino",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Floral frutal",
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "frutal",
+      "cítrico",
+      "dulce",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "piña",
+      "frambuesa",
+      "jengibre"
+    ],
+    "notas_corazon": [
+      "melocotón",
+      "jazmín",
+      "violeta",
+      "peonía"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "madera de jengibre",
+      "melocotón"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral frutal femenina con una apertura cítrica y frutal.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Moschino/Pink-Bouquet-14893.html"
+    ],
+    "estado": "parcial: notas y concentración verificables; tamaño, rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 556,
+    "nombre": "Toy 2",
+    "marca": "Moschino",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral amaderada almizclada",
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "amaderado",
+      "almizclado",
+      "frutal",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "manzana",
+      "mandarina",
+      "magnolia"
+    ],
+    "notas_corazon": [
+      "peonía",
+      "jazmín blanco",
+      "grosella blanca"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "sándalo",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Floral limpio y almizclado de Moschino, presentado en el icónico frasco de oso.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Moschino/Toy-2-51438.html"
+    ],
+    "estado": "parcial: notas y concentración verificables; tamaño, rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 557,
+    "nombre": "Toy 2 Gummy",
+    "marca": "Moschino",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral frutal",
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Moschino/Toy-2-Gummy-88434.html"
+    ],
+    "estado": "sin datos suficientes verificados"
+  },
+  {
+    "ref": 558,
+    "nombre": "Toy 2 Pearl",
+    "marca": "Moschino",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Moschino/Toy-2-Pearl-90434.html"
+    ],
+    "estado": "sin datos suficientes verificados"
+  },
+  {
+    "ref": 559,
+    "nombre": "Toy 2 Yummy",
+    "marca": "Moschino",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Moschino/Toy-2-Yummy-91240.html"
+    ],
+    "estado": "sin datos suficientes verificados"
+  },
+  {
+    "ref": 560,
+    "nombre": "Toy Boy 2",
+    "marca": "Moschino",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Moschino/Toy-Boy-2-91241.html"
+    ],
+    "estado": "sin datos suficientes verificados"
+  },
+  {
+    "ref": 561,
+    "nombre": "Toy Boy",
+    "marca": "Moschino",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral amaderada especiada",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "amaderado",
+      "especiado",
+      "rosas",
+      "frutal"
+    ],
+    "notas_salida": [
+      "Pera",
+      "Pimienta rosa",
+      "Bergamota italiana",
+      "Nuez moscada"
+    ],
+    "notas_corazon": [
+      "Rosa",
+      "Magnolia",
+      "Clavo",
+      "Lino verde"
+    ],
+    "notas_fondo": [
+      "Cashmeran",
+      "Maderas de ámbar",
+      "Sándalo",
+      "Vetiver",
+      "Almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral amaderada especiada de Moschino, centrada en la rosa y la pimienta rosa con un fondo amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Moschino/Toy-Boy-55858.html",
+      "https://www.moschino.com/"
+    ],
+    "estado": "parcial_verificado"
+  },
+  {
+    "ref": 562,
+    "nombre": "Blue",
+    "marca": "Nautica",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Aromática acuática",
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [
+      "acuático",
+      "fresco",
+      "cítrico",
+      "frutal",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "Piña",
+      "Durazno",
+      "Bergamota"
+    ],
+    "notas_corazon": [
+      "Nenúfar",
+      "Jazmín"
+    ],
+    "notas_fondo": [
+      "Sándalo",
+      "Cedro",
+      "Almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Aroma masculino fresco y acuático de Nautica con salida frutal y base de maderas y almizcle.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Nautica/Nautica-Blue-421.html"
+    ],
+    "estado": "parcial_verificado"
+  },
+  {
+    "ref": 563,
+    "nombre": "Blue Sail",
+    "marca": "Nautica",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Aromática acuática",
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [
+      "acuático",
+      "fresco",
+      "cítrico",
+      "amaderado"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia Blue Sail de Nautica.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Nautica%20Blue%20Sail"
+    ],
+    "estado": "no_verificado"
+  },
+  {
+    "ref": 564,
+    "nombre": "Clasico",
+    "marca": "Nautica",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "no_verificado"
+  },
+  {
+    "ref": 565,
+    "nombre": "Voyage",
+    "marca": "Nautica",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Aromática acuática",
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [
+      "acuático",
+      "verde",
+      "frutal",
+      "amaderado",
+      "fresco especiado"
+    ],
+    "notas_salida": [
+      "Manzana",
+      "Hojas verdes"
+    ],
+    "notas_corazon": [
+      "Mimosa",
+      "Loto"
+    ],
+    "notas_fondo": [
+      "Almizcle",
+      "Cedro",
+      "Musgo de roble",
+      "Ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia aromática acuática de Nautica con manzana y hojas verdes sobre loto, maderas y almizcle.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Nautica/Nautica-Voyage-913.html",
+      "https://www.nautica.com/"
+    ],
+    "estado": "parcial_verificado"
+  },
+  {
+    "ref": 566,
+    "nombre": "Voyage Heritage",
+    "marca": "Nautica",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": null,
+    "familia": "Aromática fougère",
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [
+      "aromático",
+      "cítrico",
+      "amaderado",
+      "fresco especiado"
+    ],
+    "notas_salida": [
+      "Bergamota",
+      "Lavanda",
+      "Neroli"
+    ],
+    "notas_corazon": [
+      "Romero",
+      "Salvia",
+      "Hoja de violeta"
+    ],
+    "notas_fondo": [
+      "Haba tonka",
+      "Sándalo",
+      "Cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia aromática fougère de Nautica con salida cítrica y corazón herbal sobre un fondo amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Nautica%20Voyage%20Heritage"
+    ],
+    "estado": "parcial_verificado"
+  },
+  {
+    "ref": 567,
+    "nombre": "Voyage Sport",
+    "marca": "Nautica",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Aromática acuática",
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [
+      "acuático",
+      "cítrico",
+      "fresco especiado",
+      "verde",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "Cítricos",
+      "Cilantro",
+      "Notas marinas"
+    ],
+    "notas_corazon": [
+      "Manzana",
+      "Pimiento verde",
+      "Geranio"
+    ],
+    "notas_fondo": [
+      "Almizcle",
+      "Sándalo",
+      "Pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia fresca y acuática de Nautica con cítricos, notas marinas y un fondo amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Nautica/Voyage-Sport- ಪ್ರಶ.html"
+    ],
+    "estado": "parcial_verificado"
+  },
+  {
+    "ref": 568,
+    "nombre": "Amber Rouge Unisex",
+    "marca": "Orientica",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 80,
+    "familia": "Ámbar floral",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "ámbar",
+      "dulce",
+      "floral",
+      "amaderado"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume unisex de Orientica perteneciente a la línea Amber Rouge.",
+    "fuentes": [
+      "https://orientica.com/"
+    ],
+    "estado": "no_verificado"
+  },
+  {
+    "ref": 569,
+    "nombre": "Royal Amber",
+    "marca": "Orientica",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 80,
+    "familia": "Ámbar",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "ámbar",
+      "dulce",
+      "amaderado"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume de ámbar de Orientica.",
+    "fuentes": [
+      "https://orientica.com/"
+    ],
+    "estado": "no_verificado"
+  },
+  {
+    "ref": 570,
+    "nombre": "Oscar de la Renta",
+    "marca": "Oscar de la Renta",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Floral aldehídica",
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "aldehídico",
+      "verde",
+      "amaderado"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral clásica de Oscar de la Renta.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Oscar-de-la-Renta/Oscar-de-la-Renta-688.html",
+      "https://oscarrenta.com/"
+    ],
+    "estado": "parcial_verificado"
+  },
+  {
+    "ref": 571,
+    "nombre": "Fame",
+    "marca": "Rabanne",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 80,
+    "familia": "floral frutal amaderada",
+    "genero": "femenino",
+    "ocasiones": [],
+    "acordes": [
+      "frutal",
+      "floral blanco",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "mango",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "incienso"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina floral, frutal y amaderada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Rabanne/Fame-75720.html"
+    ],
+    "estado": "parcial: ficha consultable; tamaño, ocasiones y rendimiento no verificados"
+  },
+  {
+    "ref": 572,
+    "nombre": "Invictus Aqua",
+    "marca": "Rabanne",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "acuática amaderada",
+    "genero": "masculino",
+    "ocasiones": [],
+    "acordes": [
+      "acuático",
+      "cítrico",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "yuzu",
+      "pomelo"
+    ],
+    "notas_corazon": [
+      "hoja de violeta",
+      "mar"
+    ],
+    "notas_fondo": [
+      "ámbar gris",
+      "madera"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Interpretación acuática y fresca de Invictus.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/Invictus-Aqua-2016-38111.html"
+    ],
+    "estado": "parcial: ficha consultable; tamaño, ocasiones y rendimiento no verificados"
+  },
+  {
+    "ref": 573,
+    "nombre": "Invictus",
+    "marca": "Rabanne",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "amaderada acuática",
+    "genero": "masculino",
+    "ocasiones": [],
+    "acordes": [
+      "acuático",
+      "cítrico",
+      "amaderado",
+      "aromático"
+    ],
+    "notas_salida": [
+      "pomelo",
+      "notas marinas",
+      "mandarina"
+    ],
+    "notas_corazon": [
+      "hoja de laurel",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "madera de gaiac",
+      "pachulí",
+      "ámbar gris"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina fresca, marina y amaderada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/Invictus-18470.html"
+    ],
+    "estado": "parcial: ficha consultable; tamaño, ocasiones y rendimiento no verificados"
+  },
+  {
+    "ref": 574,
+    "nombre": "Invictus Elixir",
+    "marca": "Rabanne",
+    "concentracion": null,
+    "tamano_ml": 100,
+    "familia": "amaderada aromática",
+    "genero": "masculino",
+    "ocasiones": [],
+    "acordes": [
+      "amaderado",
+      "aromático",
+      "especiado"
+    ],
+    "notas_salida": [
+      "lavanda"
+    ],
+    "notas_corazon": [
+      "hoja de laurel"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "pachulí",
+      "ámbar gris"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Versión intensa y ambarada de Invictus.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/Invictus-Elixir-72338.html"
+    ],
+    "estado": "parcial: ficha consultable; tamaño, ocasiones y rendimiento no verificados"
+  },
+  {
+    "ref": 575,
+    "nombre": "Invictus",
+    "marca": "Rabanne",
+    "concentracion": "Parfum",
+    "tamano_ml": 100,
+    "familia": "amaderada acuática",
+    "genero": "masculino",
+    "ocasiones": [],
+    "acordes": [
+      "amaderado",
+      "acuático",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "lavanda"
+    ],
+    "notas_corazon": [
+      "jabón"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "ciprés",
+      "haba tonka"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Interpretación parfum de Invictus.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/Invictus-Parfum-78546.html"
+    ],
+    "estado": "parcial: ficha consultable; tamaño, ocasiones y rendimiento no verificados"
+  },
+  {
+    "ref": 576,
+    "nombre": "Invictus Victory",
+    "marca": "Rabanne",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "ámbar amaderada",
+    "genero": "masculino",
+    "ocasiones": [],
+    "acordes": [
+      "ámbar",
+      "amaderado",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "limón"
+    ],
+    "notas_corazon": [
+      "incienso",
+      "lavanda"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "vainilla",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina ambarada y amaderada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/Invictus-Victory-63693.html"
+    ],
+    "estado": "parcial: ficha consultable; tamaño, ocasiones y rendimiento no verificados"
+  },
+  {
+    "ref": 577,
+    "nombre": "Olympea Legend",
+    "marca": "Rabanne",
+    "concentracion": null,
+    "tamano_ml": 80,
+    "familia": "ámbar floral",
+    "genero": "femenino",
+    "ocasiones": [],
+    "acordes": [
+      "ámbar",
+      "salado",
+      "floral",
+      "frutal"
+    ],
+    "notas_salida": [
+      "chicle",
+      "ciruela",
+      "albaricoque"
+    ],
+    "notas_corazon": [
+      "flor de jengibre",
+      "arena"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "haba tonka",
+      "sal"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina dulce, salada y ambarada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/Olympea-Legend-54466.html"
+    ],
+    "estado": "parcial: ficha consultable; tamaño, ocasiones y rendimiento no verificados"
+  },
+  {
+    "ref": 578,
+    "nombre": "Olympea",
+    "marca": "Rabanne",
+    "concentracion": "Parfum",
+    "tamano_ml": 80,
+    "familia": "ámbar floral",
+    "genero": "femenino",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "ámbar",
+      "vainilla"
+    ],
+    "notas_salida": [
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "flor de azahar"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "sal",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Interpretación parfum de Olympea.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/Olympea-Parfum-78547.html"
+    ],
+    "estado": "parcial: ficha consultable; tamaño, ocasiones y rendimiento no verificados"
+  },
+  {
+    "ref": 579,
+    "nombre": "One Million",
+    "marca": "Rabanne",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "amaderada especiada",
+    "genero": "masculino",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "especiado",
+      "amaderado",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "mandarina roja",
+      "pomelo",
+      "menta"
+    ],
+    "notas_corazon": [
+      "canela",
+      "rosa",
+      "cuero"
+    ],
+    "notas_fondo": [
+      "ámbar",
+      "cuero",
+      "madera blanca",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina especiada, ambarada y amaderada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/1-Million-374.html"
+    ],
+    "estado": "parcial: ficha consultable; tamaño, ocasiones y rendimiento no verificados"
+  },
+  {
+    "ref": 580,
+    "nombre": "One Million Gold",
+    "marca": "Rabanne",
+    "concentracion": "Eau de Parfum Intense",
+    "tamano_ml": 100,
+    "familia": "amaderada aromática",
+    "genero": "masculino",
+    "ocasiones": [],
+    "acordes": [
+      "amaderado",
+      "aromático",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "salvia",
+      "lavanda"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "sándalo",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina amaderada y aromática.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Rabanne/1-Million-Gold-82842.html"
+    ],
+    "estado": "parcial: ficha consultable; tamaño, ocasiones y rendimiento no verificados"
+  },
+  {
+    "ref": 581,
+    "nombre": "One Million Night Elixir",
+    "marca": "Rabanne",
+    "concentracion": "Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar amaderada",
+    "genero": "Hombre",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "ámbar",
+      "vainilla",
+      "amaderado",
+      "especiado cálido",
+      "floral"
+    ],
+    "notas_salida": [
+      "manzana",
+      "davana",
+      "canela"
+    ],
+    "notas_corazon": [
+      "osmanto",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "haba tonka",
+      "cedro",
+      "patchouli"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina ambarada y amaderada, de perfil dulce y especiado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/1-Million-Elixir-72441.html",
+      "https://www.pacorabanne.com/"
+    ],
+    "estado": "verificado parcialmente; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 582,
+    "nombre": "One Million",
+    "marca": "Rabanne",
+    "concentracion": "Parfum",
+    "tamano_ml": 100,
+    "familia": "Cuero floral",
+    "genero": "Hombre",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "floral blanco",
+      "cuero",
+      "amaderado",
+      "ámbar",
+      "dulce"
+    ],
+    "notas_salida": [
+      "nardo",
+      "acorde solar"
+    ],
+    "notas_corazon": [
+      "cuero",
+      "resina",
+      "pino"
+    ],
+    "notas_fondo": [
+      "cashmeran",
+      "ámbar",
+      "patchouli"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Interpretación intensa y floral-cuero de la línea One Million.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/1-Million-Parfum-57957.html",
+      "https://www.pacorabanne.com/"
+    ],
+    "estado": "verificado parcialmente; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 583,
+    "nombre": "One Million Royal",
+    "marca": "Rabanne",
+    "concentracion": "Parfum",
+    "tamano_ml": 100,
+    "familia": "Amaderada ámbar",
+    "genero": "Hombre",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "amaderado",
+      "cítrico",
+      "aromático",
+      "ámbar",
+      "floral"
+    ],
+    "notas_salida": [
+      "mandarina verde",
+      "lavanda"
+    ],
+    "notas_corazon": [
+      "hoja de violeta",
+      "cedro"
+    ],
+    "notas_fondo": [
+      "cashmeran",
+      "benzoin",
+      "patchouli"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume masculino amaderado con faceta cítrica, aromática y ambarada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/1-Million-Royal-81778.html",
+      "https://www.pacorabanne.com/"
+    ],
+    "estado": "verificado parcialmente; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 584,
+    "nombre": "Phantom",
+    "marca": "Rabanne",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "día",
+      "noche",
+      "primavera",
+      "otoño"
+    ],
+    "acordes": [
+      "aromático",
+      "cítrico",
+      "amaderado",
+      "dulce",
+      "terroso"
+    ],
+    "notas_salida": [
+      "lavanda",
+      "limón",
+      "ralladura de limón"
+    ],
+    "notas_corazon": [
+      "manzana",
+      "lavanda",
+      "humo"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "vetiver",
+      "patchouli"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina aromática y amaderada con manzana, lavanda y vainilla.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/Phantom-68270.html",
+      "https://www.pacorabanne.com/"
+    ],
+    "estado": "verificado parcialmente; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 585,
+    "nombre": "Phantom Intense",
+    "marca": "Rabanne",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Ámbar aromática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "aromático",
+      "cítrico",
+      "ámbar",
+      "dulce",
+      "especiado cálido"
+    ],
+    "notas_salida": [
+      "cardamomo",
+      "ruibarbo",
+      "limón"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "azahar"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "ron",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Versión intensa, dulce y ambarada de Phantom, con lavanda y vainilla.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/Phantom-Intense-78687.html",
+      "https://www.pacorabanne.com/"
+    ],
+    "estado": "verificado parcialmente; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 586,
+    "nombre": "Pour Homme",
+    "marca": "Rabanne",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "día",
+      "oficina",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "aromático",
+      "amaderado",
+      "terroso",
+      "tabaco",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "romero",
+      "palo de Brasil",
+      "neroli"
+    ],
+    "notas_corazon": [
+      "haba tonka",
+      "geranio"
+    ],
+    "notas_fondo": [
+      "musgo de roble",
+      "tabaco",
+      "ámbar",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Clásico masculino aromático y amaderado con facetas de tabaco y musgo.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/Paco-Rabanne-Pour-Homme-568.html",
+      "https://www.pacorabanne.com/"
+    ],
+    "estado": "verificado parcialmente; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 587,
+    "nombre": "Pure Xs Hombre",
+    "marca": "Rabanne",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Ámbar especiada",
+    "genero": "Hombre",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "dulce",
+      "especiado cálido",
+      "ámbar",
+      "amaderado",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "jengibre",
+      "tomillo",
+      "toronja",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "vainilla",
+      "canela",
+      "cuero",
+      "licor",
+      "manzana"
+    ],
+    "notas_fondo": [
+      "mirra",
+      "azúcar",
+      "cashmeran",
+      "cedro",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume masculino dulce y especiado, con vainilla, cuero y notas licorosas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/Pure-XS-46070.html",
+      "https://www.pacorabanne.com/"
+    ],
+    "estado": "verificado parcialmente; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 588,
+    "nombre": "Pure Xs Mujer",
+    "marca": "Rabanne",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 80,
+    "familia": "Floral oriental",
+    "genero": "Mujer",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "dulce",
+      "floral blanco",
+      "frutal",
+      "avainillado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "ylang-ylang",
+      "melocotón",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "palomitas",
+      "coco",
+      "flor de azahar",
+      "ambreta"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "sándalo",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina dulce y floral con palomitas, coco y vainilla.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/Pure-XS-for-Her-52120.html",
+      "https://www.pacorabanne.com/"
+    ],
+    "estado": "verificado parcialmente; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 589,
+    "nombre": "Ultrared",
+    "marca": "Rabanne",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 80,
+    "familia": "Ámbar frutal",
+    "genero": "Hombre",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "dulce",
+      "frutal",
+      "cítrico",
+      "ámbar",
+      "terroso"
+    ],
+    "notas_salida": [
+      "grosella roja",
+      "naranja"
+    ],
+    "notas_corazon": [
+      "praliné",
+      "regaliz"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "patchouli"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina dulce y frutal con praliné, regaliz y vainilla.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paco-Rabanne/Ultrared-641.html",
+      "https://www.pacorabanne.com/"
+    ],
+    "estado": "verificado parcialmente; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 590,
+    "nombre": "Layton",
+    "marca": "Parfums de Marly",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 125,
+    "familia": "Ámbar floral",
+    "genero": "Unisex",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "frutal",
+      "floral",
+      "amaderado",
+      "dulce",
+      "especiado"
+    ],
+    "notas_salida": [
+      "manzana",
+      "bergamota",
+      "lavanda"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "violeta",
+      "geranio"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "pimienta",
+      "patchouli",
+      "sándalo",
+      "madera de guayaco"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume ambarado floral de Parfums de Marly, afrutado, dulce y amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Parfums-de-Marly/Layton-39314.html",
+      "https://parfums-de-marly.com/products/layton"
+    ],
+    "estado": "verificado parcialmente; rendimiento y valoración no verificados"
+  },
+  {
+    "ref": 591,
+    "nombre": "Khair Pistachio",
+    "marca": "Paris Corner",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral frutal gourmand",
+    "genero": "Unisex",
+    "ocasiones": [],
+    "acordes": [
+      "dulce",
+      "floral",
+      "frutal",
+      "nuez",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "pistacho",
+      "helado",
+      "ron",
+      "avellana"
+    ],
+    "notas_corazon": [
+      "malvavisco",
+      "peonía",
+      "jazmín",
+      "algodón de azúcar"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "vainilla",
+      "haba tonka",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia gourmand floral y frutal de pistacho, inspirada en la tendencia de perfumes de pistacho.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Khai-Pistachio-90593.html"
+    ],
+    "estado": "parcial: ficha consultada; rendimiento no verificado"
+  },
+  {
+    "ref": 592,
+    "nombre": "Marshmallow Blush",
+    "marca": "Paris Corner",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral gourmand",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "dulce",
+      "floral",
+      "afrutado"
+    ],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume dulce de perfil floral gourmand.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Marshmallow-Blush-101291.html"
+    ],
+    "estado": "parcial: notas no verificadas"
+  },
+  {
+    "ref": 593,
+    "nombre": "Can Can Burlesque",
+    "marca": "Paris Hilton",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": null,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "no verificado: no se localizó una ficha individual fiable"
+  },
+  {
+    "ref": 594,
+    "nombre": "Can Can",
+    "marca": "Paris Hilton",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral frutal gourmand",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "afrutado",
+      "floral",
+      "dulce",
+      "cítrico",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "clementina",
+      "grosella negra",
+      "néctar de melocotón"
+    ],
+    "notas_corazon": [
+      "orquídea",
+      "flor de azahar",
+      "frambuesa"
+    ],
+    "notas_fondo": [
+      "ámbar",
+      "almizcle",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina floral frutal de Paris Hilton, lanzada en 2007.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paris-Hilton/Can-Can-2007.html",
+      "https://parishiltonfragrances.com/products/can-can"
+    ],
+    "estado": "parcial: rendimiento no verificado"
+  },
+  {
+    "ref": 595,
+    "nombre": "Clasico Hombre",
+    "marca": "Paris Hilton",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "no verificado: nombre ambiguo sin marca"
+  },
+  {
+    "ref": 596,
+    "nombre": "Dazzle",
+    "marca": "Paris Hilton",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 125,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "frutal",
+      "dulce",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "fresa",
+      "manzana roja",
+      "melocotón"
+    ],
+    "notas_corazon": [
+      "violeta",
+      "jazmín",
+      "azucena"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "maderas blancas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina floral frutal de Paris Hilton.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paris-Hilton/Dazzle-16582.html"
+    ],
+    "estado": "parcial: rendimiento no verificado"
+  },
+  {
+    "ref": 597,
+    "nombre": "Just Me Mujer",
+    "marca": "Paris Hilton",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "afrutado",
+      "floral",
+      "dulce",
+      "cítrico",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "frambuesa",
+      "bergamota",
+      "manzana verde"
+    ],
+    "notas_corazon": [
+      "fresia",
+      "violeta",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "maderas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Perfume femenino floral frutal de Paris Hilton.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paris-Hilton/Just-Me-1468.html"
+    ],
+    "estado": "parcial: rendimiento no verificado"
+  },
+  {
+    "ref": 598,
+    "nombre": "Tease",
+    "marca": "Paris Hilton",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral frutal gourmand",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "afrutado",
+      "floral",
+      "dulce",
+      "cítrico",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "manzana roja",
+      "melocotón",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "frangipani",
+      "tuberosa"
+    ],
+    "notas_fondo": [
+      "maderas",
+      "ámbar",
+      "praliné"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina floral frutal de Paris Hilton.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Paris-Hilton/Tease-10198.html"
+    ],
+    "estado": "parcial: rendimiento no verificado"
+  },
+  {
+    "ref": 599,
+    "nombre": "Perfume Niños Variado",
+    "marca": "Por confirmar",
+    "concentracion": null,
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Niños",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "no verificable: producto genérico sin marca ni ficha individual"
+  },
+  {
+    "ref": 600,
+    "nombre": "18 Hombre",
+    "marca": "Perry Ellis",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Aromática amaderada",
+    "genero": "Hombre",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "fresco especiado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "lima",
+      "mandarina",
+      "bergamota",
+      "cardamomo"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "salvia",
+      "nuez moscada"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "vetiver",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina aromática amaderada de Perry Ellis.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Perry-Ellis/Perry-Ellis-18-1043.html",
+      "https://www.perryellis.com/products/18-for-men-eau-de-toilette"
+    ],
+    "estado": "parcial: rendimiento no verificado"
+  }
+]
+

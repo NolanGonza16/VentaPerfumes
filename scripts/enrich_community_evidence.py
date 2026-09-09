@@ -10,6 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 REVIEW_DATE = "2026-09-09"
+REJECTED_BATCH_REFS = {634}  # Research matched Moustache EDP, but the PDF row is EDT.
 
 REVIEWED = {
     1: {
@@ -687,6 +688,21 @@ def _merge_research_batches(records: dict[int, dict]) -> tuple[int, int]:
             if not record:
                 continue
 
+            if ref in REJECTED_BATCH_REFS:
+                for field in (
+                    "familia", "genero", "duracion", "proyeccion", "estela", "valoracion"
+                ):
+                    record[field] = None
+                for field in ("ocasiones", "acordes", "notas_salida", "notas_corazon", "notas_fondo"):
+                    record[field] = []
+                record["descripcion"] = ""
+                record["fuentes"] = [
+                    source for source in record.get("fuentes", [])
+                    if source.get("titulo") != "Investigación olfativa"
+                ]
+                record["ficha_estado"] = "pendiente"
+                continue
+
             # Names, brands, concentrations and sizes always remain those from the PDF.
             field_map = {
                 "familia": "familia",
@@ -715,6 +731,9 @@ def _merge_research_batches(records: dict[int, dict]) -> tuple[int, int]:
                             "mujer": "Mujer",
                             "unisex": "Unisex",
                         }.get(str(value).casefold(), value)
+                        if value not in {"Hombre", "Mujer", "Unisex"}:
+                            record[target_field] = None
+                            continue
                     record[target_field] = value
 
             accords = evidence.get("acordes") or []

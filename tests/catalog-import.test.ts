@@ -21,6 +21,15 @@ const researchBatch200 = [1, 2, 3, 4].flatMap((part) =>
   ),
 ) as Array<Record<string, unknown>>;
 
+const researchBatchNext200 = [1, 2, 3, 4].flatMap((part) =>
+  JSON.parse(
+    readFileSync(
+      new URL(`../research/batch-451-part${part}.json`, import.meta.url),
+      "utf8",
+    ),
+  ),
+) as Array<Record<string, unknown>>;
+
 test("the public August catalog contains every sellable supplier row", () => {
   assert.equal(catalog.records.length, 731);
   assert.equal(catalog.records.filter((record) => record.activo).length, 731);
@@ -60,11 +69,12 @@ test("verified manufacturer matches add Spanish notes and never reuse a wrong ed
   ]);
   assert.match(JSON.stringify(auraFresh?.fuentes), /armaf\.com/);
 
-  const ambiguousFakhar = catalog.records.find(
+  const researchedFakhar = catalog.records.find(
     (record) => record.origen_ref === 453,
   );
-  assert.equal(ambiguousFakhar?.ficha_estado, "pendiente");
-  assert.equal(ambiguousFakhar?.imagen_url, null);
+  assert.equal(researchedFakhar?.ficha_estado, "parcial");
+  assert.equal(researchedFakhar?.imagen_url, null);
+  assert.deepEqual(researchedFakhar?.notas_salida, ["manzana", "jengibre", "bergamota"]);
 });
 
 test("verified visual matches can later receive exact fragrance research", () => {
@@ -125,6 +135,32 @@ test("the consecutive 200-product batch preserves PDF names, brands and sizes", 
         record.notas_fondo?.length,
     ).length,
     98,
+  );
+});
+
+test("the next 200-product batch also preserves every supplier identity", () => {
+  const catalogRows = catalog.records.slice(440, 640);
+  assert.equal(researchBatchNext200.length, 200);
+  assert.equal(catalogRows.length, 200);
+  for (let index = 0; index < 200; index += 1) {
+    const source = catalogRows[index];
+    const researched = researchBatchNext200[index];
+    assert.equal(researched.ref, source.origen_ref);
+    assert.equal(researched.nombre, source.nombre);
+    assert.equal(researched.marca, source.marca);
+    assert.equal(
+      String(researched.tamano_ml ?? "").replace(/ml$/i, ""),
+      String(source.tamano_ml ?? ""),
+    );
+  }
+  assert.equal(
+    researchBatchNext200.filter(
+      (record) =>
+        record.notas_salida?.length &&
+        record.notas_corazon?.length &&
+        record.notas_fondo?.length,
+    ).length,
+    117,
   );
 });
 
