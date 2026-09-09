@@ -1392,13 +1392,19 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ediciones Summer Essence de Fragrantica",
+          "url": "https://www.fragrantica.com/p/95631",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1025,
       "sku": "AGOSTO-2026-0025",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "requiere_revision",
       "origen_ref": 25,
       "presentacion_proveedor": "ANTONIO B BLUE SEDUCCION SUMMER ESSENCE EDT 100ML"
     },
@@ -1409,26 +1415,65 @@
       "precio_crc": 16150,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Oriental",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Diario",
+        "Noche",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Grosella negra",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Nuez moscada",
+        "Cardamomo",
+        "Cilantro"
+      ],
+      "notas_fondo": [
+        "Haba tonka",
+        "Ámbar",
+        "Almizcle",
+        "Cedro de Virginia"
+      ],
+      "duracion": 2,
+      "proyeccion": 2,
+      "estela": 2,
+      "valoracion": 4.0,
+      "descripcion": "Grosella negra y bergamota abren un perfil masculino especiado, suavizado por haba tonka, ámbar y maderas. Seductor pero discreto, para diario, citas y noches informales.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Antonio-Banderas/Seduction-in-Black-6746.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1026,
       "sku": "AGOSTO-2026-0026",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 26,
       "presentacion_proveedor": "ANTONIO B BLACK SEDUCTION 100ML"
     },
@@ -1439,26 +1484,66 @@
       "precio_crc": 18700,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
+      "familia": "Oriental",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Melón",
+        "Bergamota",
+        "Menta",
+        "Grosella negra"
+      ],
+      "notas_corazon": [
+        "Agua de mar",
+        "Manzana verde",
+        "Capuchino",
+        "Cardamomo",
+        "Nuez moscada"
+      ],
+      "notas_fondo": [
+        "Notas amaderadas",
+        "Ámbar"
+      ],
+      "duracion": 2,
+      "proyeccion": 2,
+      "estela": 2,
+      "valoracion": 4.1,
+      "descripcion": "Una fragancia masculina acuática y frutal, con menta, notas marinas y un fondo de maderas y ámbar. Ligera y refrescante para el día y la oficina.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://beta.fragrantica.com/perfume/Antonio-Banderas/Blue-Seduction-1088.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1027,
       "sku": "AGOSTO-2026-0027",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 27,
       "presentacion_proveedor": "ANTONIO B BLUE SEDUCTION HOMBRE 100ML"
     },
@@ -1469,26 +1554,68 @@
       "precio_crc": 17850,
       "tamano_ml": 80,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Acuático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Melón",
+        "Bergamota",
+        "Pera",
+        "Hojas de violeta"
+      ],
+      "notas_corazon": [
+        "Peonía",
+        "Jazmín",
+        "Lirio del valle",
+        "Gardenia",
+        "Rosa búlgara"
+      ],
+      "notas_fondo": [
+        "Frambuesa",
+        "Pachulí",
+        "Almizcle",
+        "Benjuí"
+      ],
+      "duracion": 2,
+      "proyeccion": 2,
+      "estela": 2,
+      "valoracion": 3.7,
+      "descripcion": "Una composición femenina floral y acuática, luminosa por sus frutas frescas y suavizada con almizcle y benjuí. Cómoda y delicada para el día o la oficina.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Antonio-Banderas/Blue-Seduction-3751.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1028,
       "sku": "AGOSTO-2026-0028",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 28,
       "presentacion_proveedor": "ANTONIO B BLUE SEDUCTION MUJER EDT 80ML"
     },
@@ -1499,26 +1626,69 @@
       "precio_crc": 17000,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Aromático",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Piña",
+        "Melón",
+        "Bergamota",
+        "Manzana verde",
+        "Toronja"
+      ],
+      "notas_corazon": [
+        "Notas marinas",
+        "Jazmín",
+        "Cardamomo",
+        "Neroli"
+      ],
+      "notas_fondo": [
+        "Vetiver",
+        "Almizcle blanco",
+        "Cedro",
+        "Gamuza",
+        "Ámbar"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 3.8,
+      "descripcion": "Frutas y cítricos se mezclan con un corazón marino antes de asentarse sobre vetiver, cedro y gamuza. Un aroma masculino fresco y versátil para el día.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Antonio-Banderas/King-of-Seduction-26412.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1029,
       "sku": "AGOSTO-2026-0029",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 29,
       "presentacion_proveedor": "ANTONIO B KING OF SEDUCTION 100ML (PLATEADO)"
     },
@@ -1529,23 +1699,61 @@
       "precio_crc": 17850,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Aromático",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Manzana",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Artemisa",
+        "Salvia esclarea"
+      ],
+      "notas_fondo": [
+        "Notas amaderadas",
+        "Musgo",
+        "Haba tonka",
+        "Ámbar",
+        "Pachulí"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 3.8,
+      "descripcion": "Manzana y bergamota abren un aroma masculino verde y aromático, con lavanda y un fondo amaderado. Deportivo, limpio y fácil de llevar a diario o en la oficina.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/AC8411061913024.jpg?v=1571609992",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/power-of-seduction",
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Antonio-Banderas/Power-Of-Seduction-51087.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Opiniones de rendimiento en Parfumo",
+          "url": "https://www.parfumo.com/Perfumes/Banderas/Power_of_Seduction",
           "fecha": "2026-09-09"
         }
       ],
@@ -1554,7 +1762,7 @@
       "orden": 1030,
       "sku": "AGOSTO-2026-0030",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 30,
       "presentacion_proveedor": "ANTONIO B POWER OF SEDUCTION EDT 100ML"
     },

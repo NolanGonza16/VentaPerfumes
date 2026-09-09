@@ -120,3 +120,19 @@ test("reviewed profiles never alter exact Al Haramain presentations", () => {
     [120, 200],
   );
 });
+
+test("ambiguous Summer Essence stays unresolved while exact Banderas editions are enriched", () => {
+  const ambiguous = catalog.records.find((record) => record.origen_ref === 25);
+  assert.equal(ambiguous?.nombre, "Blue Seduccion Summer Essence");
+  assert.equal(ambiguous?.ficha_estado, "requiere_revision");
+  assert.deepEqual(ambiguous?.notas_salida, []);
+
+  const women = catalog.records.find((record) => record.origen_ref === 28);
+  assert.equal(women?.nombre, "Blue Seduction Mujer");
+  assert.equal(women?.genero, "Mujer");
+  assert.equal(women?.tamano_ml, 80);
+
+  const power = catalog.records.find((record) => record.origen_ref === 30);
+  assert.deepEqual(power?.notas_salida, ["Manzana", "Bergamota"]);
+  assert.equal(power?.duracion, 3);
+});
