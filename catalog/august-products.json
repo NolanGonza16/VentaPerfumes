@@ -6511,23 +6511,63 @@
       "precio_crc": 33150,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Cítrico",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Limón",
+        "Romero",
+        "Bergamota",
+        "Neroli",
+        "Piña"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Musgo de roble",
+        "Ciclamen",
+        "Cilantro"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Musgo de roble",
+        "Cedro",
+        "Sándalo",
+        "Cardamomo",
+        "Palisandro de Brasil",
+        "Haba tonka"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 3.96,
+      "descripcion": "Una fragancia masculina cítrica y aromática, con romero, neroli y piña sobre musgo, almizcle y maderas. Limpia y refrescante para diario, oficina y clima cálido.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Chrome.png?v=1571609917",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/chrome",
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Azzaro/Chrome-788.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -6536,7 +6576,7 @@
       "orden": 1113,
       "sku": "AGOSTO-2026-0113",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 113,
       "presentacion_proveedor": "AZZARO CHROME EDT 100ML"
     },
@@ -6547,26 +6587,75 @@
       "precio_crc": 28050,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Aromático",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Formal"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cuero",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Lavanda",
+        "Limón",
+        "Alcaravea",
+        "Albahaca",
+        "Bergamota",
+        "Salvia esclarea",
+        "Iris",
+        "Anís estrellado"
+      ],
+      "notas_corazon": [
+        "Vetiver",
+        "Pachulí",
+        "Cedro",
+        "Sándalo",
+        "Bayas de enebro",
+        "Cardamomo"
+      ],
+      "notas_fondo": [
+        "Musgo de roble",
+        "Cuero",
+        "Ámbar",
+        "Almizcle",
+        "Haba tonka"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 3.88,
+      "descripcion": "Un fougère clásico de lavanda, anís y hierbas aromáticas, asentado sobre vetiver, cuero, musgo y maderas. Masculino y elegante para oficina o momentos formales.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Azzaro/Azzaro-pour-Homme-829.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1114,
       "sku": "AGOSTO-2026-0114",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 114,
       "presentacion_proveedor": "AZZARO POUR HOMME EDT 100ML"
     },
@@ -6577,26 +6666,59 @@
       "precio_crc": 56950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum Intense",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Oriental",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Citas",
+        "Noche",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Caramelo",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Toffee"
+      ],
+      "notas_fondo": [
+        "Madera de ámbar"
+      ],
+      "duracion": 4,
+      "proyeccion": 4,
+      "estela": 4,
+      "valoracion": 4.57,
+      "descripcion": "Cardamomo especiado, toffee y madera de ámbar forman un aroma masculino cálido, dulce y magnético. Ideal para citas, noches frescas y eventos especiales.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Azzaro/The-Most-Wanted-66826.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1115,
       "sku": "AGOSTO-2026-0115",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 115,
       "presentacion_proveedor": "AZZARO THE MOST WANTED EDPI 100ML"
     },
@@ -6607,23 +6729,50 @@
       "precio_crc": 58650,
       "tamano_ml": 100,
       "concentracion": "Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Amaderado",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Citas",
+        "Noche",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Jengibre"
+      ],
+      "notas_corazon": [
+        "Notas amaderadas"
+      ],
+      "notas_fondo": [
+        "Vainilla Bourbon"
+      ],
+      "duracion": 4,
+      "proyeccion": 4,
+      "estela": 4,
+      "valoracion": 4.6,
+      "descripcion": "Jengibre vibrante y maderas oscuras conducen a una vainilla Bourbon cálida y seductora. Un perfume masculino intenso para citas, noches y clima fresco.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Azzaro-Most-Wanted_bfde01d6-23e2-48fb-9ef4-8d718dda8a6a.png?v=1682618808",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/azzaro-most-wanted-parfum",
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Azzaro/The-Most-Wanted-Parfum-73664.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -6632,7 +6781,7 @@
       "orden": 1116,
       "sku": "AGOSTO-2026-0116",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 116,
       "presentacion_proveedor": "AZZARO THE MOST WANTED PARFUM 100ML"
     },
@@ -6643,23 +6792,63 @@
       "precio_crc": 67150,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Amaderado",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Citas",
+        "Noche",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Tabaco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Canela",
+        "Mandarina",
+        "Lavanda",
+        "Limón"
+      ],
+      "notas_corazon": [
+        "Notas frutales",
+        "Incienso",
+        "Comino",
+        "Cedro rojo"
+      ],
+      "notas_fondo": [
+        "Tabaco",
+        "Vainilla",
+        "Cedro",
+        "Cuero",
+        "Benjuí",
+        "Iso E Super",
+        "Ciprés",
+        "Pachulí"
+      ],
+      "duracion": 3,
+      "proyeccion": 4,
+      "estela": 3,
+      "valoracion": 4.27,
+      "descripcion": "Canela y mandarina abren un amaderado nocturno con incienso, tabaco, vainilla y cuero. Cálido, seductor y expresivo para citas y eventos en clima fresco.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Wanted-Night.png?v=1571609994",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/azzaro-wanted-night",
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Azzaro/Wanted-by-Night-49144.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -6668,7 +6857,7 @@
       "orden": 1117,
       "sku": "AGOSTO-2026-0117",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 117,
       "presentacion_proveedor": "AZZARO WANTED BY NIGHT EDP 100ML"
     },
@@ -6679,26 +6868,67 @@
       "precio_crc": 43350,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Limón",
+        "Jengibre",
+        "Lavanda",
+        "Menta"
+      ],
+      "notas_corazon": [
+        "Manzana",
+        "Cardamomo guatemalteco",
+        "Enebro",
+        "Geranio"
+      ],
+      "notas_fondo": [
+        "Haba tonka",
+        "Madera de ámbar",
+        "Vetiver de Haití"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 3.89,
+      "descripcion": "Limón, jengibre y menta dan energía a un corazón aromático de manzana y cardamomo, con tonka, vetiver y ámbar al fondo. Versátil para diario y citas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Azzaro/Wanted-38686.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1118,
       "sku": "AGOSTO-2026-0118",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 118,
       "presentacion_proveedor": "AZZARO WANTED HOMBRE EDT 100ML"
     },
@@ -6709,26 +6939,64 @@
       "precio_crc": 11050,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Cítrico",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Aldehídos",
+        "Alcaravea"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Geranio",
+        "Cilantro"
+      ],
+      "notas_fondo": [
+        "Almizcle blanco",
+        "Vetiver",
+        "Pachulí"
+      ],
+      "duracion": 2,
+      "proyeccion": 2,
+      "estela": 2,
+      "valoracion": 3.69,
+      "descripcion": "Bergamota y aldehídos abren un cítrico aromático de lavanda y geranio sobre almizcle, vetiver y pachulí. Fresco y sencillo para diario u oficina.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Benetton/Benetton-Cold-2487.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1119,
       "sku": "AGOSTO-2026-0119",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 119,
       "presentacion_proveedor": "BENETTON COLD EDT 100ML"
     },
@@ -6739,23 +7007,60 @@
       "precio_crc": 10200,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Oriental",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Palisandro de Brasil",
+        "Mandarina",
+        "Limón",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Albaricoque",
+        "Iris",
+        "Jazmín de agua",
+        "Lirio del valle"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Sándalo",
+        "Ámbar",
+        "Almizcle",
+        "Cedro",
+        "Musgo de roble"
+      ],
+      "duracion": 2,
+      "proyeccion": 2,
+      "estela": 2,
+      "valoracion": 3.72,
+      "descripcion": "Cítricos y palisandro envuelven albaricoque, iris y flores acuáticas antes de un fondo cálido de vainilla y sándalo. Suave y confortable para diario.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Benetton-Hot-Edt.png?v=1764185402",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/benetton-hot-edt",
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Benetton/Benetton-Hot-2488.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -6764,7 +7069,7 @@
       "orden": 1120,
       "sku": "AGOSTO-2026-0120",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 120,
       "presentacion_proveedor": "BENETTON HOT EDT 100ML"
     },
@@ -7135,26 +7440,65 @@
       "precio_crc": 75650,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Oriental",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Pimienta rosa",
+        "Toronja",
+        "Jazmín"
+      ],
+      "notas_corazon": [
+        "Abeto",
+        "Cedro",
+        "Azafrán"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Ámbar",
+        "Musgo de roble"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 3.78,
+      "descripcion": "Pimienta rosa y toronja contrastan con abeto, cedro y azafrán sobre un fondo musgoso de ámbar y almizcle. Unisex, oscuro y moderno para la noche.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Billie-Eilish/Eilish-No-3-87945.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1133,
       "sku": "AGOSTO-2026-0133",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 133,
       "presentacion_proveedor": "BILLIE EILISH NO3 EDP 100ML"
     },
@@ -7165,26 +7509,77 @@
       "precio_crc": 31450,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "ocasiones": [
+        "Oficina",
+        "Formal",
+        "Diario"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Limón",
+        "Verbena de limón",
+        "Bergamota",
+        "Lavanda",
+        "Naranja",
+        "Albahaca",
+        "Mandarina"
+      ],
+      "notas_corazon": [
+        "Clavel",
+        "Rosa",
+        "Jazmín",
+        "Ylang-ylang",
+        "Lirio del valle",
+        "Raíz de lirio"
+      ],
+      "notas_fondo": [
+        "Musgo de roble",
+        "Vetiver",
+        "Sándalo",
+        "Incienso",
+        "Almizcle",
+        "Benjuí",
+        "Ámbar",
+        "Haba tonka"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 4.03,
+      "descripcion": "Un cítrico aromático clásico y elegante, enriquecido con flores, vetiver, musgo e incienso. Masculino y refinado para oficina, eventos formales o uso diario.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Boucheron/Boucheron-Pour-Homme-132.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1139,
       "sku": "AGOSTO-2026-0139",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 139,
       "presentacion_proveedor": "BOUCHERON POUR HOMME EDT 100ML"
     },
@@ -7195,26 +7590,66 @@
       "precio_crc": 19550,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Frambuesa",
+        "Azúcar",
+        "Flor de albaricoque"
+      ],
+      "notas_corazon": [
+        "Peonía",
+        "Orquídea",
+        "Lirio de agua"
+      ],
+      "notas_fondo": [
+        "Notas dulces",
+        "Vainilla",
+        "Almizcle",
+        "Violeta",
+        "Notas amaderadas"
+      ],
+      "duracion": 2,
+      "proyeccion": 2,
+      "estela": 2,
+      "valoracion": 3.77,
+      "descripcion": "Frambuesa azucarada y flores acuáticas descansan sobre vainilla, violeta y almizcle. Una fragancia femenina alegre, dulce y ligera para el día o una cita casual.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Britney-Spears/Circus-Fantasy-6733.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1140,
       "sku": "AGOSTO-2026-0140",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 140,
       "presentacion_proveedor": "BRITNEY SPEARS FANTASY CIRCUS EDP 100ML"
     },
@@ -7225,26 +7660,67 @@
       "precio_crc": 21250,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Dulce",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ozónico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Limón italiano",
+        "Lichi",
+        "Hoja de violeta"
+      ],
+      "notas_corazon": [
+        "Azúcar moreno",
+        "Notas ozónicas",
+        "Jazmín",
+        "Lirio del valle",
+        "Retama"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Almizcle blanco",
+        "Heliotropo",
+        "Benjuí"
+      ],
+      "duracion": 3,
+      "proyeccion": 2,
+      "estela": 2,
+      "valoracion": 4.06,
+      "descripcion": "Limón y lichi iluminan un corazón floral y ozónico endulzado con azúcar moreno, vainilla y benjuí. Íntima y reconfortante para diario y citas cercanas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Britney-Spears/Fantasy-Intimate-Edition-31170.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1141,
       "sku": "AGOSTO-2026-0141",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 141,
       "presentacion_proveedor": "BRITNEY SPEARS INTIMATE EDITION EDP 100ML"
     },
@@ -7321,26 +7797,61 @@
       "precio_crc": 76500,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
+      "familia": "Oriental",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "ocasiones": [
+        "Citas",
+        "Noche",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Nardos",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Grosella negra",
+        "Davana"
+      ],
+      "notas_corazon": [
+        "Nardos"
+      ],
+      "notas_fondo": [
+        "Absoluto de vainilla",
+        "Mirra"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 3.96,
+      "descripcion": "Grosella negra y davana presentan unos nardos intensos, suavizados por vainilla y mirra. Floral oriental, misteriosa y femenina para noches y eventos especiales.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Bvlgari/Splendida-Tubereuse-Mystique-55838.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1144,
       "sku": "AGOSTO-2026-0144",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 144,
       "presentacion_proveedor": "BULGARI SPLENDIDA TUBEREUSE MYSTIQUE MUJER"
     },
@@ -7351,23 +7862,51 @@
       "precio_crc": 83300,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
+      "familia": "Dulce",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Lavanda",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Vainilla",
+        "Lavanda"
+      ],
+      "notas_corazon": [
+        "Caviar de vainilla"
+      ],
+      "notas_fondo": [
+        "Absoluto de vainilla"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Lavanda luminosa realza distintas facetas de vainilla, desde una apertura aireada hasta un fondo cálido y cremoso. Elegante y confortable para diario, oficina o citas.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Burberry-Goddess.png?v=1700581094",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/burberry-goddess",
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Burberry/Goddess-83483.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -7376,7 +7915,7 @@
       "orden": 1145,
       "sku": "AGOSTO-2026-0145",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 145,
       "presentacion_proveedor": "BURBERRY GODDESS EDP 100ML"
     },
@@ -7387,23 +7926,63 @@
       "precio_crc": 78200,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Noche"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Fresa",
+        "Frambuesa",
+        "Zarzamora",
+        "Cereza ácida",
+        "Grosella negra",
+        "Mandarina",
+        "Limón"
+      ],
+      "notas_corazon": [
+        "Violeta",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Vainilla",
+        "Cachemira",
+        "Notas amaderadas",
+        "Ámbar",
+        "Musgo de roble",
+        "Pachulí"
+      ],
+      "duracion": 4,
+      "proyeccion": 4,
+      "estela": 4,
+      "valoracion": 3.89,
+      "descripcion": "Un estallido de frutos rojos y cítricos se vuelve floral y cremoso sobre vainilla, almizcle y maderas. Femenina, moderna y llamativa para diario, citas o noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/BURBERRY-HER-50ML-EDP-WOMEN.png?v=1571610019",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/burberry-her",
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Burberry/Burberry-Her-51694.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -7412,7 +7991,7 @@
       "orden": 1146,
       "sku": "AGOSTO-2026-0146",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 146,
       "presentacion_proveedor": "BURBERRY HER EDP 100ML"
     },

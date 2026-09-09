@@ -208,3 +208,20 @@ test("official Armaf pyramids receive usable profiles without invented performan
   assert.equal(aura?.proyeccion, null);
   assert.equal(aura?.estela, null);
 });
+
+test("reviewed Azzaro and adjacent designer rows keep exact editions", () => {
+  const intense = catalog.records.find((record) => record.origen_ref === 115);
+  const parfum = catalog.records.find((record) => record.origen_ref === 116);
+  assert.equal(intense?.concentracion, "Eau de Parfum Intense");
+  assert.deepEqual(intense?.notas_salida, ["Cardamomo"]);
+  assert.equal(parfum?.concentracion, "Parfum");
+  assert.deepEqual(parfum?.notas_salida, ["Jengibre"]);
+
+  for (const ref of [113, 114, 115, 116, 117, 118, 119, 120, 133, 139, 140, 141, 144, 145, 146]) {
+    const record = catalog.records.find((item) => item.origen_ref === ref);
+    assert.equal(record?.ficha_estado, "verificada");
+    assert.ok(record && record.notas_salida.length > 0);
+    assert.ok(record && record.notas_corazon.length > 0);
+    assert.ok(record && record.notas_fondo.length > 0);
+  }
+});
