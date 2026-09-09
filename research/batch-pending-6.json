@@ -1,0 +1,459 @@
+[
+  {
+    "ref": 681,
+    "nombre": "Tester · Leau De",
+    "marca": "Tous",
+    "concentracion": "Parfum",
+    "tamano_ml": 90,
+    "tipo_producto": "Tester",
+    "familia": "Floral afrutada",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "floral",
+      "cítrico",
+      "afrutado",
+      "almizclado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "peonía",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "almizcle blanco",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "El tester se identifica inequívocamente con la fragancia base Tous L'Eau de Parfum; el formato tester no cambia la composición. Es una fragancia femenina floral y luminosa, con salida cítrica especiada, corazón floral y fondo limpio almizclado-amaderado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Tous/L-Eau-100.html"
+    ],
+    "estado": "parcial: concentración y composición de la fragancia base identificadas; no se localizaron datos verificables de rendimiento ni valoración"
+  },
+  {
+    "ref": 682,
+    "nombre": "Tester · Love Me Silver",
+    "marca": "Tous",
+    "concentracion": null,
+    "tamano_ml": 90,
+    "tipo_producto": "Tester",
+    "familia": "Floral afrutada",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "afrutado",
+      "floral blanco",
+      "cítrico",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "pera",
+      "pomelo",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "rosa",
+      "tuberosa"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "cashmeran",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "LoveMe Silver es una interpretación floral afrutada de Tous, de carácter limpio y luminoso, con frutas y cítricos al inicio, flores blancas en el corazón y una base amaderada almizclada.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Tous/LoveMe-Silver-75928.html"
+    ],
+    "estado": "parcial: notas y familia recopiladas de ficha de fragancia; rendimiento y valoración no confirmados"
+  },
+  {
+    "ref": 683,
+    "nombre": "Tester · Touch Sensual",
+    "marca": "Tous",
+    "concentracion": null,
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": "Floral amaderada almizclada",
+    "genero": "Femenino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "floral",
+      "afrutado",
+      "amaderado",
+      "almizclado",
+      "dulce",
+      "especiado suave"
+    ],
+    "notas_salida": [
+      "grosella negra",
+      "pimienta rosa",
+      "limón"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "rosa",
+      "flor de azahar"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "cedro",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Touch Sensual es una fragancia femenina floral amaderada de perfil sensual, con una salida afrutada y especiada, un corazón floral y un fondo cálido con vainilla, maderas y almizcle.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Tous/Touch-The-Sensuality-of-Tous-3300.html"
+    ],
+    "estado": "parcial: identidad de la fragancia base y familia/notas recopiladas; rendimiento y valoración no confirmados"
+  },
+  {
+    "ref": 684,
+    "nombre": "Tester · Dylan Turquoise",
+    "marca": "Versace",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": "Floral frutal",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano",
+      "oficina"
+    ],
+    "acordes": [
+      "cítrico",
+      "frutal",
+      "floral",
+      "almizclado",
+      "amaderado",
+      "fresco"
+    ],
+    "notas_salida": [
+      "limón",
+      "mandarina italiana",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "guayaba",
+      "fresia",
+      "grosella negra",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "Clearwood",
+      "almizcle",
+      "maderas",
+      "benjuí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Dylan Turquoise Eau de Toilette es una fragancia femenina fresca, cítrica y floral-frutal. El tester se trata como la misma fragancia base de 100 ml en concentración EDT; el formato tester no cambia la composición declarada. No se asignan métricas de rendimiento sin una fuente verificable consultada.",
+    "fuentes": [
+      "https://www.versace.com/us/en/women/fragrances/fragrances/dylan-turquoise/dylan-turquoise-eau-de-toilette-100-ml/R720010-R100MLS_RNUL.html",
+      "https://www.fragrantica.com/perfume/Versace/Dylan-Turquoise-55899.html",
+      "https://www.parfumo.com/Perfumes/Versace/Dylan_Turquoise"
+    ],
+    "estado": "identidad y concentración verificadas por la denominación suministrada; métricas de rendimiento y valoración no verificadas"
+  },
+  {
+    "ref": 685,
+    "nombre": "Tester · Eros Flame",
+    "marca": "Versace",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": "Amaderada especiada",
+    "genero": "Masculino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "citas",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "cítrico",
+      "especiado",
+      "amaderado",
+      "ámbar",
+      "dulce",
+      "aromático"
+    ],
+    "notas_salida": [
+      "mandarina italiana",
+      "limón italiano",
+      "naranja amarga (chinotto)",
+      "pimienta negra",
+      "romero"
+    ],
+    "notas_corazon": [
+      "geranio",
+      "rosa",
+      "pimienta",
+      "madera de pimienta"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "vainilla",
+      "sándalo",
+      "cedro de Texas",
+      "pachulí",
+      "musgo de roble"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eros Flame Eau de Parfum es una fragancia masculina cítrica, especiada y amaderada, con salida de cítricos y pimienta, corazón floral-aromático y un fondo dulce de vainilla y haba tonka sobre maderas. La presentación solicitada es EDP de 100 ml.",
+    "fuentes": [
+      "https://www.versace.com/us/en/men/fragrances/fragrances/eros-flame/eros-flame-eau-de-parfum-100-ml/R740010-R100MLS_RNUL.html",
+      "https://www.fragrantica.com/perfume/Versace/Eros-Flame-52180.html",
+      "https://www.parfumo.com/Perfumes/Versace/Eros_Flame"
+    ],
+    "estado": "identidad y concentración verificadas por la denominación suministrada; métricas de rendimiento y valoración no verificadas"
+  },
+  {
+    "ref": 691,
+    "nombre": "(Dorado)",
+    "marca": "Tous",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 90,
+    "tipo_producto": "Perfume",
+    "familia": "Floral afrutada",
+    "genero": "Femenino",
+    "ocasiones": [
+      "uso diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "afrutado",
+      "floral",
+      "almizclado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "pomelo",
+      "grosella negra",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "peonía",
+      "rosa",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "almizcle blanco",
+      "cedro",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de parfum femenino de Tous con una apertura cítrica y afrutada, un corazón floral y un fondo de almizcle, cedro y ámbar. La concentración indicada es Eau de Parfum y el volumen solicitado es 90 ml.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Tous/Tous-Gold-1612.html",
+      "https://www.parfumo.com/Perfumes/Tous/Gold_Eau_de_Parfum"
+    ],
+    "estado": "identidad y concentración verificadas; duración, proyección, estela y valoración no determinadas con fuente suficientemente consistente"
+  },
+  {
+    "ref": 692,
+    "nombre": "(Plateado)",
+    "marca": "Tous",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 90,
+    "tipo_producto": "Perfume",
+    "familia": "Floral amaderada almizclada",
+    "genero": "Femenino",
+    "ocasiones": [
+      "uso diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "floral",
+      "verde",
+      "cítrico",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "hoja de violeta",
+      "cilantro"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "rosa",
+      "peonía"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de toilette floral de Tous, de perfil fresco y verde al inicio, floral en el corazón y amaderado-almizclado en el fondo. La concentración indicada es Eau de Toilette y el volumen solicitado es 90 ml.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Tous/Tous-Silver-1613.html",
+      "https://www.parfumo.com/Perfumes/Tous/Silver_Eau_de_Toilette"
+    ],
+    "estado": "identidad y concentración verificadas; duración, proyección, estela y valoración no determinadas con fuente suficientemente consistente"
+  },
+  {
+    "ref": 693,
+    "nombre": "Kids Bear",
+    "marca": "Tous",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "tipo_producto": "Perfume",
+    "familia": null,
+    "genero": "Unisex / infantil",
+    "ocasiones": [
+      "uso diario"
+    ],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia infantil de Tous de la línea Kids Bear. Se identifica como Eau de Toilette y el volumen solicitado es 100 ml; no se incluyen notas ni rendimiento cuando no están inequívocamente confirmados para esta edición concreta.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Tous/Tous-Kids-10340.html",
+      "https://www.parfumo.com/Perfumes/Tous/Kids_Bear"
+    ],
+    "estado": "identidad, categoría y concentración verificadas; pirámide olfativa y rendimiento no confirmados inequívocamente para la edición Bear de 100 ml"
+  },
+  {
+    "ref": 703,
+    "nombre": "Uomo Born In Roma Coral Fantasy",
+    "marca": "Valentino",
+    "concentracion": null,
+    "tamano_ml": 100,
+    "tipo_producto": "Perfume",
+    "familia": "Amaderada aromática",
+    "genero": "Masculino",
+    "ocasiones": [
+      "uso diario",
+      "otoño",
+      "invierno",
+      "noche"
+    ],
+    "acordes": [
+      "frutal",
+      "aromático",
+      "amaderado",
+      "especiado fresco",
+      "tabaco"
+    ],
+    "notas_salida": [
+      "manzana roja",
+      "bergamota",
+      "cardamomo"
+    ],
+    "notas_corazon": [
+      "geranio",
+      "salvia esclarea",
+      "lavanda"
+    ],
+    "notas_fondo": [
+      "hoja de tabaco",
+      "vetiver",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia masculina de perfil frutal-aromático y amaderado. La manzana roja y los cítricos abren la composición; el corazón combina geranio, salvia y lavanda, sobre un fondo de tabaco, vetiver y pachulí. La concentración del artículo de 100 ml no está especificada de forma inequívoca en la referencia recibida; por ello no se asume que sea EDT, aunque Coral Fantasy se comercializa habitualmente como Eau de Toilette.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Valentino/Valentino-Uomo-Born-in-Roma-Coral-Fantasy-72138.html",
+      "https://www.parfumo.com/Perfumes/Valentino/Uomo_Born_in_Roma_Coral_Fantasy"
+    ],
+    "estado": "parcial: identidad y pirámide de notas verificables; concentración, rendimiento y valoración no confirmados para el artículo concreto"
+  },
+  {
+    "ref": 705,
+    "nombre": "Uomo Born In Roma Extradose",
+    "marca": "Valentino",
+    "concentracion": "Parfum",
+    "tamano_ml": 100,
+    "tipo_producto": "Perfume",
+    "familia": "Amaderada aromática",
+    "genero": "Masculino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "amaderado",
+      "aromático",
+      "cítrico",
+      "especiado",
+      "dulce"
+    ],
+    "notas_salida": [
+      "jengibre",
+      "bergamota",
+      "lavanda"
+    ],
+    "notas_corazon": null,
+    "notas_fondo": null,
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Versión Extradose en concentración Parfum de la línea Uomo Born In Roma. La ficha identifica inequívocamente la concentración y el formato de 100 ml. Las notas de salida publicadas para esta edición incluyen jengibre, bergamota y lavanda; no se completan las notas de corazón y fondo sin una fuente primaria o ficha reconocida accesible que las confirme de manera consistente.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Valentino/Uomo-Born-In-Roma-Extradose-Parfum-89576.html",
+      "https://www.parfumo.com/Perfumes/Valentino/Uomo_Born_in_Roma_Extradose_Parfum"
+    ],
+    "estado": "parcial: identidad, formato y concentración confirmados por la denominación; notas incompletas y rendimiento/valoración no confirmados"
+  }
+]
+

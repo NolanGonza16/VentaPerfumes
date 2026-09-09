@@ -1,0 +1,441 @@
+[
+  {
+    "ref": 634,
+    "nombre": "Moustache",
+    "marca": "Rochas",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 75,
+    "tipo_producto": "Perfume",
+    "familia": "Amaderada especiada",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "salidas"
+    ],
+    "acordes": [
+      "amaderado",
+      "especiado fresco",
+      "cítrico",
+      "balsámico",
+      "vainilla",
+      "terroso"
+    ],
+    "notas_salida": [
+      "pimienta rosa",
+      "mandarina",
+      "pimienta negra"
+    ],
+    "notas_corazon": [
+      "cedro",
+      "rosa",
+      "elemí"
+    ],
+    "notas_fondo": [
+      "benjuí",
+      "vainilla",
+      "pachulí",
+      "almizcle blanco"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Moustache Eau de Toilette de Rochas es una interpretación masculina amaderada y especiada, con una salida cítrica y de pimienta, un corazón de cedro, rosa y elemí, y un fondo balsámico de benjuí, vainilla, pachulí y almizcle blanco.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Rochas/Moustache-Eau-de-Toilette-53403.html",
+      "https://www.parfumo.com/Perfumes/Rochas/Moustache_Eau_de_Toilette",
+      "https://www.rochas.com/en-us/fragrance/moustache-eau-de-toilette"
+    ],
+    "estado": "identidad y concentración verificadas; enriquecimiento tomado de la ficha de Moustache Eau de Toilette"
+  },
+  {
+    "ref": 652,
+    "nombre": "Corporal · Rome Mujer",
+    "marca": "Mast Perfume",
+    "concentracion": null,
+    "tamano_ml": 236,
+    "tipo_producto": "Corporal",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "ambiguo: no se encontró una ficha pública verificable que permita asociar inequívocamente el corporal con una fragancia base"
+  },
+  {
+    "ref": 659,
+    "nombre": "Corporal · Play It Cool",
+    "marca": "Cristiano Ronaldo",
+    "concentracion": null,
+    "tamano_ml": 150,
+    "tipo_producto": "Corporal",
+    "familia": "Aromática amaderada",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "almizclado",
+      "dulce"
+    ],
+    "notas_salida": [
+      "pera",
+      "bergamota",
+      "mandarina"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "cardamomo",
+      "madera de cachemira"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "ámbar",
+      "haba tonka"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Play It Cool de Cristiano Ronaldo tiene un perfil fresco y aromático, con salida cítrica y frutal y un fondo ambarado-amaderado. Los datos olfativos corresponden a la fragancia base inequívocamente identificada por el mismo nombre.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Cristiano-Ronaldo/CR7-Play-It-Cool-36144.html",
+      "https://www.parfumo.com/Perfumes/Cristiano_Ronaldo/Play_It_Cool"
+    ],
+    "estado": "base inequívocamente identificada; se conserva concentración nula porque el artículo es corporal"
+  },
+  {
+    "ref": 663,
+    "nombre": "Sport Hombre",
+    "marca": "Victorinox",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "tipo_producto": "Perfume",
+    "familia": "Aromática acuática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "deporte",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "acuático",
+      "fresco especiado",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "limón",
+      "mandarina",
+      "jengibre"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "romero",
+      "notas acuáticas"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "cedro",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Sport Eau de Toilette for Him de Victorinox es una fragancia masculina fresca y deportiva, construida alrededor de cítricos, acordes aromáticos y acuáticos, con un fondo amaderado y almizclado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Victorinox-Swiss-Army/Sport-for-Him-1606.html",
+      "https://www.parfumo.com/Perfumes/Victorinox_Swiss_Army/Sport_for_Him",
+      "https://www.victorinox.com/en-US/Products/Travel-Gear/Fragrances/c/TP_FRAGRANCES/"
+    ],
+    "estado": "identidad y concentración verificadas; equivalencia con Sport Hombre por marca y nombre confirmada"
+  },
+  {
+    "ref": 665,
+    "nombre": "Tester · Ari",
+    "marca": "Ariana Grande",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": "Floral frutal gourmand",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "otoño",
+      "noche"
+    ],
+    "acordes": [
+      "frutal",
+      "dulce",
+      "floral",
+      "almizclado",
+      "amaderado",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "pera",
+      "pomelo",
+      "frambuesa"
+    ],
+    "notas_corazon": [
+      "orquídea de vainilla",
+      "rosa",
+      "lirio"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "maderas",
+      "malvavisco"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Ari de Ariana Grande es un Eau de Parfum floral, frutal y dulce, con pera, pomelo y frambuesa en la salida; flores y vainilla en el corazón; y almizcle, maderas y malvavisco en el fondo.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Ariana-Grande/Ari-31663.html",
+      "https://www.parfumo.com/Perfumes/Ariana_Grande/Ari",
+      "https://basenotes.com/fragrances/ari-by-ariana-grande.26150656"
+    ],
+    "estado": "base inequívocamente identificada para el tester"
+  },
+  {
+    "ref": 666,
+    "nombre": "Tester · Mod Blush",
+    "marca": "Ariana Grande",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": "Floral frutal amaderada",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "frutal",
+      "floral",
+      "cítrico",
+      "almizclado",
+      "amaderado",
+      "dulce"
+    ],
+    "notas_salida": [
+      "fruta de la pasión",
+      "frambuesa",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "magnolia",
+      "pera",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "ambroxan",
+      "almizcle",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Mod Blush de Ariana Grande es un Eau de Parfum floral-frutal, con fruta de la pasión, frambuesa y pimienta rosa; magnolia, pera y rosa; y una base de ambroxan, almizcle y sándalo.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Ariana-Grande/Mod-Blush-48877.html",
+      "https://www.parfumo.com/Perfumes/Ariana_Grande/Mod_Blush",
+      "https://basenotes.com/fragrances/mod-blush-by-ariana-grande.26162055"
+    ],
+    "estado": "base inequívocamente identificada para el tester"
+  },
+  {
+    "ref": 667,
+    "nombre": "Tester · Thank U Next",
+    "marca": "Ariana Grande",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": "Floral frutal gourmand",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano",
+      "noche"
+    ],
+    "acordes": [
+      "frutal",
+      "dulce",
+      "coco",
+      "floral",
+      "almizclado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "pera",
+      "frambuesa"
+    ],
+    "notas_corazon": [
+      "coco",
+      "rosa rosada"
+    ],
+    "notas_fondo": [
+      "macarrón",
+      "almizcle",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Thank U Next de Ariana Grande es un Eau de Parfum floral-frutal gourmand, con pera y frambuesa en la salida, coco y rosa en el corazón, y macarrón, almizcle y sándalo en el fondo.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-54830.html",
+      "https://www.parfumo.com/Perfumes/Ariana_Grande/Thank_U_Next",
+      "https://basenotes.com/fragrances/thank-u-next-by-ariana-grande.26162833"
+    ],
+    "estado": "base inequívocamente identificada para el tester"
+  },
+  {
+    "ref": 668,
+    "nombre": "Tester · Fantasy Midnight",
+    "marca": "Britney Spears",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": "Floral frutal gourmand",
+    "genero": "Mujer",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno"
+    ],
+    "acordes": [
+      "frutal",
+      "dulce",
+      "floral",
+      "avainillado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "cereza negra",
+      "frambuesa",
+      "ciruela"
+    ],
+    "notas_corazon": [
+      "orquídea",
+      "fresia",
+      "orquídea nocturna"
+    ],
+    "notas_fondo": [
+      "ámbar",
+      "almizcle",
+      "vainilla"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fantasy Midnight es la edición nocturna de Fantasy de Britney Spears, un Eau de Parfum dulce y frutal con flores de orquídea y fondo de vainilla, ámbar y almizcle.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Britney-Spears/Fantasy-Midnight-2313.html",
+      "https://www.parfumo.com/Perfumes/Britney_Spears/Fantasy_Midnight",
+      "https://basenotes.com/fragrances/fantasy-midnight-by-britney-spears.26135186"
+    ],
+    "estado": "base inequívocamente identificada para el tester"
+  },
+  {
+    "ref": 669,
+    "nombre": "Tester · Emperatriz",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "frutal",
+      "cítrico",
+      "floral",
+      "acuático",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "ruibarbo",
+      "grosella roja",
+      "kiwi"
+    ],
+    "notas_corazon": [
+      "sandía",
+      "ciclamen",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "sándalo",
+      "pomelo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Emperatriz corresponde inequívocamente a L'Impératrice, la Eau de Toilette frutal-floral de Dolce & Gabbana.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/L-Impratrice-3-9840.html",
+      "https://www.parfumo.com/Perfumes/Dolce_Gabbana/L_Imperatrice_3",
+      "https://basenotes.com/fragrances/l-imperatrice-3-by-dolce-gabbana.26126792"
+    ],
+    "estado": "base inequívocamente identificada para el tester; concentración conservada como EDT"
+  },
+  {
+    "ref": 670,
+    "nombre": "Tester · Pour Femme",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Gabbana-Pour-Femme-1551.html",
+      "https://www.parfumo.com/Perfumes/Dolce_Gabbana/Dolce_Gabbana_Pour_Femme",
+      "https://basenotes.com/fragrances/dolce-gabbana-pour-femme-by-dolce-gabbana.26120735"
+    ],
+    "estado": "ambiguo: las fuentes consultadas identifican principalmente Pour Femme Eau de Parfum, no permiten verificar inequívocamente la edición Eau de Toilette solicitada; no se transfieren notas de otra concentración"
+  }
+]
+

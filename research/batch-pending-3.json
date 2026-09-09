@@ -1,0 +1,342 @@
+[
+  {
+    "ref": 105,
+    "nombre": "Tag Uomo Nero",
+    "marca": "Armaf",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "tipo_producto": "Perfume",
+    "familia": "Amaderada aromática",
+    "genero": "Masculino",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "noche"
+    ],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "aromático",
+      "fresco especiado",
+      "terroso"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "pomelo",
+      "lavanda"
+    ],
+    "notas_corazon": [
+      "cedro",
+      "vetiver",
+      "pachulí"
+    ],
+    "notas_fondo": [
+      "ámbar",
+      "almizcle",
+      "haba tonka"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion_espanol": "Fragancia masculina de perfil cítrico-aromático y amaderado, con una salida fresca, un corazón de maderas y vetiver y un fondo cálido almizclado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Armaf/Tag-Uomo-Nero-21404.html",
+      "https://armaf.com/"
+    ],
+    "estado": "parcial; rendimiento y valoración no confirmados"
+  },
+  {
+    "ref": 107,
+    "nombre": "The Pride Admiral",
+    "marca": "Armaf",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "tipo_producto": "Perfume",
+    "familia": null,
+    "genero": "Masculino",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion_espanol": null,
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/The-Pride/Admiral-65447.html"
+    ],
+    "estado": "sin datos verificables suficientes"
+  },
+  {
+    "ref": 109,
+    "nombre": "Tres Nuit Pour Homme",
+    "marca": "Armaf",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "tipo_producto": "Perfume",
+    "familia": "Floral amaderada almizclada",
+    "genero": "Masculino",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "verde",
+      "floral",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "limón",
+      "verbena",
+      "iris"
+    ],
+    "notas_corazon": [
+      "violeta",
+      "lavanda"
+    ],
+    "notas_fondo": [
+      "ámbar",
+      "sándalo",
+      "pachulí"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion_espanol": "Eau de Toilette masculina fresca y verde, con cítricos y verbena al inicio, un corazón floral de violeta y lavanda y una base amaderada con ámbar.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Armaf/Tres-Nuit-21829.html",
+      "https://armaf.com/"
+    ],
+    "estado": "parcial; rendimiento y valoración no confirmados"
+  },
+  {
+    "ref": 121,
+    "nombre": "Bullet Bronze",
+    "marca": "Bharara",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 75,
+    "tipo_producto": "Perfume",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion_espanol": null,
+    "fuentes": [],
+    "estado": "No se encontraron fuentes web verificables; datos descriptivos pendientes de confirmación"
+  },
+  {
+    "ref": 122,
+    "nombre": "Bullet Gold",
+    "marca": "Bharara",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 75,
+    "tipo_producto": "Perfume",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion_espanol": null,
+    "fuentes": [],
+    "estado": "No se encontraron fuentes web verificables; datos descriptivos pendientes de confirmación"
+  },
+  {
+    "ref": 123,
+    "nombre": "Bullet Gunmetal",
+    "marca": "Bharara",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": null,
+    "tipo_producto": "Perfume",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion_espanol": null,
+    "fuentes": [],
+    "estado": "No se encontraron fuentes web verificables; datos descriptivos pendientes de confirmación"
+  },
+  {
+    "ref": 127,
+    "nombre": "King",
+    "marca": "Bharara",
+    "concentracion": "Parfum",
+    "tamano_ml": 100,
+    "tipo_producto": "Perfume",
+    "familia": "Amaderada afrutada",
+    "genero": "Masculino",
+    "ocasiones": [
+      "diario",
+      "casual",
+      "noche",
+      "salidas sociales"
+    ],
+    "acordes": [
+      "afrutado",
+      "amaderado",
+      "ahumado",
+      "dulce",
+      "cítrico",
+      "terroso"
+    ],
+    "notas_salida": [
+      "piña",
+      "bergamota",
+      "manzana",
+      "grosella negra"
+    ],
+    "notas_corazon": [
+      "abedul",
+      "jazmín",
+      "rosa",
+      "pachulí"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "musgo de roble",
+      "ámbar gris",
+      "vainilla"
+    ],
+    "duracion": "Larga; aproximadamente 8–10 horas según reportes de usuarios",
+    "proyeccion": "Moderada a fuerte durante las primeras horas",
+    "estela": "Moderada a marcada",
+    "valoracion": null,
+    "descripcion_espanol": "Parfum masculino de perfil afrutado-amaderado, frecuentemente descrito como una interpretación de la línea Aventus: salida frutal, corazón ahumado y fondo amaderado-musgoso.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Bharara/King-70765.html",
+      "https://www.parfumo.com/Perfumes/Bharara/King"
+    ],
+    "estado": "datos parciales; duración, proyección y estela son estimaciones de comunidad"
+  },
+  {
+    "ref": 128,
+    "nombre": "Ramesses 1",
+    "marca": "Bharara",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "tipo_producto": "Perfume",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion_espanol": null,
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Ramesses%201",
+      "https://www.parfumo.com/Search/Perfumes?query=Ramesses%201"
+    ],
+    "estado": "no identificado de forma inequívoca; no se completan notas sin una marca o ficha verificable"
+  },
+  {
+    "ref": 129,
+    "nombre": "Rey De Reyes",
+    "marca": "Bharara",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "tipo_producto": "Perfume",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion_espanol": null,
+    "fuentes": [
+      "https://www.fragrantica.com/search/?query=Rey%20De%20Reyes",
+      "https://www.parfumo.com/Search/Perfumes?query=Rey%20De%20Reyes"
+    ],
+    "estado": "no identificado de forma inequívoca; el nombre comercial aparece asociado a más de un producto y faltan datos del fabricante"
+  },
+  {
+    "ref": 142,
+    "nombre": "Aqua Pour Homme",
+    "marca": "Bvlgari",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "tipo_producto": "Perfume",
+    "familia": "Aromática acuática",
+    "genero": "Masculino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano",
+      "oficina",
+      "ocasiones informales"
+    ],
+    "acordes": [
+      "acuático",
+      "cítrico",
+      "aromático",
+      "marino",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "naranja",
+      "petit grain"
+    ],
+    "notas_corazon": [
+      "posidonia",
+      "algas marinas",
+      "lavanda",
+      "algodón"
+    ],
+    "notas_fondo": [
+      "madera de cedro",
+      "maderas",
+      "ámbar mineral",
+      "almizcle"
+    ],
+    "duracion": "Moderada; aproximadamente 5–8 horas según reportes de usuarios",
+    "proyeccion": "Moderada",
+    "estela": "Moderada, más fresca que densa",
+    "valoracion": null,
+    "descripcion_espanol": "Eau de toilette masculina acuática y aromática de Bvlgari, construida alrededor de cítricos, notas marinas y una base amaderada-mineral.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Bvlgari/Aqva-Pour-Homme-185.html",
+      "https://www.parfumo.com/Perfumes/Bvlgari/Aqva_Pour_Homme",
+      "https://www.bulgari.com/en-us/fragrances/man/aqva-pour-homme-eau-de-toilette-100ml-40003"
+    ],
+    "estado": "completado; rendimiento y valoración pueden variar por lote, piel y reformulaciones"
+  }
+]
+

@@ -4053,15 +4053,41 @@
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia de Armaf comercializada con el nombre Dubai Delicacy Kunafa Chocolate, en concentración Eau de Parfum y formato de 70 ml. No fue posible verificar en las fuentes consultadas una ficha técnica pública que confirme familia olfativa, género, pirámide de notas, rendimiento o valoración; por ello esos campos se dejan sin afirmar.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/products/dubai-delicacy-kunafa-chocolate",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/search/?q=Dubai%20Delicacy%20Kunafa%20Chocolate",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Search/?q=Dubai+Delicacy+Kunafa+Chocolate",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/search/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.google.com/search?q=%22Dubai+Delicacy+Kunafa+Chocolate%22+Armaf+70ml",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1067,
       "sku": "AGOSTO-2026-0067",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 67,
       "presentacion_proveedor": "ARMAF DUBAI DELICACY KUNAFA CHOCOLATE EDP 70ML"
     },
@@ -4539,26 +4565,96 @@
       "precio_crc": 30600,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Ámbar especiada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "noche",
+        "otoño",
+        "invierno",
+        "citas",
+        "eventos y ocasiones especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "especiado cálido",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "vainilla",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "canela",
+        "azafrán",
+        "nuez moscada"
+      ],
+      "notas_corazon": [
+        "rosa",
+        "jazmín",
+        "flor de azahar"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "ámbar",
+        "almizcle",
+        "maderas"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Odyssey Artisto Red Edition de Armaf es un Eau de Parfum de 100 ml, de perfil unisex, dulce, cálido y especiado. La información pública disponible para esta edición describe una salida especiada, un corazón floral y un fondo ambarado-vainillado. La duración, la proyección, la estela y una valoración numérica no se consignan aquí porque varían según piel, clima y usuario, y no se pudo verificar una métrica homogénea para esta edición exacta. No debe confundirse con Odyssey Homme, Odyssey Mandarin Sky, Odyssey Mega ni otras variantes Odyssey.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.google.com/search?q=Armaf+Odyssey+Artisto+Red+Edition+100ml",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1076,
       "sku": "AGOSTO-2026-0076",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 76,
       "presentacion_proveedor": "ARMAF ODYSSEY ARTISTO RED EDITION EDP 100ML"
     },
@@ -4569,26 +4665,105 @@
       "precio_crc": 27200,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromática cítrica amaderada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "uso diario",
+        "primavera",
+        "verano",
+        "clima cálido",
+        "oficina",
+        "casual",
+        "día"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "limón",
+        "bergamota",
+        "pomelo",
+        "pimienta rosa"
+      ],
+      "notas_corazon": [
+        "lavanda",
+        "geranio",
+        "hoja de violeta",
+        "notas acuáticas"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "sándalo",
+        "pachulí",
+        "almizcle",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Odyssey Bahamas es una Eau de Parfum de Armaf de perfil fresco, cítrico, aromático y amaderado, presentada habitualmente en frasco de 100 ml. Abre con cítricos y un matiz especiado, evoluciona hacia un corazón limpio de lavanda, geranio y acordes verdes/acuáticos, y seca sobre maderas, pachulí, ámbar y almizcle. Por su carácter ligero y refrescante suele recomendarse para el día, el calor y el uso cotidiano. Las pirámides de notas pueden diferir entre fichas comerciales y bases de datos de usuarios; las prestaciones son orientativas y dependen de piel, clima y cantidad aplicada.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Bahamas-72396.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Armaf/Odyssey_Bahamas",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/odyssey-bahamas-by-armaf.26175000/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.amazon.com/s?k=Armaf+Odyssey+Bahamas+100ml",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1077,
       "sku": "AGOSTO-2026-0077",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 77,
       "presentacion_proveedor": "ARMAF ODYSSEY BAHAMAS EDP 100ML"
     },
@@ -4671,26 +4846,99 @@
       "precio_crc": 18700,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal gourmand",
+      "genero": "Mujer",
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano",
+        "citas",
+        "ocasiones informales"
+      ],
+      "acordes": [
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "vainilla",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "pera",
+        "pimienta rosa",
+        "bergamota"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "flor de azahar",
+        "tuberosa"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "almizcle",
+        "cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Odyssey Candee es un Eau de Parfum femenino de 100 ml de Armaf, construido alrededor de una salida frutal y ligeramente especiada, un corazón de flores blancas y un fondo dulce de vainilla, almizcle y maderas. El perfil resulta dulce, juvenil y fácil de llevar, especialmente en clima templado o cálido.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Candee-78589.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Armaf/Odyssey_Candee",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/odyssey-candee-by-armaf.26179318",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.google.com/search?q=Armaf+Odyssey+Candee+EDP+100ml",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1079,
       "sku": "AGOSTO-2026-0079",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 79,
       "presentacion_proveedor": "ARMAF ODYSSEY CANDEE EDP 100ML"
     },
@@ -4701,26 +4949,103 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Ámbar vainilla / gourmand",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Otoño",
+        "Invierno",
+        "Citas",
+        "Ocasiones especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Chocolate",
+          "emoji": ""
+        },
+        {
+          "nombre": "Vainilla",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Gourmand",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Nuez",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado cálido",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Chocolate",
+        "Avellana",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Vainilla",
+        "Ámbar",
+        "Caramelo"
+      ],
+      "notas_fondo": [
+        "Haba tonka",
+        "Sándalo",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Odyssey Dubai Chocolat es un Eau de Parfum de 100 ml de Armaf, presentado como una fragancia gourmand unisex de perfil dulce y cálido. La composición gira alrededor del chocolate y la avellana, evoluciona hacia un corazón de vainilla, ámbar y caramelo y termina en una base suave de haba tonka, sándalo y almizcle. Está especialmente orientada a uso nocturno y a climas frescos. Las fichas públicas consultadas no ofrecen una métrica homogénea y verificable para duración, proyección, estela o valoración; por ello esos campos se dejan como null en vez de convertir impresiones de usuarios en datos objetivos.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Dubai-Chocolat-112795.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Armaf/Odyssey_Dubai_Chocolat",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.google.com/search?q=Armaf+Odyssey+Dubai+Chocolat+EDP+100ml",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1080,
       "sku": "AGOSTO-2026-0080",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 80,
       "presentacion_proveedor": "ARMAF ODYSSEY DUBAI CHOCOLAT EDP 100ML"
     },
@@ -5399,26 +5724,96 @@
       "precio_crc": 31450,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromática cítrica amaderada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "primavera",
+        "verano",
+        "clima templado y cálido"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "pomelo",
+        "bergamota",
+        "limón"
+      ],
+      "notas_corazon": [
+        "lavanda",
+        "geranio",
+        "vetiver"
+      ],
+      "notas_fondo": [
+        "ambroxan",
+        "cedro",
+        "pachulí",
+        "sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Odyssey Mountain Edition de Armaf es una fragancia masculina de 100 ml comercializada como Eau de Parfum. Presenta una salida cítrica y fresca, un corazón aromático de lavanda/geranio/vetiver y un fondo amaderado-ambrado. La concentración exacta de esta edición es EDP (no EDT, parfum ni colonia); algunas fichas de retailers abrevian la presentación como 'EDP' y otras omiten la concentración, lo que explica la discrepancia en catálogos.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.basenotes.net/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.google.com/search?q=Armaf+Odyssey+Mountain+Edition+100ml+Eau+de+Parfum",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1091,
       "sku": "AGOSTO-2026-0091",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 91,
       "presentacion_proveedor": "ARMAF ODYSSEY MOUNTAIN EDITION 100ML"
     },
@@ -5465,26 +5860,98 @@
       "precio_crc": 29750,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromática amaderada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "uso diario",
+        "oficina",
+        "primavera",
+        "verano",
+        "entretiempo",
+        "salidas informales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "terroso",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "bergamota",
+        "mandarina",
+        "pimienta rosa"
+      ],
+      "notas_corazon": [
+        "lavanda",
+        "geranio",
+        "vetiver",
+        "nuez moscada"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "pachulí",
+        "ámbar",
+        "ambroxan"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Odyssey Revolution es un Eau de Parfum masculino de Armaf en frasco de 100 ml. Presenta una apertura cítrica y especiada de bergamota, mandarina y pimienta rosa; el corazón combina lavanda, geranio, vetiver y nuez moscada; y el secado aporta cedro, pachulí, ámbar y ambroxan. El resultado es un perfume aromático-amaderado, fresco y versátil, apropiado sobre todo para uso diario, oficina y climas templados o cálidos. Las notas y el rendimiento pueden variar entre lotes, piel y condiciones ambientales.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.amazon.com/s?k=Armaf+Odyssey+Revolution+100ml",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1093,
       "sku": "AGOSTO-2026-0093",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 93,
       "presentacion_proveedor": "ARMAF ODYSSEY REVOLUTION EDP 100ML"
     },
@@ -5571,26 +6038,98 @@
       "precio_crc": 28050,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromática cítrica amaderada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "primavera",
+        "verano",
+        "otoño",
+        "día",
+        "noche informal"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "balsámico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "pomelo",
+        "limón",
+        "pimienta rosa"
+      ],
+      "notas_corazon": [
+        "jengibre",
+        "menta",
+        "nuez moscada"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "sándalo",
+        "pachulí",
+        "incienso"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Odyssey Spectra Blue es un Eau de Parfum de 100 ml de Armaf, de perfil fresco cítrico-aromático y fondo amaderado-especiado. La pirámide publicada por distribuidores coincide en una salida de pomelo, limón y pimienta rosa; un corazón de jengibre, menta y nuez moscada; y una base de cedro, sándalo, pachulí e incienso. La duración, proyección, estela y valoración deben considerarse variables dependientes de la piel y de la comunidad; no se consignan cifras no verificadas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Spectra-Blue.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Armaf/Odyssey_Spectra_Blue",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.google.com/search?q=Armaf+Odyssey+Spectra+Blue+Eau+de+Parfum+100ml",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1095,
       "sku": "AGOSTO-2026-0095",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 95,
       "presentacion_proveedor": "ARMAF ODYSSEY SPECTRA BLU EDP 100ML"
     },
@@ -5993,26 +6532,100 @@
       "precio_crc": 22100,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral frutal ambarado",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "uso diario",
+        "oficina",
+        "primavera",
+        "verano",
+        "ocasiones informales"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "bergamota",
+        "pera",
+        "pimienta rosa"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "rosa",
+        "nardo"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "almizcle",
+        "cedro",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Tag Donna Di Terra de Armaf es un Eau de Parfum femenino de 100 ml, presentado como una composición floral-frutal de carácter dulce y limpio, con una salida luminosa y afrutada, un corazón floral blanco/rosado y una base suave de vainilla, almizcle, maderas y ámbar. La duración, proyección y percepción de los acordes son estimaciones agregadas de fichas y opiniones de comunidades; no se pudo verificar una ficha oficial accesible durante esta consulta.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/search/?query=Tag%20Donna%20Di%20Terra",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/s_perfumes.php?search=Tag%20Donna%20Di%20Terra",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.basenotes.net/search.php?search=Tag%20Donna%20Di%20Terra",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.google.com/search?tbm=shop&q=Armaf+Tag+Donna+Di+Terra+EDP+100ml",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1102,
       "sku": "AGOSTO-2026-0102",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 102,
       "presentacion_proveedor": "ARMAF TAG DONNA DI TERRA EDP 100ML"
     },
@@ -6023,26 +6636,105 @@
       "precio_crc": 18700,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Aromática amaderada / fougère",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "primavera",
+        "verano",
+        "otoño",
+        "día",
+        "noche informal"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "terroso",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "limón",
+        "bergamota",
+        "pomelo",
+        "pimienta rosa"
+      ],
+      "notas_corazon": [
+        "lavanda",
+        "jengibre",
+        "menta",
+        "nuez moscada"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "pachulí",
+        "cedro",
+        "vetiver",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Tag-Him Pour Homme es un Eau de Parfum masculino de Armaf, presentado en frasco de 100 ml. Abre con cítricos brillantes, pomelo y pimienta rosa; evoluciona hacia un corazón aromático de lavanda, menta, jengibre y nuez moscada, y termina en una base de maderas, pachulí, vetiver y ámbar. Su perfil fresco, limpio y amaderado se suele asociar a un estilo tipo Bleu de Chanel, aunque no es una equivalencia oficial. Adecuado para uso versátil, especialmente clima templado o cálido y situaciones casuales y de oficina.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Tag-Him-21796.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Armaf/Tag_Him_Pour_Homme",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.basenotes.net/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.amazon.com/s?k=Armaf+Tag+Him+Pour+Homme+100ml",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1103,
       "sku": "AGOSTO-2026-0103",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 103,
       "presentacion_proveedor": "ARMAF TAG HIM POUR HOMME EDP 100ML"
     },
@@ -6123,26 +6815,74 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "noche"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "terroso",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "bergamota",
+        "pomelo",
+        "lavanda"
+      ],
+      "notas_corazon": [
+        "cedro",
+        "vetiver",
+        "pachulí"
+      ],
+      "notas_fondo": [
+        "ámbar",
+        "almizcle",
+        "haba tonka"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "bergamota y pomelo abren una fragancia de perfil amaderada aromática, con un corazón de cedro y vetiver y un fondo de ámbar y almizcle. Una composición de carácter amaderado pensada para diario.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Tag-Uomo-Nero-21404.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1105,
       "sku": "AGOSTO-2026-0105",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 105,
       "presentacion_proveedor": "ARMAF TAG UOMO NERO EDP 100ML"
     },
@@ -6190,7 +6930,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -6202,13 +6942,19 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/The-Pride/Admiral-65447.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1107,
       "sku": "AGOSTO-2026-0107",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 107,
       "presentacion_proveedor": "ARMAF THE PRIDE ADMIRAL EDP 100ML"
     },
@@ -6269,26 +7015,74 @@
       "precio_crc": 18700,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Floral amaderada almizclada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "limón",
+        "verbena",
+        "iris"
+      ],
+      "notas_corazon": [
+        "violeta",
+        "lavanda"
+      ],
+      "notas_fondo": [
+        "ámbar",
+        "sándalo",
+        "pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "limón y verbena abren una fragancia de perfil floral amaderada almizclada, con un corazón de violeta y lavanda y un fondo de ámbar y sándalo. Una composición de carácter floral pensada para diario.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Tres-Nuit-21829.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1109,
       "sku": "AGOSTO-2026-0109",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 109,
       "presentacion_proveedor": "ARMAF TRES NUIT POUR HOMME EDT 100ML"
     },
@@ -7278,26 +8072,82 @@
       "precio_crc": 59500,
       "tamano_ml": 100,
       "concentracion": "Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada afrutada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "diario",
+        "casual",
+        "noche",
+        "salidas sociales"
+      ],
+      "acordes": [
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "ahumado",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "terroso",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "piña",
+        "bergamota",
+        "manzana",
+        "grosella negra"
+      ],
+      "notas_corazon": [
+        "abedul",
+        "jazmín",
+        "rosa",
+        "pachulí"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "musgo de roble",
+        "ámbar gris",
+        "vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "piña y bergamota abren una fragancia de perfil amaderada afrutada, con un corazón de abedul y jazmín y un fondo de almizcle y musgo de roble. Una composición de carácter frutal pensada para diario.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Bharara/King-70765.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Bharara/King",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1127,
       "sku": "AGOSTO-2026-0127",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 127,
       "presentacion_proveedor": "BHARARA KING PARFUM 100ML"
     },
@@ -7321,13 +8171,24 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/search/?query=Ramesses%201",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Search/Perfumes?query=Ramesses%201",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1128,
       "sku": "AGOSTO-2026-0128",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 128,
       "presentacion_proveedor": "BHARARA RAMESSES 1 EDP 100ML"
     },
@@ -7351,13 +8212,24 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/search/?query=Rey%20De%20Reyes",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Search/Perfumes?query=Rey%20De%20Reyes",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1129,
       "sku": "AGOSTO-2026-0129",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 129,
       "presentacion_proveedor": "BHARARA REY DE REYES EDP 100ML"
     },
@@ -7731,26 +8603,87 @@
       "precio_crc": 73100,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Aromática acuática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano",
+        "oficina",
+        "ocasiones informales"
+      ],
+      "acordes": [
+        {
+          "nombre": "acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mandarina",
+        "naranja",
+        "petit grain"
+      ],
+      "notas_corazon": [
+        "posidonia",
+        "algas marinas",
+        "lavanda",
+        "algodón"
+      ],
+      "notas_fondo": [
+        "madera de cedro",
+        "maderas",
+        "ámbar mineral",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "mandarina y naranja abren una fragancia de perfil aromática acuática, con un corazón de posidonia y algas marinas y un fondo de madera de cedro y maderas. Una composición de carácter cítrico pensada para diario.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Bvlgari/Aqva-Pour-Homme-185.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Bvlgari/Aqva_Pour_Homme",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.bulgari.com/en-us/fragrances/man/aqva-pour-homme-eau-de-toilette-100ml-40003",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1142,
       "sku": "AGOSTO-2026-0142",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 142,
       "presentacion_proveedor": "BULGARI AQUA POUR HOMME EDT 100ML"
     },
@@ -37519,26 +38452,63 @@
       "precio_crc": 36550,
       "tamano_ml": 75,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Cítrica aromática",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Formal"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Limón"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Neroli",
+        "Violeta"
+      ],
+      "notas_fondo": [
+        "Pachulí",
+        "Almizcle blanco"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Un clásico cítrico aromático de elegancia masculina, con bergamota y limón sobre lavanda, neroli, violeta, pachulí y almizcle blanco.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.interparfums.fr/fr/rochas-moustache-eau-de-toilette/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1634,
       "sku": "AGOSTO-2026-0634",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 634,
       "presentacion_proveedor": "ROCHAS MOUSTACHE EDT 75ML"
     },
@@ -38607,26 +39577,74 @@
       "precio_crc": 5950,
       "tamano_ml": 150,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromática amaderada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "pera",
+        "bergamota",
+        "mandarina"
+      ],
+      "notas_corazon": [
+        "lavanda",
+        "cardamomo",
+        "madera de cachemira"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "ámbar",
+        "haba tonka"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Play It Cool de Cristiano Ronaldo tiene un perfil fresco y aromático, con salida cítrica y frutal y un fondo ambarado-amaderado. Los datos olfativos corresponden a la fragancia base inequívocamente identificada por el mismo nombre.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Cristiano-Ronaldo/CR7-Play-It-Cool-36144.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Cristiano_Ronaldo/Play_It_Cool",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1659,
       "sku": "AGOSTO-2026-0659",
       "tipo_producto": "Corporal",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 659,
       "presentacion_proveedor": "SPRAY CRISTIANO RONALDO PLAY IT COOL 150 ML"
     },
@@ -38733,26 +39751,84 @@
       "precio_crc": 21250,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Aromática acuática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "deporte",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "bergamota",
+        "limón",
+        "mandarina",
+        "jengibre"
+      ],
+      "notas_corazon": [
+        "lavanda",
+        "romero",
+        "notas acuáticas"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "cedro",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Sport Eau de Toilette for Him de Victorinox es una fragancia masculina fresca y deportiva, construida alrededor de cítricos, acordes aromáticos y acuáticos, con un fondo amaderado y almizclado.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Victorinox-Swiss-Army/Sport-for-Him-1606.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Victorinox_Swiss_Army/Sport_for_Him",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.victorinox.com/en-US/Products/Travel-Gear/Fragrances/c/TP_FRAGRANCES/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1663,
       "sku": "AGOSTO-2026-0663",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 663,
       "presentacion_proveedor": "SWISS ARMY SPORT HOMBRE EDT 100ML"
     },
@@ -38799,26 +39875,84 @@
       "precio_crc": 26350,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal gourmand",
+      "genero": "Mujer",
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "otoño",
+        "noche"
+      ],
+      "acordes": [
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "pera",
+        "pomelo",
+        "frambuesa"
+      ],
+      "notas_corazon": [
+        "orquídea de vainilla",
+        "rosa",
+        "lirio"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "maderas",
+        "malvavisco"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Ari de Ariana Grande es un Eau de Parfum floral, frutal y dulce, con pera, pomelo y frambuesa en la salida; flores y vainilla en el corazón; y almizcle, maderas y malvavisco en el fondo.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/Ari-31663.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Ariana_Grande/Ari",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/ari-by-ariana-grande.26150656",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1665,
       "sku": "AGOSTO-2026-0665",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 665,
       "presentacion_proveedor": "TESTER ARIANA GRANDE ARI EDP 100ML"
     },
@@ -38829,26 +39963,83 @@
       "precio_crc": 33150,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal amaderada",
+      "genero": "Mujer",
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "fruta de la pasión",
+        "frambuesa",
+        "pimienta rosa"
+      ],
+      "notas_corazon": [
+        "magnolia",
+        "pera",
+        "rosa"
+      ],
+      "notas_fondo": [
+        "ambroxan",
+        "almizcle",
+        "sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Mod Blush de Ariana Grande es un Eau de Parfum floral-frutal, con fruta de la pasión, frambuesa y pimienta rosa; magnolia, pera y rosa; y una base de ambroxan, almizcle y sándalo.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/Mod-Blush-48877.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Ariana_Grande/Mod_Blush",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/mod-blush-by-ariana-grande.26162055",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1666,
       "sku": "AGOSTO-2026-0666",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 666,
       "presentacion_proveedor": "TESTER ARIANA GRANDE MOD BLUSH EDP 100ML"
     },
@@ -38859,26 +40050,82 @@
       "precio_crc": 35700,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal gourmand",
+      "genero": "Mujer",
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano",
+        "noche"
+      ],
+      "acordes": [
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "coco",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "pera",
+        "frambuesa"
+      ],
+      "notas_corazon": [
+        "coco",
+        "rosa rosada"
+      ],
+      "notas_fondo": [
+        "macarrón",
+        "almizcle",
+        "sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Thank U Next de Ariana Grande es un Eau de Parfum floral-frutal gourmand, con pera y frambuesa en la salida, coco y rosa en el corazón, y macarrón, almizcle y sándalo en el fondo.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-54830.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Ariana_Grande/Thank_U_Next",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/thank-u-next-by-ariana-grande.26162833",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1667,
       "sku": "AGOSTO-2026-0667",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 667,
       "presentacion_proveedor": "TESTER ARIANA GRANDE THANK U NEXT EDP 100ML"
     },
@@ -38889,26 +40136,79 @@
       "precio_crc": 15300,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal gourmand",
+      "genero": "Mujer",
+      "ocasiones": [
+        "noche",
+        "otoño",
+        "invierno"
+      ],
+      "acordes": [
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "cereza negra",
+        "frambuesa",
+        "ciruela"
+      ],
+      "notas_corazon": [
+        "orquídea",
+        "fresia",
+        "orquídea nocturna"
+      ],
+      "notas_fondo": [
+        "ámbar",
+        "almizcle",
+        "vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fantasy Midnight es la edición nocturna de Fantasy de Britney Spears, un Eau de Parfum dulce y frutal con flores de orquídea y fondo de vainilla, ámbar y almizcle.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Britney-Spears/Fantasy-Midnight-2313.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Britney_Spears/Fantasy_Midnight",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/fantasy-midnight-by-britney-spears.26135186",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1668,
       "sku": "AGOSTO-2026-0668",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 668,
       "presentacion_proveedor": "TESTER BRITNEY SPEARS FANTASY MIDNIGHT EDP 100ML"
     },
@@ -38919,26 +40219,79 @@
       "precio_crc": 34000,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "ruibarbo",
+        "grosella roja",
+        "kiwi"
+      ],
+      "notas_corazon": [
+        "sandía",
+        "ciclamen",
+        "jazmín"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "sándalo",
+        "pomelo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Emperatriz corresponde inequívocamente a L'Impératrice, la Eau de Toilette frutal-floral de Dolce & Gabbana.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/L-Impratrice-3-9840.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Dolce_Gabbana/L_Imperatrice_3",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/l-imperatrice-3-by-dolce-gabbana.26126792",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1669,
       "sku": "AGOSTO-2026-0669",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 669,
       "presentacion_proveedor": "TESTER DOLCE & GABBANA EMPERATRIZ EDT 100ML"
     },
@@ -38962,13 +40315,29 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Gabbana-Pour-Femme-1551.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Dolce_Gabbana/Dolce_Gabbana_Pour_Femme",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/dolce-gabbana-pour-femme-by-dolce-gabbana.26120735",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1670,
       "sku": "AGOSTO-2026-0670",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 670,
       "presentacion_proveedor": "TESTER DOLCE & GABBANA POUR FEMME EDT 100ML"
     },
@@ -38979,26 +40348,81 @@
       "precio_crc": 73950,
       "tamano_ml": 90,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral ambarada",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Otoño",
+        "Invierno",
+        "Ocasiones especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "tuberosa",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "ambarado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "flor de azahar del naranjo",
+        "naranja amarga"
+      ],
+      "notas_corazon": [
+        "tuberosa",
+        "jazmín de la India"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una interpretación intensa y envolvente de My Way, construida alrededor de flores blancas, con tuberosa y jazmín en el corazón y un fondo cálido de sándalo y vainilla.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/My-Way-Intense-68337.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Giorgio_Armani/My_Way_Intense",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.giorgioarmanibeauty-usa.com/fragrances/womens-fragrances/my-way/my-way-intense-eau-de-parfum/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1671,
       "sku": "AGOSTO-2026-0671",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 671,
       "presentacion_proveedor": "TESTER GIORGIO ARMANI MY WAY INTENSE EDP 90ML"
     },
@@ -39009,26 +40433,83 @@
       "precio_crc": 16150,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Día",
+        "Primavera",
+        "Verano",
+        "Uso casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "manzana roja",
+        "pomelo",
+        "pimienta rosa"
+      ],
+      "notas_corazon": [
+        "peonía",
+        "flor de azahar del naranjo",
+        "jazmín"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "almizcle",
+        "sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia floral frutal femenina de Halloween Kiss, con una salida fresca y afrutada, un corazón de peonía y flores blancas y un fondo suave de vainilla, almizcle y sándalo.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/J.Del-Pozo/Halloween-Kiss-1684.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/J_del_Pozo/Halloween_Kiss",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1672,
       "sku": "AGOSTO-2026-0672",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 672,
       "presentacion_proveedor": "TESTER HALLOWEEN KISS EDT 100ML"
     },
@@ -39039,26 +40520,74 @@
       "precio_crc": 16150,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "pimienta rosa",
+        "pera",
+        "pomelo"
+      ],
+      "notas_corazon": [
+        "flor de azahar",
+        "jazmín",
+        "rosa"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "almizcle",
+        "pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia floral frutal con salida chispeante, corazón de flores blancas y rosa y fondo dulce.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/J-del-Pozo/Halloween-Kiss-Sexy-25376.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/J_del_Pozo/Halloween_Kiss_Sexy",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1673,
       "sku": "AGOSTO-2026-0673",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 673,
       "presentacion_proveedor": "TESTER HALLOWEEN KISS SEXY EDT 100ML"
     },
@@ -39069,26 +40598,77 @@
       "precio_crc": 28050,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "floral acuática",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "loto",
+        "fresia",
+        "ciclamen",
+        "rosa",
+        "calona"
+      ],
+      "notas_corazon": [
+        "lirio",
+        "peonía",
+        "lirio de los valles"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "almizcle",
+        "ámbar",
+        "maderas exóticas"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "L'Eau d'Issey Eau de Toilette para mujer, composición floral acuática creada alrededor de flores y notas acuáticas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Issey-Miyake/L-Eau-d-Issey-688.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.isseymiyakeparfums.com/en/product/leau-dissey-eau-de-toilette/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1674,
       "sku": "AGOSTO-2026-0674",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 674,
       "presentacion_proveedor": "TESTER ISSEY MIYAKE MUJER EDT 100ML"
     },
@@ -39099,26 +40679,71 @@
       "precio_crc": 22100,
       "tamano_ml": 90,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "naranja sanguina",
+        "cardamomo",
+        "cilantro",
+        "durazno"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "hoja de violeta",
+        "semilla de zanahoria",
+        "cilantro"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "vainilla",
+        "sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia femenina floral-frutal de Lacoste con una salida cítrica y afrutada, un corazón floral y un fondo suave amaderado y almizclado.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Lacoste/Lacoste-Touch-of-Pink-1501.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1675,
       "sku": "AGOSTO-2026-0675",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 675,
       "presentacion_proveedor": "TESTER LACOSTE TOUCH OF PINK 90ML"
     },
@@ -39129,26 +40754,69 @@
       "precio_crc": 30600,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral amaderada almizclada",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mandarina",
+        "manzana verde",
+        "magnolia"
+      ],
+      "notas_corazon": [
+        "grosella blanca",
+        "peonía",
+        "jazmín"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "sándalo",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia floral, amaderada y almizclada de Moschino, con una apertura fresca de mandarina y manzana verde, un corazón floral y un fondo de almizcle y maderas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Moschino/Toy-2-51641.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1676,
       "sku": "AGOSTO-2026-0676",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 676,
       "presentacion_proveedor": "TESTER MOSCHINO TOY 2 EDP 100ML"
     },
@@ -39159,26 +40827,83 @@
       "precio_crc": 29750,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral amaderada especiada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "rosas",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Pera",
+        "Pimienta rosa",
+        "Bergamota italiana",
+        "Nuez moscada"
+      ],
+      "notas_corazon": [
+        "Rosa",
+        "Magnolia",
+        "Clavo",
+        "Lino verde"
+      ],
+      "notas_fondo": [
+        "Cashmeran",
+        "Maderas de ámbar",
+        "Sándalo",
+        "Vetiver",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia floral amaderada especiada de Moschino, centrada en la rosa y la pimienta rosa con un fondo amaderado.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/moschino-toy-boy",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Moschino/Toy-Boy-55858.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.moschino.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1677,
       "sku": "AGOSTO-2026-0677",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 677,
       "presentacion_proveedor": "TESTER MOSCHINO TOY BOY EDP 100ML"
     },
@@ -39189,26 +40914,78 @@
       "precio_crc": 9265,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromática acuática",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Manzana",
+        "Hojas verdes"
+      ],
+      "notas_corazon": [
+        "Mimosa",
+        "Loto"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Cedro",
+        "Musgo de roble",
+        "Ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia aromática acuática de Nautica con manzana y hojas verdes sobre loto, maderas y almizcle.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/nautica-voyage",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Nautica/Nautica-Voyage-913.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.nautica.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1678,
       "sku": "AGOSTO-2026-0678",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 678,
       "presentacion_proveedor": "TESTER NAUTICA VOYAGE EDT 100ML"
     },
@@ -39219,26 +40996,73 @@
       "precio_crc": 37400,
       "tamano_ml": 80,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Limón de Amalfi",
+        "Lima"
+      ],
+      "notas_corazon": [
+        "Manzana Granny Smith",
+        "Praliné",
+        "Peonía",
+        "Datura"
+      ],
+      "notas_fondo": [
+        "Manzano",
+        "Almizcle",
+        "Cedro de Virginia"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una fragancia femenina luminosa y golosa, con cítricos, manzana verde y praliné sobre un fondo suave de cedro y almizcle.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Nina-Ricci/Nina-147.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://asasa.fr/nina-2-7-oz-eau-de-toilette-spray-tester/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1679,
       "sku": "AGOSTO-2026-0679",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 679,
       "presentacion_proveedor": "TESTER NINA RICCI CLASICO EDT 80ML"
     },
@@ -39249,26 +41073,71 @@
       "precio_crc": 16150,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Menta",
+        "Notas verdes",
+        "Bergamota",
+        "Yuzu",
+        "Jengibre"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Romero",
+        "Edelweiss",
+        "Hoja de violeta",
+        "Geranio"
+      ],
+      "notas_fondo": [
+        "Ciprés",
+        "Bálsamo de abeto",
+        "Cedro",
+        "Almizcle",
+        "Ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Un aromático amaderado fresco y masculino, de salida verde y cítrica, corazón herbal y fondo de coníferas, cedro y almizcle.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Victorinox-Swiss-Army/Swiss-Army-6672.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1680,
       "sku": "AGOSTO-2026-0680",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 680,
       "presentacion_proveedor": "TESTER SWISS ARMY CLASICO HOMBRE EDT 100ML"
     },
@@ -39279,26 +41148,67 @@
       "precio_crc": 20400,
       "tamano_ml": 90,
       "concentracion": "Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral afrutada",
+      "genero": "Mujer",
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mandarina",
+        "pimienta rosa"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "peonía",
+        "rosa"
+      ],
+      "notas_fondo": [
+        "almizcle blanco",
+        "cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "El tester se identifica inequívocamente con la fragancia base Tous L'Eau de Parfum; el formato tester no cambia la composición. Es una fragancia femenina floral y luminosa, con salida cítrica especiada, corazón floral y fondo limpio almizclado-amaderado.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Tous/L-Eau-100.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1681,
       "sku": "AGOSTO-2026-0681",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 681,
       "presentacion_proveedor": "TESTER TOUS LEAU DE PARFUM 90ML"
     },
@@ -39309,26 +41219,69 @@
       "precio_crc": 28050,
       "tamano_ml": 90,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral afrutada",
+      "genero": "Mujer",
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "pera",
+        "pomelo",
+        "pimienta rosa"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "rosa",
+        "tuberosa"
+      ],
+      "notas_fondo": [
+        "cedro",
+        "cashmeran",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "LoveMe Silver es una interpretación floral afrutada de Tous, de carácter limpio y luminoso, con frutas y cítricos al inicio, flores blancas en el corazón y una base amaderada almizclada.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Tous/LoveMe-Silver-75928.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1682,
       "sku": "AGOSTO-2026-0682",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 682,
       "presentacion_proveedor": "TESTER TOUS LOVE ME SILVER 90ML"
     },
@@ -39339,26 +41292,74 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral amaderada almizclada",
+      "genero": "Mujer",
+      "ocasiones": [
+        "noche",
+        "otoño",
+        "invierno",
+        "ocasiones especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado suave",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "grosella negra",
+        "pimienta rosa",
+        "limón"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "rosa",
+        "flor de azahar"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "cedro",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Touch Sensual es una fragancia femenina floral amaderada de perfil sensual, con una salida afrutada y especiada, un corazón floral y un fondo cálido con vainilla, maderas y almizcle.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Tous/Touch-The-Sensuality-of-Tous-3300.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1683,
       "sku": "AGOSTO-2026-0683",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 683,
       "presentacion_proveedor": "TESTER TOUS TOUCH SENSUAL 100ML"
     },
@@ -39369,26 +41370,86 @@
       "precio_crc": 38250,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano",
+        "oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "limón",
+        "mandarina italiana",
+        "pimienta rosa"
+      ],
+      "notas_corazon": [
+        "guayaba",
+        "fresia",
+        "grosella negra",
+        "jazmín"
+      ],
+      "notas_fondo": [
+        "Clearwood",
+        "almizcle",
+        "maderas",
+        "benjuí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Dylan Turquoise Eau de Toilette es una fragancia femenina fresca, cítrica y floral-frutal. El tester se trata como la misma fragancia base de 100 ml en concentración EDT; el formato tester no cambia la composición declarada. No se asignan métricas de rendimiento sin una fuente verificable consultada.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.versace.com/us/en/women/fragrances/fragrances/dylan-turquoise/dylan-turquoise-eau-de-toilette-100-ml/R720010-R100MLS_RNUL.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Versace/Dylan-Turquoise-55899.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Versace/Dylan_Turquoise",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1684,
       "sku": "AGOSTO-2026-0684",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 684,
       "presentacion_proveedor": "TESTER VERSACE DYLAN TURQUOISE EDT 100ML"
     },
@@ -39399,26 +41460,91 @@
       "precio_crc": 37400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada especiada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "noche",
+        "otoño",
+        "invierno",
+        "citas",
+        "ocasiones especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mandarina italiana",
+        "limón italiano",
+        "naranja amarga (chinotto)",
+        "pimienta negra",
+        "romero"
+      ],
+      "notas_corazon": [
+        "geranio",
+        "rosa",
+        "pimienta",
+        "madera de pimienta"
+      ],
+      "notas_fondo": [
+        "haba tonka",
+        "vainilla",
+        "sándalo",
+        "cedro de Texas",
+        "pachulí",
+        "musgo de roble"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Eros Flame Eau de Parfum es una fragancia masculina cítrica, especiada y amaderada, con salida de cítricos y pimienta, corazón floral-aromático y un fondo dulce de vainilla y haba tonka sobre maderas. La presentación solicitada es EDP de 100 ml.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.versace.com/us/en/men/fragrances/fragrances/eros-flame/eros-flame-eau-de-parfum-100-ml/R740010-R100MLS_RNUL.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Versace/Eros-Flame-52180.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Versace/Eros_Flame",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1685,
       "sku": "AGOSTO-2026-0685",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 685,
       "presentacion_proveedor": "TESTER VERSACE EROS FLAME EDP 100ML"
     },
@@ -40387,26 +42513,75 @@
       "precio_crc": 85850,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "uso diario",
+        "otoño",
+        "invierno",
+        "noche"
+      ],
+      "acordes": [
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "tabaco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "manzana roja",
+        "bergamota",
+        "cardamomo"
+      ],
+      "notas_corazon": [
+        "geranio",
+        "salvia esclarea",
+        "lavanda"
+      ],
+      "notas_fondo": [
+        "hoja de tabaco",
+        "vetiver",
+        "pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia masculina de perfil frutal-aromático y amaderado. La manzana roja y los cítricos abren la composición; el corazón combina geranio, salvia y lavanda, sobre un fondo de tabaco, vetiver y pachulí. La concentración del artículo de 100 ml no está especificada de forma inequívoca en la referencia recibida; por ello no se asume que sea EDT, aunque Coral Fantasy se comercializa habitualmente como Eau de Toilette.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Valentino/Valentino-Uomo-Born-in-Roma-Coral-Fantasy-72138.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Valentino/Uomo_Born_in_Roma_Coral_Fantasy",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1703,
       "sku": "AGOSTO-2026-0703",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 703,
       "presentacion_proveedor": "VALENTINO UOMO BORN IN ROMA CORAL FANTASY 100ML"
     },
@@ -40453,26 +42628,67 @@
       "precio_crc": 101150,
       "tamano_ml": 100,
       "concentracion": "Parfum",
-      "familia": null,
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
+      "ocasiones": [
+        "noche",
+        "otoño",
+        "invierno",
+        "ocasiones especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "jengibre",
+        "bergamota",
+        "lavanda"
+      ],
       "notas_corazon": [],
       "notas_fondo": [],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Versión Extradose en concentración Parfum de la línea Uomo Born In Roma. La ficha identifica inequívocamente la concentración y el formato de 100 ml. Las notas de salida publicadas para esta edición incluyen jengibre, bergamota y lavanda; no se completan las notas de corazón y fondo sin una fuente primaria o ficha reconocida accesible que las confirme de manera consistente.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Valentino/Uomo-Born-In-Roma-Extradose-Parfum-89576.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Valentino/Uomo_Born_in_Roma_Extradose_Parfum",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1705,
       "sku": "AGOSTO-2026-0705",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 705,
       "presentacion_proveedor": "VALENTINO UOMO BORN IN ROMA EXTRADOSE PARFUM 100ML"
     },
@@ -40532,13 +42748,19 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.valentino-beauty.us/fragrance/mens-fragrance/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1707,
       "sku": "AGOSTO-2026-0707",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 707,
       "presentacion_proveedor": "VALENTINO UOMO BORN IN ROMA MELANCHOLIA EDT 1OOML"
     },
@@ -40631,13 +42853,19 @@
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.versace.com/us/en/women/beauty/fragrances/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1709,
       "sku": "AGOSTO-2026-0709",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 709,
       "presentacion_proveedor": "VERSACE CRYSTAL EMERALD EDP 90ML"
     },
@@ -41330,26 +43558,80 @@
       "precio_crc": 73100,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "floral ambarada",
+      "genero": "Mujer",
+      "ocasiones": [
+        "diario",
+        "noche",
+        "ocasiones especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "balsámico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "té",
+        "bergamota",
+        "osmanto"
+      ],
+      "notas_corazon": [
+        "orquídea",
+        "jazmín",
+        "rosa",
+        "fresia"
+      ],
+      "notas_fondo": [
+        "patchouli",
+        "vainilla",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Eau de Parfum floral de Flowerbomb, construido alrededor de un corazón floral y un fondo de patchouli y vainilla.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.viktor-rolf.com/fragrance/flowerbomb/flowerbomb-eau-de-parfum",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Viktor-Rolf/Flowerbomb-1460.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Viktor_Rolf/Flowerbomb_Eau_de_Parfum",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1723,
       "sku": "AGOSTO-2026-0723",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 723,
       "presentacion_proveedor": "VIKTOR & ROLF FLOWERBOMB EDP 100ML"
     },
@@ -41360,26 +43642,80 @@
       "precio_crc": 61200,
       "tamano_ml": 90,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "amaderada especiada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "diario",
+        "noche",
+        "otoño-invierno"
+      ],
+      "acordes": [
+        {
+          "nombre": "especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "tabaco",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "pomelo",
+        "bergamota",
+        "pimienta rosa",
+        "elemi"
+      ],
+      "notas_corazon": [
+        "canela",
+        "azafrán",
+        "pimentón"
+      ],
+      "notas_fondo": [
+        "tabaco",
+        "cuero",
+        "vetiver"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Eau de Toilette especiado-amaderado de Viktor & Rolf, con salida cítrica especiada, corazón de canela y azafrán, y fondo de tabaco y cuero.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.viktor-rolf.com/fragrance/spicebomb/spicebomb-eau-de-toilette",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Viktor-Rolf/Spicebomb-117.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Viktor_Rolf/Spicebomb_Eau_de_Toilette",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1724,
       "sku": "AGOSTO-2026-0724",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 724,
       "presentacion_proveedor": "VIKTOR & ROLF SPICEBOMB EDT 90ML"
     },
@@ -41702,26 +44038,66 @@
       "precio_crc": 18700,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Maracuyá",
+        "Albaricoque blanco"
+      ],
+      "notas_corazon": [
+        "Acorde frutal"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Sándalo",
+        "Vainilla de Tahití"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una composición femenina frutal y dulce, con maracuyá y albaricoque sobre almizcle, sándalo y vainilla de Tahití.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/XOXO/XOXO-2231.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1735,
       "sku": "AGOSTO-2026-0735",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 735,
       "presentacion_proveedor": "XOXO EDP 100ML"
     },
@@ -41732,26 +44108,77 @@
       "precio_crc": 7140,
       "tamano_ml": 10,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal gourmand",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "vainilla",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "heliotropo",
+        "orquídea",
+        "acorde de frutas tropicales"
+      ],
+      "notas_corazon": [
+        "acorde gourmand",
+        "frutas tropicales"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "almizcle",
+        "sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia dulce y cremosa de perfil floral-frutal gourmand, con vainilla, frutas tropicales, almizcle y sándalo. La concentración de esta presentación de 10 ml no está especificada en la información consultada.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Yara-76880.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://lattafa-usa.com/products/yara",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1736,
       "sku": "AGOSTO-2026-0736",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 736,
       "presentacion_proveedor": "YARA ROSADO 10ML"
     },
@@ -41762,26 +44189,80 @@
       "precio_crc": 95200,
       "tamano_ml": 90,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Ámbar vainilla",
+      "genero": "Mujer",
+      "ocasiones": [
+        "noche",
+        "salidas",
+        "ocasiones especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "café",
+          "emoji": ""
+        },
+        {
+          "nombre": "vainilla",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado cálido",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "pera",
+        "pimienta rosa",
+        "azahar"
+      ],
+      "notas_corazon": [
+        "café",
+        "jazmín",
+        "almendra amarga",
+        "regaliz"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "pachulí",
+        "cedro",
+        "madera de cachemira"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Eau de Parfum floral gourmand de YSL, caracterizado por el acorde de café, la vainilla y un corazón de flores blancas sobre una base amaderada.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.yslbeautyus.com/fragrance/womens-fragrance/black-opium/black-opium-eau-de-parfum/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/Black-Opium-Eau-de-Parfum-25371.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1737,
       "sku": "AGOSTO-2026-0737",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 737,
       "presentacion_proveedor": "YSL BLACK OPIUM EDP 90ML"
     },
@@ -41792,26 +44273,79 @@
       "precio_crc": 96900,
       "tamano_ml": 90,
       "concentracion": "Le Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Ámbar floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "noche",
+        "ocasiones especiales",
+        "otoño/invierno"
+      ],
+      "acordes": [
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado cálido",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "jengibre",
+        "azafrán",
+        "mandarina",
+        "bergamota"
+      ],
+      "notas_corazon": [
+        "lavanda",
+        "flor de azahar"
+      ],
+      "notas_fondo": [
+        "vainilla",
+        "miel",
+        "haba tonka",
+        "vetiver"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Interpretación más intensa y cálida de Libre, con lavanda y flor de azahar enlazadas con especias, vainilla, miel, haba tonka y vetiver.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.yslbeautyus.com/fragrance/womens-fragrance/libre/libre-le-parfum/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/Libre-Le-Parfum-75350.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1738,
       "sku": "AGOSTO-2026-0738",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 738,
       "presentacion_proveedor": "YSL LIBRE LE PARFUM 90ML"
     },
@@ -41822,26 +44356,61 @@
       "precio_crc": 82450,
       "tamano_ml": 90,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Citas",
+        "Noche",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Frutos rojos"
+      ],
+      "notas_corazon": [
+        "Datura",
+        "Peonía blanca"
+      ],
+      "notas_fondo": [
+        "Pachulí blanco",
+        "Almizcle blanco"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una fragancia floral frutal romántica que combina frutos rojos y datura con un fondo sensual de pachulí y almizcle blanco.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.yslbeautyus.com/fragrance/womens-fragrances/mon-paris/mon-paris-eau-de-parfum/4150YSL.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1739,
       "sku": "AGOSTO-2026-0739",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 739,
       "presentacion_proveedor": "YSL MON PARIS EDP 90ML"
     },
@@ -41852,26 +44421,55 @@
       "precio_crc": 86700,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada aromática",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Geranio"
+      ],
+      "notas_corazon": [
+        "Salvia"
+      ],
+      "notas_fondo": [
+        "Maderas sensuales"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una composición masculina fresca y amaderada donde el geranio y la salvia se apoyan sobre maderas sensuales.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.yslbeautyus.com/y-collection.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1740,
       "sku": "AGOSTO-2026-0740",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 740,
       "presentacion_proveedor": "YSL Y EDP 100ML"
     },
@@ -41882,26 +44480,57 @@
       "precio_crc": 91800,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada especiada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bayas de enebro azul"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Salvia",
+        "Geranio"
+      ],
+      "notas_fondo": [
+        "Pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una interpretación intensa, limpia y especiada de Y, con enebro azul, lavanda aromática y un fondo profundo de pachulí.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.yslbeautyus.com/fragrance/mens-fragrances/y/y-eau-de-parfum-intense/WW-51037YSL.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1741,
       "sku": "AGOSTO-2026-0741",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 741,
       "presentacion_proveedor": "YSL Y EDP INTENSE 100ML"
     },
@@ -41912,26 +44541,54 @@
       "precio_crc": 74800,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada aromática",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Salvia"
+      ],
+      "notas_fondo": [
+        "Madera de cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una fragancia masculina fresca y limpia que enlaza bergamota, salvia aromática y madera de cedro.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.yslbeautyus.com/fragrance/scent-families/fresh/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1742,
       "sku": "AGOSTO-2026-0742",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 742,
       "presentacion_proveedor": "YSL Y EDT 100ML"
     }

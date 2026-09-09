@@ -75,7 +75,6 @@ export default function PerfumeDetail({
   const onCloseRef = useRef(onClose);
   const backdropPressRef = useRef(false);
   const [imageFailed, setImageFailed] = useState(false);
-  const rating = clampRating(perfume.valoracion);
   const availability =
     perfume.disponibilidad ??
     (perfume.disponible ? "disponible" : "bajo_pedido");
@@ -362,46 +361,6 @@ export default function PerfumeDetail({
             </section>
           )}
 
-          {!!perfume.fuentes?.length && (
-            <section className="pd-section" aria-label="Fuentes de la ficha">
-              <h3>Sobre esta fragancia</h3>
-              <p className="pd-small-print">
-                Información contrastada con las fuentes indicadas. La
-                disponibilidad se confirma al consultar.
-              </p>
-              {perfume.fuentes.map((source) => (
-                <p key={source.url} className="pd-small-print">
-                  <a
-                    href={source.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    {source.titulo} <Icon name="arrow-up-right" />
-                  </a>
-                </p>
-              ))}
-            </section>
-          )}
-          {rating > 0 && (
-            <div className="pd-editorial-rating">
-              <strong>
-                {new Intl.NumberFormat("es-CR", {
-                  maximumFractionDigits: 1,
-                }).format(rating)}
-                <span> / 5</span>
-              </strong>
-              <div>
-                <p>
-                  {isDemo ? "Valoración de ejemplo" : "Valoración editorial"}
-                </p>
-                <span>
-                  {isDemo
-                    ? "Dato ilustrativo de esta colección de ejemplo."
-                    : "Referencia de la ficha, no reseñas verificadas."}
-                </span>
-              </div>
-            </div>
-          )}
         </div>
       </div>
 

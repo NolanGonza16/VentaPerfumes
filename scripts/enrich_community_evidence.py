@@ -11,7 +11,6 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 REVIEW_DATE = "2026-09-09"
 REJECTED_BATCH_REFS = {
-    634,  # Research matched Moustache EDP, but the PDF row is EDT.
     691, 692, 693,  # Ambiguous Tous labels cannot be tied safely to one edition.
 }
 
@@ -709,6 +708,12 @@ def _merge_research_batches(records: dict[int, dict]) -> tuple[int, int]:
             if not evidence.get("fuentes"):
                 continue
 
+            if ref == 634 and any("interparfums.fr" in url for url in evidence["fuentes"]):
+                record["fuentes"] = [
+                    source for source in record.get("fuentes", [])
+                    if source.get("titulo") != "Investigación olfativa"
+                ]
+
             # Names, brands, concentrations and sizes always remain those from the PDF.
             field_map = {
                 "familia": "familia",
@@ -771,6 +776,42 @@ def _merge_research_batches(records: dict[int, dict]) -> tuple[int, int]:
     return merged, complete
 
 
+def _inherit_exact_testers(records: dict[int, dict]) -> int:
+    """Reuse a sourced fragrance profile for an exact tester of the same edition."""
+    inherited = 0
+    all_records = list(records.values())
+    for target in all_records:
+        if target.get("tipo_producto") != "Tester" or target.get("ficha_estado") != "pendiente":
+            continue
+        base_name = target["nombre"].removeprefix("Tester · ")
+        source = next(
+            (
+                candidate
+                for candidate in all_records
+                if candidate is not target
+                and candidate.get("nombre") == base_name
+                and candidate.get("marca") == target.get("marca")
+                and candidate.get("concentracion") == target.get("concentracion")
+                and candidate.get("fuentes")
+                and all(candidate.get(field) for field in ("notas_salida", "notas_corazon", "notas_fondo"))
+            ),
+            None,
+        )
+        if not source:
+            continue
+        for field in (
+            "familia", "genero", "ocasiones", "acordes", "notas_salida", "notas_corazon",
+            "notas_fondo", "duracion", "proyeccion", "estela", "valoracion", "descripcion",
+        ):
+            target[field] = source[field]
+        target["fuentes"] = source["fuentes"]
+        target["ficha_estado"] = "verificada" if all(
+            target.get(field) is not None for field in ("duracion", "proyeccion", "estela")
+        ) else "parcial"
+        inherited += 1
+    return inherited
+
+
 def run() -> None:
     path = ROOT / "catalog" / "august-products.json"
     catalog = json.loads(path.read_text(encoding="utf-8"))
@@ -794,6 +835,8 @@ def run() -> None:
         ]
         record["ficha_estado"] = evidence.get("estado", "verificada")
 
+    inherited_testers = _inherit_exact_testers(records)
+
     path.write_text(
         json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
@@ -801,6 +844,7 @@ def run() -> None:
         "updated": len(REVIEWED),
         "batch_merged": batch_merged,
         "batch_complete": batch_complete,
+        "inherited_testers": inherited_testers,
         "derived_profiles": derived,
         "refs": sorted(REVIEWED),
     }))

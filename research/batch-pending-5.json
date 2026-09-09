@@ -1,0 +1,318 @@
+[
+  {
+    "ref": 671,
+    "nombre": "Tester · My Way Intense",
+    "marca": "Giorgio Armani",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 90,
+    "tipo_producto": "Tester",
+    "familia": "Floral ambarada",
+    "genero": "Femenino",
+    "ocasiones": [
+      "Noche",
+      "Otoño",
+      "Invierno",
+      "Ocasiones especiales"
+    ],
+    "acordes": [
+      "floral blanco",
+      "tuberosa",
+      "cítrico",
+      "amaderado",
+      "avainillado",
+      "ambarado"
+    ],
+    "notas_salida": [
+      "flor de azahar del naranjo",
+      "naranja amarga"
+    ],
+    "notas_corazon": [
+      "tuberosa",
+      "jazmín de la India"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "vainilla"
+    ],
+    "duracion": "Alta",
+    "proyeccion": "Alta",
+    "estela": "Moderada a fuerte",
+    "valoracion": null,
+    "descripcion": "Una interpretación intensa y envolvente de My Way, construida alrededor de flores blancas, con tuberosa y jazmín en el corazón y un fondo cálido de sándalo y vainilla.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Giorgio-Armani/My-Way-Intense-68337.html",
+      "https://www.parfumo.com/Perfumes/Giorgio_Armani/My_Way_Intense",
+      "https://www.giorgioarmanibeauty-usa.com/fragrances/womens-fragrances/my-way/my-way-intense-eau-de-parfum/"
+    ],
+    "estado": "Identidad y concentración inequívocas; se usa la ficha de la fragancia base para el tester. Valoración no verificada."
+  },
+  {
+    "ref": 672,
+    "nombre": "Tester · Kiss",
+    "marca": "Halloween",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": "Floral frutal",
+    "genero": "Femenino",
+    "ocasiones": [
+      "Día",
+      "Primavera",
+      "Verano",
+      "Uso casual"
+    ],
+    "acordes": [
+      "floral",
+      "frutal",
+      "cítrico",
+      "dulce",
+      "avainillado",
+      "almizclado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "manzana roja",
+      "pomelo",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "peonía",
+      "flor de azahar del naranjo",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral frutal femenina de Halloween Kiss, con una salida fresca y afrutada, un corazón de peonía y flores blancas y un fondo suave de vainilla, almizcle y sándalo.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/J.Del-Pozo/Halloween-Kiss-1684.html",
+      "https://www.parfumo.com/Perfumes/J_del_Pozo/Halloween_Kiss"
+    ],
+    "estado": "Identidad y concentración inequívocas; se usa la ficha de la fragancia base para el tester. Rendimiento y valoración no verificados."
+  },
+  {
+    "ref": 673,
+    "nombre": "Tester · Kiss Sexy",
+    "marca": "Halloween",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "No se pudo verificar una fuente durante esta ejecución; se conservan únicamente los datos originales y no se completan atributos ambiguos."
+  },
+  {
+    "ref": 674,
+    "nombre": "Tester · Mujer",
+    "marca": "Issey Miyake",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "La indicación original apunta a la fragancia femenina EDT, pero no se pudo verificar una página durante esta ejecución; no se completan atributos para evitar mezclar ediciones."
+  },
+  {
+    "ref": 675,
+    "nombre": "Tester · Touch Of Pink",
+    "marca": "Lacoste",
+    "concentracion": null,
+    "tamano_ml": 90,
+    "tipo_producto": "Tester",
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "frutal",
+      "floral",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "naranja sanguina",
+      "cardamomo",
+      "cilantro",
+      "durazno"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "hoja de violeta",
+      "semilla de zanahoria",
+      "cilantro"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "vainilla",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia femenina floral-frutal de Lacoste con una salida cítrica y afrutada, un corazón floral y un fondo suave amaderado y almizclado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Lacoste/Lacoste-Touch-of-Pink-1501.html"
+    ],
+    "estado": "Identidad inequívoca; la concentración original es null y no se fuerza una edición distinta. Rendimiento y valoración no verificados."
+  },
+  {
+    "ref": 676,
+    "nombre": "Tester · Toy 2",
+    "marca": "Moschino",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": "Floral amaderada almizclada",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "almizclado",
+      "amaderado",
+      "frutal",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "manzana verde",
+      "magnolia"
+    ],
+    "notas_corazon": [
+      "grosella blanca",
+      "peonía",
+      "jazmín"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "sándalo",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral, amaderada y almizclada de Moschino, con una apertura fresca de mandarina y manzana verde, un corazón floral y un fondo de almizcle y maderas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Moschino/Toy-2-51641.html"
+    ],
+    "estado": "Identidad y concentración inequívocas; se usa la ficha de la fragancia base para el tester. Rendimiento y valoración no verificados."
+  },
+  {
+    "ref": 677,
+    "nombre": "Tester · Toy Boy",
+    "marca": "Moschino",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "No se pudo verificar una fuente durante esta ejecución; se conservan los datos originales y no se completan atributos."
+  },
+  {
+    "ref": 678,
+    "nombre": "Tester · Voyage",
+    "marca": "Nautica",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "No se pudo verificar una fuente durante esta ejecución; se conservan los datos originales y no se completan atributos."
+  },
+  {
+    "ref": 679,
+    "nombre": "Tester · Clasico",
+    "marca": "Nina Ricci",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 80,
+    "tipo_producto": "Tester",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "No se pudo verificar una fuente durante esta ejecución; se conservan los datos originales y no se completan atributos."
+  },
+  {
+    "ref": 680,
+    "nombre": "Tester · Clasico Hombre",
+    "marca": "Victorinox",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "tipo_producto": "Tester",
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": null,
+    "fuentes": [],
+    "estado": "No se pudo verificar una fuente durante esta ejecución; se conservan los datos originales y no se completan atributos."
+  }
+]
+

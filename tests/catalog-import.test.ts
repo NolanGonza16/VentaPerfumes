@@ -39,6 +39,11 @@ const researchFinal91 = [1, 2].flatMap((part) =>
   ),
 ) as Array<Record<string, unknown>>;
 
+const perfumeDetailSource = readFileSync(
+  new URL("../src/components/organisms/PerfumeDetail.tsx", import.meta.url),
+  "utf8",
+);
+
 test("the public August catalog contains every sellable supplier row", () => {
   assert.equal(catalog.records.length, 731);
   assert.equal(catalog.records.filter((record) => record.activo).length, 731);
@@ -98,7 +103,9 @@ test("verified visual matches can later receive exact fragrance research", () =>
     (record) => record.origen_ref === 634,
   );
   assert.equal(wrongSize?.imagen_url, null);
-  assert.equal(wrongSize?.ficha_estado, "pendiente");
+  assert.equal(wrongSize?.ficha_estado, "parcial");
+  assert.deepEqual(wrongSize?.notas_salida, ["Bergamota", "Limón"]);
+  assert.doesNotMatch(JSON.stringify(wrongSize?.fuentes), /Moustache-Eau-de-Parfum/);
 });
 
 test("the consecutive 100-product research batch preserves every PDF identity", () => {
@@ -188,6 +195,13 @@ test("the final 91 catalog rows preserve every PDF identity", () => {
       String(source.tamano_ml ?? ""),
     );
   }
+});
+
+test("product details keep research sources and editorial ratings internal", () => {
+  assert.doesNotMatch(perfumeDetailSource, /Sobre esta fragancia/);
+  assert.doesNotMatch(perfumeDetailSource, /Información contrastada/);
+  assert.doesNotMatch(perfumeDetailSource, /Valoración editorial/);
+  assert.doesNotMatch(perfumeDetailSource, /Referencia de la ficha/);
 });
 
 test("reviewed Afnan records preserve supplier identity and sourced performance", () => {
