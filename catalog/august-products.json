@@ -177,26 +177,61 @@
       "precio_crc": 18700,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Ámbar amaderada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Azafrán",
+        "Jazmín"
+      ],
+      "notas_corazon": [
+        "Madera de ámbar",
+        "Ámbar gris"
+      ],
+      "notas_fondo": [
+        "Resina de abeto",
+        "Cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una composición ambarada y amaderada de carácter intenso, con azafrán y jazmín sobre resinas y cedro.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/board/viewtopic.php?id=334010&p=11",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1004,
       "sku": "AGOSTO-2026-0004",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 4,
       "presentacion_proveedor": "ACQUA DI PARISIS MAGIC RED EDP 100ML"
     },
@@ -207,26 +242,65 @@
       "precio_crc": 18700,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral dulce",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Citas",
+        "Noche"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Pera",
+        "Grosella negra",
+        "Aldehídos"
+      ],
+      "notas_corazon": [
+        "Iris",
+        "Jazmín",
+        "Flor de azahar"
+      ],
+      "notas_fondo": [
+        "Praliné",
+        "Vainilla",
+        "Pachulí",
+        "Haba tonka"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una fragancia femenina floral y dulce, con frutas luminosas, flores blancas y un fondo cremoso de praliné y vainilla.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://parisis-parfums.com/lb/product/acqua-di-parisis-venizia-women-edp-100ml/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1005,
       "sku": "AGOSTO-2026-0005",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 5,
       "presentacion_proveedor": "ACQUA DI PARISIS VENIZIA EDP 100ML"
     },
@@ -1247,26 +1321,67 @@
       "precio_crc": 25500,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal gourmand",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Casual",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Caramelo",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bayas rojas",
+        "Lirio del valle",
+        "Mandarina verde",
+        "Lavanda"
+      ],
+      "notas_corazon": [
+        "Algodón de azúcar",
+        "Chicle"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Haba tonka",
+        "Caramelo",
+        "Sándalo",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 4.1,
+      "descripcion": "Un gourmand juguetón de algodón de azúcar y chicle, equilibrado con frutas, flores suaves y una base cremosa de vainilla y caramelo.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Amaran/Gelato-Cotton-Candy-Craze-119586.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1021,
       "sku": "AGOSTO-2026-0021",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 21,
       "presentacion_proveedor": "AMARAN GELATO COTTON CANDY CRAZE EDP 100ML"
     },
@@ -1277,26 +1392,62 @@
       "precio_crc": 25500,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Tropical",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cremoso",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Mango",
+        "Leche de coco"
+      ],
+      "notas_corazon": [
+        "Guayaba",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Vainilla",
+        "Almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una fragancia tropical cremosa que combina mango y coco con guayaba, jazmín, vainilla y sándalo.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Amaran/Gelato-Mango-Tango-119580.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1022,
       "sku": "AGOSTO-2026-0022",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 22,
       "presentacion_proveedor": "AMARAN GELATO MANGO TANGO EDP 100ML"
     },
@@ -2793,26 +2944,67 @@
       "precio_crc": 39950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal gourmand",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Mandarina",
+        "Bergamota",
+        "Papaya",
+        "Manzana Granny Smith"
+      ],
+      "notas_corazon": [
+        "Flor de té",
+        "Notas marinas",
+        "Lirio de Madagascar",
+        "Peonía",
+        "Albaricoque"
+      ],
+      "notas_fondo": [
+        "Acordes gourmand",
+        "Sándalo",
+        "Almizcle aterciopelado"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una fragancia luminosa y alegre de frutas crujientes y flores acuáticas, asentada sobre un fondo gourmand, cremoso y almizclado.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.uk/products/bon-bon-eau-de-parfum-100ml",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1046,
       "sku": "AGOSTO-2026-0046",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 46,
       "presentacion_proveedor": "ARMAF BON BON EDP 100ML"
     },
@@ -2823,26 +3015,65 @@
       "precio_crc": 33150,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada gourmand",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Formal",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Gourmand",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Ciruela mirabel",
+        "Notas frutales"
+      ],
+      "notas_corazon": [
+        "Especias",
+        "Castaña",
+        "Acordes gourmand"
+      ],
+      "notas_fondo": [
+        "Notas atalcadas",
+        "Sándalo",
+        "Ámbar",
+        "Notas balsámicas"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una fragancia masculina rica y envolvente, con frutas, especias y castaña sobre sándalo, ámbar y notas balsámicas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/products/checkmate-king-spr",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1047,
       "sku": "AGOSTO-2026-0047",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 47,
       "presentacion_proveedor": "ARMAF CHECK MATE KING EDP 100ML"
     },
@@ -3216,26 +3447,72 @@
       "precio_crc": 36550,
       "tamano_ml": 100,
       "concentracion": "Extrait de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
+      "familia": "Cítrica ambarada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Mandarina",
+        "Piña",
+        "Acorde de cristales azules"
+      ],
+      "notas_corazon": [
+        "Flor de vainilla",
+        "Musgo de roble",
+        "Ciruela"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Pachulí",
+        "Haba tonka",
+        "Acorde atalcado blanco"
+      ],
+      "duracion": 5,
+      "proyeccion": 5,
+      "estela": 5,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una versión intensa y magnética de perfil cítrico ambarado, con piña y bergamota sobre vainilla, musgo, ámbar y tonka.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/products/club-de-nuit-intense-overdose",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Armaf/club-de-nuit-intense-overdose",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1053,
       "sku": "AGOSTO-2026-0053",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 53,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT INTENSE OVERDOSE EXTRAIT DE PARFUM 100ML"
     },
@@ -3559,26 +3836,75 @@
       "precio_crc": 37400,
       "tamano_ml": 55,
       "concentracion": "Extrait de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental amaderada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Piña",
+        "Limón",
+        "Bergamota",
+        "Caramelo",
+        "Pimienta rosa",
+        "Pera",
+        "Pimienta negra"
+      ],
+      "notas_corazon": [
+        "Musgo de roble",
+        "Maderas blancas",
+        "Jazmín",
+        "Lirio del valle",
+        "Anís"
+      ],
+      "notas_fondo": [
+        "Ambroxan",
+        "Almizcle blanco",
+        "Cedro",
+        "Pachulí",
+        "Ámbar",
+        "Cuero",
+        "Vainilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 4.48,
+      "descripcion": "Un extrait frutal, especiado y amaderado, con piña y caramelo sobre musgo, maderas blancas, cuero, ámbar y vainilla.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/armaf/club-de-nuit-precieux-93272.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1059,
       "sku": "AGOSTO-2026-0059",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 59,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT PRECIEUX I EXTRAIT DE PARFUM 55ML"
     },
@@ -3589,26 +3915,68 @@
       "precio_crc": 40800,
       "tamano_ml": 55,
       "concentracion": "Extrait de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal gourmand",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Formal",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Salado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Sal marina",
+        "Bergamota",
+        "Manzana"
+      ],
+      "notas_corazon": [
+        "Ylang-ylang",
+        "Bayas rojas",
+        "Lirio blanco",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Crema batida",
+        "Vainilla",
+        "Almizcle",
+        "Haba tonka",
+        "Pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 4.37,
+      "descripcion": "Un extrait floral gourmand que contrasta sal marina y fruta fresca con flores cremosas, vainilla, crema batida y tonka.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.uk/collections/collections/products/club-de-nuit-precieux-iv-extrait-de-parfum-55ml",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1060,
       "sku": "AGOSTO-2026-0060",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 60,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT PRECIEUX IV EXTRAIT DE PARFUM 55ML"
     },
@@ -7874,26 +8242,69 @@
       "precio_crc": 21250,
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada aromática",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Piña",
+        "Pera",
+        "Melón",
+        "Cassis"
+      ],
+      "notas_corazon": [
+        "Pimienta negra",
+        "Cardamomo",
+        "Nuez moscada",
+        "Ciprés",
+        "Tomillo"
+      ],
+      "notas_fondo": [
+        "Pachulí",
+        "Musgo de roble",
+        "Sándalo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una fragancia masculina fresca y segura, con frutas brillantes, especias aromáticas y un fondo terroso de pachulí, musgo y sándalo.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.bhararabeauty.com/products/bullet-bronze-2-5-edp-sp-m",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1121,
       "sku": "AGOSTO-2026-0121",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 121,
       "presentacion_proveedor": "BHARARA BULLET BRONZE EDP 75ML"
     },
