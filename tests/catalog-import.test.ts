@@ -57,3 +57,17 @@ test("verified manufacturer matches add Spanish notes and never reuse a wrong ed
   assert.equal(ambiguousFakhar?.ficha_estado, "pendiente");
   assert.equal(ambiguousFakhar?.imagen_url, null);
 });
+
+test("verified retailer matches add only an exact-size visual reference", () => {
+  const sauvage = catalog.records.find((record) => record.origen_ref === 221);
+  assert.match(String(sauvage?.imagen_url), /^https:\/\/cdn\.shopify\.com\//);
+  assert.equal(sauvage?.ficha_estado, "parcial");
+  assert.deepEqual(sauvage?.notas_salida, []);
+  assert.match(JSON.stringify(sauvage?.fuentes), /Referencia visual/);
+
+  const wrongSize = catalog.records.find(
+    (record) => record.origen_ref === 634,
+  );
+  assert.equal(wrongSize?.imagen_url, null);
+  assert.equal(wrongSize?.ficha_estado, "pendiente");
+});

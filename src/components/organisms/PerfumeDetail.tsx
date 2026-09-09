@@ -366,8 +366,8 @@ export default function PerfumeDetail({
             <section className="pd-section" aria-label="Fuentes de la ficha">
               <h3>Sobre esta fragancia</h3>
               <p className="pd-small-print">
-                Notas contrastadas con el fabricante. La disponibilidad se
-                confirma al consultar.
+                Información contrastada con las fuentes indicadas. La
+                disponibilidad se confirma al consultar.
               </p>
               {perfume.fuentes.map((source) => (
                 <p key={source.url} className="pd-small-print">

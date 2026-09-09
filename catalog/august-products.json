@@ -1,5 +1,5 @@
 {
-  "status": "manufacturer_enrichment_partial",
+  "status": "visual_enrichment_partial",
   "records": [
     {
       "slug": "abercrombie-fitch-fierce-cologne-100-1",
@@ -477,14 +477,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/TurathiElectric.png?v=1750714838",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/afnan-turathi-electric",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1011,
       "sku": "AGOSTO-2026-0011",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 11,
       "presentacion_proveedor": "AFNAN TURATHI ELECTRIC EDP 90ML"
     },
@@ -537,14 +543,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Al_Haramain_Amber_Musk.png?v=1740235422",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/al-haramain-amber-musk",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1013,
       "sku": "AGOSTO-2026-0013",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 13,
       "presentacion_proveedor": "AL HARAMAIN AMBER MUSK EDP 100ML"
     },
@@ -597,14 +609,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Amber-Oud-Gold-Edition.png?v=1574709551",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/amber-oud-gold-edition",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1015,
       "sku": "AGOSTO-2026-0015",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 15,
       "presentacion_proveedor": "AL HARAMAIN AMBER OUD GOLD EDITION EDP 120ML"
     },
@@ -627,14 +645,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Amber-Oud-Gold-Edition.png?v=1574709551",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/amber-oud-gold-edition",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1016,
       "sku": "AGOSTO-2026-0016",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 16,
       "presentacion_proveedor": "AL HARAMAIN AMBER OUD GOLD EDITION EDP 200ML"
     },
@@ -657,14 +681,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/61H54S7MigL._SL1500.jpg?v=1626102154",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/laventure-femme",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1017,
       "sku": "AGOSTO-2026-0017",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 17,
       "presentacion_proveedor": "AL HARAMAIN L AVENTURE FEMME EDP 100ML"
     },
@@ -687,14 +717,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/AL-HARAMAIN-L_AVENTURE-100ML-EDP-MEN.png?v=1571610018",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/al-haramain-laventure",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1018,
       "sku": "AGOSTO-2026-0018",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 18,
       "presentacion_proveedor": "AL HARAMAIN L AVENTURE HOMBRE EDP 100ML"
     },
@@ -717,14 +753,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Al-Haramain-Musk-Malaki.png?v=1667226653",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/al-haramain-musk-malaki",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1019,
       "sku": "AGOSTO-2026-0019",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 19,
       "presentacion_proveedor": "AL HARAMAIN MUSK MALIKI EDP 100ML"
     },
@@ -747,14 +789,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Royal-Musk.png?v=1721023438",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/royal-musk",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1020,
       "sku": "AGOSTO-2026-0020",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 20,
       "presentacion_proveedor": "AL HARAMAIN ROYAL MUSK EDP 100ML"
     },
@@ -837,14 +885,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Animal-Edt.png?v=1600888762",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/animal-edt",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1023,
       "sku": "AGOSTO-2026-0023",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 23,
       "presentacion_proveedor": "ANIMALE CLASICO HOMBRE EDT 100ML"
     },
@@ -867,14 +921,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Animal.png?v=1600888762",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/animal",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1024,
       "sku": "AGOSTO-2026-0024",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 24,
       "presentacion_proveedor": "ANIMALE CLASICO MUJER EDP 100ML"
     },
@@ -1047,14 +1107,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/AC8411061913024.jpg?v=1571609992",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/power-of-seduction",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1030,
       "sku": "AGOSTO-2026-0030",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 30,
       "presentacion_proveedor": "ANTONIO B POWER OF SEDUCTION EDT 100ML"
     },
@@ -1077,14 +1143,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Ari-Ariana-Grande.png?v=1571609913",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ariana-grande",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1031,
       "sku": "AGOSTO-2026-0031",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 31,
       "presentacion_proveedor": "ARIANA GRANDE ARI EDP 100ML"
     },
@@ -1107,14 +1179,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/ARIANA-GRANDE-CLOUD-INTENSE-100ML-EDP-WOMEN.png?v=1701522571",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ariana-grande-cloud-intense",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1032,
       "sku": "AGOSTO-2026-0032",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 32,
       "presentacion_proveedor": "ARIANA GRANDE CLOUD 2.0 INTENSE EDP 100ML"
     },
@@ -1137,14 +1215,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Ariana-Grande-Cloud.png?v=1571920530",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ariana-grande-cloud",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1033,
       "sku": "AGOSTO-2026-0033",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 33,
       "presentacion_proveedor": "ARIANA GRANDE CLOUD EDP 100ML"
     },
@@ -1167,14 +1251,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/cloud.webp?v=1764517748",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ariana-grande-cloud-pink",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1034,
       "sku": "AGOSTO-2026-0034",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 34,
       "presentacion_proveedor": "ARIANA GRANDE CLOUD PINK EDP 100ML"
     },
@@ -1227,14 +1317,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/ARIANA-GRANDE-MOD-VANILLLA-100ML-EDP-WOMEN.png?v=1701522179",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ariana-grande-mod-vanillla",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1036,
       "sku": "AGOSTO-2026-0036",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 36,
       "presentacion_proveedor": "ARIANA GRANDE MOD VANILLA EDP 100ML"
     },
@@ -1347,14 +1443,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Sweet-like-Candy-Ariana-Grande.png?v=1571609924",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/sweet-like-candy-ariana-grande",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1040,
       "sku": "AGOSTO-2026-0040",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 40,
       "presentacion_proveedor": "ARIANA GRANDE SWEET LIKE CANDY EDP 100ML"
     },
@@ -1377,14 +1479,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Ariana_Grande_Thank_You_Next_2.0_mist.webp?v=1740671210",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ariana-grande-thank-you-next-2-0",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1041,
       "sku": "AGOSTO-2026-0041",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 41,
       "presentacion_proveedor": "ARIANA GRANDE THANK U NEXT 2.0 EDP 100ML"
     },
@@ -2094,14 +2202,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Club-de-Nuit-Oud-Armaf.png?v=1710256935",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/armaf-club-de-nuit-oud",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1058,
       "sku": "AGOSTO-2026-0058",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 58,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT OUD PARFUM 105ML"
     },
@@ -2566,14 +2680,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Armaf-Hunter.png?v=1626101737",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/armaf-hunter-1",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1069,
       "sku": "AGOSTO-2026-0069",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 69,
       "presentacion_proveedor": "ARMAF HUNTER FOR MEN EDT 100ML"
     },
@@ -2786,14 +2906,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/ODYSSEY.jpg?v=1571610003",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/armaf-odyssey-femme",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1074,
       "sku": "AGOSTO-2026-0074",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 74,
       "presentacion_proveedor": "ARMAF ODYSEEY FEMME EDP 80ML"
     },
@@ -4132,14 +4258,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Armaf-Tag-Uomo-Rosso.png?v=1760717397",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/armaf-tag-uomo-rosso",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1106,
       "sku": "AGOSTO-2026-0106",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 106,
       "presentacion_proveedor": "ARMAF TAG UOMO ROSSO EDP 100ML"
     },
@@ -4416,14 +4548,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Chrome.png?v=1571609917",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/chrome",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1113,
       "sku": "AGOSTO-2026-0113",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 113,
       "presentacion_proveedor": "AZZARO CHROME EDT 100ML"
     },
@@ -4506,14 +4644,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Azzaro-Most-Wanted_bfde01d6-23e2-48fb-9ef4-8d718dda8a6a.png?v=1682618808",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/azzaro-most-wanted-parfum",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1116,
       "sku": "AGOSTO-2026-0116",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 116,
       "presentacion_proveedor": "AZZARO THE MOST WANTED PARFUM 100ML"
     },
@@ -4536,14 +4680,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Wanted-Night.png?v=1571609994",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/azzaro-wanted-night",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1117,
       "sku": "AGOSTO-2026-0117",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 117,
       "presentacion_proveedor": "AZZARO WANTED BY NIGHT EDP 100ML"
     },
@@ -4626,14 +4776,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Benetton-Hot-Edt.png?v=1764185402",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/benetton-hot-edt",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1120,
       "sku": "AGOSTO-2026-0120",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 120,
       "presentacion_proveedor": "BENETTON HOT EDT 100ML"
     },
@@ -5166,14 +5322,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/bvlgari-omnia-amethyste-65-ml-for-women-outer-box-damaged-800x800.jpg?v=1571609931",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/bvlgari-omnia-amethyste",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1143,
       "sku": "AGOSTO-2026-0143",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 143,
       "presentacion_proveedor": "BULGARI OMNIA AMETHYSTE EDT 100ML"
     },
@@ -5226,14 +5388,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Burberry-Goddess.png?v=1700581094",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/burberry-goddess",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1145,
       "sku": "AGOSTO-2026-0145",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 145,
       "presentacion_proveedor": "BURBERRY GODDESS EDP 100ML"
     },
@@ -5256,14 +5424,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/BURBERRY-HER-50ML-EDP-WOMEN.png?v=1571610019",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/burberry-her",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1146,
       "sku": "AGOSTO-2026-0146",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 146,
       "presentacion_proveedor": "BURBERRY HER EDP 100ML"
     },
@@ -5286,14 +5460,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/ANAIS-ANAIS.png?v=1571609909",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/anais-anais",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1147,
       "sku": "AGOSTO-2026-0147",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 147,
       "presentacion_proveedor": "CACHAREL ANAIS ANAIS EDT 100ML"
     },
@@ -5556,14 +5736,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/212-vip-rose-elixir.png?v=1731007650",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/212-vip-rose-elixir",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1156,
       "sku": "AGOSTO-2026-0156",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 156,
       "presentacion_proveedor": "CAROLINA HERRERA 212 VIP ROSE ELIXIR EDP 80ML"
     },
@@ -5586,14 +5772,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/CH_BAD_BOY_100ML_EDP_MEN.png?v=1571610019",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ch-bad-boy",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1157,
       "sku": "AGOSTO-2026-0157",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 157,
       "presentacion_proveedor": "CAROLINA HERRERA BAD BOY CLASICO EDT 100ML"
     },
@@ -5616,14 +5808,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Carolina-herrera-bad-boy-cobalt-electrique.png?v=1765230491",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/carolina-herrera-bad-boy-cobalt-electrique",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1158,
       "sku": "AGOSTO-2026-0158",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 158,
       "presentacion_proveedor": "CAROLINA HERRERA BAD BOY COBALT EDP 100ML"
     },
@@ -5646,14 +5844,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Bad-Boy-Extreme.png?v=1699467061",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/bad-boy-extreme",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1159,
       "sku": "AGOSTO-2026-0159",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 159,
       "presentacion_proveedor": "CAROLINA HERRERA BAD BOY EXTREME EDP 100ML"
     },
@@ -5676,14 +5880,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/188465_spo.jpg?v=1571609938",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ch-carolina-herrera-men",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1160,
       "sku": "AGOSTO-2026-0160",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 160,
       "presentacion_proveedor": "CAROLINA HERRERA CH MEN EDT"
     },
@@ -5706,14 +5916,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-Carolina-Herrera.png?v=1571609938",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ch-carolina-herrera",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1161,
       "sku": "AGOSTO-2026-0161",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 161,
       "presentacion_proveedor": "CAROLINA HERRERA CH MUJER EDT 100ML"
     },
@@ -5766,14 +5982,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Ch-Good-Girl-Blush.png?v=1702305335",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ch-good-girl-blush",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1163,
       "sku": "AGOSTO-2026-0163",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 163,
       "presentacion_proveedor": "CAROLINA HERRERA GOOD GIRL BLUSH EDP 80ML"
     },
@@ -5826,14 +6048,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-Good-Girl.png?v=1725026950",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ch-good-girl",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1165,
       "sku": "AGOSTO-2026-0165",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 165,
       "presentacion_proveedor": "CAROLINA HERRERA GOOD GIRL CLASICO EDP 80ML"
     },
@@ -5856,14 +6084,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/CarolinaHerreraGoodGirlJasmineAbsolute.jpg?v=1785158945",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/carolina-herrera-good-girl-jasmine-absolute",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1166,
       "sku": "AGOSTO-2026-0166",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 166,
       "presentacion_proveedor": "CAROLINA HERRERA GOOD GIRL JASMINE ABSOLUTE EDP 80ML"
     },
@@ -5916,14 +6150,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/La-Bomba.png?v=1764179417",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/la-bomba",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1168,
       "sku": "AGOSTO-2026-0168",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 168,
       "presentacion_proveedor": "CAROLINA HERRERA LA BOMBA EDP 80ML"
     },
@@ -6126,14 +6366,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/153911_85d6333d-d466-4a17-b543-1e93d0c2172b_spo.jpg?v=1571609939",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/charlie-gold",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1176,
       "sku": "AGOSTO-2026-0176",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 176,
       "presentacion_proveedor": "CHARLIE GOLD EDT 100ML"
     },
@@ -6156,14 +6402,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/119918_spo.jpg?v=1571609951",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ck-be",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1177,
       "sku": "AGOSTO-2026-0177",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 177,
       "presentacion_proveedor": "CK BE EDT 200ML"
     },
@@ -6186,14 +6438,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/153911_ed3c573e-6ca9-4c7a-8d9b-e8efe697c8dd_spo.jpg?v=1571609940",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ck-contradiction-men",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1178,
       "sku": "AGOSTO-2026-0178",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 178,
       "presentacion_proveedor": "CK CONTRADICTION HOMBRE EDT 100ML"
     },
@@ -6216,14 +6474,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/CKESC100M_spo.jpg?v=1571609951",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ck-escape-men",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1179,
       "sku": "AGOSTO-2026-0179",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 179,
       "presentacion_proveedor": "CK ESCAPE HOMBRE EDT 100ML"
     },
@@ -6246,14 +6510,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/153911_997ddf7b-19b8-4bec-90ce-06c8c3912662_spo.jpg?v=1571609911",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ck-eternity-men",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1180,
       "sku": "AGOSTO-2026-0180",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 180,
       "presentacion_proveedor": "CK ETERNITY CLASICO HOMBRE EDT 100ML"
     },
@@ -6306,14 +6576,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/CK-EUPHORIA.png?v=1740152158",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ck-euphoria-w",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1182,
       "sku": "AGOSTO-2026-0182",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 182,
       "presentacion_proveedor": "CK EUPHORIA MUJER EDP 100ML"
     },
@@ -6486,14 +6762,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Cool-Water-Men.jpg?v=1571609926",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/cool-water-men-1",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1188,
       "sku": "AGOSTO-2026-0188",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 188,
       "presentacion_proveedor": "COOL WATER HOMBRE EDT 125ML"
     },
@@ -6516,14 +6798,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Cool-Water.png?v=1571609926",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/cool-water-women",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1189,
       "sku": "AGOSTO-2026-0189",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 189,
       "presentacion_proveedor": "COOL WATER MUJER EDT 100ML"
     },
@@ -6546,14 +6834,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/CREED-AVENTUS-75ML-AFTER-SHAVE-MEN.png?v=1576499374",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/creed-aventus",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1190,
       "sku": "AGOSTO-2026-0190",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 190,
       "presentacion_proveedor": "CREED AVENTUS HOMBRE EDP 100ML"
     },
@@ -7326,14 +7620,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/CDFAH100M_spo.jpg?v=1571609902",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/dior-fahrenheit",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1219,
       "sku": "AGOSTO-2026-0219",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 219,
       "presentacion_proveedor": "DIOR FAHRENHEIT EDT 100ML"
     },
@@ -7356,14 +7656,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/JADORE.png?v=1571609905",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/jadore",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1220,
       "sku": "AGOSTO-2026-0220",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 220,
       "presentacion_proveedor": "DIOR JADORE EDP 100ML"
     },
@@ -7386,14 +7692,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-sauvage-Edp.png?v=1571609964",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/dior-sauvage",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1221,
       "sku": "AGOSTO-2026-0221",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 221,
       "presentacion_proveedor": "DIOR SAUVAGE EDP 100ML"
     },
@@ -7536,14 +7848,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Devotion_Edp_men.png?v=1742502970",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/devotion-edp",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1226,
       "sku": "AGOSTO-2026-0226",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 226,
       "presentacion_proveedor": "DOLCE & GABBANA DEVOTION HOMBRE EDP 100ML"
     },
@@ -7656,14 +7974,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/dg-king-edp.png?v=1613493387",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/dolce-gabbana-king-edp",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1230,
       "sku": "AGOSTO-2026-0230",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 230,
       "presentacion_proveedor": "DOLCE & GABBANA KING EDP 100ML"
     },
@@ -7686,14 +8010,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/DG-KING-100ML-EDT-MEN.png?v=1571610020",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/dg-king",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1231,
       "sku": "AGOSTO-2026-0231",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 231,
       "presentacion_proveedor": "DOLCE & GABBANA KING EDT 100ML"
     },
@@ -7716,14 +8046,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/8054754405095-1.jpg?v=1748270966",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/k-parfum",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1232,
       "sku": "AGOSTO-2026-0232",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 232,
       "presentacion_proveedor": "DOLCE & GABBANA KING PARFUM 100ML"
     },
@@ -7926,14 +8262,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/117705_spo.jpg?v=1571609930",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/dolce-gabbana",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1239,
       "sku": "AGOSTO-2026-0239",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 239,
       "presentacion_proveedor": "DOLCE & GABBANA POUR FEMME EDT 100ML"
     },
@@ -7986,14 +8328,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Dolce-_-Gabbana-Queen.png?v=1699031065",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/d-g-queen",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1241,
       "sku": "AGOSTO-2026-0241",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 241,
       "presentacion_proveedor": "DOLCE & GABBANA Q EDP 100ML"
     },
@@ -8076,14 +8424,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/DRAK200M.jpg?v=1571609907",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/drakkar-noir",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1244,
       "sku": "AGOSTO-2026-0244",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 244,
       "presentacion_proveedor": "DRAKKAR NOIR EDT 200ML"
     },
@@ -8136,14 +8490,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/nitro.png?v=1721670579",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/nitro-red",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1246,
       "sku": "AGOSTO-2026-0246",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 246,
       "presentacion_proveedor": "DUMONT NITRO RED HOMBRE EDP 100ML"
     },
@@ -8226,14 +8586,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/GREEN-TEA.png?v=1571609915",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/green-tea",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1249,
       "sku": "AGOSTO-2026-0249",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 249,
       "presentacion_proveedor": "ELIZABETH ARDEN GREEN TEA EDP 100ML"
     },
@@ -8256,14 +8622,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Red-Door.png?v=1571609935",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/red-door",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1250,
       "sku": "AGOSTO-2026-0250",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 250,
       "presentacion_proveedor": "ELIZABETH ARDEN RED DOOR EDT 100ML"
     },
@@ -8286,14 +8658,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/WHITE-DIAMONDS.png?v=1571609949",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/white-diamonds",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1251,
       "sku": "AGOSTO-2026-0251",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 251,
       "presentacion_proveedor": "ELIZABETH TAYLOR WHITE DIAMONDS EDT 100ML"
     },
@@ -9726,14 +10104,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Liquid-Brun.png?v=1723542828",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/liquid-brun",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1299,
       "sku": "AGOSTO-2026-0299",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 299,
       "presentacion_proveedor": "FRENCH AVENUE LIQUID BRUN EDP 100ML"
     },
@@ -9906,14 +10290,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Vulcan-sable.png?v=1747252914",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/vulcan-sable",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1305,
       "sku": "AGOSTO-2026-0305",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 305,
       "presentacion_proveedor": "FRENCH AVENUE VULCAN SABLE EDP 100ML"
     },
@@ -9996,14 +10386,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/giorgio-armani-acqua-di-gio-pour-homme-edt-new5.webp?v=1750875574",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/acqua-di-gio",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1308,
       "sku": "AGOSTO-2026-0308",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 308,
       "presentacion_proveedor": "GIORGIO ARMANI ACQUA DI GIO HOMBRE EDT 100ML"
     },
@@ -10086,14 +10482,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/41BdGPuvgQS.jpg?v=1689192587",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/acqua-di-gioia",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1311,
       "sku": "AGOSTO-2026-0311",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 311,
       "presentacion_proveedor": "GIORGIO ARMANI ACQUA DI GIOIA EDP 100ML"
     },
@@ -10266,14 +10668,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Stronger_with_you_amber.png?v=1745255820",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/stronger-with-you-parfum-edition",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1317,
       "sku": "AGOSTO-2026-0317",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 317,
       "presentacion_proveedor": "GIORGIO ARMANI STRONGER WITH YOU PARFUM 100ML"
     },
@@ -10296,14 +10704,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/GiorgioarmanistrongerwithyoutobaccoMen_2024-04-06T19_35_43.345Z.png?v=1712432149",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/giorgio-armani-stronger-with-you-tobacco",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1318,
       "sku": "AGOSTO-2026-0318",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 318,
       "presentacion_proveedor": "GIORGIO ARMANI STRONGER WITH YOU TOBACCO EDP 100ML"
     },
@@ -10386,14 +10800,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/121450_spo.jpg?v=1571609909",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/amarige",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1321,
       "sku": "AGOSTO-2026-0321",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 321,
       "presentacion_proveedor": "GIVENCHY AMARIGE EDT 100ML"
     },
@@ -10446,14 +10866,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/125333_spo.jpg?v=1571609913",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/organza-givenchy",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1323,
       "sku": "AGOSTO-2026-0323",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 323,
       "presentacion_proveedor": "GIVENCHY ORGANZA EDP 100ML"
     },
@@ -10476,14 +10902,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Pi-Givenchy.png?v=1679497567",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/pi-givenchy",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1324,
       "sku": "AGOSTO-2026-0324",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 324,
       "presentacion_proveedor": "GIVENCHY PI EDT 100ML"
     },
@@ -10536,14 +10968,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/VERY-IRRESISTIBLE.png?v=1571609948",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/very-irresistible",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1326,
       "sku": "AGOSTO-2026-0326",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 326,
       "presentacion_proveedor": "GIVENCHY VERY IRRESISTIBLE EDT 75ML"
     },
@@ -11136,14 +11574,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/126607_spo.jpg?v=1571609927",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/guess-man",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1346,
       "sku": "AGOSTO-2026-0346",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 346,
       "presentacion_proveedor": "GUESS CLASICO HOMBRE EDT 150ML"
     },
@@ -11166,14 +11610,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Guess.png?v=1571609925",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/guess",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1347,
       "sku": "AGOSTO-2026-0347",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 347,
       "presentacion_proveedor": "GUESS CLASICO MUJER EDP 75ML"
     },
@@ -11196,14 +11646,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Guess-Girl.png?v=1571609926",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/guess-girl",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1348,
       "sku": "AGOSTO-2026-0348",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 348,
       "presentacion_proveedor": "GUESS GIRL EDT 100ML"
     },
@@ -11616,14 +12072,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/125901_spo.jpg?v=1571609930",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/happy",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1362,
       "sku": "AGOSTO-2026-0362",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 362,
       "presentacion_proveedor": "HAPPY CLINIQUE HOMBRE EDT 100ML"
     },
@@ -11976,14 +12438,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/TESIMINT125M_spo.jpg?v=1571609943",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/intense-leau-dissey-issey-miyake",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1374,
       "sku": "AGOSTO-2026-0374",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 374,
       "presentacion_proveedor": "ISSEY MIYAKE INTENSE EDT 125ML"
     },
@@ -12066,14 +12534,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/ISSEY-MIYAKE-POUR-HOMME.jpg?v=1571609942",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/leau-dissey-issey-miyake",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1377,
       "sku": "AGOSTO-2026-0377",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 377,
       "presentacion_proveedor": "ISSEY MIYAKE POUR HOMME EDT 125ML"
     },
@@ -12096,14 +12570,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/ISSEY-MIYAKE-POUR-HOMME.jpg?v=1571609942",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/leau-dissey-issey-miyake",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1378,
       "sku": "AGOSTO-2026-0378",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 378,
       "presentacion_proveedor": "ISSEY MIYAKE POUR HOMME EDT 200ML"
     },
@@ -12126,14 +12606,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/LIVE.png?v=1571609945",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/live",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1379,
       "sku": "AGOSTO-2026-0379",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 379,
       "presentacion_proveedor": "J LO LIVE EDP 100ML"
     },
@@ -12156,14 +12642,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/MIAMI-GLOW.png?v=1571609902",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/miami-glow",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1380,
       "sku": "AGOSTO-2026-0380",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 380,
       "presentacion_proveedor": "J LO MIAMI GLOW EDT 100ML"
     },
@@ -12306,14 +12798,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Divine_Elixir.jpg?v=1766769234",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/jpg-divine-elixir",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1385,
       "sku": "AGOSTO-2026-0385",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 385,
       "presentacion_proveedor": "JEAN PAUL GAULTIER DIVINE ELIXIR PARFUM 100ML"
     },
@@ -12336,14 +12834,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Jean-Paul-Gaultier-Le-Belle.png?v=1600888973",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/jean-paul-gaultier-le-belle",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1386,
       "sku": "AGOSTO-2026-0386",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 386,
       "presentacion_proveedor": "JEAN PAUL GAULTIER LA BELLE EDP 100ML"
     },
@@ -12426,14 +12930,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/jpglebeaunarcisse.jpg?v=1787148938",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/jean-paul-gaultier-le-beau-narcisse",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1389,
       "sku": "AGOSTO-2026-0389",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 389,
       "presentacion_proveedor": "JEAN PAUL GAULTIER LE BEAU NARCISSE EDP 125ML"
     },
@@ -12606,14 +13116,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Jean-Paul-Gaultier-Scandal-Men.png?v=1661241327",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/jean-paul-gaultier-scandal-men",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1395,
       "sku": "AGOSTO-2026-0395",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 395,
       "presentacion_proveedor": "JEAN PAUL GAULTIER SCANDAL HOMBRE EDT 100ML"
     },
@@ -12696,14 +13212,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/jean_paul_scandal_1024x1024_7f8fdd75-9447-418a-8242-65af1452655a.jpg?v=1571609975",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/jean-paul-gaultier-scandal",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1398,
       "sku": "AGOSTO-2026-0398",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 398,
       "presentacion_proveedor": "JEAN PAUL GAULTIER SCANDAL MUJER EDP 80ML"
     },
@@ -12786,14 +13308,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Game-of-spade-blind-bid.png?v=1741972267",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/blind-bid",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1401,
       "sku": "AGOSTO-2026-0401",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 401,
       "presentacion_proveedor": "JO MILANO GAME OF SPADES BLIND-BID PARFUM 100ML"
     },
@@ -12816,14 +13344,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Game-of-spade-gold.png?v=1741972441",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/gold-1",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1402,
       "sku": "AGOSTO-2026-0402",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 402,
       "presentacion_proveedor": "JO MILANO GAME OF SPADES GOLD PARFUM 90ML"
     },
@@ -12936,14 +13470,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Joop-Femme.png?v=1571609930",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/joop-femme",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1406,
       "sku": "AGOSTO-2026-0406",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 406,
       "presentacion_proveedor": "JOOP FEMME EDT 100ML"
     },
@@ -12966,14 +13506,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Joop-Men.jpg?v=1571609929",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/joop",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1407,
       "sku": "AGOSTO-2026-0407",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 407,
       "presentacion_proveedor": "JOOP HOMME EDT 125ML"
     },
@@ -13026,14 +13572,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/KPMEO100PW_spo.jpg?v=1571609933",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/katy-perry-meow",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1409,
       "sku": "AGOSTO-2026-0409",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 409,
       "presentacion_proveedor": "KATY PERRY MEOW EDP 100ML"
     },
@@ -13056,14 +13608,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Katy-Perry-Purr.png?v=1571609933",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/katy-perry-purr",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1410,
       "sku": "AGOSTO-2026-0410",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 410,
       "presentacion_proveedor": "KATY PERRY PURR EDP 100ML"
     },
@@ -13086,14 +13644,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/KCBLAT100W_spo.jpg?v=1571609934",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/kenneth-cole-black-men",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1411,
       "sku": "AGOSTO-2026-0411",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 411,
       "presentacion_proveedor": "KENNETH COLE BLACK HOMBRE EDT 100ML"
     },
@@ -13176,14 +13740,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Lacoste-Essential.png?v=1664195506",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/lacoste-essential",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1414,
       "sku": "AGOSTO-2026-0414",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 414,
       "presentacion_proveedor": "LACOSTE ESSENTIAL EDT 125ML"
     },
@@ -13416,14 +13986,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Hypnose.png?v=1571609939",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/hypnose",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1422,
       "sku": "AGOSTO-2026-0422",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 422,
       "presentacion_proveedor": "LANCOME HYPNOSE EDP 75ML"
     },
@@ -13476,14 +14052,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/La-Vie-Est-Belle.png?v=1571609937",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/la-vie-est-belle",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1424,
       "sku": "AGOSTO-2026-0424",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 424,
       "presentacion_proveedor": "LANCOME LA VIDA ES BELLA EDP 100ML"
     },
@@ -13536,14 +14118,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Lancome-La-Vie-Est-Belle-Intensement.png?v=1659542266",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/lancome-la-vie-est-belle-intensement",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1426,
       "sku": "AGOSTO-2026-0426",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 426,
       "presentacion_proveedor": "LANCOME LA VIDA ES BELLA INTENSEMENT EDP 100ML"
     },
@@ -13993,14 +14581,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Ana-Abiyedh.png?v=1633448820",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ana-abiyedh",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1438,
       "sku": "AGOSTO-2026-0438",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 438,
       "presentacion_proveedor": "LATTAFA ANA ABIYEDH EDP 60ML"
     },
@@ -14748,14 +15342,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Choco-Overdose-copy-2-scaled.jpg?v=1758571649",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/give-me-gourmand-choco-overdose",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1455,
       "sku": "AGOSTO-2026-0455",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 455,
       "presentacion_proveedor": "LATTAFA GIVE ME GOURMAND CHOCO OVERDOSE EDP 75ML"
     },
@@ -14778,14 +15378,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Cookie-Crave-copy-2-scaled.jpg?v=1758571725",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/give-me-gourmand-cookie-crave",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1456,
       "sku": "AGOSTO-2026-0456",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 456,
       "presentacion_proveedor": "LATTAFA GIVE ME GOURMAND COOKIE CRAVE EDP 75ML"
     },
@@ -14808,14 +15414,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Mallow-Madness-copy-2-scaled.jpg?v=1758571577",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/give-me-gourmand-mallow-madness",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1457,
       "sku": "AGOSTO-2026-0457",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 457,
       "presentacion_proveedor": "LATTAFA GIVE ME GOURMAND MALLOW MADNESS EDP 75ML"
     },
@@ -14838,14 +15450,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Vanilla-Freak-copy-scaled.jpg?v=1758571792",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/give-me-gourmand-vanilla-freak",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1458,
       "sku": "AGOSTO-2026-0458",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 458,
       "presentacion_proveedor": "LATTAFA GIVE ME GOURMAND VANILLA FREAK EDP 75ML"
     },
@@ -14868,14 +15486,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Whipped-Pleasure-copy-2-scaled.jpg?v=1758571853",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/give-me-gourmand-whipped-pleasure",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1459,
       "sku": "AGOSTO-2026-0459",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 459,
       "presentacion_proveedor": "LATTAFA GIVE ME GOURMAND WHIPPED PLEASURE EDP 75ML"
     },
@@ -14948,14 +15572,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Hayaati.png?v=1633448854",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/hayaati",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1461,
       "sku": "AGOSTO-2026-0461",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 461,
       "presentacion_proveedor": "LATTAFA HAYAATI EDP 100ML"
     },
@@ -15909,14 +16539,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Lattafa-Al-Sultan.png?v=1698222243",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/qasaed-al-sultan",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1484,
       "sku": "AGOSTO-2026-0484",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 484,
       "presentacion_proveedor": "LATTAFA QASAED AL SULTAN EDP 100ML"
     },
@@ -16618,14 +17254,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Lolita-Lempicka.png?v=1571609946",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/lolita-lempicka",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1501,
       "sku": "AGOSTO-2026-0501",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 501,
       "presentacion_proveedor": "LOLITA LEMPICKA HOMME EDT 100ML"
     },
@@ -16648,14 +17290,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/regular.png?v=1717186017",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/baroque-rouge-extrait",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1502,
       "sku": "AGOSTO-2026-0502",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 502,
       "presentacion_proveedor": "MAISON ALHAMBRA BAROQUE ROUGE EXTRAIT EDP 100ML"
     },
@@ -16858,14 +17506,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Glacier-bold.png?v=1737482814",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/glacier-bold",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1509,
       "sku": "AGOSTO-2026-0509",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 509,
       "presentacion_proveedor": "MAISON ALHAMBRA GLACIER BOLD EDP 100ML"
     },
@@ -16918,14 +17572,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Jean_Lowe_Azure.png?v=1743026835",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/jean-lowe-azure",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1511,
       "sku": "AGOSTO-2026-0511",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 511,
       "presentacion_proveedor": "MAISON ALHAMBRA JEAN LOWE AZURE EDP 100ML"
     },
@@ -17038,14 +17698,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Maison_Alhambra_No_2.png?v=1740239731",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/maison-alhambra-no-2",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1515,
       "sku": "AGOSTO-2026-0515",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 515,
       "presentacion_proveedor": "MAISON ALHAMBRA NO 2 MEN EDP"
     },
@@ -17218,14 +17884,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/VICTORISO.png?v=1689017770",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/victorioso",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1521,
       "sku": "AGOSTO-2026-0521",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 521,
       "presentacion_proveedor": "MAISON ALHAMBRA VICTORIOSO EDP 100ML"
     },
@@ -17248,14 +17920,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Mancera-Cedrat-Boise-Intense.png?v=1655910422",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/mancera-cedrat-boise-intense",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1522,
       "sku": "AGOSTO-2026-0522",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 522,
       "presentacion_proveedor": "MANCERA CEDRAT BOISE INTENSE EDP 120ML"
     },
@@ -17278,14 +17956,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/MANCERA-RED-TOBACCO.jpg?v=1571609968",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/mancera-red-tobacco",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1523,
       "sku": "AGOSTO-2026-0523",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 523,
       "presentacion_proveedor": "MANCERA RED TOBACCO EDP 120ML"
     },
@@ -17308,14 +17992,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Daisy-Dream-Marc-Jacobs.png?v=1571609934",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/daisy-dream-marc-jacobs",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1524,
       "sku": "AGOSTO-2026-0524",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 524,
       "presentacion_proveedor": "MARC JACOBS DAISY DREAM EDT 100ML"
     },
@@ -17338,14 +18028,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Daisy-Eau-So-Fresh.png?v=1571609934",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/daisy-eau-so-fresh",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1525,
       "sku": "AGOSTO-2026-0525",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 525,
       "presentacion_proveedor": "MARC JACOBS DAISY EAU SO FRESH EDT 125ML"
     },
@@ -17368,14 +18064,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/155423_spo.jpg?v=1571609934",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/daisy-marc-jacobs",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1526,
       "sku": "AGOSTO-2026-0526",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 526,
       "presentacion_proveedor": "MARC JACOBS DAISY EDT 100ML"
     },
@@ -17458,14 +18160,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Marc-Jacobs-Wild.png?v=1719329146",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/marc-jacobs-wild",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1529,
       "sku": "AGOSTO-2026-0529",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 529,
       "presentacion_proveedor": "MARC JACOBS DAISY WILD EDP 100ML"
     },
@@ -17488,14 +18196,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Perfect_Elixir.webp?v=1740163337",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/perfect-elixir",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1530,
       "sku": "AGOSTO-2026-0530",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 530,
       "presentacion_proveedor": "MARC JACOBS PERFECT ELIXIR EDP 100ML"
     },
@@ -17518,14 +18232,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Marc-Jacobs-Perfect-Intense.png?v=1681396865",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/marc-jacobs-perfect-intense",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1531,
       "sku": "AGOSTO-2026-0531",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 531,
       "presentacion_proveedor": "MARC JACOBS PERFECT INTENSE EDP 100ML"
     },
@@ -18058,14 +18778,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Mont-Blanc-Explorer.png?v=1571609999",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/mont-blanc-explorer",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1549,
       "sku": "AGOSTO-2026-0549",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 549,
       "presentacion_proveedor": "MONT BLANC EXPLORER EDP 100ML"
     },
@@ -18088,14 +18814,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/prd_685897-Montblanc-Legend-Deodorant-Stick-75-g-for-Men_o.jpg?v=1571609903",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/mont-blanc-legand",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1550,
       "sku": "AGOSTO-2026-0550",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 550,
       "presentacion_proveedor": "MONT BLANC LEGEND EDT 100ML"
     },
@@ -18118,14 +18850,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/mont-blanc-legend-spirit-deodorant-stick-men-75-g-1.jpg?v=1571609903",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/mont-blanc-legend-spirit",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1551,
       "sku": "AGOSTO-2026-0551",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 551,
       "presentacion_proveedor": "MONT BLANC LEGEND SPIRIT EDT 100ML"
     },
@@ -18148,14 +18886,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Mont-Blanc-Starwalker.jpg?v=1571609903",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/mont-blanc-starwalker",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1552,
       "sku": "AGOSTO-2026-0552",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 552,
       "presentacion_proveedor": "MONT BLANC STARWALKER EDT 75ML"
     },
@@ -18178,14 +18922,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/MOSCHINO-FUNNY.png?v=1571609905",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/moschino-funny",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1553,
       "sku": "AGOSTO-2026-0553",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 553,
       "presentacion_proveedor": "MOSCHINO FUNNY EDT 100ML"
     },
@@ -18268,14 +19018,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Moschino-Toy-2.png?v=1600889049",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/moschino-toy-2",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1556,
       "sku": "AGOSTO-2026-0556",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 556,
       "presentacion_proveedor": "MOSCHINO TOY 2 EDP 100ML"
     },
@@ -18388,14 +19144,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Moschino_Toy_Boy_2_467acfe0-49a9-4562-8a9e-baaffac70013.jpg?v=1778594918",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/moschino-toy-boy-2",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1560,
       "sku": "AGOSTO-2026-0560",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 560,
       "presentacion_proveedor": "MOSCHINO TOY BOY 2 EDP 100ML"
     },
@@ -18418,14 +19180,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Moschino-Toy-Boy.png?v=1600889050",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/moschino-toy-boy",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1561,
       "sku": "AGOSTO-2026-0561",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 561,
       "presentacion_proveedor": "MOSCHINO TOY BOY EDP 100ML"
     },
@@ -18478,14 +19246,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Nautica-Blue-Sail.jpg?v=1644985803",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/nautica-blue-sail",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1563,
       "sku": "AGOSTO-2026-0563",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 563,
       "presentacion_proveedor": "NAUTICA BLUE SAIL EDT 100ML"
     },
@@ -18538,14 +19312,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/NAUVOY200M.png?v=1571609907",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/nautica-voyage",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1565,
       "sku": "AGOSTO-2026-0565",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 565,
       "presentacion_proveedor": "NAUTICA VOYAGE EDT 100ML"
     },
@@ -18568,14 +19348,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Nautica-heritage_a321bb70-02fd-4b0e-b49c-e29bdb57de1d.png?v=1571609995",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/nautica-heritage",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1566,
       "sku": "AGOSTO-2026-0566",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 566,
       "presentacion_proveedor": "NAUTICA VOYAGE HERITAGE EDT"
     },
@@ -18598,14 +19384,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/NAUVOYSPO100M.jpg?v=1571609907",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/nautica-voyage-sport",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1567,
       "sku": "AGOSTO-2026-0567",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 567,
       "presentacion_proveedor": "NAUTICA VOYAGE SPORT EDT 100ML"
     },
@@ -18718,14 +19510,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Paco-Rabanne-Fame_8ae6b111-e75f-4b5b-bd77-d1f578fbfea8.png?v=1665127361",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/paco-rabanne-fame",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1571,
       "sku": "AGOSTO-2026-0571",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 571,
       "presentacion_proveedor": "PACO RABANNE FAME EDP 80ML"
     },
@@ -18748,14 +19546,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Image-coming-soon2_9850c4ad-cb39-4561-bc1f-46d4611e6d0a.png?v=1730459397",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/invictus-aqua",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1572,
       "sku": "AGOSTO-2026-0572",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 572,
       "presentacion_proveedor": "PACO RABANNE INVICTUS AQUA EDT 100ML"
     },
@@ -18778,14 +19582,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/151768_495cd908-2984-490a-a447-f666ef3e748c_spo.jpg?v=1571609942",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/invictus",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1573,
       "sku": "AGOSTO-2026-0573",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 573,
       "presentacion_proveedor": "PACO RABANNE INVICTUS EDT 100ML"
     },
@@ -18838,14 +19648,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Invictus_Parfum.png?v=1740173261",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/invictus-parfum",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1575,
       "sku": "AGOSTO-2026-0575",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 575,
       "presentacion_proveedor": "PACO RABANNE INVICTUS PARFUM 100ML"
     },
@@ -18868,14 +19684,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Paco-Rabanne-Invictus-Victory-Extreme.png?v=1774555250",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/invictus-victory",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1576,
       "sku": "AGOSTO-2026-0576",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 576,
       "presentacion_proveedor": "PACO RABANNE INVICTUS VICTORY EDP 100ML"
     },
@@ -19108,14 +19930,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Paco-Rabanne-Phantom.png?v=1638903933",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/paco-rabanne-phantom",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1584,
       "sku": "AGOSTO-2026-0584",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 584,
       "presentacion_proveedor": "PACO RABANNE PHANTOM EDT 100ML"
     },
@@ -19138,14 +19966,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Phantom-intense.png?v=1741972214",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/phantom-intense",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1585,
       "sku": "AGOSTO-2026-0585",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 585,
       "presentacion_proveedor": "PACO RABANNE PHANTOM INTENSE EDP 100ML"
     },
@@ -19168,14 +20002,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/4b233de5-124d-412b-95d4-a594fbe9a20c.jpg?v=1574786694",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/paco-rabanne",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1586,
       "sku": "AGOSTO-2026-0586",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 586,
       "presentacion_proveedor": "PACO RABANNE POUR HOMME EDT 100ML"
     },
@@ -19198,14 +20038,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/301134.jpg?v=1571609993",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/paco-rabanne-pure-xs",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1587,
       "sku": "AGOSTO-2026-0587",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 587,
       "presentacion_proveedor": "PACO RABANNE PURE XS HOMBRE EDT 100ML"
     },
@@ -19228,14 +20074,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/s-l1000_d673f071-b5a8-40a2-a597-17233f04c3a5.jpg?v=1571609999",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/paco-rabanne-pure-xs-edp",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1588,
       "sku": "AGOSTO-2026-0588",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 588,
       "presentacion_proveedor": "PACO RABANNE PURE XS MUJER EDP 80ML"
     },
@@ -19258,14 +20110,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Paco-Rabanne-Ultrared.png?v=1626101674",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/paco-rabanne-ultrared",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1589,
       "sku": "AGOSTO-2026-0589",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 589,
       "presentacion_proveedor": "PACO RABANNE ULTRARED EDP 80ML"
     },
@@ -19288,14 +20146,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Parfums-De-Marly-Layton.jpg?v=1708022300",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/parfums-de-marly-layton",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1590,
       "sku": "AGOSTO-2026-0590",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 590,
       "presentacion_proveedor": "PARFUMS DE MARLY LAYTON EDP 125ML"
     },
@@ -19318,14 +20182,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Paris-Corner-Khair-Pistachio.png?v=1716996495",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/paris-corner-khair-pistachio",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1591,
       "sku": "AGOSTO-2026-0591",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 591,
       "presentacion_proveedor": "PARIS CORNER KHAIR PISTACHIO EDP 100ML"
     },
@@ -19378,14 +20248,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Paris-Hilton-Can-Can-Burlesque.png?v=1601289398",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/paris-hilton-can-can-burlesque",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1593,
       "sku": "AGOSTO-2026-0593",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 593,
       "presentacion_proveedor": "PARIS HILTON CAN CAN BURLESQUE EDP"
     },
@@ -19408,14 +20284,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/PARIS-HILTON-CAN-CAN.png?v=1571609916",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/paris-hilton-can-can",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1594,
       "sku": "AGOSTO-2026-0594",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 594,
       "presentacion_proveedor": "PARIS HILTON CAN CAN EDP 100ML"
     },
@@ -19438,14 +20320,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Paris-Hilton-Men.jpg?v=1571609916",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/paris-hilton-men",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1595,
       "sku": "AGOSTO-2026-0595",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 595,
       "presentacion_proveedor": "PARIS HILTON CLASICO HOMBRE EDT 100ML"
     },
@@ -19468,14 +20356,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Paris-Hilton-Dazzle.png?v=1667218787",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/paris-hilton-dazzle",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1596,
       "sku": "AGOSTO-2026-0596",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 596,
       "presentacion_proveedor": "PARIS HILTON DAZZLE EDP 125ML"
     },
@@ -19498,14 +20392,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/PARIS_HILTON_JUST_ME_WOMAN_spo.jpg?v=1571609917",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/paris-hilton-just-me",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1597,
       "sku": "AGOSTO-2026-0597",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 597,
       "presentacion_proveedor": "PARIS HILTON JUST ME MUJER EDP 100ML"
     },
@@ -19528,14 +20428,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/PARIS-HILTON-TEASE.png?v=1571609917",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/paris-hilton-tease",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1598,
       "sku": "AGOSTO-2026-0598",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 598,
       "presentacion_proveedor": "PARIS HILTON TEASE EDP 100ML"
     },
@@ -19588,14 +20494,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/PERRY-ELLIS-18-100ML-EDT-MEN.png?v=1571610022",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/perry-ellis-18",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1600,
       "sku": "AGOSTO-2026-0600",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 600,
       "presentacion_proveedor": "PERRY ELLIS 18 HOMBRE EDT 100ML"
     },
@@ -19618,14 +20530,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Perry-Ellis-18-Orchid.png?v=1601289407",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/perry-ellis-18-orchid",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1601,
       "sku": "AGOSTO-2026-0601",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 601,
       "presentacion_proveedor": "PERRY ELLIS 18 ORCHID MUJER EDP 100ML"
     },
@@ -19678,14 +20596,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/perry-360men1.jpg?v=1581340998",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/perry-ellis-360",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1603,
       "sku": "AGOSTO-2026-0603",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 603,
       "presentacion_proveedor": "PERRY ELLIS 360 CLASICO HOMBRE EDT 100ML"
     },
@@ -19708,14 +20632,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Perry-Ellis-360-Green.png?v=1574755272",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/perry-ellis-360-green",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1604,
       "sku": "AGOSTO-2026-0604",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 604,
       "presentacion_proveedor": "PERRY ELLIS 360 GREEN EDT 100ML"
     },
@@ -19768,14 +20698,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/red_4d72a5c8-999e-4287-8600-98787542e2a0.jpg?v=1571609986",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/360-red-w",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1606,
       "sku": "AGOSTO-2026-0606",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 606,
       "presentacion_proveedor": "PERRY ELLIS 360 RED MUJER EDP 100ML"
     },
@@ -19828,14 +20764,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/360-WHITE-100ML-EDT-MEN.jpg?v=1571609970",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/360-white",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1608,
       "sku": "AGOSTO-2026-0608",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 608,
       "presentacion_proveedor": "PERRY ELLIS 360 WHITE HOMBRE EDT 100ML"
     },
@@ -19858,14 +20800,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Perry-Ellis-Love-Women.jpg?v=1626102343",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/perry-ellis-love",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1609,
       "sku": "AGOSTO-2026-0609",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 609,
       "presentacion_proveedor": "PERRY ELLIS LOVE EDP 100ML"
     },
@@ -19918,14 +20866,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Perry-Ellis-Reserve-Edp.png?v=1574755295",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/perry-ellis-reserve-edp",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1611,
       "sku": "AGOSTO-2026-0611",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 611,
       "presentacion_proveedor": "PERRY ELLIS RESERVE MUJER EDP 100ML"
     },
@@ -19948,14 +20902,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Prada-Paradoxe.jpg?v=1728496235",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/prada-paradoxe",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1612,
       "sku": "AGOSTO-2026-0612",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 612,
       "presentacion_proveedor": "PRADA PARADOXE EDP 90ML"
     },
@@ -19978,14 +20938,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Ralph-Lauren-Polo-Red-2.6-ounce-Deodorant-Stick-a19e3fa4-2d83-42ae-84f3-ff4f9789aa90.jpg?v=1742063600",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/polo-red",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1613,
       "sku": "AGOSTO-2026-0613",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 613,
       "presentacion_proveedor": "RALPH LAUREN POLO RED EDT 125ML"
     },
@@ -20008,14 +20974,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Ralph.png?v=1612783903",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/ralph",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1614,
       "sku": "AGOSTO-2026-0614",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 614,
       "presentacion_proveedor": "RALPH LAUREN RALPH EDT 100ML"
     },
@@ -20038,14 +21010,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/71_PP0NMurL.jpg?v=1785167786",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/rasasi-hawas-atlantis",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1615,
       "sku": "AGOSTO-2026-0615",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 615,
       "presentacion_proveedor": "RASASI HAWAS ATLANTIS EDP 100ML"
     },
@@ -20068,14 +21046,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Rasasi_Hawas_Black.jpg?v=1725778814",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/hawas-black",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1616,
       "sku": "AGOSTO-2026-0616",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 616,
       "presentacion_proveedor": "RASASI HAWAS BLACK EDP 100ML"
     },
@@ -20218,14 +21202,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/hawas.png?v=1738588592",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/hawas-elixir",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1621,
       "sku": "AGOSTO-2026-0621",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 621,
       "presentacion_proveedor": "RASASI HAWAS ELIXIR EDP 100ML"
     },
@@ -20248,14 +21238,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/RASASI-HAWAS-FIRE.png?v=1737038540",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/hawas-fire",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1622,
       "sku": "AGOSTO-2026-0622",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 622,
       "presentacion_proveedor": "RASASI HAWAS FIRE EDP 100ML"
     },
@@ -20278,14 +21274,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Hawas-Ice.png?v=1700420191",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/hawas-ice",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1623,
       "sku": "AGOSTO-2026-0623",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 623,
       "presentacion_proveedor": "RASASI HAWAS ICE EDP 100ML"
     },
@@ -20338,14 +21340,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/HAWASLON.jpg?v=1776365928",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/hawas-london",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1625,
       "sku": "AGOSTO-2026-0625",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 625,
       "presentacion_proveedor": "RASASI HAWAS LONDON EDP 100ML"
     },
@@ -20398,14 +21406,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Rasasi_Hawas_Pink.jpg?v=1765895090",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/rasasi-hawas-pink",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1627,
       "sku": "AGOSTO-2026-0627",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 627,
       "presentacion_proveedor": "RASASI HAWAS PINK EDP 100ML"
     },
@@ -20428,14 +21442,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/rasasi-mens-hawas-tropical-edp-spray-33-oz-fragrances-614514464441.jpg?v=1751125832",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/hawas-tropical",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1628,
       "sku": "AGOSTO-2026-0628",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 628,
       "presentacion_proveedor": "RASASI HAWAS TROPICAL EDP 100ML"
     },
@@ -20458,14 +21478,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/81zgi1livoL._SL1500.jpg?v=1775216475",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/rasasi-hawas-viper",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1629,
       "sku": "AGOSTO-2026-0629",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 629,
       "presentacion_proveedor": "RASASI HAWAS VIPER EDP 100ML"
     },
@@ -20548,14 +21574,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Rayhaan_Aquatica.webp?v=1787755011",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/rayhaan-aquatica",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1632,
       "sku": "AGOSTO-2026-0632",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 632,
       "presentacion_proveedor": "RAYHAAN AQUATICA EDP 100ML"
     },
@@ -20668,14 +21700,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Incanto-Shine.png?v=1571609941",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/incanto-shine",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1637,
       "sku": "AGOSTO-2026-0637",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 637,
       "presentacion_proveedor": "SALVATORE FERRAGAMO INCANTO SHINE EDT 100ML"
     },
@@ -21418,14 +22456,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/SwissArmyAltitude.jpg?v=1712083454",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/swiss-army-altitude",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1662,
       "sku": "AGOSTO-2026-0662",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 662,
       "presentacion_proveedor": "SWISS ARMY ALTITUDE EDT 100ML"
     },
@@ -21478,14 +22522,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Terre-De-Hermes-Men.jpg?v=1571609935",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/terre-de-hermes",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1664,
       "sku": "AGOSTO-2026-0664",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 664,
       "presentacion_proveedor": "TERRE D HERMES EDT 100ML"
     },
@@ -22168,14 +23218,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Tommy-Hilfiget_r.jpg?v=1571609943",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/tommy-hilfiger",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1687,
       "sku": "AGOSTO-2026-0687",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 687,
       "presentacion_proveedor": "TOMMY HILFIGER HOMBRE EDT 100ML"
     },
@@ -22558,14 +23614,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/5TSBZ.png?v=1719957632",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/valentino-donna-born-in-roma-coral-fantasy",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1700,
       "sku": "AGOSTO-2026-0700",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 700,
       "presentacion_proveedor": "VALENTINO DONNA BORN IN ROMA CORAL FANTASY EDP 100ML"
     },
@@ -22588,14 +23650,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Valentino-Donna-Born-In-Roma.png?v=1626101679",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/valentino-donna-born-in-roma",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1701,
       "sku": "AGOSTO-2026-0701",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 701,
       "presentacion_proveedor": "VALENTINO DONNA BORN IN ROMA EDP 100ML"
     },
@@ -22678,14 +23746,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Valentino-Uomo-Born-In-Roma.png?v=1639756057",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/valentino-uomo-born-in-roma",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1704,
       "sku": "AGOSTO-2026-0704",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 704,
       "presentacion_proveedor": "VALENTINO UOMO BORN IN ROMA EDT 100ML"
     },
@@ -22738,14 +23812,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Valentino-Uomo-Born-In-Roma-Intense.png?v=1700581968",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/valentino-uomo-born-in-roma-intense",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1706,
       "sku": "AGOSTO-2026-0706",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 706,
       "presentacion_proveedor": "VALENTINO UOMO BORN IN ROMA INTENSE EDP 100ML"
     },
@@ -22858,14 +23938,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/VERSACE-CRYSTAL-NOIR-Edt.png?v=1656920110",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/versace-crystal-noir",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1710,
       "sku": "AGOSTO-2026-0710",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 710,
       "presentacion_proveedor": "VERSACE CRYSTAL NOIR EDT 90ML"
     },
@@ -22888,14 +23974,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/res_2ed33de8a4322283ce2802de5d636c73_full.jpg?v=1571609977",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/versace-dylan-blue-1",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1711,
       "sku": "AGOSTO-2026-0711",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 711,
       "presentacion_proveedor": "VERSACE DYLAN BLUE POUR FEMME EDP 100ML"
     },
@@ -22918,14 +24010,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Versace-Dylan-Blue.png?v=1571609946",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/versace-dylan-blue",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1712,
       "sku": "AGOSTO-2026-0712",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 712,
       "presentacion_proveedor": "VERSACE DYLAN BLUE POUR HOMME EDT 100ML"
     },
@@ -22948,14 +24046,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Versace-Dylan-Turquoise.png?v=1636385873",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/versace-dylan-turquoise",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1713,
       "sku": "AGOSTO-2026-0713",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 713,
       "presentacion_proveedor": "VERSACE DYLAN TURQUOISE EDT"
     },
@@ -22978,14 +24082,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Versace-eau-fraiche-extreme.png?v=1759298568",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/versace-eau-fraiche-extreme",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1714,
       "sku": "AGOSTO-2026-0714",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 714,
       "presentacion_proveedor": "VERSACE EAU FRAICHE EXTREME EDP 100ML"
     },
@@ -23008,14 +24118,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Eros-energy.png?v=1730460523",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/eros-energy",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1715,
       "sku": "AGOSTO-2026-0715",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 715,
       "presentacion_proveedor": "VERSACE EROS ENERGY EDP 100ML"
     },
@@ -23038,14 +24154,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/VERSACE-EROS-FLAME-100ML-EDP-MEN.png?v=1571610023",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/versace-eros-flame",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1716,
       "sku": "AGOSTO-2026-0716",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 716,
       "presentacion_proveedor": "VERSACE EROS FLAME EDP 100ML"
     },
@@ -23068,14 +24190,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Versace-Eros-Men.jpg?v=1571609947",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/versace-eros-men",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1717,
       "sku": "AGOSTO-2026-0717",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 717,
       "presentacion_proveedor": "VERSACE EROS HOMBRE EDT 100ML"
     },
@@ -23098,14 +24226,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Versace-Eros-Parfum.png?v=1659617208",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/versace-eros-parfum",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1718,
       "sku": "AGOSTO-2026-0718",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 718,
       "presentacion_proveedor": "VERSACE EROS HOMBRE PARFUM 100ML"
     },
@@ -23128,14 +24262,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Eros_Femme.jpg?v=1773163326",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/versace-eros-women",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1719,
       "sku": "AGOSTO-2026-0719",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 719,
       "presentacion_proveedor": "VERSACE EROS MUJER EDP 100ML"
     },
@@ -23158,14 +24298,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Versace-eros-najim.png?v=1759298588",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/versace-eros-najim",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1720,
       "sku": "AGOSTO-2026-0720",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 720,
       "presentacion_proveedor": "VERSACE EROS NAJIM HOMBRE PARFUM 100ML"
     },
@@ -23188,14 +24334,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Versace-Eau-Fraiche-Men.jpg?v=1571609946",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/versace-eau-fraiche",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1721,
       "sku": "AGOSTO-2026-0721",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 721,
       "presentacion_proveedor": "VERSACE MAN EAU FRAICHE EDT 100ML"
     },
@@ -23218,14 +24370,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/versace_spo.jpg?v=1571609947",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/versace-pour-homme",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1722,
       "sku": "AGOSTO-2026-0722",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 722,
       "presentacion_proveedor": "VERSACE POUR HOMME EDT 100ML"
     },
@@ -23308,14 +24466,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/INFEDP.webp?v=1764690055",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/viktor-rolf-spicebomb-infrared-pour-homme",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1725,
       "sku": "AGOSTO-2026-0725",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 725,
       "presentacion_proveedor": "VIKTOR & ROLF SPICEBOMB INFRARED EDP 90ML"
     },
@@ -23578,14 +24742,20 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": null,
-      "fuentes": [],
+      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Xerjoff_Erba_Pura.jpg?v=1743449587",
+      "fuentes": [
+        {
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/xerjoff-sospiro-erba-pura",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1734,
       "sku": "AGOSTO-2026-0734",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 734,
       "presentacion_proveedor": "XERJOFF ERBA PURA EDP 100ML"
     },
