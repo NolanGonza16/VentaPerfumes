@@ -112,6 +112,16 @@ export default function CatalogFilters(props: FilterProps) {
         id="catalog-filters"
         hidden={!props.open}
       >
+        <div className="filters-panel-header">
+          <span>Refina tu búsqueda</span>
+          <button
+            type="button"
+            onClick={props.onToggle}
+            aria-label="Cerrar filtros"
+          >
+            <Icon name="close" />
+          </button>
+        </div>
         <div className="filter-selects">
           <label>
             Marca
