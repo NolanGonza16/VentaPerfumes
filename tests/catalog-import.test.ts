@@ -164,3 +164,23 @@ test("all Ariana Grande PDF rows have distinct, complete reviewed profiles", () 
   assert.deepEqual(rem?.notas_corazon, ["Lavanda", "Flor de pera"]);
   assert.deepEqual(cherry?.notas_salida, ["Cereza negra", "Madreselva"]);
 });
+
+test("reviewed Club de Nuit variants keep their exact identities and sizes", () => {
+  const intense = catalog.records.filter(
+    (record) => record.nombre === "Club De Nuit Intense Man",
+  );
+  assert.deepEqual(intense.map((record) => record.tamano_ml), [105, 150]);
+  for (const record of intense) {
+    assert.equal(record.ficha_estado, "verificada");
+    assert.deepEqual(record.notas_corazon, ["Abedul", "Jazmín", "Rosa"]);
+  }
+
+  const iconic = catalog.records.find((record) => record.origen_ref === 49);
+  const imperiale = catalog.records.find((record) => record.origen_ref === 50);
+  const milestone = catalog.records.find((record) => record.origen_ref === 57);
+  assert.equal(iconic?.genero, "Hombre");
+  assert.equal(imperiale?.genero, "Mujer");
+  assert.equal(milestone?.genero, "Unisex");
+  assert.ok(imperiale?.notas_corazon.includes("Rosa turca"));
+  assert.ok(milestone?.notas_salida.includes("Notas marinas"));
+});

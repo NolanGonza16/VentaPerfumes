@@ -2837,10 +2837,31 @@
       "precio_crc": 31450,
       "tamano_ml": 105,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Noche"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Toronja",
         "Limón",
@@ -2850,29 +2871,34 @@
       ],
       "notas_corazon": [
         "Jengibre",
-        "Nuez moscada",
+        "Melón",
         "Jazmín",
-        "Melón"
+        "Nuez moscada"
       ],
       "notas_fondo": [
+        "Notas amaderadas",
         "Incienso",
+        "Sándalo",
         "Ámbar",
         "Cedro",
-        "Sándalo",
         "Pachulí",
-        "Ládano",
-        "Amaderado"
+        "Ládano"
       ],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "Club De Nuit Iconic abre con Toronja, Limón, Menta; evoluciona hacia Jengibre, Nuez moscada, Jazmín; descansa sobre un fondo de Incienso, Ámbar, Cedro.",
+      "duracion": 4,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 4.23,
+      "descripcion": "Un amaderado masculino de cítricos, menta y especias que gana profundidad con incienso, cedro y sándalo. Pulcro y versátil para oficina, diario o noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image.webp?v=1767893940",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
           "url": "https://armaf.com/products/club-de-nuit-blue-iconic-200ml",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Armaf-Club-de-Nuit-Blue-Iconic-78475.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -2881,7 +2907,7 @@
       "orden": 1049,
       "sku": "AGOSTO-2026-0049",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 49,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT ICONIC EDP 105ML"
     },
@@ -2892,10 +2918,31 @@
       "precio_crc": 28900,
       "tamano_ml": 105,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Citas",
+        "Noche",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Rosa",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Lichi",
         "Bergamota",
@@ -2903,26 +2950,31 @@
       ],
       "notas_corazon": [
         "Rosa turca",
-        "Peonía",
+        "Vainilla",
         "Almizcle",
-        "Vainilla"
+        "Peonía"
       ],
       "notas_fondo": [
-        "Cachemira",
-        "Cedro",
+        "Vainilla",
         "Incienso",
-        "Vetiver"
+        "Cachemira",
+        "Cedro"
       ],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "Club De Nuit Imperiale abre con Lichi, Bergamota, Nuez moscada; evoluciona hacia Rosa turca, Peonía, Almizcle; descansa sobre un fondo de Cachemira, Cedro, Incienso.",
+      "duracion": 5,
+      "proyeccion": 5,
+      "estela": 5,
+      "valoracion": 4.1,
+      "descripcion": "Lichi y bergamota presentan una rosa turca intensa, cremosa por vainilla y almizcle, con incienso y maderas al fondo. Femenina y opulenta para citas y eventos.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/65.png?v=1758576123",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
           "url": "https://armaf.com/products/armaf-club-de-nuit-white-imperial-buy-original-perfumes-online-uae",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-White-Imperiale-78474.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -2931,7 +2983,7 @@
       "orden": 1050,
       "sku": "AGOSTO-2026-0050",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 50,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT IMPERIALE EDP 105ML"
     },
@@ -2942,21 +2994,42 @@
       "precio_crc": 23800,
       "tamano_ml": 105,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Noche",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ahumado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
-        "Manzana",
+        "Limón",
+        "Piña",
         "Bergamota",
         "Grosella negra",
-        "Piña",
-        "Limón"
+        "Manzana"
       ],
       "notas_corazon": [
-        "Rosa",
         "Abedul",
-        "Jazmín"
+        "Jazmín",
+        "Rosa"
       ],
       "notas_fondo": [
         "Almizcle",
@@ -2964,16 +3037,21 @@
         "Pachulí",
         "Vainilla"
       ],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "Club De Nuit Intense Man abre con Manzana, Bergamota, Grosella negra; evoluciona hacia Rosa, Abedul, Jazmín; descansa sobre un fondo de Almizcle, Ámbar gris, Pachulí.",
+      "duracion": 4,
+      "proyeccion": 4,
+      "estela": 4,
+      "valoracion": 4.07,
+      "descripcion": "Una salida cítrica y frutal de gran presencia evoluciona hacia abedul ahumado, almizcle y pachulí. Masculino, firme y versátil para el día, la noche o eventos.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CDN12.png?v=1781552801",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
           "url": "https://armaf.com/products/club-de-nuit-intense-man-4",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Intense-34696.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -2982,7 +3060,7 @@
       "orden": 1051,
       "sku": "AGOSTO-2026-0051",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 51,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT INTENSE MAN EDT 105ML"
     },
@@ -2993,26 +3071,73 @@
       "precio_crc": 46750,
       "tamano_ml": 150,
       "concentracion": "Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "ocasiones": [
+        "Diario",
+        "Noche",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ahumado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Limón",
+        "Piña",
+        "Bergamota",
+        "Grosella negra",
+        "Manzana"
+      ],
+      "notas_corazon": [
+        "Abedul",
+        "Jazmín",
+        "Rosa"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Ámbar gris",
+        "Pachulí",
+        "Vainilla"
+      ],
+      "duracion": 4,
+      "proyeccion": 4,
+      "estela": 4,
+      "valoracion": 4.07,
+      "descripcion": "Una salida cítrica y frutal de gran presencia evoluciona hacia abedul ahumado, almizcle y pachulí. Masculino, firme y versátil para el día, la noche o eventos.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial de Armaf",
+          "url": "https://armaf.com/products/club-de-nuit-intense-man-4",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Intense-34696.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1052,
       "sku": "AGOSTO-2026-0052",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 52,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT INTENSE MAN PARFUM 150ML"
     },
@@ -3196,35 +3321,61 @@
       "precio_crc": 28900,
       "tamano_ml": 105,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "familia": "Amaderado",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
-        "Bergamota",
+        "Notas marinas",
         "Frutos rojos",
-        "Acordes marinos"
+        "Bergamota"
       ],
       "notas_corazon": [
         "Violeta",
-        "Sándalo",
-        "Maderas blancas"
+        "Maderas blancas",
+        "Sándalo"
       ],
       "notas_fondo": [
-        "Vetiver",
         "Almizcle",
-        "Ambroxan"
+        "Ambroxan",
+        "Vetiver"
       ],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "Club De Nuit Milestone abre con Bergamota, Frutos rojos, Acordes marinos; evoluciona hacia Violeta, Sándalo, Maderas blancas; descansa sobre un fondo de Vetiver, Almizcle, Ambroxan.",
+      "duracion": 4,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 3.92,
+      "descripcion": "Notas marinas y frutos rojos crean una frescura salina sobre violeta, maderas blancas y almizcle. Unisex, relajada y elegante para días cálidos y uso casual.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/67.png?v=1758576374",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
           "url": "https://armaf.com/products/club-de-nuit-milestone",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Ficha y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Milestone-64104.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -3233,7 +3384,7 @@
       "orden": 1057,
       "sku": "AGOSTO-2026-0057",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 57,
       "presentacion_proveedor": "ARMAF CLUB DE NUIT MILESTONE EDP 105ML"
     },
