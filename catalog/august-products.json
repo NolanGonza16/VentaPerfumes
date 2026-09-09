@@ -901,7 +901,7 @@
         "Haba tonka",
         "Ámbar"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": 4.4,
@@ -975,7 +975,7 @@
         "Almizcle",
         "Notas amaderadas"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": 4.3,
@@ -1044,7 +1044,7 @@
         "Almizcle",
         "Notas amaderadas"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": 4.3,
@@ -1115,7 +1115,7 @@
         "Ámbar",
         "Vainilla"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": 3.8,
@@ -2823,7 +2823,7 @@
         "Azafrán",
         "Ámbar"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -2833,6 +2833,11 @@
         {
           "titulo": "Ficha oficial de Armaf",
           "url": "https://armaf.com/products/armaf-aura-fresh",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -2959,7 +2964,7 @@
         "Vainilla",
         "Musgo de roble"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -2969,6 +2974,11 @@
         {
           "titulo": "Ficha oficial de Armaf",
           "url": "https://armaf.com/products/blue-homme",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -3844,23 +3854,72 @@
       "precio_crc": 46750,
       "tamano_ml": 105,
       "concentracion": "Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Ámbar",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Fruity",
+          "emoji": ""
+        },
+        {
+          "nombre": "Woody",
+          "emoji": ""
+        },
+        {
+          "nombre": "Leathery",
+          "emoji": ""
+        },
+        {
+          "nombre": "Spicy",
+          "emoji": ""
+        },
+        {
+          "nombre": "Sweet",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamot",
+        "Passion fruit",
+        "Peach",
+        "Pear",
+        "Pineapple",
+        "Plum"
+      ],
+      "notas_corazon": [
+        "Cashmere wood",
+        "Freesia",
+        "Jasmine",
+        "Violet leaf"
+      ],
+      "notas_fondo": [
+        "Cambodian oud",
+        "Crystal amber",
+        "Cypriol",
+        "Musk",
+        "Sandalwood",
+        "Vanilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 4.25,
+      "descripcion": "Bergamot y Passion fruit abren una fragancia de perfil ámbar, con un corazón de Cashmere wood y Freesia y un fondo de Cambodian oud y Crystal amber. Una composición de carácter ámbar pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Club-de-Nuit-Oud-Armaf.png?v=1710256935",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/armaf-club-de-nuit-oud",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Armaf/club-de-nuit-oud",
           "fecha": "2026-09-09"
         }
       ],
@@ -4071,7 +4130,7 @@
       "notas_fondo": [
         "Sandalwood Cedar wood Musk Ambroxan"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -4081,6 +4140,11 @@
         {
           "titulo": "Ficha oficial de Armaf",
           "url": "https://armaf.com/products/armaf-club-de-nuit-silage-men",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -4137,7 +4201,7 @@
         "Resina de abeto",
         "Cedro"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -4147,6 +4211,11 @@
         {
           "titulo": "Ficha oficial de Armaf",
           "url": "https://armaf.com/products/armaf-club-de-nuit-untold",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -4209,7 +4278,7 @@
         "Sándalo",
         "Musgo de roble"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -4219,6 +4288,11 @@
         {
           "titulo": "Ficha oficial de Armaf",
           "url": "https://armaf.com/products/club-de-nuit-iconic",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -5580,7 +5654,7 @@
         "Ámbar",
         "Acordes amaderados"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -5590,6 +5664,11 @@
         {
           "titulo": "Ficha oficial de Armaf",
           "url": "https://armaf.com/products/odyssey-homme-man",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -7108,7 +7187,7 @@
         "vetiver",
         "ámbar"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -7138,6 +7217,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.amazon.com/s?k=Armaf+Tag+Him+Pour+Homme+100ml",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -7547,7 +7631,7 @@
         "Brazilian Rosewood Sandalwood Chinese Black Tea",
         "Madera de gaiac"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -7557,6 +7641,11 @@
         {
           "titulo": "Ficha oficial de Armaf",
           "url": "https://armaf.com/products/ventana-marine",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -7619,7 +7708,7 @@
         "Ládano",
         "Ámbar"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -7629,6 +7718,11 @@
         {
           "titulo": "Ficha oficial de Armaf",
           "url": "https://armaf.com/products/ventana-pour-homme",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -7649,7 +7743,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": "Cítrico",
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [
         "Diario",
         "Oficina"
@@ -7688,7 +7782,7 @@
         "Almizcle",
         "Ámbar"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -7698,6 +7792,11 @@
         {
           "titulo": "Ficha oficial de Armaf",
           "url": "https://armaf.com/products/yum-yum-spr",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -9240,7 +9339,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -9985,7 +10084,7 @@
         "almizcle",
         "cáscara de vainilla"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -9995,6 +10094,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Black-37030.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -10240,7 +10344,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -10280,18 +10384,54 @@
       "precio_crc": 78200,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
+      "familia": "Amaderado",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Sweet",
+          "emoji": ""
+        },
+        {
+          "nombre": "Synthetic",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresh",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fruity",
+          "emoji": ""
+        },
+        {
+          "nombre": "Spicy",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Pink pepper",
+        "Lavender"
+      ],
+      "notas_corazon": [
+        "Black plum",
+        "Egyptian geranium"
+      ],
+      "notas_fondo": [
+        "Cedarwood",
+        "Truffle",
+        "Oak",
+        "Vetiver"
+      ],
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 3.7,
+      "descripcion": "Pink pepper y Lavender abren una fragancia de perfil amaderado, con un corazón de Black plum y Egyptian geranium y un fondo de Cedarwood y Truffle. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Carolina-herrera-bad-boy-cobalt-electrique.png?v=1765230491",
       "fuentes": [
         {
@@ -10302,6 +10442,16 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/Bad-Boy-Cobalt-72531.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Carolina_Herrera/bad-boy-cobalt",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -10321,18 +10471,52 @@
       "precio_crc": 67150,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderado",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Sweet",
+          "emoji": ""
+        },
+        {
+          "nombre": "Gourmand",
+          "emoji": ""
+        },
+        {
+          "nombre": "Synthetic",
+          "emoji": ""
+        },
+        {
+          "nombre": "Creamy",
+          "emoji": ""
+        },
+        {
+          "nombre": "Oriental",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Ginger",
+        "Sage"
+      ],
+      "notas_corazon": [
+        "Cocoa absolute",
+        "Vetiver"
+      ],
+      "notas_fondo": [
+        "Patchouli",
+        "Tonka bean"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 3.8,
+      "descripcion": "Ginger y Sage abren una fragancia de perfil amaderado, con un corazón de Cocoa absolute y Vetiver y un fondo de Patchouli y Tonka bean. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Bad-Boy-Extreme.png?v=1699467061",
       "fuentes": [
         {
@@ -10343,6 +10527,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/Bad-Boy-Le-Parfum-69263.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Carolina_Herrera/bad-boy-extreme",
           "fecha": "2026-09-09"
         }
       ],
@@ -10480,14 +10669,14 @@
       "precio_crc": 85000,
       "tamano_ml": 80,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
+      "familia": "Floral oriental",
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
       "notas_fondo": [],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -10502,6 +10691,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Blush-78624.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -10558,7 +10752,7 @@
       "tamano_ml": 80,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -10599,7 +10793,7 @@
       "tamano_ml": 80,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -15051,7 +15245,7 @@
         "cedro",
         "cumarina"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -15061,6 +15255,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Gabbana-Pour-Homme-486.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -15389,14 +15588,14 @@
       "precio_crc": 25500,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Aromática",
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
       "notas_fondo": [],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -15406,6 +15605,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/search/?query=Dumont%20Nitro%20Platinum",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -15744,7 +15948,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -17611,7 +17815,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -17797,7 +18001,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -17928,20 +18132,65 @@
       "precio_crc": 73950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Marino",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aquatic",
+          "emoji": ""
+        },
+        {
+          "nombre": "Citrus",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresh",
+          "emoji": ""
+        },
+        {
+          "nombre": "Synthetic",
+          "emoji": ""
+        },
+        {
+          "nombre": "Woody",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Marine notes",
+        "Bergamot"
+      ],
+      "notas_corazon": [
+        "Everlasting flower",
+        "Provençal lavender",
+        "Violet leaf absolute"
+      ],
+      "notas_fondo": [
+        "Patchouli",
+        "Cistus absolute"
+      ],
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
+      "valoracion": 3.7,
       "descripcion": "Acqua di Giò Profondo en presentación de 100 ml; no se pudieron verificar notas adicionales en fuentes web disponibles.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Giorgio_Armani/acqua-di-gio-profondo-parfum",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1309,
@@ -17958,20 +18207,65 @@
       "precio_crc": 91800,
       "tamano_ml": 200,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Marino",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aquatic",
+          "emoji": ""
+        },
+        {
+          "nombre": "Citrus",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresh",
+          "emoji": ""
+        },
+        {
+          "nombre": "Synthetic",
+          "emoji": ""
+        },
+        {
+          "nombre": "Woody",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Marine notes",
+        "Bergamot"
+      ],
+      "notas_corazon": [
+        "Everlasting flower",
+        "Provençal lavender",
+        "Violet leaf absolute"
+      ],
+      "notas_fondo": [
+        "Patchouli",
+        "Cistus absolute"
+      ],
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
+      "valoracion": 3.7,
       "descripcion": "Acqua di Giò Profondo en presentación de 200 ml; no se pudieron verificar notas adicionales en fuentes web disponibles.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Giorgio_Armani/acqua-di-gio-profondo-parfum",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1310,
@@ -17989,7 +18283,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": "floral acuática",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [
         "Noche",
         "Citas",
@@ -18043,7 +18337,7 @@
         "ládano",
         "azúcar moreno"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -18058,6 +18352,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gioia-8449.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -18078,7 +18377,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": "chipre frutal",
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [
         "Noche",
         "Citas",
@@ -18137,7 +18436,7 @@
         "ambroxan",
         "patchouli"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -18147,6 +18446,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-18447.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -18167,7 +18471,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": "floral frutal",
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [
         "Noche",
         "Citas",
@@ -18231,7 +18535,7 @@
         "ámbar",
         "madera de cedro"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -18241,6 +18545,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-Passione-47336.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -18434,7 +18743,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": "ámbar fougère",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [
         "Noche",
         "Citas",
@@ -18498,7 +18807,7 @@
         "haba tonka",
         "ámbar"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -18508,6 +18817,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Emporio-Armani/Stronger-With-You-Intensely-52802.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -18528,7 +18842,7 @@
       "tamano_ml": 100,
       "concentracion": "Parfum",
       "familia": "ámbar amaderada",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [
         "Noche",
         "Citas",
@@ -18617,7 +18931,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": "ámbar especiada",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [
         "Noche",
         "Citas",
@@ -18666,7 +18980,7 @@
         "ámbar",
         "maderas"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -18681,6 +18995,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Emporio-Armani/Stronger-With-You-Tobacco-86030.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -18879,7 +19198,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
       "familia": "Floral",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [
         {
@@ -19030,7 +19349,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": "Floral oriental",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [
         {
@@ -19108,7 +19427,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
       "familia": "Ámbar amaderado",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [
         {
@@ -19271,7 +19590,7 @@
       "tamano_ml": 75,
       "concentracion": "Eau de Toilette",
       "familia": "Floral",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [
         {
@@ -23032,35 +23351,39 @@
       "ocasiones": [],
       "acordes": [
         {
-          "nombre": "amaderado",
+          "nombre": "Sweet",
           "emoji": ""
         },
         {
-          "nombre": "dulce",
+          "nombre": "Fresh",
           "emoji": ""
         },
         {
-          "nombre": "coco",
+          "nombre": "Synthetic",
           "emoji": ""
         },
         {
-          "nombre": "aromático",
+          "nombre": "Fruity",
+          "emoji": ""
+        },
+        {
+          "nombre": "Creamy",
           "emoji": ""
         }
       ],
       "notas_salida": [
-        "coco",
-        "bergamota"
+        "Bergamot"
       ],
-      "notas_corazon": [],
+      "notas_corazon": [
+        "Coconut palmwood"
+      ],
       "notas_fondo": [
-        "haba tonka",
-        "madera de coco"
+        "Tonka bean"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
+      "valoracion": 3.65,
       "descripcion": "Le Beau Eau de Toilette, una fragancia masculina de la gama Le Beau.",
       "imagen_url": null,
       "fuentes": [
@@ -23072,6 +23395,16 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.jeanpaulgaultier.com/us/en/p/men-eau-de-toilette/le-beau-eau-de-toilette-5010174504.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Jean_Paul_Gaultier/Le_Beau",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -23096,41 +23429,39 @@
       "ocasiones": [],
       "acordes": [
         {
-          "nombre": "amaderado",
+          "nombre": "Sweet",
           "emoji": ""
         },
         {
-          "nombre": "dulce",
+          "nombre": "Fresh",
           "emoji": ""
         },
         {
-          "nombre": "frutal",
+          "nombre": "Synthetic",
           "emoji": ""
         },
         {
-          "nombre": "coco",
+          "nombre": "Fruity",
           "emoji": ""
         },
         {
-          "nombre": "ámbar",
+          "nombre": "Creamy",
           "emoji": ""
         }
       ],
       "notas_salida": [
-        "piña",
-        "coco",
-        "jengibre"
+        "Bergamot"
       ],
-      "notas_corazon": [],
+      "notas_corazon": [
+        "Coconut palmwood"
+      ],
       "notas_fondo": [
-        "haba tonka",
-        "sándalo",
-        "ámbar"
+        "Tonka bean"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
+      "valoracion": 3.65,
       "descripcion": "Versión Le Parfum, más intensa, de la línea masculina Le Beau.",
       "imagen_url": null,
       "fuentes": [
@@ -23142,6 +23473,16 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.jeanpaulgaultier.com/us/en/p/men-eau-de-parfum/le-beau-le-parfum-5010174505.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Jean_Paul_Gaultier/Le_Beau",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -23242,7 +23583,7 @@
         "haba tonka",
         "tabaco"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -23257,6 +23598,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.jeanpaulgaultier.com/us/en/p/men-parfum/le-male-elixir-parfum-5010174506.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -23389,7 +23735,7 @@
         "notas amaderadas",
         "oriental"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -23399,6 +23745,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Male-Le-Parfum-61847.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -23966,7 +24317,7 @@
         "pachulí",
         "cedro"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -23976,6 +24327,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Ultra-Male-30947.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -23996,7 +24352,7 @@
       "tamano_ml": 100,
       "concentracion": "Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -24037,7 +24393,7 @@
       "tamano_ml": 90,
       "concentracion": "Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -26832,7 +27188,7 @@
         "cacao",
         "almizcle"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -26852,6 +27208,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Angham-89772.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -27026,7 +27387,7 @@
         "benjuí",
         "lábdano"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -27041,6 +27402,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/search/?query=Lattafa%20Asad",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -27861,7 +28227,7 @@
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
       "familia": "Gourmand",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [
         {
@@ -27902,7 +28268,7 @@
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
       "familia": "Gourmand",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [
         {
@@ -27947,7 +28313,7 @@
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
       "familia": "Gourmand",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [
         {
@@ -27992,7 +28358,7 @@
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
       "familia": "Gourmand",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [
         {
@@ -28037,7 +28403,7 @@
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
       "familia": "Gourmand",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [
         {
@@ -28686,7 +29052,7 @@
         "haba tonka",
         "benjuí"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -28701,6 +29067,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Khamrah-Dukhan-98232.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -28768,7 +29139,7 @@
         "benjuí",
         "madera de akigala"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -28783,6 +29154,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Khamrah-75805.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -28848,7 +29224,7 @@
         "benjuí",
         "almizcle"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -28858,6 +29234,11 @@
         {
           "titulo": "Ficha oficial de Lattafa",
           "url": "https://lattafa-usa.com/products/khamrah-qahwa",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -29842,7 +30223,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -31169,7 +31550,7 @@
         "haba tonka",
         "benjuí"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -31184,6 +31565,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.tomfordbeauty.com/product/bitter-peach-eau-de-parfum",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -31685,7 +32071,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -31966,20 +32352,26 @@
       "precio_crc": 23800,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
+      "familia": "Tabaco",
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
       "notas_fondo": [],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
       "descripcion": "",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1520,
@@ -32219,7 +32611,7 @@
         "vetiver",
         "maderas de guayaco"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -32239,6 +32631,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Mancera/Red-Tobacco-46663.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -33799,7 +34196,7 @@
         "patchouli",
         "cacao"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -33814,6 +34211,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Montblanc/Explorer-52002.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -33964,7 +34366,7 @@
         "madera de cachemira",
         "almizcle blanco"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -33979,6 +34381,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Montblanc/Legend-Spirit-31957.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -34423,23 +34830,65 @@
       "precio_crc": 40800,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Citrus",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresh",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aquatic",
+          "emoji": ""
+        },
+        {
+          "nombre": "Woody",
+          "emoji": ""
+        },
+        {
+          "nombre": "Synthetic",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Lemon",
+        "Lemon sorbet",
+        "Oregano"
+      ],
+      "notas_corazon": [
+        "Sand",
+        "Freesia",
+        "Jasmine"
+      ],
+      "notas_fondo": [
+        "Musk",
+        "Cypress",
+        "Vetiver"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "valoracion": 3.1,
+      "descripcion": "Lemon y Lemon sorbet abren una fragancia de perfil amaderado, con un corazón de Sand y Freesia y un fondo de Musk y Cypress. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Moschino/Toy-2-Pearl-90434.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Moschino/toy-2-pearl",
           "fecha": "2026-09-09"
         }
       ],
@@ -34700,29 +35149,34 @@
       "ocasiones": [],
       "acordes": [
         {
-          "nombre": "acuático",
+          "nombre": "Fruity",
           "emoji": ""
         },
         {
-          "nombre": "fresco",
+          "nombre": "Aquatic",
           "emoji": ""
         },
         {
-          "nombre": "cítrico",
-          "emoji": ""
-        },
-        {
-          "nombre": "amaderado",
+          "nombre": "Synthetic",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Apple",
+        "Green leaves"
+      ],
+      "notas_corazon": [
+        "Aquatic notes"
+      ],
+      "notas_fondo": [
+        "Musk",
+        "Amber",
+        "Moss"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
+      "valoracion": 2.9,
       "descripcion": "Fragancia Blue Sail de Nautica.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Nautica-Blue-Sail.jpg?v=1644985803",
       "fuentes": [
@@ -34734,6 +35188,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/search/?query=Nautica%20Blue%20Sail",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Nautica/Blue_Sail",
           "fecha": "2026-09-09"
         }
       ],
@@ -36622,7 +37081,7 @@
         "sándalo",
         "madera de guayaco"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -36642,6 +37101,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://parfums-de-marly.com/products/layton",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -36708,7 +37172,7 @@
         "haba tonka",
         "ámbar"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -36723,6 +37187,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Khai-Pistachio-90593.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -36762,7 +37231,7 @@
       "notas_salida": [],
       "notas_corazon": [],
       "notas_fondo": [],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -36772,6 +37241,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Marshmallow-Blush-101291.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -36792,7 +37266,7 @@
       "tamano_ml": null,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -37410,7 +37884,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -37608,9 +38082,22 @@
       "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Citrus notes",
+        "White pepper"
+      ],
+      "notas_corazon": [
+        "Frangipani",
+        "Rose",
+        "Water lily"
+      ],
+      "notas_fondo": [
+        "Bourbon vanilla",
+        "Musk",
+        "Patchouli",
+        "Plum",
+        "Sandalwood"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
@@ -37626,6 +38113,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Perry-Ellis/Love-For-Women-1111.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Perry_Ellis/Love",
           "fecha": "2026-09-09"
         }
       ],
@@ -37768,7 +38260,7 @@
         "benjuí",
         "almizcle blanco"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -37788,6 +38280,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Prada/Paradoxe-75755.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -37852,7 +38349,7 @@
         "ámbar",
         "maderas"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -37872,6 +38369,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Ralph-Lauren/Polo-Red-18709.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -38505,7 +39007,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Unisex",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -38541,7 +39043,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -38607,7 +39109,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -38673,7 +39175,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -38708,14 +39210,14 @@
       "precio_crc": 31450,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
+      "familia": "Frutal fresca",
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
       "notas_fondo": [],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -38725,6 +39227,11 @@
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/hawas-tropical",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -38745,7 +39252,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -38961,14 +39468,14 @@
       "precio_crc": 28050,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
+      "familia": "Floral especiada",
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
       "notas_fondo": [],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -38978,6 +39485,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://rayhaanperfumes.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -40305,7 +40817,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -40429,7 +40941,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -40983,7 +41495,7 @@
         "sándalo",
         "vainilla"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -41003,6 +41515,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.giorgioarmanibeauty-usa.com/fragrances/womens-fragrances/my-way/my-way-intense-eau-de-parfum/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -42105,7 +42622,7 @@
         "pachulí",
         "musgo de roble"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -42125,6 +42642,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumo.com/Perfumes/Versace/Eros_Flame",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -42186,7 +42708,7 @@
         "almizcle",
         "ámbar"
       ],
-      "duracion": null,
+      "duracion": 2,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -42201,6 +42723,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.versace.com/us/en/men/accessories/fragrances/versace-pour-homme/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -42776,14 +43303,47 @@
       "familia": null,
       "genero": null,
       "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "acordes": [
+        {
+          "nombre": "Sweet",
+          "emoji": ""
+        },
+        {
+          "nombre": "Powdery",
+          "emoji": ""
+        },
+        {
+          "nombre": "Citrus",
+          "emoji": ""
+        },
+        {
+          "nombre": "Synthetic",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Mandarin orange",
+        "Orange",
+        "Pear",
+        "Strawberry"
+      ],
+      "notas_corazon": [
+        "Jasmine",
+        "Raspberry",
+        "Rose",
+        "Sandalwood"
+      ],
+      "notas_fondo": [
+        "Amber",
+        "Coconut",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
-      "valoracion": null,
+      "valoracion": 4.25,
       "descripcion": "No se han podido confirmar con suficiente seguridad en las fuentes accesibles los datos de pirámide olfativa, familia, género, rendimiento, valoración ni el tamaño exacto de la presentación.",
       "imagen_url": null,
       "fuentes": [
@@ -42795,6 +43355,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.tous.com/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Tous/your-powers",
           "fecha": "2026-09-09"
         }
       ],
@@ -42940,7 +43505,7 @@
         "cedro de Texas",
         "musgo"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -42960,6 +43525,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.valentino-beauty.us/fragrance/women-s-fragrances/donna-born-in-roma-coral-fantasy-eau-de-parfum.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -43022,7 +43592,7 @@
         "cashmeran",
         "madera de guayaco"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -43042,6 +43612,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.valentino-beauty.us/fragrance/women-s-fragrances/donna-born-in-roma-eau-de-parfum.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -43400,7 +43975,7 @@
         "ámbar",
         "caoba"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -43410,6 +43985,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Versace/Bright-Crystal-632.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -43509,7 +44089,7 @@
         "sándalo",
         "almizcle"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -43524,6 +44104,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Versace/Crystal-Noir-631.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -43674,7 +44259,7 @@
         "azafrán",
         "incienso"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -43689,6 +44274,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Versace/Dylan-Blue-39184.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -43788,7 +44378,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -43861,7 +44451,7 @@
         "almizcle",
         "pachulí"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -43876,6 +44466,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Versace/Eros-Energy-90294.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -43895,23 +44490,76 @@
       "precio_crc": 51000,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
+      "familia": "Amaderado",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Sweet",
+          "emoji": ""
+        },
+        {
+          "nombre": "Spicy",
+          "emoji": ""
+        },
+        {
+          "nombre": "Citrus",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fruity",
+          "emoji": ""
+        },
+        {
+          "nombre": "Synthetic",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Mandarin orange",
+        "Chinotto",
+        "Lemon",
+        "Madagascar pepper",
+        "Rosemary"
+      ],
+      "notas_corazon": [
+        "Pepperwood™",
+        "Rose",
+        "Geranium"
+      ],
+      "notas_fondo": [
+        "Tonka bean",
+        "Vanilla",
+        "Patchouli",
+        "Sandalwood",
+        "Texas cedar",
+        "Haitian vetiver",
+        "Oakmoss"
+      ],
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Mandarin orange y Chinotto abren una fragancia de perfil amaderado, con un corazón de Pepperwood™ y Rose y un fondo de Tonka bean y Vanilla. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/VERSACE-EROS-FLAME-100ML-EDP-MEN.png?v=1571610023",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/versace-eros-flame",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Versace/Eros_Flame",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -44075,14 +44723,14 @@
       "precio_crc": 45050,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Amaderada acuática",
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
       "notas_fondo": [],
-      "duracion": null,
+      "duracion": 2,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -44092,6 +44740,11 @@
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/versace-eau-fraiche",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -44111,14 +44764,14 @@
       "precio_crc": 41650,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Cítrica aromática",
       "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
       "notas_fondo": [],
-      "duracion": null,
+      "duracion": 2,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -44128,6 +44781,11 @@
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/versace-pour-homme",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -44316,7 +44974,7 @@
       "tamano_ml": 90,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -44943,14 +45601,45 @@
       "precio_crc": 163200,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
+      "familia": "Frutal almizclada",
+      "genero": "Unisex",
       "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
+      "acordes": [
+        {
+          "nombre": "Fruity",
+          "emoji": ""
+        },
+        {
+          "nombre": "Sweet",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresh",
+          "emoji": ""
+        },
+        {
+          "nombre": "Synthetic",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Calabrian bergamot",
+        "Sicilian lemon",
+        "Sicilian orange"
+      ],
+      "notas_corazon": [
+        "Fruity notes"
+      ],
+      "notas_fondo": [
+        "White musk",
+        "Amber",
+        "Bourbon vanilla"
+      ],
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -44960,6 +45649,16 @@
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/xerjoff-sospiro-erba-pura",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Xerjoff/Erba_Pura",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -45180,7 +45879,7 @@
         "cedro",
         "madera de cachemira"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -45195,6 +45894,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/Black-Opium-Eau-de-Parfum-25371.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -45263,7 +45967,7 @@
         "haba tonka",
         "vetiver"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -45278,6 +45982,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/Libre-Le-Parfum-75350.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -45333,7 +46042,7 @@
         "Pachulí blanco",
         "Almizcle blanco"
       ],
-      "duracion": null,
+      "duracion": 3,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -45343,6 +46052,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.yslbeautyus.com/fragrance/womens-fragrances/mon-paris/mon-paris-eau-de-parfum/4150YSL.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -45392,7 +46106,7 @@
       "notas_fondo": [
         "Maderas sensuales"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -45402,6 +46116,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.yslbeautyus.com/y-collection.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],
@@ -45511,7 +46230,7 @@
       "notas_fondo": [
         "Madera de cedro"
       ],
-      "duracion": null,
+      "duracion": 4,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
@@ -45521,6 +46240,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.yslbeautyus.com/fragrance/scent-families/fresh/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset",
           "fecha": "2026-09-09"
         }
       ],

@@ -125,7 +125,10 @@ test("the consecutive 100-product research batch preserves every PDF identity", 
     ],
   );
   assert.equal(researched.filter((record) => record.ficha_estado === "verificada").length, 4);
-  assert.equal(researched.filter((record) => record.notas_salida?.length).length, 66);
+  assert.ok(
+    researched.filter((record) => record.notas_salida?.length).length >= 66,
+    "later verified research may increase note coverage without changing PDF identity",
+  );
 });
 
 test("the consecutive 200-product batch preserves PDF names, brands and sizes", () => {
@@ -317,7 +320,7 @@ test("reviewed Club de Nuit variants keep their exact identities and sizes", () 
   assert.ok(milestone?.notas_salida.includes("Notas marinas"));
 });
 
-test("official Armaf pyramids receive usable profiles without invented performance", () => {
+test("official Armaf pyramids only receive performance backed by a separate source", () => {
   const sourced = catalog.records.filter(
     (record) =>
       record.origen_ref >= 43 &&
@@ -336,9 +339,14 @@ test("official Armaf pyramids receive usable profiles without invented performan
   }
 
   const aura = catalog.records.find((record) => record.origen_ref === 43);
-  assert.equal(aura?.duracion, null);
+  assert.equal(aura?.duracion, 3);
   assert.equal(aura?.proyeccion, null);
   assert.equal(aura?.estela, null);
+  assert.ok(
+    aura?.fuentes.some((source) =>
+      source.url.includes("kaggle.com/datasets/ayushghawana/perfume-dataset"),
+    ),
+  );
 });
 
 test("reviewed Azzaro and adjacent designer rows keep exact editions", () => {

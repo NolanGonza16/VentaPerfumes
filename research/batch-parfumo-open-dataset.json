@@ -1,0 +1,376 @@
+[
+  {
+    "ref": 58,
+    "acordes": [
+      "Fruity",
+      "Woody",
+      "Leathery",
+      "Spicy",
+      "Sweet"
+    ],
+    "notas_salida": [
+      "Bergamot",
+      "Passion fruit",
+      "Peach",
+      "Pear",
+      "Pineapple",
+      "Plum"
+    ],
+    "notas_corazon": [
+      "Cashmere wood",
+      "Freesia",
+      "Jasmine",
+      "Violet leaf"
+    ],
+    "notas_fondo": [
+      "Cambodian oud",
+      "Crystal amber",
+      "Cypriol",
+      "Musk",
+      "Sandalwood",
+      "Vanilla"
+    ],
+    "valoracion": 4.25,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Armaf/club-de-nuit-oud"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 158,
+    "acordes": [
+      "Sweet",
+      "Synthetic",
+      "Fresh",
+      "Fruity",
+      "Spicy"
+    ],
+    "notas_salida": [
+      "Pink pepper",
+      "Lavender"
+    ],
+    "notas_corazon": [
+      "Black plum",
+      "Egyptian geranium"
+    ],
+    "notas_fondo": [
+      "Cedarwood",
+      "Truffle",
+      "Oak",
+      "Vetiver"
+    ],
+    "valoracion": 3.7,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Carolina_Herrera/bad-boy-cobalt"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 159,
+    "acordes": [
+      "Sweet",
+      "Gourmand",
+      "Synthetic",
+      "Creamy",
+      "Oriental"
+    ],
+    "notas_salida": [
+      "Ginger",
+      "Sage"
+    ],
+    "notas_corazon": [
+      "Cocoa absolute",
+      "Vetiver"
+    ],
+    "notas_fondo": [
+      "Patchouli",
+      "Tonka bean"
+    ],
+    "valoracion": 3.8,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Carolina_Herrera/bad-boy-extreme"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 309,
+    "acordes": [
+      "Aquatic",
+      "Citrus",
+      "Fresh",
+      "Synthetic",
+      "Woody"
+    ],
+    "notas_salida": [
+      "Marine notes",
+      "Bergamot"
+    ],
+    "notas_corazon": [
+      "Everlasting flower",
+      "Provençal lavender",
+      "Violet leaf absolute"
+    ],
+    "notas_fondo": [
+      "Patchouli",
+      "Cistus absolute"
+    ],
+    "valoracion": 3.7,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Giorgio_Armani/acqua-di-gio-profondo-parfum"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 310,
+    "acordes": [
+      "Aquatic",
+      "Citrus",
+      "Fresh",
+      "Synthetic",
+      "Woody"
+    ],
+    "notas_salida": [
+      "Marine notes",
+      "Bergamot"
+    ],
+    "notas_corazon": [
+      "Everlasting flower",
+      "Provençal lavender",
+      "Violet leaf absolute"
+    ],
+    "notas_fondo": [
+      "Patchouli",
+      "Cistus absolute"
+    ],
+    "valoracion": 3.7,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Giorgio_Armani/acqua-di-gio-profondo-parfum"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 387,
+    "acordes": [
+      "Sweet",
+      "Fresh",
+      "Synthetic",
+      "Fruity",
+      "Creamy"
+    ],
+    "notas_salida": [
+      "Bergamot"
+    ],
+    "notas_corazon": [
+      "Coconut palmwood"
+    ],
+    "notas_fondo": [
+      "Tonka bean"
+    ],
+    "valoracion": 3.65,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Jean_Paul_Gaultier/Le_Beau"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 388,
+    "acordes": [
+      "Sweet",
+      "Fresh",
+      "Synthetic",
+      "Fruity",
+      "Creamy"
+    ],
+    "notas_salida": [
+      "Bergamot"
+    ],
+    "notas_corazon": [
+      "Coconut palmwood"
+    ],
+    "notas_fondo": [
+      "Tonka bean"
+    ],
+    "valoracion": 3.65,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Jean_Paul_Gaultier/Le_Beau"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 558,
+    "acordes": [
+      "Citrus",
+      "Fresh",
+      "Aquatic",
+      "Woody",
+      "Synthetic"
+    ],
+    "notas_salida": [
+      "Lemon",
+      "Lemon sorbet",
+      "Oregano"
+    ],
+    "notas_corazon": [
+      "Sand",
+      "Freesia",
+      "Jasmine"
+    ],
+    "notas_fondo": [
+      "Musk",
+      "Cypress",
+      "Vetiver"
+    ],
+    "valoracion": 3.1,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Moschino/toy-2-pearl"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 563,
+    "acordes": [
+      "Fruity",
+      "Aquatic",
+      "Synthetic"
+    ],
+    "notas_salida": [
+      "Apple",
+      "Green leaves"
+    ],
+    "notas_corazon": [
+      "Aquatic notes"
+    ],
+    "notas_fondo": [
+      "Musk",
+      "Amber",
+      "Moss"
+    ],
+    "valoracion": 2.9,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Nautica/Blue_Sail"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 609,
+    "acordes": [],
+    "notas_salida": [
+      "Citrus notes",
+      "White pepper"
+    ],
+    "notas_corazon": [
+      "Frangipani",
+      "Rose",
+      "Water lily"
+    ],
+    "notas_fondo": [
+      "Bourbon vanilla",
+      "Musk",
+      "Patchouli",
+      "Plum",
+      "Sandalwood"
+    ],
+    "valoracion": null,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Perry_Ellis/Love"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 698,
+    "acordes": [
+      "Sweet",
+      "Powdery",
+      "Citrus",
+      "Synthetic"
+    ],
+    "notas_salida": [
+      "Mandarin orange",
+      "Orange",
+      "Pear",
+      "Strawberry"
+    ],
+    "notas_corazon": [
+      "Jasmine",
+      "Raspberry",
+      "Rose",
+      "Sandalwood"
+    ],
+    "notas_fondo": [
+      "Amber",
+      "Coconut",
+      "Musk",
+      "Patchouli",
+      "Vanilla"
+    ],
+    "valoracion": 4.25,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Tous/your-powers"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 716,
+    "acordes": [
+      "Sweet",
+      "Spicy",
+      "Citrus",
+      "Fruity",
+      "Synthetic"
+    ],
+    "notas_salida": [
+      "Mandarin orange",
+      "Chinotto",
+      "Lemon",
+      "Madagascar pepper",
+      "Rosemary"
+    ],
+    "notas_corazon": [
+      "Pepperwood™",
+      "Rose",
+      "Geranium"
+    ],
+    "notas_fondo": [
+      "Tonka bean",
+      "Vanilla",
+      "Patchouli",
+      "Sandalwood",
+      "Texas cedar",
+      "Haitian vetiver",
+      "Oakmoss"
+    ],
+    "valoracion": null,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Versace/Eros_Flame"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 734,
+    "acordes": [
+      "Fruity",
+      "Sweet",
+      "Fresh",
+      "Synthetic",
+      "Floral"
+    ],
+    "notas_salida": [
+      "Calabrian bergamot",
+      "Sicilian lemon",
+      "Sicilian orange"
+    ],
+    "notas_corazon": [
+      "Fruity notes"
+    ],
+    "notas_fondo": [
+      "White musk",
+      "Amber",
+      "Bourbon vanilla"
+    ],
+    "valoracion": null,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Xerjoff/Erba_Pura"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  }
+]

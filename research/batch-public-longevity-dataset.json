@@ -1,0 +1,544 @@
+[
+  {
+    "ref": 14,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 15,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 16,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 17,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 43,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 45,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 61,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 62,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 63,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 82,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 103,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 110,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 111,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 112,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "genero": "Mujer",
+    "duracion": 3
+  },
+  {
+    "ref": 153,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 158,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 163,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "familia": "Floral oriental",
+    "duracion": 3
+  },
+  {
+    "ref": 240,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 245,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "familia": "Aromática",
+    "duracion": 4
+  },
+  {
+    "ref": 309,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 310,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 311,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 312,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "genero": "Mujer",
+    "duracion": 4
+  },
+  {
+    "ref": 313,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "genero": "Mujer",
+    "duracion": 4
+  },
+  {
+    "ref": 316,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "genero": "Hombre",
+    "duracion": 4
+  },
+  {
+    "ref": 318,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 387,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 388,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 390,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 392,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 400,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 440,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 443,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 467,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 468,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 469,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 503,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 520,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "genero": "Unisex",
+    "familia": "Tabaco",
+    "duracion": 3
+  },
+  {
+    "ref": 523,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 549,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 551,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 590,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 591,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 592,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 612,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 613,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 628,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "familia": "Frutal fresca",
+    "duracion": 3
+  },
+  {
+    "ref": 633,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "genero": "Mujer",
+    "familia": "Floral especiada",
+    "duracion": 3
+  },
+  {
+    "ref": 671,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 685,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 686,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 2
+  },
+  {
+    "ref": 700,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 701,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 708,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 710,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 712,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 715,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 716,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 721,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "familia": "Amaderada acuática",
+    "duracion": 2
+  },
+  {
+    "ref": 722,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "familia": "Cítrica aromática",
+    "duracion": 2
+  },
+  {
+    "ref": 734,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "familia": "Frutal almizclada",
+    "duracion": 4
+  },
+  {
+    "ref": 737,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 738,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 739,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 3
+  },
+  {
+    "ref": 740,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  },
+  {
+    "ref": 742,
+    "fuentes": [
+      "https://www.kaggle.com/datasets/ayushghawana/perfume-dataset"
+    ],
+    "estado": "Coincidencia exacta en conjunto público CC BY 4.0",
+    "duracion": 4
+  }
+]
