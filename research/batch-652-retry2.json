@@ -1,0 +1,716 @@
+[
+  {
+    "ref": 669,
+    "nombre": "Tester · Emperatriz",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Floral frutal",
+    "genero": "Unisex",
+    "ocasiones": [
+      "Día",
+      "Primavera/verano",
+      "Uso diario"
+    ],
+    "acordes": [
+      "Frutal",
+      "Acuático",
+      "Floral",
+      "Fresco",
+      "Almizclado"
+    ],
+    "notas_salida": [
+      "Ruibarbo",
+      "Grosella roja",
+      "Sandía"
+    ],
+    "notas_corazon": [
+      "Kiwi",
+      "Ciclamen rosa"
+    ],
+    "notas_fondo": [
+      "Almizcle",
+      "Sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion español": "Fragancia fresca y afrutada de la colección Anthology, comercializada habitualmente como L'Imperatrice y conocida en español como Emperatriz.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Gabbana-3-LImperatrice-4863.html",
+      "https://www.parfumo.com/Perfumes/Dolce_Gabbana/L_Imperatrice_3"
+    ],
+    "estado": "Coinciden marca, versión base L'Imperatrice/Emperatriz, EDT y presentación comercial de 100 ml; tester tratado como la fragancia base. No se pudieron confirmar valoraciones ni rendimiento por fallo de acceso a las fuentes."
+  },
+  {
+    "ref": 670,
+    "nombre": "Tester · Pour Femme",
+    "marca": "Dolce & Gabbana",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Floral frutal",
+    "genero": "Femenino",
+    "ocasiones": [
+      "Día",
+      "Oficina",
+      "Primavera/verano",
+      "Uso diario"
+    ],
+    "acordes": [
+      "Floral",
+      "Cítrico",
+      "Dulce",
+      "Frutal",
+      "Avainillado",
+      "Amaderado"
+    ],
+    "notas_salida": [
+      "Mandarina",
+      "Neroli",
+      "Frambuesa"
+    ],
+    "notas_corazon": [
+      "Flor de azahar",
+      "Jazmín"
+    ],
+    "notas_fondo": [
+      "Malvavisco",
+      "Vainilla",
+      "Sándalo",
+      "Heliotropo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion español": "Interpretación Eau de Toilette de Pour Femme, floral y afrutada, con salida cítrica, corazón de flores blancas y fondo dulce.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Gabbana-Pour-Femme-16698.html",
+      "https://www.parfumo.com/Perfumes/Dolce_Gabbana/Dolce_Gabbana_Pour_Femme_Eau_de_Toilette"
+    ],
+    "estado": "Coinciden marca, nombre, EDT y tamaño 100 ml; tester tratado como la fragancia base. Rendimiento y valoración no confirmados por fallo de acceso a las fuentes."
+  },
+  {
+    "ref": 671,
+    "nombre": "Tester · My Way Intense",
+    "marca": "Giorgio Armani",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 90,
+    "familia": "Floral ambarada",
+    "genero": "Femenino",
+    "ocasiones": [
+      "Noche",
+      "Otoño/invierno",
+      "Eventos",
+      "Cita"
+    ],
+    "acordes": [
+      "Floral blanco",
+      "Avainillado",
+      "Ambarado",
+      "Cítrico",
+      "Amaderado"
+    ],
+    "notas_salida": [
+      "Flor de azahar",
+      "Naranja amarga"
+    ],
+    "notas_corazon": [
+      "Nardo",
+      "Nardo de la India"
+    ],
+    "notas_fondo": [
+      "Sándalo",
+      "Vainilla"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion español": "Versión intensa de My Way, centrada en flor de azahar y nardo sobre una base cremosa de sándalo y vainilla.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Giorgio-Armani/My-Way-Intense-68778.html",
+      "https://www.giorgioarmanibeauty-usa.com/fragrances/womens-fragrances/my-way/my-way-intense-eau-de-parfum/"
+    ],
+    "estado": "Coinciden marca, versión Intense, EDP y presentación de 90 ml; tester tratado como la fragancia base. Rendimiento y valoración no confirmados por fallo de acceso a las fuentes."
+  },
+  {
+    "ref": 672,
+    "nombre": "Tester · Kiss",
+    "marca": "Halloween",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Floral frutal",
+    "genero": "Femenino",
+    "ocasiones": [
+      "Día",
+      "Primavera/verano",
+      "Uso diario"
+    ],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion español": null,
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Halloween/Kiss-27848.html"
+    ],
+    "estado": "Coincidencia de marca, versión Kiss, EDT y tamaño 100 ml no pudo verificarse mediante las páginas consultadas por indisponibilidad del acceso; tester tratado como fragancia base. Notas y demás atributos se dejan vacíos para evitar afirmar datos no confirmados."
+  },
+  {
+    "ref": 673,
+    "nombre": "Tester · Kiss Sexy",
+    "marca": "Halloween",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion español": null,
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Halloween/Kiss-Sexy-27849.html"
+    ],
+    "estado": "Coincidencia de marca, versión Kiss Sexy, EDT y tamaño 100 ml no pudo verificarse mediante las páginas consultadas por indisponibilidad del acceso; tester tratado como fragancia base. Notas y demás atributos se dejan vacíos para evitar afirmar datos no confirmados."
+  },
+  {
+    "ref": 674,
+    "nombre": "Tester · Mujer",
+    "marca": "Issey Miyake",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Floral acuática",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "acuático",
+      "floral",
+      "cítrico",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "loto",
+      "rosa",
+      "calone"
+    ],
+    "notas_corazon": [
+      "lirio",
+      "peonía",
+      "azucena",
+      "clavel"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "almizcle",
+      "ámbar",
+      "maderas exóticas",
+      "osmanto"
+    ],
+    "duracion": "moderada a larga",
+    "proyeccion": "moderada",
+    "estela": "moderada",
+    "valoracion": null,
+    "descripcion español": "Fragancia floral acuática femenina de Issey Miyake; el tester se refiere a la misma fragancia base en presentación de 100 ml.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Issey-Miyake/L-Eau-d-Issey-688.html",
+      "https://www.isseymiyakeparfums.com/en-us/fragrance/leau-dissey-eau-de-toilette"
+    ],
+    "estado": "Coincidencia confirmada por marca, versión femenina EDT y tamaño solicitado; los datos de rendimiento son rangos descriptivos y no una medición uniforme."
+  },
+  {
+    "ref": 675,
+    "nombre": "Tester · Touch Of Pink",
+    "marca": "Lacoste",
+    "concentracion": null,
+    "tamano_ml": 90,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "casual",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "frutal",
+      "floral",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "naranja sanguina",
+      "cardamomo",
+      "melocotón",
+      "cilantro"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "violeta",
+      "semillas de zanahoria",
+      "hoja de cilantro"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "sándalo",
+      "vainilla",
+      "vetiver"
+    ],
+    "duracion": "moderada",
+    "proyeccion": "moderada",
+    "estela": "moderada a íntima",
+    "valoracion": null,
+    "descripcion español": "Fragancia femenina fresca y frutal-floral de Lacoste. Al tratarse de un tester y ser incierta su concentración comercial, se usan los datos de la fragancia base Touch of Pink.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Lacoste-Fragrances/Touch-of-Pink-728.html",
+      "https://www.parfumo.com/Perfumes/Lacoste/Touch_of_Pink"
+    ],
+    "estado": "Base identificada por marca, nombre y tamaño; concentración específica del tester no confirmable, aunque las bases consultadas catalogan Touch of Pink como EDT."
+  },
+  {
+    "ref": 676,
+    "nombre": "Tester · Toy 2",
+    "marca": "Moschino",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Floral amaderada almizclada",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "casual",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "floral",
+      "almizclado",
+      "amaderado",
+      "frutal",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "manzana Granny Smith",
+      "mandarina",
+      "magnolia"
+    ],
+    "notas_corazon": [
+      "peonía",
+      "jazmín blanco",
+      "grosella blanca"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "sándalo",
+      "ámbar"
+    ],
+    "duracion": "moderada",
+    "proyeccion": "moderada",
+    "estela": "moderada",
+    "valoracion": null,
+    "descripcion español": "Toy 2 es una fragancia floral, amaderada y almizclada de Moschino; el tester mantiene la fragancia base EDP de 100 ml.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Moschino/Toy-2-52044.html",
+      "https://www.moschino.com/us_en/toy-2-eau-de-parfum-100-ml.html"
+    ],
+    "estado": "Coincidencia confirmada por marca, versión Toy 2 EDP y tamaño 100 ml; tester tratado como la fragancia base."
+  },
+  {
+    "ref": 677,
+    "nombre": "Tester · Toy Boy",
+    "marca": "Moschino",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "Amaderada especiada",
+    "genero": "Hombre",
+    "ocasiones": [
+      "noche",
+      "citas",
+      "otoño",
+      "invierno",
+      "ocasiones especiales"
+    ],
+    "acordes": [
+      "floral",
+      "especiado",
+      "amaderado",
+      "rosado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "pimienta rosa",
+      "pera verde",
+      "nuez moscada",
+      "elemi"
+    ],
+    "notas_corazon": [
+      "rosa",
+      "clavo",
+      "magnolia",
+      "lino"
+    ],
+    "notas_fondo": [
+      "vetiver de Haití",
+      "sándalo",
+      "ámbar",
+      "almizcle",
+      "cachemira"
+    ],
+    "duracion": "moderada a larga",
+    "proyeccion": "moderada a fuerte",
+    "estela": "moderada a fuerte",
+    "valoracion": null,
+    "descripcion español": "Toy Boy es el EDP masculino de Moschino, de perfil especiado, rosado y amaderado; el tester se interpreta como la presentación base de 100 ml.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Moschino/Toy-Boy-554.html",
+      "https://www.parfumo.com/Perfumes/Moschino/Toy_Boy"
+    ],
+    "estado": "Coincidencia confirmada por marca, versión Toy Boy EDP y tamaño 100 ml; tester tratado como la fragancia base."
+  },
+  {
+    "ref": 678,
+    "nombre": "Tester · Voyage",
+    "marca": "Nautica",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Amaderada acuática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "casual",
+      "verano",
+      "primavera"
+    ],
+    "acordes": [
+      "acuático",
+      "verde",
+      "afrutado",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "manzana verde",
+      "hojas verdes"
+    ],
+    "notas_corazon": [
+      "mimosa",
+      "flor de loto"
+    ],
+    "notas_fondo": [
+      "cedro",
+      "musgo de roble",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": "moderada",
+    "proyeccion": "moderada",
+    "estela": "moderada a íntima",
+    "valoracion": null,
+    "descripcion español": "Voyage es una EDT masculina fresca, acuática y amaderada de Nautica; el tester se refiere a la fragancia base de 100 ml.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Nautica/Nautica-Voyage-913.html",
+      "https://www.nautica.com/nautica-voyage-eau-de-toilette/"
+    ],
+    "estado": "Coincidencia confirmada por marca, versión Voyage EDT y tamaño 100 ml; tester tratado como la fragancia base."
+  },
+  {
+    "ref": 679,
+    "nombre": "Tester · Clasico",
+    "marca": "Nina Ricci",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 80,
+    "familia": "Floral especiada",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "ocasiones formales"
+    ],
+    "acordes": [
+      "floral",
+      "especiado",
+      "atalcado",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "durazno",
+      "bergamota",
+      "neroli",
+      "palisandro brasileño"
+    ],
+    "notas_corazon": [
+      "clavel",
+      "rosa",
+      "jazmín",
+      "gardenia",
+      "ylang-ylang",
+      "romero"
+    ],
+    "notas_fondo": [
+      "iris",
+      "sándalo",
+      "cedro",
+      "ámbar",
+      "almizcle",
+      "vainilla"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion español": "Fragancia floral especiada clásica de Nina Ricci. La ficha consultada de la fragancia base confirma L'Air du Temps EDT y su pirámide olfativa; no se encontró una ficha pública independiente del tester de 80 ml.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Nina-Ricci/L-Air-du-Temps-238.html",
+      "https://www.parfumo.com/Perfumes/Nina_Ricci/L_Air_du_Temps_Eau_de_Toilette"
+    ],
+    "estado": "Coincidencia de marca, versión y concentración confirmada por la fragancia base; el formato tester de 80 ml no quedó confirmado en una página pública y el rendimiento/valoración se dejan nulos."
+  },
+  {
+    "ref": 680,
+    "nombre": "Tester · Clasico Hombre",
+    "marca": "Victorinox",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "Aromática fougère",
+    "genero": "Masculino",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "aromático",
+      "cítrico",
+      "verde",
+      "amaderado",
+      "fresco especiado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "limón",
+      "lavanda",
+      "menta",
+      "notas verdes"
+    ],
+    "notas_corazon": [
+      "romero",
+      "geranio",
+      "flor de azahar",
+      "jengibre"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "cedro",
+      "ámbar",
+      "almizcle"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion español": "Swiss Army Classic es la fragancia masculina clásica de Victorinox en Eau de Toilette. Los datos corresponden a la fragancia base, no a una fórmula especial de tester.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Victorinox-Swiss-Army/Swiss-Army-Classic-5481.html",
+      "https://www.parfumo.com/Perfumes/Victorinox/Swiss_Army_Classic"
+    ],
+    "estado": "Coincidencia de marca, versión y concentración confirmada por la fragancia base; el tester de 100 ml no quedó verificable como presentación separada y el rendimiento/valoración se dejan nulos."
+  },
+  {
+    "ref": 681,
+    "nombre": "Tester · Leau De",
+    "marca": "Tous",
+    "concentracion": "Parfum",
+    "tamano_ml": 90,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion español": null,
+    "fuentes URL": [],
+    "estado": "No se pudo confirmar de forma fiable una ficha inequívoca para el nombre comercial 'Leau De Tous Parfum'; existen variantes Tous L'Eau/L'Eau de Tous y no se debe asignar notas o concentración sin distinguirlas. El tamaño 90 ml procede del registro suministrado, no de una página consultada."
+  },
+  {
+    "ref": 682,
+    "nombre": "Tester · Love Me Silver",
+    "marca": "Tous",
+    "concentracion": null,
+    "tamano_ml": 90,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion español": null,
+    "fuentes URL": [],
+    "estado": "La concentración está expresamente incierta y no se encontró una ficha inequívoca que permita separar LoveMe Silver de las variantes LoveMe/LoveMe The Silver; por ello no se asignan concentración, familia, género, notas ni rendimiento. El tamaño 90 ml procede del registro suministrado, no de una página consultada."
+  },
+  {
+    "ref": 683,
+    "nombre": "Tester · Touch Sensual",
+    "marca": "Tous",
+    "concentracion": null,
+    "tamano_ml": 100,
+    "familia": "floral afrutada",
+    "genero": "femenino",
+    "ocasiones": [],
+    "acordes": [
+      "afrutado",
+      "floral",
+      "amaderado",
+      "almizclado",
+      "avainillado"
+    ],
+    "notas_salida": [
+      "grosellas negras",
+      "frutos rojos",
+      "limón"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "violeta",
+      "flor de azahar"
+    ],
+    "notas_fondo": [
+      "vainilla",
+      "almizcle",
+      "cedro",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion español": "Fragancia Touch Sensual de Tous; se usa la fragancia base para identificar el tester. La concentración del tester no pudo confirmarse.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Tous/Touch-The-Original-For-Women-1043.html"
+    ],
+    "estado": "Coincidencia de marca, línea y tamaño solicitados; concentración incierta y no confirmada. Las páginas web no pudieron consultarse durante la investigación, por lo que los campos descriptivos requieren verificación."
+  },
+  {
+    "ref": 684,
+    "nombre": "Tester · Dylan Turquoise",
+    "marca": "Versace",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": "cítrica aromática",
+    "genero": "femenino",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "afrutado",
+      "floral",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "limón",
+      "pimienta rosa"
+    ],
+    "notas_corazon": [
+      "guayaba",
+      "fresia",
+      "grosella negra"
+    ],
+    "notas_fondo": [
+      "Clearwood",
+      "almizcle",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion español": "Dylan Turquoise de Versace en Eau de Toilette de 100 ml; para el tester se toma como referencia la fragancia base.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Versace/Dylan-Turquoise-61266.html",
+      "https://www.versace.com/us/en/women/accessories/fragrances/dylan-turquoise/"
+    ],
+    "estado": "Coincidencia confirmada por marca, versión/concentración y tamaño nominal; es tester. No se pudieron consultar las páginas por un error de acceso, así que duración, proyección, estela y valoración quedan sin confirmar."
+  },
+  {
+    "ref": 685,
+    "nombre": "Tester · Eros Flame",
+    "marca": "Versace",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 100,
+    "familia": "ámbar amaderada",
+    "genero": "masculino",
+    "ocasiones": [],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "aromático",
+      "especiado",
+      "avainillado",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "limón",
+      "naranja amarga",
+      "pimienta negra",
+      "romero",
+      "chinotto"
+    ],
+    "notas_corazon": [
+      "geranio",
+      "rosa",
+      "pimienta",
+      "romero"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "vainilla",
+      "sándalo",
+      "pachulí",
+      "musgo de roble"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion español": "Eros Flame de Versace en Eau de Parfum de 100 ml; para el tester se toma como referencia la fragancia base.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Versace/Eros-Flame-52180.html",
+      "https://www.versace.com/us/en/men/accessories/fragrances/eros-flame/"
+    ],
+    "estado": "Coincidencia confirmada por marca, versión/concentración y tamaño nominal; es tester. No se pudieron consultar las páginas por un error de acceso, así que duración, proyección, estela y valoración quedan sin confirmar."
+  }
+]
+

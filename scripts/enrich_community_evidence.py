@@ -10,7 +10,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 REVIEW_DATE = "2026-09-09"
-REJECTED_BATCH_REFS = {634}  # Research matched Moustache EDP, but the PDF row is EDT.
+REJECTED_BATCH_REFS = {
+    634,  # Research matched Moustache EDP, but the PDF row is EDT.
+    691, 692, 693,  # Ambiguous Tous labels cannot be tied safely to one edition.
+}
 
 REVIEWED = {
     1: {
@@ -701,6 +704,9 @@ def _merge_research_batches(records: dict[int, dict]) -> tuple[int, int]:
                     if source.get("titulo") != "Investigación olfativa"
                 ]
                 record["ficha_estado"] = "pendiente"
+                continue
+
+            if not evidence.get("fuentes"):
                 continue
 
             # Names, brands, concentrations and sizes always remain those from the PDF.

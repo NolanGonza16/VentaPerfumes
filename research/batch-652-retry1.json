@@ -1,0 +1,643 @@
+[
+  {
+    "ref": 652,
+    "nombre": "Corporal · Rome Mujer",
+    "marca": "Mast Perfume",
+    "concentracion": "Perfume corporal / body mist (concentración no publicada)",
+    "tamano_ml": 236,
+    "familia": null,
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "estado": "Parcial: marca, género, tipo y tamaño proceden del nombre del inventario; familia, notas, rendimiento y valoración no confirmados. No es posible identificar una fragancia base exacta sin fotografía, código de barras o fabricante/importador.",
+    "descripcion español": "Producto identificado por el nombre comercial y el tamaño del registro. No se encontró una ficha pública verificable que vincule inequívocamente este body mist Mast con una fragancia de diseñador o con una pirámide de notas; por ello no se sustituye por otra versión llamada Rome.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/",
+      "https://www.parfumo.com/",
+      "https://basenotes.com/"
+    ]
+  },
+  {
+    "ref": 653,
+    "nombre": "Corporal · Nino Variado",
+    "marca": "Por confirmar",
+    "concentracion": null,
+    "tamano_ml": null,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "estado": "No confirmado: referencia no única/surtida. Se requieren foto del envase o SKU y la variante exacta; no se sustituyó por productos Nino homónimos.",
+    "descripcion español": "La palabra «Variado» indica una referencia surtida y no una fragancia individual. No puede asignarse honestamente una base, concentración, tamaño ni notas sin conocer la variante concreta del surtido.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/",
+      "https://www.parfumo.com/",
+      "https://basenotes.com/"
+    ]
+  },
+  {
+    "ref": 654,
+    "nombre": "Corporal · Paris Hilton",
+    "marca": "Paris Hilton",
+    "concentracion": "Perfume corporal / body mist (concentración no publicada)",
+    "tamano_ml": 236,
+    "familia": "Floral frutal (atribuible a la línea Paris Hilton original; la correspondencia del corporal no está confirmada)",
+    "genero": "Mujer",
+    "ocasiones": [
+      "diario",
+      "primavera/verano"
+    ],
+    "acordes": [
+      "frutal",
+      "floral",
+      "almizclado",
+      "amaderado",
+      "empolvado"
+    ],
+    "notas_salida": [
+      "manzana",
+      "melón",
+      "durazno"
+    ],
+    "notas_corazon": [
+      "mimosa",
+      "jazmín",
+      "lirio de los valles",
+      "fresia"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "almizcle",
+      "ylang-ylang",
+      "musgo de roble"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "estado": "Parcial: tamaño, formato y marca del registro; familia y pirámide proceden de la Paris Hilton original y la identidad exacta del body mist no queda confirmada. No se debe tratar como EDP. Rendimiento y valoración del corporal no publicados/verificados.",
+    "descripcion español": "El registro parece corresponder al body mist de 8 oz/236 ml comercializado bajo Paris Hilton, pero las fuentes de perfumería describen principalmente el Eau de Parfum Paris Hilton (2004), no necesariamente el corporal. Las notas se incluyen como referencia de la fragancia original y no como confirmación de una edición distinta.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Paris-Hilton/Paris-Hilton-2004-621.html",
+      "https://www.parfumo.com/Perfumes/Paris_Hilton/Paris_Hilton",
+      "https://basenotes.com/fragrances/paris-hilton-by-paris-hilton-for-women.26120350"
+    ]
+  },
+  {
+    "ref": 655,
+    "nombre": "Corporal · Perry Ellis",
+    "marca": "Perry Ellis",
+    "concentracion": "Perfume corporal / body mist (concentración no publicada)",
+    "tamano_ml": 236,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "estado": "Parcial: marca, formato y tamaño proceden del registro; versión, género, familia, notas, rendimiento y valoración no confirmados. Se requiere foto, SKU o nombre completo (por ejemplo 360/360 Red) para identificar la fragancia base exacta.",
+    "descripcion español": "Perry Ellis tiene varias líneas y flankers (incluidas 360, 360 Red y Perry Ellis Men); «Perry Ellis corporal 236» no identifica cuál es la base. Asignar las notas de 360 sería sustituir una edición no confirmada, por lo que se dejan los campos olfativos vacíos.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/designers/Perry-Ellis.html",
+      "https://www.parfumo.com/Perfumes/Perry_Ellis",
+      "https://basenotes.com/brands/perry-ellis.1020/"
+    ]
+  },
+  {
+    "ref": 656,
+    "nombre": "Corporal · Victoria's Secret",
+    "marca": "Victoria's Secret",
+    "concentracion": "body mist / fragrance mist (concentración no publicada)",
+    "tamano_ml": 250,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "estado": "Parcial: marca, formato y tamaño confirmables por el enunciado, pero la variante exacta no está indicada; por rigor se dejan sin determinar familia, género, ocasiones, acordes, notas, rendimiento y valoración.",
+    "descripcion español": "Bruma corporal de Victoria's Secret de 250 ml. La referencia no incluye el nombre de la edición/aroma; la marca comercializa numerosas brumas de 250 ml y no es posible identificar la fragancia base exacta sin sustituirla por otra edición.",
+    "fuentes URL": [
+      "https://www.victoriassecret.com/us/vs/beauty-catalog/section/beauty-fragrance"
+    ]
+  },
+  {
+    "ref": 657,
+    "nombre": "Corporal · Victoria's Secret",
+    "marca": "Victoria's Secret",
+    "concentracion": "body mist / fragrance mist (concentración no publicada)",
+    "tamano_ml": null,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "estado": "Parcial: marca, formato y tamaño confirmables por el enunciado, pero la variante exacta no está indicada; por rigor se dejan sin determinar familia, género, ocasiones, acordes, notas, rendimiento y valoración.",
+    "descripcion español": "Bruma corporal de Victoria's Secret de 250 ml. La referencia no incluye el nombre de la edición/aroma; la marca comercializa numerosas brumas de 250 ml y no es posible identificar la fragancia base exacta sin sustituirla por otra edición.",
+    "fuentes URL": [
+      "https://www.victoriassecret.com/us/vs/beauty-catalog/section/beauty-fragrance"
+    ]
+  },
+  {
+    "ref": 658,
+    "nombre": "Corporal · Armaf",
+    "marca": "Armaf",
+    "concentracion": "Perfume corporal / body mist (concentración no publicada)",
+    "tamano_ml": 200,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "estado": "No confirmado: falta la variante exacta; se dejan vacíos familia, género, ocasiones, acordes, notas, rendimiento y valoración para no atribuir otra edición.",
+    "descripcion español": "La referencia identifica únicamente un corporal de Armaf de 200 ml; Armaf comercializa múltiples fragancias y no se puede determinar la edición o fragancia base exacta sin nombre completo, foto o código de barras.",
+    "fuentes URL": [
+      "https://armaf.com/",
+      "https://www.fragrantica.com/",
+      "https://www.parfumo.com/"
+    ]
+  },
+  {
+    "ref": 659,
+    "nombre": "Corporal · Play It Cool",
+    "marca": "Cristiano Ronaldo",
+    "concentracion": "body spray (fragancia base: Play It Cool Eau de Toilette; la concentración del spray no está publicada)",
+    "tamano_ml": 150,
+    "familia": "aromática amaderada",
+    "genero": "masculino",
+    "ocasiones": [
+      "diario",
+      "primavera/verano",
+      "tiempo cálido"
+    ],
+    "acordes": [
+      "cítrico",
+      "afrutado",
+      "aromático",
+      "especiado fresco",
+      "amaderado",
+      "almizclado",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "bergamota",
+      "mandarina",
+      "pera"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "cardamomo",
+      "hoja de violeta"
+    ],
+    "notas_fondo": [
+      "ámbar",
+      "haba tonka",
+      "almizcle",
+      "madera de gaiac"
+    ],
+    "duracion": "moderada; aproximadamente 3–5 horas (estimación de usuarios para la línea EDT, no una medición específica del body spray)",
+    "proyeccion": "moderada al inicio, luego cercana a la piel",
+    "estela": "moderada",
+    "valoracion": null,
+    "estado": "Parcial: tamaño y producto solicitados identificados; las notas proceden de la fragancia base Play It Cool EDT, mientras que la ficha pública específica del body spray no publica concentración, valoración ni rendimiento independiente.",
+    "descripcion español": "Desodorante/body spray de 150 ml de Cristiano Ronaldo Play It Cool. Se asocia a la composición de Play It Cool EDT: salida cítrica-afrutada, corazón aromático especiado y fondo amaderado almizclado. El rendimiento indicado es orientativo para la versión EDT y no debe confundirse con una ficha de medición específica del aerosol.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Cristiano-Ronaldo/Play-It-Cool-29589.html",
+      "https://www.parfumo.com/Perfumes/Cristiano_Ronaldo/Play_It_Cool",
+      "https://www.cristianoronaldo.com/"
+    ]
+  },
+  {
+    "ref": 660,
+    "nombre": "Corporal · Lattafa",
+    "marca": "Lattafa",
+    "concentracion": null,
+    "tamano_ml": 200,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "estado": "No confirmado: falta nombre de la fragancia/edición o código de barras; por ello se dejan sin completar las características olfativas.",
+    "descripcion español": "Referencia insuficiente para identificar el producto exacto: 'corporal Lattafa 200' no identifica una fragancia base concreta (Lattafa comercializa varios corporales y brumas de 200 ml). No se ha sustituido por otra edición.",
+    "fuentes URL": [
+      "https://lattafa-usa.com/",
+      "https://www.fragrantica.com/"
+    ]
+  },
+  {
+    "ref": 661,
+    "nombre": "Corporal · Maison Alhambra",
+    "marca": "Maison Alhambra",
+    "concentracion": null,
+    "tamano_ml": 200,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "estado": "No confirmado: falta nombre de la fragancia/edición o código de barras; por ello se dejan sin completar las características olfativas.",
+    "descripcion español": "Referencia insuficiente para identificar el producto exacto: Maison Alhambra tiene múltiples corporales/brumas y la descripción no aporta nombre de fragancia. No se ha asignado arbitrariamente una equivalencia o edición.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/",
+      "https://www.parfumo.com/"
+    ]
+  },
+  {
+    "ref": 662,
+    "nombre": "Altitude",
+    "marca": "Victorinox",
+    "concentracion": "Eau de Toilette (EDT)",
+    "tamano_ml": 100,
+    "familia": "Cítrica aromática",
+    "genero": "Hombre",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "fresco",
+      "verde"
+    ],
+    "notas_salida": [
+      "yuzu",
+      "bergamota",
+      "pomelo"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "salvia esclarea",
+      "geranio"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "vetiver",
+      "ámbar"
+    ],
+    "duracion": "Moderada (aprox. 4–6 horas; variable según piel)",
+    "proyeccion": "Moderada, más perceptible al inicio",
+    "estela": "Moderada a discreta",
+    "valoracion": null,
+    "estado": "Identificación de marca, versión EDT y tamaño confirmada por la referencia del producto; pirámide olfativa y rendimiento compilados de bases de perfumería, sin ficha oficial accesible durante la consulta.",
+    "descripcion español": "Fragancia masculina fresca y aromática de Victorinox, presentada como Eau de Toilette de 100 ml. Las notas y el rendimiento pueden variar por lote y piel.",
+    "fuentes URL": [
+      "https://www.victorinox.com/",
+      "https://www.fragrantica.com/search/?query=Victorinox%20Altitude",
+      "https://www.parfumo.com/Search/ perfumes?q=Victorinox%20Altitude"
+    ]
+  },
+  {
+    "ref": 663,
+    "nombre": "Sport Hombre",
+    "marca": "Victorinox",
+    "concentracion": "Eau de Toilette (EDT)",
+    "tamano_ml": 100,
+    "familia": "Cítrica aromática amaderada",
+    "genero": "Hombre",
+    "ocasiones": [
+      "deportivo",
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "fresco especiado",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "pomelo",
+      "mandarina",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "lavanda",
+      "romero",
+      "geranio"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": "Moderada (aprox. 4–6 horas; variable según piel)",
+    "proyeccion": "Moderada, más perceptible al inicio",
+    "estela": "Moderada a discreta",
+    "valoracion": null,
+    "estado": "Identificación de marca, versión EDT y tamaño confirmada por la referencia solicitada; notas y rendimiento compilados de bases de perfumería. La denominación comercial también aparece como Swiss Army Sport.",
+    "descripcion español": "Victorinox Swiss Army Sport para hombre, Eau de Toilette de 100 ml, de perfil fresco, limpio y deportivo.",
+    "fuentes URL": [
+      "https://www.victorinox.com/",
+      "https://www.fragrantica.com/search/?query=Victorinox%20Swiss%20Army%20Sport",
+      "https://www.parfumo.com/"
+    ]
+  },
+  {
+    "ref": 664,
+    "nombre": "Terre D Hermes",
+    "marca": "Hermès",
+    "concentracion": "Eau de Toilette (EDT)",
+    "tamano_ml": 100,
+    "familia": "Cítrica amaderada (woody citrus)",
+    "genero": "Masculino / unisex",
+    "ocasiones": [
+      "diario",
+      "oficina",
+      "primavera",
+      "verano",
+      "otoño",
+      "ocasiones formales"
+    ],
+    "acordes": [
+      "cítrico",
+      "amaderado",
+      "terroso",
+      "mineral",
+      "aromático",
+      "especiado",
+      "balsámico"
+    ],
+    "notas_salida": [
+      "naranja",
+      "pomelo (toronja)"
+    ],
+    "notas_corazon": [
+      "pimienta",
+      "pelargonio (geranio)",
+      "pedernal / acorde mineral"
+    ],
+    "notas_fondo": [
+      "vetiver",
+      "cedro",
+      "patchouli",
+      "benjuí",
+      "musgo de roble",
+      "almizcle blanco"
+    ],
+    "duracion": "Longevidad generalmente alta para un EDT: aproximadamente 7–10 horas, con variación según piel y lote.",
+    "proyeccion": "Moderada-alta al inicio; se vuelve moderada después de las primeras horas.",
+    "estela": "Moderada, limpia y perceptible; puede ser más intensa durante la apertura.",
+    "valoracion": "Muy alta; Fragrantica registra aproximadamente 4,4/5 (la cifra puede cambiar con nuevos votos).",
+    "estado": "Confirmado como Terre d’Hermès Eau de Toilette de Hermès, tamaño 100 ml; se excluyeron explícitamente las versiones Parfum, Eau Intense Vetiver y Eau Givrée. Las notas y el perfil están corroborados por las fichas de referencia. Duración, proyección, estela y valoración son promedios/comentarios comunitarios y pueden variar por piel, reformulación y fecha de consulta.",
+    "descripcion español": "La EDT original de Terre d’Hermès, no Parfum ni Eau Intense Vetiver: una composición cítrica-mineral y amaderada que contrasta naranja y pomelo con pimienta/pedernal, sobre vetiver, cedro, patchouli y benjuí. El producto oficial se comercializa en frasco de 100 ml.",
+    "fuentes URL": [
+      "https://www.hermes.com/us/en/product/terre-d-hermes-eau-de-toilette-V107354V0/",
+      "https://www.fragrantica.com/perfume/Hermes/Terre-d-Hermes-Eau-de-Toilette-17.html",
+      "https://www.parfumo.com/Perfumes/Hermes/Terre_d_Hermes_Eau_de_Toilette",
+      "https://basenotes.com/fragrances/terre-d-hermes-by-hermes.26120504"
+    ]
+  },
+  {
+    "ref": 665,
+    "nombre": "Tester · Ari",
+    "marca": "Ariana Grande",
+    "concentracion": "Eau de Parfum (EDP)",
+    "tamano_ml": 100,
+    "familia": "Floral afrutada gourmand",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "citas",
+      "ocio",
+      "otoño",
+      "invierno",
+      "noche"
+    ],
+    "acordes": [
+      "afrutado",
+      "dulce",
+      "floral",
+      "vainilla",
+      "almizclado",
+      "amaderado",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "pera",
+      "pomelo (toronja)",
+      "frambuesa"
+    ],
+    "notas_corazon": [
+      "rosa",
+      "orquídea de vainilla"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "malvavisco",
+      "maderas"
+    ],
+    "duracion": "Moderada: aproximadamente 4–7 horas según piel y aplicación; algunos usuarios reportan menos o más.",
+    "proyeccion": "Moderada al comienzo y baja a moderada al secar.",
+    "estela": "Moderada, dulce y afrutada; más cercana tras la primera fase.",
+    "valoracion": "Buena; Fragrantica registra aproximadamente 3,9/5 (la cifra puede cambiar con nuevos votos).",
+    "estado": "Base identificada y confirmada como Ari Eau de Parfum de Ariana Grande, 100 ml; se trataron tester y retail como la misma fragancia y se excluyeron flankers. La existencia de una unidad tester concreta de 100 ml depende del inventario del minorista. Las cifras de rendimiento y valoración son estimaciones comunitarias variables; las notas publicadas pueden presentar pequeñas diferencias de nomenclatura entre fichas.",
+    "descripcion español": "El tester corresponde a Ari de Ariana Grande, la fragancia base exacta solicitada: Ari Eau de Parfum, no Sweet Like Candy, Moonlight, Cloud ni una edición posterior. La presentación de 100 ml mantiene la misma fórmula olfativa que el producto regular; el tester normalmente cambia el embalaje y puede carecer de tapa, pero no constituye otra concentración.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Ariana-Grande/Ari-31558.html",
+      "https://www.parfumo.com/Perfumes/Ariana_Grande/Ari_Eau_de_Parfum",
+      "https://www.arianagrandefragrances.com/products/ari-eau-de-parfum",
+      "https://basenotes.com/fragrances/ari-by-ariana-grande.26158404"
+    ]
+  },
+  {
+    "ref": 666,
+    "nombre": "Tester · Mod Blush",
+    "marca": "Ariana Grande",
+    "concentracion": "Eau de Parfum (EDP)",
+    "tamano_ml": 100,
+    "familia": "Floral frutal almizclada",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano",
+      "citas"
+    ],
+    "acordes": [
+      "floral",
+      "frutal",
+      "cítrico",
+      "almizclado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "bergamota italiana",
+      "maracuyá",
+      "frambuesa"
+    ],
+    "notas_corazon": [
+      "magnolia",
+      "pera",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "ambreta (almizcle vegetal)",
+      "almizcle",
+      "sándalo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "estado": "Identidad, marca, concentración, tamaño y pirámide olfativa identificados para Mod Blush EDP; los datos de duración, proyección, estela y valoración no se consideraron confirmados porque dependen de comunidad/lote y las fuentes consultadas no pudieron verificarse en esta sesión.",
+    "descripcion español": "Fragancia floral-frutal de Ariana Grande de la línea MOD, con salida cítrica y de frutos rojos, corazón floral y un fondo suave de ambreta, almizcle y sándalo. El artículo solicitado es un tester de la presentación de 100 ml; el tester no cambia la fragancia base ni su concentración.",
+    "fuentes URL": [
+      "https://arianagrande.com/products/mod-blush-eau-de-parfum",
+      "https://www.fragrantica.com/perfume/Ariana-Grande/Mod-Blush-78736.html",
+      "https://www.parfumo.com/Perfumes/Ariana_Grande/Mod_Blush"
+    ]
+  },
+  {
+    "ref": 667,
+    "nombre": "Tester · Thank U Next",
+    "marca": "Ariana Grande",
+    "concentracion": "Eau de Parfum (EDP)",
+    "tamano_ml": 100,
+    "familia": "Floral frutal gourmand",
+    "genero": "Femenino",
+    "ocasiones": [
+      "diario",
+      "otoño",
+      "invierno",
+      "citas",
+      "noche"
+    ],
+    "acordes": [
+      "frutal",
+      "dulce",
+      "gourmand",
+      "floral",
+      "almizclado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "pera",
+      "frambuesa"
+    ],
+    "notas_corazon": [
+      "coco",
+      "rosa rosada"
+    ],
+    "notas_fondo": [
+      "macaron",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "estado": "Identidad, versión EDP, marca, tamaño y notas identificados; se excluyeron explícitamente 2.0 y productos corporales. Duración, proyección, estela y valoración quedan null por falta de confirmación verificable en esta sesión.",
+    "descripcion español": "Ariana Grande Thank U, Next EDP, una composición dulce floral-frutal con pera y frambuesa, corazón de coco y rosa, y fondo gourmand de macaron con almizcle y ámbar. El producto pedido es tester de 100 ml y corresponde a la versión EDP original, no a Thank U, Next 2.0 ni a una bruma corporal.",
+    "fuentes URL": [
+      "https://arianagrande.com/products/thank-u-next-eau-de-parfum",
+      "https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-55675.html",
+      "https://www.parfumo.com/Perfumes/Ariana_Grande/Thank_U_Next"
+    ]
+  },
+  {
+    "ref": 668,
+    "nombre": "Tester · Fantasy Midnight",
+    "marca": "Britney Spears",
+    "concentracion": "Eau de Parfum (EDP)",
+    "tamano_ml": 100,
+    "familia": "Floral frutal dulce",
+    "genero": "Femenino",
+    "ocasiones": [
+      "noche",
+      "otoño",
+      "invierno",
+      "citas"
+    ],
+    "acordes": [
+      "frutal",
+      "floral",
+      "dulce",
+      "avainillado",
+      "almizclado",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "frangipani",
+      "cereza negra",
+      "frambuesa"
+    ],
+    "notas_corazon": [
+      "orquídea",
+      "fresia",
+      "lirio de noche"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "ámbar",
+      "vainilla"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "estado": "Identidad, marca, versión EDP, tamaño y pirámide olfativa identificados; se mantuvo separado de otras ediciones Fantasy. Duración, proyección, estela y valoración quedan null al no contar con confirmación verificable y consistente en esta sesión.",
+    "descripcion español": "Fantasy Midnight de Britney Spears, EDP floral-frutal de perfil nocturno: frutas oscuras y frangipani en la salida, flores blancas y orquídea en el corazón, y un fondo dulce de vainilla, ámbar y almizcle. El artículo se trata como tester de la presentación EDP de 100 ml, no como Fantasy original, Fantasy Intimate Edition ni body mist.",
+    "fuentes URL": [
+      "https://www.fragrantica.com/perfume/Britney-Spears/Fantasy-Midnight-2356.html",
+      "https://www.parfumo.com/Perfumes/Britney_Spears/Fantasy_Midnight",
+      "https://basenotes.com/fragrances/fantasy-midnight-by-britney-spears.26120414"
+    ]
+  }
+]
+

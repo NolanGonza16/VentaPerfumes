@@ -39429,26 +39429,72 @@
       "precio_crc": 31450,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Aromática cítrica",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "limón",
+        "bergamota",
+        "neroli",
+        "rosa de mayo"
+      ],
+      "notas_corazon": [
+        "jacinto",
+        "salvia esclarea",
+        "cedro",
+        "geranio"
+      ],
+      "notas_fondo": [
+        "haba tonka",
+        "almizcle",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Tester de la misma fragancia Versace Pour Homme Eau de Toilette; el formato tester cambia principalmente el acondicionamiento y no constituye una edición olfativa distinta. El tamaño concreto del artículo asignado no quedó confirmado.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Versace/Versace-Pour-Homme-2318.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.versace.com/us/en/men/accessories/fragrances/versace-pour-homme/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1686,
       "sku": "AGOSTO-2026-0686",
       "tipo_producto": "Tester",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 686,
       "presentacion_proveedor": "TESTER VERSACE POUR HOMME EDT 100ML"
     },
@@ -39459,23 +39505,74 @@
       "precio_crc": 24650,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Aromática verde",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "diario",
+        "primavera",
+        "verano"
+      ],
+      "acordes": [
+        {
+          "nombre": "verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "menta",
+        "bergamota",
+        "lavanda",
+        "pomelo",
+        "arándano"
+      ],
+      "notas_corazon": [
+        "manzana Granny Smith",
+        "rosa",
+        "rosa amarilla",
+        "notas verdes"
+      ],
+      "notas_fondo": [
+        "flor de algodón",
+        "cactus",
+        "ámbar",
+        "notas amaderadas"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Tommy es la fragancia masculina original de Tommy Hilfiger en concentración Eau de Toilette. No se asigna tamaño porque no fue confirmado en una ficha verificable del artículo.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Tommy-Hilfiget_r.jpg?v=1571609943",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/tommy-hilfiger",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Tommy-Hilfiger/Tommy-312.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Tommy_Hilfiger/Tommy",
           "fecha": "2026-09-09"
         }
       ],
@@ -39495,26 +39592,69 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral afrutada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "diario"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mandarina",
+        "neroli",
+        "bergamota"
+      ],
+      "notas_corazon": [
+        "flor de azahar",
+        "manzana",
+        "pera",
+        "rosa"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "petitgrain",
+        "cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Colonia infantil Tous Baby en versión sin alcohol, de perfil cítrico-floral y unisex. Se distingue de Tous Baby Eau de Cologne por la indicación expresa de ausencia de alcohol.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.tous.com/es-es/perfume-baby-cologne-sin-alcohol/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Tous/Tous-Baby-3918.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1688,
       "sku": "AGOSTO-2026-0688",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 688,
       "presentacion_proveedor": "TOUS BABY COLOGNE SIN ALCOHOL 100ML"
     },
@@ -39525,26 +39665,69 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Cologne",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral afrutada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "diario"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "mandarina",
+        "neroli",
+        "bergamota"
+      ],
+      "notas_corazon": [
+        "flor de azahar",
+        "manzana",
+        "pera",
+        "rosa"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "petitgrain",
+        "cedro"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Tous Baby Eau de Cologne, la versión con concentración de colonia de la fragancia infantil Baby. No debe confundirse con la presentación Baby Cologne Sin Alcohol.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.tous.com/es-es/perfume-baby-eau-de-cologne/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Tous/Tous-Baby-3918.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1689,
       "sku": "AGOSTO-2026-0689",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 689,
       "presentacion_proveedor": "TOUS BABY EAU DE COLOGNE EDC 100ML"
     },
@@ -39556,8 +39739,10 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Cologne",
       "familia": null,
-      "genero": null,
-      "ocasiones": [],
+      "genero": "Unisex",
+      "ocasiones": [
+        "diario"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -39566,15 +39751,31 @@
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Tous Baby Pink Friends en Eau de Toilette, una edición diferenciada de Tous Baby. No se consignan familia, acordes ni notas porque no se encontró una pirámide olfativa verificable específica para esta edición.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.tous.com/es-es/perfume-baby-pink-friends/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/search/?query=Tous%20Baby%20Pink%20Friends",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Search/Perfumes?query=Tous%20Baby%20Pink%20Friends",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1690,
       "sku": "AGOSTO-2026-0690",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 690,
       "presentacion_proveedor": "TOUS BABY PINK FRIENDS EDC 100ML"
     },
@@ -39676,7 +39877,7 @@
       "tamano_ml": 90,
       "concentracion": "Eau de Parfum",
       "familia": null,
-      "genero": null,
+      "genero": "Mujer",
       "ocasiones": [],
       "acordes": [],
       "notas_salida": [],
@@ -39686,15 +39887,21 @@
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "TOUS LoveMe en concentración Eau de Parfum. El tamaño y el resto de características no se consignan al no estar confirmados por una ficha accesible.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.tous.com/es-es/perfumes",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1694,
       "sku": "AGOSTO-2026-0694",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 694,
       "presentacion_proveedor": "TOUS LOVE ME EDP 90ML"
     },
@@ -39716,15 +39923,21 @@
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Variante LoveMe identificada por el descriptor Emerald (esmeralda). No se afirma una concentración o nombre extendido —por ejemplo, Elixir— sin confirmación documental específica.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.tous.com/es-es/perfumes",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1695,
       "sku": "AGOSTO-2026-0695",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 695,
       "presentacion_proveedor": "TOUS LOVE ME EMERALD 90ML"
     },
@@ -39746,15 +39959,21 @@
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia TOUS Oh! identificada por su nombre de línea. La concentración, tamaño y características olfativas no se consignan por falta de confirmación verificable.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.tous.com/es-es/perfumes",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1696,
       "sku": "AGOSTO-2026-0696",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 696,
       "presentacion_proveedor": "TOUS OH EDP 100ML"
     },
@@ -39765,26 +39984,70 @@
       "precio_crc": 32300,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "grosella negra",
+        "fresia",
+        "lirio"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "rosa",
+        "flor de azahar"
+      ],
+      "notas_fondo": [
+        "almizcle blanco",
+        "cedro",
+        "almendra"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia floral frutal de Tous comercializada como Eau de Toilette. El tamaño concreto de la unidad asignada no queda confirmado por las fuentes consultadas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Tous/Touch-1006.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.tous.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1697,
       "sku": "AGOSTO-2026-0697",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 697,
       "presentacion_proveedor": "TOUS TOUCH EDT 100ML"
     },
@@ -39806,15 +40069,26 @@
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "No se han podido confirmar con suficiente seguridad en las fuentes accesibles los datos de pirámide olfativa, familia, género, rendimiento, valoración ni el tamaño exacto de la presentación.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Tous/Your-Powers-78003.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.tous.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1698,
       "sku": "AGOSTO-2026-0698",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 698,
       "presentacion_proveedor": "TOUS YOUR POWERS EDT 90ML"
     },
@@ -39825,26 +40099,78 @@
       "precio_crc": 17000,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "grosella negra",
+        "melocotón",
+        "cilantro",
+        "pomelo",
+        "piña"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "rosa",
+        "lirio",
+        "violeta"
+      ],
+      "notas_fondo": [
+        "sándalo",
+        "almizcle",
+        "vainilla",
+        "ámbar"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Tribu es una fragancia floral frutal de Benetton en concentración Eau de Toilette. La presentación exacta asignada no pudo verificarse.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Benetton/Tribu-637.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://world.benetton.com/",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1699,
       "sku": "AGOSTO-2026-0699",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 699,
       "presentacion_proveedor": "UNITED COLORS TRIBU EDT 100ML"
     },
@@ -39855,23 +40181,70 @@
       "precio_crc": 105400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "kiwi",
+        "naranja brasileña",
+        "bergamota"
+      ],
+      "notas_corazon": [
+        "jazmín absoluto",
+        "rosa",
+        "ambreta"
+      ],
+      "notas_fondo": [
+        "almizcle blanco",
+        "cedro de Texas",
+        "musgo"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Eau de Parfum floral frutal de Valentino, presentado bajo la línea Donna Born In Roma Coral Fantasy. No se confirma aquí el tamaño concreto de la unidad.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/5TSBZ.png?v=1719957632",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/valentino-donna-born-in-roma-coral-fantasy",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Valentino/Donna-Born-In-Roma-Coral-Fantasy-68768.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.valentino-beauty.us/fragrance/women-s-fragrances/donna-born-in-roma-coral-fantasy-eau-de-parfum.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -39891,23 +40264,69 @@
       "precio_crc": 101150,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral ambarada",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "vainilla",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "grosella negra",
+        "pimienta rosa",
+        "bergamota"
+      ],
+      "notas_corazon": [
+        "jazmín sambac",
+        "té de jazmín"
+      ],
+      "notas_fondo": [
+        "vainilla bourbon",
+        "cashmeran",
+        "madera de guayaco"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Eau de Parfum floral ambarada de Valentino con jazmín y vainilla bourbon como elementos centrales. El tamaño de la unidad no está confirmado.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Valentino-Donna-Born-In-Roma.png?v=1626101679",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/valentino-donna-born-in-roma",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Valentino/Donna-Born-In-Roma-55805.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.valentino-beauty.us/fragrance/women-s-fragrances/donna-born-in-roma-eau-de-parfum.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -39938,15 +40357,26 @@
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "La versión asignada es Donna Born In Roma Extradose y se identifica como Parfum. No se afirma un tamaño ni una pirámide olfativa sin una ficha oficial o de minorista reconocido que los confirme inequívocamente.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Valentino/Donna-Born-In-Roma-Extradose-88468.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.valentino-beauty.us/fragrance/women-s-fragrances.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1702,
       "sku": "AGOSTO-2026-0702",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 702,
       "presentacion_proveedor": "VALENTINO DONNA BORN IN ROMA EXTRADOSE PARFUM 100ML"
     },
@@ -40119,26 +40549,65 @@
       "precio_crc": 62900,
       "tamano_ml": 90,
       "concentracion": "Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "yuzu",
+        "granada",
+        "acorde helado"
+      ],
+      "notas_corazon": [
+        "peonía",
+        "magnolia",
+        "flor de loto"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "ámbar",
+        "caoba"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia femenina floral y afrutada de Versace, presentada como Eau de Toilette",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Versace/Bright-Crystal-632.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1708,
       "sku": "AGOSTO-2026-0708",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "parcial",
       "origen_ref": 708,
       "presentacion_proveedor": "VERSACE BRIGHT CRYSTAL PARFUM 90ML"
     },
@@ -40179,23 +40648,65 @@
       "precio_crc": 51850,
       "tamano_ml": 90,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Ámbar floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado cálido",
+          "emoji": ""
+        },
+        {
+          "nombre": "balsámico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "pimienta",
+        "jengibre",
+        "cardamomo"
+      ],
+      "notas_corazon": [
+        "coco",
+        "gardenia",
+        "peonía"
+      ],
+      "notas_fondo": [
+        "ámbar",
+        "sándalo",
+        "almizcle"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Perfume femenino de Versace con una composición floral ambarada y especiada",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/VERSACE-CRYSTAL-NOIR-Edt.png?v=1656920110",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/versace-crystal-noir",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Versace/Crystal-Noir-631.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -40215,23 +40726,70 @@
       "precio_crc": 46750,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "manzana",
+        "grosella negra",
+        "trébol",
+        "nomeolvides",
+        "shiso"
+      ],
+      "notas_corazon": [
+        "rosa",
+        "petalia",
+        "durazno",
+        "rosalina"
+      ],
+      "notas_fondo": [
+        "ambroxan",
+        "almizcle",
+        "pachulí",
+        "styrax",
+        "maderas blancas"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia femenina de Versace de perfil floral, frutal y amaderado",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/res_2ed33de8a4322283ce2802de5d636c73_full.jpg?v=1571609977",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/versace-dylan-blue-1",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Versace/Dylan-Blue-Pour-Femme-42054.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -40251,23 +40809,69 @@
       "precio_crc": 45050,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Aromática fougère",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "especiado fresco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "bergamota",
+        "pomelo",
+        "hoja de higuera",
+        "ambroxan"
+      ],
+      "notas_corazon": [
+        "pachulí",
+        "violeta",
+        "papirus",
+        "pimienta negra",
+        "ambroxan"
+      ],
+      "notas_fondo": [
+        "almizcle",
+        "haba tonka",
+        "azafrán",
+        "incienso"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia masculina aromática de Versace con facetas cítricas, acuáticas y amaderadas",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Versace-Dylan-Blue.png?v=1571609946",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/versace-dylan-blue",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Versace/Dylan-Blue-39184.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -40287,23 +40891,66 @@
       "precio_crc": 51000,
       "tamano_ml": null,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "limón",
+        "mandarina",
+        "pimienta rosa",
+        "grosella negra"
+      ],
+      "notas_corazon": [
+        "guayaba",
+        "fresia",
+        "jazmín"
+      ],
+      "notas_fondo": [
+        "maderas",
+        "almizcle",
+        "Clearwood"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Eau de Toilette femenina de Versace, fresca, cítrica y floral",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Versace-Dylan-Turquoise.png?v=1636385873",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/versace-dylan-turquoise",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Versace/Dylan-Turquoise-62687.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -40359,23 +41006,59 @@
       "precio_crc": 55250,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Cítrica aromática",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "bergamota",
+        "naranja sanguina",
+        "limón",
+        "mandarina",
+        "lima",
+        "pomelo"
+      ],
+      "notas_corazon": [
+        "pimienta rosa",
+        "grosella negra"
+      ],
+      "notas_fondo": [
+        "ámbar blanco",
+        "almizcle",
+        "pachulí"
+      ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Fragancia masculina de Versace centrada en un acorde cítrico y aromático",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Eros-energy.png?v=1730460523",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
           "url": "https://perfumeonline.ca/products/eros-energy",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Versace/Eros-Energy-90294.html",
           "fecha": "2026-09-09"
         }
       ],

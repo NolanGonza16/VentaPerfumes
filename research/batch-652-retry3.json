@@ -1,0 +1,571 @@
+[
+  {
+    "ref": 686,
+    "nombre": "Pour Homme (tester)",
+    "marca": "Versace",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": null,
+    "familia": "Aromática cítrica",
+    "genero": "Masculino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "cítrico",
+      "aromático",
+      "amaderado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "limón",
+      "bergamota",
+      "neroli",
+      "rosa de mayo"
+    ],
+    "notas_corazon": [
+      "jacinto",
+      "salvia esclarea",
+      "cedro",
+      "geranio"
+    ],
+    "notas_fondo": [
+      "haba tonka",
+      "almizcle",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Tester de la misma fragancia Versace Pour Homme Eau de Toilette; el formato tester cambia principalmente el acondicionamiento y no constituye una edición olfativa distinta. El tamaño concreto del artículo asignado no quedó confirmado.",
+    "fuentes": [
+      "https://www.fragrantica.es/perfume/Versace/Versace-Pour-Homme-2318.html",
+      "https://www.versace.com/us/en/men/accessories/fragrances/versace-pour-homme/"
+    ],
+    "estado": "Parcialmente confirmado: concentración, identidad y pirámide corresponden a Pour Homme; no se confirmó el tamaño del tester ni métricas de rendimiento del anuncio concreto."
+  },
+  {
+    "ref": 687,
+    "nombre": "Tommy",
+    "marca": "Tommy Hilfiger",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": null,
+    "familia": "Aromática verde",
+    "genero": "Masculino",
+    "ocasiones": [
+      "diario",
+      "primavera",
+      "verano"
+    ],
+    "acordes": [
+      "verde",
+      "cítrico",
+      "aromático",
+      "afrutado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "menta",
+      "bergamota",
+      "lavanda",
+      "pomelo",
+      "arándano"
+    ],
+    "notas_corazon": [
+      "manzana Granny Smith",
+      "rosa",
+      "rosa amarilla",
+      "notas verdes"
+    ],
+    "notas_fondo": [
+      "flor de algodón",
+      "cactus",
+      "ámbar",
+      "notas amaderadas"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Tommy es la fragancia masculina original de Tommy Hilfiger en concentración Eau de Toilette. No se asigna tamaño porque no fue confirmado en una ficha verificable del artículo.",
+    "fuentes": [
+      "https://www.fragrantica.es/perfume/Tommy-Hilfiger/Tommy-312.html",
+      "https://www.parfumo.com/Perfumes/Tommy_Hilfiger/Tommy"
+    ],
+    "estado": "Parcialmente confirmado: la identidad, concentración y notas son las de Tommy EDT; tamaño, valoración y rendimiento no confirmados."
+  },
+  {
+    "ref": 688,
+    "nombre": "Baby Cologne Sin Alcohol",
+    "marca": "Tous",
+    "concentracion": "Colonia sin alcohol",
+    "tamano_ml": 100,
+    "familia": "Floral afrutada",
+    "genero": "Unisex",
+    "ocasiones": [
+      "diario"
+    ],
+    "acordes": [
+      "cítrico",
+      "floral",
+      "afrutado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "neroli",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "flor de azahar",
+      "manzana",
+      "pera",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "petitgrain",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Colonia infantil Tous Baby en versión sin alcohol, de perfil cítrico-floral y unisex. Se distingue de Tous Baby Eau de Cologne por la indicación expresa de ausencia de alcohol.",
+    "fuentes": [
+      "https://www.tous.com/es-es/perfume-baby-cologne-sin-alcohol/",
+      "https://www.fragrantica.es/perfume/Tous/Tous-Baby-3918.html"
+    ],
+    "estado": "Parcialmente confirmado: versión sin alcohol y tamaño de 100 ml; la pirámide procede de la familia Tous Baby y no se confirmó una ficha independiente de esta variante."
+  },
+  {
+    "ref": 689,
+    "nombre": "Baby Eau de Cologne",
+    "marca": "Tous",
+    "concentracion": "Eau de Cologne",
+    "tamano_ml": 100,
+    "familia": "Floral afrutada",
+    "genero": "Unisex",
+    "ocasiones": [
+      "diario"
+    ],
+    "acordes": [
+      "cítrico",
+      "floral",
+      "afrutado",
+      "almizclado"
+    ],
+    "notas_salida": [
+      "mandarina",
+      "neroli",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "flor de azahar",
+      "manzana",
+      "pera",
+      "rosa"
+    ],
+    "notas_fondo": [
+      "almizcle",
+      "petitgrain",
+      "cedro"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Tous Baby Eau de Cologne, la versión con concentración de colonia de la fragancia infantil Baby. No debe confundirse con la presentación Baby Cologne Sin Alcohol.",
+    "fuentes": [
+      "https://www.tous.com/es-es/perfume-baby-eau-de-cologne/",
+      "https://www.fragrantica.es/perfume/Tous/Tous-Baby-3918.html"
+    ],
+    "estado": "Parcialmente confirmado: versión Eau de Cologne y tamaño de 100 ml; rendimiento y valoración no confirmados."
+  },
+  {
+    "ref": 690,
+    "nombre": "Baby Pink Friends",
+    "marca": "Tous",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 100,
+    "familia": null,
+    "genero": "Unisex",
+    "ocasiones": [
+      "diario"
+    ],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Tous Baby Pink Friends en Eau de Toilette, una edición diferenciada de Tous Baby. No se consignan familia, acordes ni notas porque no se encontró una pirámide olfativa verificable específica para esta edición.",
+    "fuentes": [
+      "https://www.tous.com/es-es/perfume-baby-pink-friends/",
+      "https://www.fragrantica.es/search/?query=Tous%20Baby%20Pink%20Friends",
+      "https://www.parfumo.com/Search/Perfumes?query=Tous%20Baby%20Pink%20Friends"
+    ],
+    "estado": "Parcialmente confirmado: nombre, marca, versión Eau de Toilette y tamaño de 100 ml; notas y perfil específico de Pink Friends no confirmados, por lo que se dejan vacíos."
+  },
+  {
+    "ref": 691,
+    "nombre": "TOUS Gold Eau de Parfum",
+    "marca": "TOUS",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": 90,
+    "familia": "Floral",
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia TOUS Gold en concentración Eau de Parfum y presentación de 90 ml. La variante dorada se identifica oficialmente como Gold; no se consignan pirámide olfativa ni rendimiento sin una fuente verificable disponible.",
+    "fuentes": [
+      "https://www.tous.com/es-es/perfumes"
+    ],
+    "estado": "Identificados marca, variante, concentración y tamaño a partir de la asignación; los demás atributos no confirmados se dejan nulos o vacíos. No fue posible validar una ficha oficial accesible durante la consulta."
+  },
+  {
+    "ref": 692,
+    "nombre": "TOUS Silver Eau de Toilette",
+    "marca": "TOUS",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": 90,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia TOUS Silver en concentración Eau de Toilette y presentación de 90 ml. La variante plateada se identifica oficialmente como Silver; no se añaden notas o rendimiento no confirmados.",
+    "fuentes": [
+      "https://www.tous.com/es-es/perfumes"
+    ],
+    "estado": "Identificados marca, variante, concentración y tamaño a partir de la asignación; familia, notas, rendimiento y valoración no confirmados."
+  },
+  {
+    "ref": 693,
+    "nombre": "TOUS Kids Eau de Toilette",
+    "marca": "TOUS",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": null,
+    "familia": null,
+    "genero": "Infantil",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia infantil de TOUS asociada al oso (Kids Bear). La concentración se consigna como Eau de Toilette; el tamaño exacto y la pirámide olfativa no están confirmados.",
+    "fuentes": [
+      "https://www.tous.com/es-es/perfumes"
+    ],
+    "estado": "El nombre comercial resumido Kids Bear no permite confirmar por sí solo una variante oficial única ni el tamaño; se mantienen nulos los campos no verificables."
+  },
+  {
+    "ref": 694,
+    "nombre": "TOUS LoveMe Eau de Parfum",
+    "marca": "TOUS",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": null,
+    "familia": null,
+    "genero": "Mujer",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "TOUS LoveMe en concentración Eau de Parfum. El tamaño y el resto de características no se consignan al no estar confirmados por una ficha accesible.",
+    "fuentes": [
+      "https://www.tous.com/es-es/perfumes"
+    ],
+    "estado": "Variante y concentración identificadas; tamaño, notas, acordes, rendimiento y valoración no confirmados."
+  },
+  {
+    "ref": 695,
+    "nombre": "TOUS LoveMe Emerald",
+    "marca": "TOUS",
+    "concentracion": null,
+    "tamano_ml": null,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Variante LoveMe identificada por el descriptor Emerald (esmeralda). No se afirma una concentración o nombre extendido —por ejemplo, Elixir— sin confirmación documental específica.",
+    "fuentes": [
+      "https://www.tous.com/es-es/perfumes"
+    ],
+    "estado": "La variante Emerald está indicada en la solicitud, pero no se pudo confirmar el nombre oficial completo, concentración ni tamaño; todos los atributos restantes quedan sin confirmar."
+  },
+  {
+    "ref": 696,
+    "nombre": "TOUS Oh!",
+    "marca": "TOUS",
+    "concentracion": null,
+    "tamano_ml": null,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia TOUS Oh! identificada por su nombre de línea. La concentración, tamaño y características olfativas no se consignan por falta de confirmación verificable.",
+    "fuentes": [
+      "https://www.tous.com/es-es/perfumes"
+    ],
+    "estado": "Nombre y marca tomados de la asignación; concentración, tamaño, notas, rendimiento y valoración no confirmados."
+  },
+  {
+    "ref": 697,
+    "nombre": "Touch",
+    "marca": "Tous",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": null,
+    "familia": "Floral frutal",
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "frutal",
+      "almizclado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "grosella negra",
+      "fresia",
+      "lirio"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "rosa",
+      "flor de azahar"
+    ],
+    "notas_fondo": [
+      "almizcle blanco",
+      "cedro",
+      "almendra"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Fragancia floral frutal de Tous comercializada como Eau de Toilette. El tamaño concreto de la unidad asignada no queda confirmado por las fuentes consultadas.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Tous/Touch-1006.html",
+      "https://www.tous.com/"
+    ],
+    "estado": "Parcialmente confirmado: marca, nombre y concentración identificados; tamaño, rendimiento y valoración no confirmados de forma verificable."
+  },
+  {
+    "ref": 698,
+    "nombre": "Your Powers",
+    "marca": "Tous",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": null,
+    "familia": null,
+    "genero": null,
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "No se han podido confirmar con suficiente seguridad en las fuentes accesibles los datos de pirámide olfativa, familia, género, rendimiento, valoración ni el tamaño exacto de la presentación.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Tous/Your-Powers-78003.html",
+      "https://www.tous.com/"
+    ],
+    "estado": "Parcialmente confirmado: nombre, marca y versión Eau de Parfum; tamaño y demás atributos no confirmados."
+  },
+  {
+    "ref": 699,
+    "nombre": "Tribu",
+    "marca": "Benetton",
+    "concentracion": "Eau de Toilette",
+    "tamano_ml": null,
+    "familia": "Floral frutal",
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [
+      "frutal",
+      "floral",
+      "amaderado",
+      "almizclado",
+      "cítrico"
+    ],
+    "notas_salida": [
+      "grosella negra",
+      "melocotón",
+      "cilantro",
+      "pomelo",
+      "piña"
+    ],
+    "notas_corazon": [
+      "jazmín",
+      "rosa",
+      "lirio",
+      "violeta"
+    ],
+    "notas_fondo": [
+      "sándalo",
+      "almizcle",
+      "vainilla",
+      "ámbar"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Tribu es una fragancia floral frutal de Benetton en concentración Eau de Toilette. La presentación exacta asignada no pudo verificarse.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Benetton/Tribu-637.html",
+      "https://world.benetton.com/"
+    ],
+    "estado": "Parcialmente confirmado: identidad, concentración y pirámide general; tamaño, rendimiento y valoración no confirmados."
+  },
+  {
+    "ref": 700,
+    "nombre": "Donna Born In Roma Coral Fantasy",
+    "marca": "Valentino",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": null,
+    "familia": "Floral frutal",
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [
+      "frutal",
+      "floral",
+      "cítrico",
+      "almizclado",
+      "amaderado"
+    ],
+    "notas_salida": [
+      "kiwi",
+      "naranja brasileña",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "jazmín absoluto",
+      "rosa",
+      "ambreta"
+    ],
+    "notas_fondo": [
+      "almizcle blanco",
+      "cedro de Texas",
+      "musgo"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Parfum floral frutal de Valentino, presentado bajo la línea Donna Born In Roma Coral Fantasy. No se confirma aquí el tamaño concreto de la unidad.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Valentino/Donna-Born-In-Roma-Coral-Fantasy-68768.html",
+      "https://www.valentino-beauty.us/fragrance/women-s-fragrances/donna-born-in-roma-coral-fantasy-eau-de-parfum.html"
+    ],
+    "estado": "Parcialmente confirmado: marca, nombre, concentración y notas; tamaño exacto, rendimiento y valoración no confirmados."
+  },
+  {
+    "ref": 701,
+    "nombre": "Donna Born In Roma",
+    "marca": "Valentino",
+    "concentracion": "Eau de Parfum",
+    "tamano_ml": null,
+    "familia": "Floral ambarada",
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [
+      "floral",
+      "vainilla",
+      "amaderado",
+      "afrutado",
+      "ámbar"
+    ],
+    "notas_salida": [
+      "grosella negra",
+      "pimienta rosa",
+      "bergamota"
+    ],
+    "notas_corazon": [
+      "jazmín sambac",
+      "té de jazmín"
+    ],
+    "notas_fondo": [
+      "vainilla bourbon",
+      "cashmeran",
+      "madera de guayaco"
+    ],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "Eau de Parfum floral ambarada de Valentino con jazmín y vainilla bourbon como elementos centrales. El tamaño de la unidad no está confirmado.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Valentino/Donna-Born-In-Roma-55805.html",
+      "https://www.valentino-beauty.us/fragrance/women-s-fragrances/donna-born-in-roma-eau-de-parfum.html"
+    ],
+    "estado": "Parcialmente confirmado: identidad, concentración y notas; tamaño exacto, rendimiento y valoración no confirmados."
+  },
+  {
+    "ref": 702,
+    "nombre": "Donna Born In Roma Extradose",
+    "marca": "Valentino",
+    "concentracion": "Parfum",
+    "tamano_ml": null,
+    "familia": null,
+    "genero": "Femenino",
+    "ocasiones": [],
+    "acordes": [],
+    "notas_salida": [],
+    "notas_corazon": [],
+    "notas_fondo": [],
+    "duracion": null,
+    "proyeccion": null,
+    "estela": null,
+    "valoracion": null,
+    "descripcion": "La versión asignada es Donna Born In Roma Extradose y se identifica como Parfum. No se afirma un tamaño ni una pirámide olfativa sin una ficha oficial o de minorista reconocido que los confirme inequívocamente.",
+    "fuentes": [
+      "https://www.fragrantica.com/perfume/Valentino/Donna-Born-In-Roma-Extradose-88468.html",
+      "https://www.valentino-beauty.us/fragrance/women-s-fragrances.html"
+    ],
+    "estado": "Críticamente incompleto: concentración Parfum identificada, pero el tamaño exacto (incluido si es 50 o 100 ml), notas, familia, rendimiento y valoración quedan sin confirmar; no deben inferirse de la versión Eau de Parfum."
+  }
+]
+
