@@ -1773,23 +1773,55 @@
       "precio_crc": 33150,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
+      "familia": "Floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Pera",
+        "Toronja rosada",
+        "Frambuesa"
+      ],
+      "notas_corazon": [
+        "Lirio del valle",
+        "Rosa",
+        "Orquídea de vainilla"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Notas amaderadas",
+        "Malvavisco"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una fragancia femenina, dulce y luminosa, con frutas jugosas, flores suaves y un fondo cremoso de malvavisco. Alegre y versátil para el día o una cita casual.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Ari-Ariana-Grande.png?v=1571609913",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/ariana-grande",
+          "titulo": "Ficha olfativa y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/Ari-31661.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -1798,7 +1830,7 @@
       "orden": 1031,
       "sku": "AGOSTO-2026-0031",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 31,
       "presentacion_proveedor": "ARIANA GRANDE ARI EDP 100ML"
     },
@@ -1809,23 +1841,57 @@
       "precio_crc": 42500,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Oriental",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Citas",
+        "Noche"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Coco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Lavanda",
+        "Pera",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Crema batida",
+        "Praliné",
+        "Coco",
+        "Orquídea de vainilla"
+      ],
+      "notas_fondo": [
+        "Cachemira",
+        "Almizcle",
+        "Ambroxan",
+        "Notas amaderadas"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 4.15,
+      "descripcion": "Una versión más intensa y envolvente de Cloud, donde lavanda y pera descansan sobre crema, coco y maderas cálidas. Dulce y sensual para citas y noches informales.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/ARIANA-GRANDE-CLOUD-INTENSE-100ML-EDP-WOMEN.png?v=1701522571",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/ariana-grande-cloud-intense",
+          "titulo": "Ficha olfativa y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-Intense-69296.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -1834,7 +1900,7 @@
       "orden": 1032,
       "sku": "AGOSTO-2026-0032",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 32,
       "presentacion_proveedor": "ARIANA GRANDE CLOUD 2.0 INTENSE EDP 100ML"
     },
@@ -1845,23 +1911,55 @@
       "precio_crc": 41650,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Dulce",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Coco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Lavanda",
+        "Pera",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Crema batida",
+        "Coco",
+        "Praliné",
+        "Orquídea de vainilla"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Notas amaderadas"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 3.95,
+      "descripcion": "Lavanda y pera abren un gourmand aéreo de coco, crema y praliné, apoyado por almizcle y maderas. Dulce, moderno y reconfortante para el día o una cita.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Ariana-Grande-Cloud.png?v=1571920530",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/ariana-grande-cloud",
+          "titulo": "Ficha olfativa y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-50384.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -1870,7 +1968,7 @@
       "orden": 1033,
       "sku": "AGOSTO-2026-0033",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 33,
       "presentacion_proveedor": "ARIANA GRANDE CLOUD EDP 100ML"
     },
@@ -1881,23 +1979,56 @@
       "precio_crc": 45050,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
+      "familia": "Oriental",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Tropical",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Pitahaya",
+        "Bayas silvestres",
+        "Piña rosada"
+      ],
+      "notas_corazon": [
+        "Agua de coco",
+        "Orquídea de vainilla",
+        "Ambreta"
+      ],
+      "notas_fondo": [
+        "Praliné",
+        "Almizcle",
+        "Madera de ámbar",
+        "Musgo"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una nube rosada de frutas tropicales, coco y vainilla sobre un fondo de praliné y almizcle. Juguetona y cremosa para el día, salidas casuales y citas.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/cloud.webp?v=1764517748",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/ariana-grande-cloud-pink",
+          "titulo": "Ficha olfativa y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-Pink-83995.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -1906,7 +2037,7 @@
       "orden": 1034,
       "sku": "AGOSTO-2026-0034",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 34,
       "presentacion_proveedor": "ARIANA GRANDE CLOUD PINK EDP 100ML"
     },
@@ -1917,26 +2048,66 @@
       "precio_crc": 43350,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Frambuesa",
+        "Maracuyá",
+        "Pimienta rosa",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Rosa",
+        "Pera",
+        "Magnolia"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Ambroxan",
+        "Dreamwood",
+        "Sándalo"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 3.84,
+      "descripcion": "Frutas brillantes y pimienta rosa envuelven un corazón de rosa y magnolia con una base limpia de almizcle y sándalo. Moderna y ligera para diario u oficina.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha olfativa y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/Mod-Blush-77800.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1035,
       "sku": "AGOSTO-2026-0035",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 35,
       "presentacion_proveedor": "ARIANA GRANDE MOD BLUSH EDP 100ML"
     },
@@ -1947,23 +2118,53 @@
       "precio_crc": 43350,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
+      "familia": "Dulce",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Ciruela",
+        "Fresia",
+        "Almizcle"
+      ],
+      "notas_corazon": [
+        "Manteca de lirio",
+        "Praliné blanco"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Manteca de cacao"
+      ],
+      "duracion": 3,
+      "proyeccion": 2,
+      "estela": 2,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Una vainilla aterciopelada con ciruela, praliné y cacao, suavizada por almizcle y lirio. Cremosa y reconfortante para el día y las citas cercanas.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/ARIANA-GRANDE-MOD-VANILLLA-100ML-EDP-WOMEN.png?v=1701522179",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/ariana-grande-mod-vanillla",
+          "titulo": "Ficha olfativa de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/Mod-Vanilla-77799.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -1972,7 +2173,7 @@
       "orden": 1036,
       "sku": "AGOSTO-2026-0036",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 36,
       "presentacion_proveedor": "ARIANA GRANDE MOD VANILLA EDP 100ML"
     },
@@ -1983,26 +2184,62 @@
       "precio_crc": 34850,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Citas",
+        "Noche"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Ciruela",
+        "Grosella negra"
+      ],
+      "notas_corazon": [
+        "Malvavisco",
+        "Peonía"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Sándalo",
+        "Ámbar"
+      ],
+      "duracion": 2,
+      "proyeccion": 2,
+      "estela": 2,
+      "valoracion": 3.99,
+      "descripcion": "Ciruela y grosella oscura se vuelven suaves entre malvavisco y peonía, con vainilla, ámbar y sándalo al fondo. Dulce e íntima para citas y noches tranquilas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha olfativa y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/Moonlight-46410.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1037,
       "sku": "AGOSTO-2026-0037",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 37,
       "presentacion_proveedor": "ARIANA GRANDE MOONLIGHT EDP 100ML"
     },
@@ -2013,26 +2250,61 @@
       "precio_crc": 46750,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cereza",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Cereza negra",
+        "Madreselva"
+      ],
+      "notas_corazon": [
+        "Malvavisco",
+        "Jazmín sambac"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Ámbar"
+      ],
+      "duracion": 3,
+      "proyeccion": 2,
+      "estela": 2,
+      "valoracion": 4.05,
+      "descripcion": "Cereza negra y madreselva abren una composición suave de malvavisco y jazmín, asentada sobre ámbar y almizcle. Dulce y delicada para diario o citas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha olfativa y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/R-E-M-Cherry-Eclipse-102379.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1038,
       "sku": "AGOSTO-2026-0038",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 38,
       "presentacion_proveedor": "ARIANA GRANDE REM CHERRY ECLIPSE EDP 100ML"
     },
@@ -2043,26 +2315,66 @@
       "precio_crc": 38250,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Oriental",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Noche"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Lavanda",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Caramelo",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Malvavisco",
+        "Caramelo",
+        "Sal",
+        "Higo",
+        "Membrillo"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Flor de pera"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Haba tonka",
+        "Sándalo"
+      ],
+      "duracion": 3,
+      "proyeccion": 2,
+      "estela": 2,
+      "valoracion": 3.9,
+      "descripcion": "Lavanda aromática, caramelo salado e higo forman un perfume sereno y singular, con tonka, almizcle y sándalo. Reconfortante para diario, citas y noches relajadas.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha olfativa y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/R-E-M-62578.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1039,
       "sku": "AGOSTO-2026-0039",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 39,
       "presentacion_proveedor": "ARIANA GRANDE REM EDP 100ML"
     },
@@ -2073,23 +2385,57 @@
       "precio_crc": 33150,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Dulce",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Zarzamora",
+        "Pera",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Crema batida",
+        "Malvavisco",
+        "Grosella negra",
+        "Jazmín",
+        "Frangipani",
+        "Madreselva"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Madera de cachemira"
+      ],
+      "duracion": 2,
+      "proyeccion": 2,
+      "estela": 2,
+      "valoracion": 4.05,
+      "descripcion": "Frutas oscuras y pera se funden con crema, malvavisco y flores sobre vainilla y cachemira. Un gourmand coqueto y juvenil para el día o una cita casual.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Sweet-like-Candy-Ariana-Grande.png?v=1571609924",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/sweet-like-candy-ariana-grande",
+          "titulo": "Ficha olfativa y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/Sweet-Like-Candy-39970.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -2098,7 +2444,7 @@
       "orden": 1040,
       "sku": "AGOSTO-2026-0040",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 40,
       "presentacion_proveedor": "ARIANA GRANDE SWEET LIKE CANDY EDP 100ML"
     },
@@ -2109,23 +2455,54 @@
       "precio_crc": 44200,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Jugo de manzana",
+        "Fresa silvestre",
+        "Granada"
+      ],
+      "notas_corazon": [
+        "Orquídea blanca",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Malvavisco",
+        "Almizcle",
+        "Sándalo"
+      ],
+      "duracion": 3,
+      "proyeccion": 2,
+      "estela": 2,
+      "valoracion": 4.17,
+      "descripcion": "Manzana, fresa y granada iluminan un corazón floral que descansa sobre malvavisco, almizcle y sándalo. Dulce pero ligera para diario y citas informales.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Ariana_Grande_Thank_You_Next_2.0_mist.webp?v=1740671210",
       "fuentes": [
         {
-          "titulo": "Referencia visual de PerfumeOnline.ca",
-          "url": "https://perfumeonline.ca/products/ariana-grande-thank-you-next-2-0",
+          "titulo": "Ficha olfativa y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-2-0-68367.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -2134,7 +2511,7 @@
       "orden": 1041,
       "sku": "AGOSTO-2026-0041",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 41,
       "presentacion_proveedor": "ARIANA GRANDE THANK U NEXT 2.0 EDP 100ML"
     },
@@ -2145,26 +2522,61 @@
       "precio_crc": 37400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": null,
-      "proyeccion": null,
-      "estela": null,
-      "valoracion": null,
-      "descripcion": "",
+      "familia": "Dulce",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Coco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Frambuesa",
+        "Pera"
+      ],
+      "notas_corazon": [
+        "Coco",
+        "Rosa rosada"
+      ],
+      "notas_fondo": [
+        "Macarons",
+        "Almizcle"
+      ],
+      "duracion": 3,
+      "proyeccion": 3,
+      "estela": 3,
+      "valoracion": 3.65,
+      "descripcion": "Frambuesa y pera abren un perfume dulce de coco y rosa, rematado por macarons y almizcle. Divertido, cremoso y fácil de llevar durante el día o en una cita.",
       "imagen_url": null,
-      "fuentes": [],
+      "fuentes": [
+        {
+          "titulo": "Ficha olfativa y opiniones de Fragrantica",
+          "url": "https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-56741.html",
+          "fecha": "2026-09-09"
+        }
+      ],
       "disponibilidad": "bajo_pedido",
       "activo": true,
       "orden": 1042,
       "sku": "AGOSTO-2026-0042",
       "tipo_producto": "Perfume",
-      "ficha_estado": "pendiente",
+      "ficha_estado": "verificada",
       "origen_ref": 42,
       "presentacion_proveedor": "ARIANA GRANDE THANK U NEXT EDP 100ML"
     },

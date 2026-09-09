@@ -136,3 +136,31 @@ test("ambiguous Summer Essence stays unresolved while exact Banderas editions ar
   assert.deepEqual(power?.notas_salida, ["Manzana", "Bergamota"]);
   assert.equal(power?.duracion, 3);
 });
+
+test("all Ariana Grande PDF rows have distinct, complete reviewed profiles", () => {
+  const ariana = catalog.records.filter(
+    (record) => record.origen_ref >= 31 && record.origen_ref <= 42,
+  );
+  assert.equal(ariana.length, 12);
+  for (const record of ariana) {
+    assert.equal(record.marca, "Ariana Grande");
+    assert.equal(record.tamano_ml, 100);
+    assert.equal(record.ficha_estado, "verificada");
+    assert.ok(record.notas_salida.length > 0);
+    assert.ok(record.notas_corazon.length > 0);
+    assert.ok(record.notas_fondo.length > 0);
+    assert.ok(record.descripcion.length > 30);
+  }
+
+  const cloud = ariana.find((record) => record.origen_ref === 33);
+  const intense = ariana.find((record) => record.origen_ref === 32);
+  assert.equal(cloud?.nombre, "Cloud");
+  assert.equal(intense?.nombre, "Cloud 2.0 Intense");
+  assert.deepEqual(cloud?.notas_fondo, ["Almizcle", "Notas amaderadas"]);
+  assert.ok(intense?.notas_fondo.includes("Ambroxan"));
+
+  const rem = ariana.find((record) => record.origen_ref === 39);
+  const cherry = ariana.find((record) => record.origen_ref === 38);
+  assert.deepEqual(rem?.notas_corazon, ["Lavanda", "Flor de pera"]);
+  assert.deepEqual(cherry?.notas_salida, ["Cereza negra", "Madreselva"]);
+});
