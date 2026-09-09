@@ -1,39 +1,62 @@
-import { useCallback, useDeferredValue, useMemo, useState } from "react";
-import { familias } from "../data/perfumes";
-import type { Occasion, OlfactoryFamily, Perfume } from "../data/perfumes";
-import useCatalog from "../hooks/useCatalog";
+import {
+  useCallback,
+  useDeferredValue,
+  useEffect,
+  useMemo,
+  useState,
+} from "react"
+import { familias } from "../data/perfumes"
+import type {
+  Occasion,
+  OlfactoryFamily,
+  Perfume,
+  ProductType,
+} from "../data/perfumes"
+import useCatalog from "../hooks/useCatalog"
 import {
   filterPerfumes,
   formatColones,
+  getCatalogBrands,
   getPriceBounds,
   getVisiblePerfumes,
-} from "../lib/prices";
-import type { CatalogSort } from "../lib/prices";
-import PerfumeCard from "../components/molecules/PerfumeCard";
-import PerfumeDetail from "../components/organisms/PerfumeDetail";
-import CatalogFilters from "../components/organisms/CatalogFilters";
-import Icon from "../components/atoms/Icon";
+} from "../lib/prices"
+import type { CatalogSort } from "../lib/prices"
+import PerfumeCard from "../components/molecules/PerfumeCard"
+import PerfumeDetail from "../components/organisms/PerfumeDetail"
+import CatalogFilters from "../components/organisms/CatalogFilters"
+import Icon from "../components/atoms/Icon"
 
 export default function CatalogPage() {
-  const catalog = useCatalog();
-  const [search, setSearch] = useState("");
-  const deferredSearch = useDeferredValue(search);
+  const catalog = useCatalog()
+  const [search, setSearch] = useState("")
+  const deferredSearch = useDeferredValue(search)
   const [family, setFamily] = useState<OlfactoryFamily | null>(() => {
-    const value = new URLSearchParams(window.location.search).get("familia");
-    return familias.find((item) => item === value) ?? null;
-  });
-  const [occasion, setOccasion] = useState<Occasion | null>(null);
-  const [gender, setGender] = useState<Perfume["genero"] | null>(null);
-  const [budget, setBudget] = useState<number | null>(null);
-  const [sort, setSort] = useState<CatalogSort>("featured");
-  const [filtersOpen, setFiltersOpen] = useState(false);
-  const [selected, setSelected] = useState<Perfume | null>(null);
-  const [visibleCount, setVisibleCount] = useState(24);
-  const closeDetails = useCallback(() => setSelected(null), []);
+    const value = new URLSearchParams(window.location.search).get("familia")
+    return familias.find((item) => item === value) ?? null
+  })
+  const [occasion, setOccasion] = useState<Occasion | null>(null)
+  const [gender, setGender] = useState<Perfume["genero"] | null>(null)
+  const [brand, setBrand] = useState<string | null>(null)
+  const [productType, setProductType] = useState<ProductType>("Perfume")
+  const [budget, setBudget] = useState<number | null>(null)
+  const [sort, setSort] = useState<CatalogSort>("featured")
+  const [filtersOpen, setFiltersOpen] = useState(false)
+  const [selected, setSelected] = useState<Perfume | null>(null)
+  const [visibleCount, setVisibleCount] = useState(24)
+  const closeDetails = useCallback(() => setSelected(null), [])
   const bounds = useMemo(
     () => getPriceBounds(catalog.perfumes),
     [catalog.perfumes],
-  );
+  )
+  const brands = useMemo(
+    () =>
+      getCatalogBrands(
+        catalog.perfumes.filter(
+          (perfume) => perfume.tipoProducto === productType,
+        ),
+      ),
+    [catalog.perfumes, productType],
+  )
   const results = useMemo(
     () =>
       filterPerfumes(catalog.perfumes, {
@@ -41,25 +64,58 @@ export default function CatalogPage() {
         family,
         occasion,
         gender,
+        brand,
+        productType,
         maximumPrice: budget,
         sort,
       }),
-    [catalog.perfumes, deferredSearch, family, occasion, gender, budget, sort],
-  );
+    [
+      catalog.perfumes,
+      deferredSearch,
+      family,
+      occasion,
+      gender,
+      brand,
+      productType,
+      budget,
+      sort,
+    ],
+  )
   const hasFilters = !!(
     search ||
     family ||
     occasion ||
     gender ||
+    brand ||
+    productType !== "Perfume" ||
     budget !== null
-  );
-  const visibleResults = getVisiblePerfumes(results, visibleCount);
+  )
+  useEffect(
+    () => setVisibleCount(24),
+    [
+      deferredSearch,
+      family,
+      occasion,
+      gender,
+      brand,
+      productType,
+      budget,
+      sort,
+    ],
+  )
+  const visibleResults = getVisiblePerfumes(results, visibleCount)
   function clearFilters() {
-    setSearch("");
-    setFamily(null);
-    setOccasion(null);
-    setGender(null);
-    setBudget(null);
+    setSearch("")
+    setFamily(null)
+    setOccasion(null)
+    setGender(null)
+    setBrand(null)
+    setProductType("Perfume")
+    setBudget(null)
+  }
+  function selectProductType(value: ProductType) {
+    setProductType(value)
+    setBrand(null)
   }
 
   return (
@@ -81,6 +137,9 @@ export default function CatalogPage() {
         family={family}
         occasion={occasion}
         gender={gender}
+        brand={brand}
+        brands={brands}
+        productType={productType}
         budget={budget}
         maximum={bounds.maximum}
         open={filtersOpen}
@@ -88,6 +147,8 @@ export default function CatalogPage() {
         onFamily={setFamily}
         onOccasion={setOccasion}
         onGender={setGender}
+        onBrand={setBrand}
+        onProductType={selectProductType}
         onBudget={setBudget}
         onToggle={() => setFiltersOpen((value) => !value)}
       />
@@ -108,7 +169,9 @@ export default function CatalogPage() {
         <p role="status" aria-live="polite">
           {catalog.loading
             ? "Cargando colección…"
-            : `${results.length} ${results.length === 1 ? "fragancia" : "fragancias"}`}
+            : `${results.length} ${
+                results.length === 1 ? "fragancia" : "fragancias"
+              }`}
         </p>
         <label>
           Ordenar por
@@ -135,6 +198,18 @@ export default function CatalogPage() {
           {occasion && (
             <button onClick={() => setOccasion(null)}>
               {occasion}
+              <Icon name="close" />
+            </button>
+          )}
+          {brand && (
+            <button onClick={() => setBrand(null)}>
+              {brand}
+              <Icon name="close" />
+            </button>
+          )}
+          {productType !== "Perfume" && (
+            <button onClick={() => setProductType("Perfume")}>
+              {productType}
               <Icon name="close" />
             </button>
           )}
@@ -217,5 +292,5 @@ export default function CatalogPage() {
         />
       )}
     </section>
-  );
+  )
 }

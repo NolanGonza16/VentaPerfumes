@@ -1,31 +1,50 @@
-import type { CSSProperties } from "react";
-import { familias, ocasiones } from "../../data/perfumes";
-import type { Occasion, OlfactoryFamily, Perfume } from "../../data/perfumes";
-import { formatColones } from "../../lib/prices";
-import Icon from "../atoms/Icon";
+import type { CSSProperties } from "react"
+import { familias, ocasiones } from "../../data/perfumes"
+import type {
+  Occasion,
+  OlfactoryFamily,
+  Perfume,
+  ProductType,
+} from "../../data/perfumes"
+import { formatColones } from "../../lib/prices"
+import Icon from "../atoms/Icon"
 
 interface FilterProps {
-  search: string;
-  family: OlfactoryFamily | null;
-  occasion: Occasion | null;
-  gender: Perfume["genero"] | null;
-  maximum: number;
-  budget: number | null;
-  open: boolean;
-  onSearch: (value: string) => void;
-  onFamily: (value: OlfactoryFamily | null) => void;
-  onOccasion: (value: Occasion | null) => void;
-  onGender: (value: Perfume["genero"] | null) => void;
-  onBudget: (value: number | null) => void;
-  onToggle: () => void;
+  search: string
+  family: OlfactoryFamily | null
+  occasion: Occasion | null
+  gender: Perfume["genero"] | null
+  brand: string | null
+  brands: string[]
+  productType: ProductType
+  maximum: number
+  budget: number | null
+  open: boolean
+  onSearch: (value: string) => void
+  onFamily: (value: OlfactoryFamily | null) => void
+  onOccasion: (value: Occasion | null) => void
+  onGender: (value: Perfume["genero"] | null) => void
+  onBrand: (value: string | null) => void
+  onProductType: (value: ProductType) => void
+  onBudget: (value: number | null) => void
+  onToggle: () => void
 }
 
 export default function CatalogFilters(props: FilterProps) {
-  const selected = Math.min(props.budget ?? props.maximum, props.maximum);
+  const selected = Math.min(props.budget ?? props.maximum, props.maximum)
   const count =
     Number(!!props.family) +
     Number(!!props.occasion) +
-    Number(props.budget !== null);
+    Number(!!props.brand) +
+    Number(props.budget !== null)
+  const productTypes: Array<{ value: ProductType; label: string }> = [
+    { value: "Perfume", label: "Perfumes" },
+    { value: "Tester", label: "Testers" },
+    { value: "Decant", label: "Decants" },
+    { value: "Miniatura", label: "Minis" },
+    { value: "Estuche", label: "Estuches" },
+    { value: "Corporal", label: "Cuidado corporal" },
+  ]
   return (
     <div className="catalog-tools">
       <div className="search-row">
@@ -61,6 +80,21 @@ export default function CatalogFilters(props: FilterProps) {
           Filtros{count > 0 && <span>{count}</span>}
         </button>
       </div>
+      <div
+        className="product-type-tabs"
+        aria-label="Filtrar por tipo de producto"
+      >
+        {productTypes.map(({ value, label }) => (
+          <button
+            key={value}
+            type="button"
+            aria-pressed={props.productType === value}
+            onClick={() => props.onProductType(value)}
+          >
+            {label}
+          </button>
+        ))}
+      </div>
       <div className="gender-tabs" aria-label="Filtrar por género">
         {[null, "Hombre", "Mujer", "Unisex"].map((value) => (
           <button
@@ -79,6 +113,20 @@ export default function CatalogFilters(props: FilterProps) {
         hidden={!props.open}
       >
         <div className="filter-selects">
+          <label>
+            Marca
+            <select
+              value={props.brand ?? ""}
+              onChange={(event) => props.onBrand(event.target.value || null)}
+            >
+              <option value="">Todas las marcas</option>
+              {props.brands.map((value) => (
+                <option key={value} value={value}>
+                  {value}
+                </option>
+              ))}
+            </select>
+          </label>
           <label>
             Familia olfativa
             <select
@@ -173,5 +221,5 @@ export default function CatalogFilters(props: FilterProps) {
         </div>
       </div>
     </div>
-  );
+  )
 }

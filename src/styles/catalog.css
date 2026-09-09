@@ -99,6 +99,45 @@
   color: #20190f;
   font-size: 0.625rem;
 }
+.product-type-tabs {
+  display: flex;
+  gap: 8px;
+  margin-top: 18px;
+  padding-bottom: 2px;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+.product-type-tabs::-webkit-scrollbar {
+  display: none;
+}
+.product-type-tabs > button {
+  flex: 0 0 auto;
+  min-height: 42px;
+  padding: 10px 17px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #151310;
+  color: var(--muted);
+  font-size: 0.7rem;
+  letter-spacing: 0.025em;
+  transition: border-color 180ms ease, color 180ms ease,
+    background-color 180ms ease, transform 180ms ease;
+}
+.product-type-tabs > button:hover {
+  border-color: #ad906280;
+  color: var(--cream);
+}
+.product-type-tabs > button:active {
+  transform: scale(0.97);
+}
+.product-type-tabs > button[aria-pressed="true"] {
+  border-color: #d2b27d;
+  background: linear-gradient(135deg, #d8bd8d, #aa7f42);
+  color: #17110a;
+  box-shadow: 0 8px 24px #b98a4226;
+}
 .gender-tabs {
   display: flex;
   gap: 30px;
@@ -147,6 +186,9 @@
   gap: 13px;
   font-size: 0.75rem;
   color: #c1b4a1;
+}
+.filter-selects label:first-child {
+  grid-column: 1 / -1;
 }
 .filter-selects select {
   width: 100%;
@@ -596,6 +638,16 @@
     margin-top: 10px;
     justify-content: space-between;
     gap: 12px;
+  }
+  .product-type-tabs {
+    margin-inline: calc(var(--container-gutter) * -1);
+    padding-inline: var(--container-gutter);
+    scroll-padding-inline: var(--container-gutter);
+  }
+  .product-type-tabs > button {
+    min-height: 40px;
+    padding-inline: 15px;
+    font-size: 0.6875rem;
   }
   .gender-tabs > button {
     min-height: 48px;
