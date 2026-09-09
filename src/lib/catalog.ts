@@ -1,11 +1,11 @@
 import { familias, ocasiones } from "../data/perfumes.ts";
-import type { Availability, Perfume } from "../data/perfumes.ts";
+import type { Availability, Perfume, ProductType } from "../data/perfumes.ts";
 import { formatColones } from "./prices.ts";
 
 export const CATALOG_IMAGE_FALLBACK = "/images/perfume-placeholder.svg";
 const CATALOG_TIMEOUT_MS = 12000;
 const fields =
-  "id, slug, nombre, marca, precio_crc, imagen_url, familia, genero, ocasiones, acordes, notas_salida, notas_corazon, notas_fondo, duracion, proyeccion, estela, valoracion, descripcion, disponibilidad, concentracion, tamano_ml, fuentes";
+  "id, slug, nombre, marca, precio_crc, imagen_url, familia, genero, ocasiones, acordes, notas_salida, notas_corazon, notas_fondo, duracion, proyeccion, estela, valoracion, descripcion, disponibilidad, concentracion, tamano_ml, fuentes, tipo_producto, presentacion_proveedor, origen_ref, ficha_estado";
 
 const text = (value: unknown): string =>
   typeof value === "string" ? value.trim() : "";
@@ -72,6 +72,18 @@ export function normalizeCatalogRow(value: unknown): Perfume | null {
     precio: formatColones(price),
     concentracion: text(row.concentracion) || undefined,
     tamanoMl: numeric(row.tamano_ml) || undefined,
+    tipoProducto: enumValue<ProductType>(
+      row.tipo_producto,
+      ["Perfume", "Tester", "Decant", "Miniatura", "Estuche", "Corporal"],
+      "Perfume",
+    ),
+    presentacionProveedor: text(row.presentacion_proveedor) || undefined,
+    origenRef: numeric(row.origen_ref) || undefined,
+    fichaEstado: enumValue<NonNullable<Perfume["fichaEstado"]>>(
+      row.ficha_estado,
+      ["pendiente", "parcial", "verificada", "requiere_revision"],
+      "pendiente",
+    ),
     fuentes: Array.isArray(row.fuentes)
       ? row.fuentes.flatMap((source) => {
           if (!source || typeof source !== "object") return [];
@@ -83,11 +95,9 @@ export function normalizeCatalogRow(value: unknown): Perfume | null {
         })
       : [],
     imagen: normalizeImageUrl(row.imagen_url),
-    familia: enumValue(row.familia, familias, "Aromático"),
-    genero: enumValue<Perfume["genero"]>(
-      row.genero,
-      ["Hombre", "Mujer", "Unisex"],
-      "Unisex",
+    familia: familias.find((candidate) => candidate === row.familia),
+    genero: (["Hombre", "Mujer", "Unisex"] as const).find(
+      (candidate) => candidate === row.genero,
     ),
     ocasiones: strings(row.ocasiones).filter(
       (occasion): occasion is Perfume["ocasiones"][number] =>

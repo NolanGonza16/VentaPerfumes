@@ -11,6 +11,7 @@ import {
 import {
   filterPerfumes,
   getPriceBounds,
+  getVisiblePerfumes,
   parsePrice,
   perfumePrice,
 } from "../src/lib/prices.ts";
@@ -59,6 +60,25 @@ test("malformed optional API fields cannot crash fragrance details", () => {
   );
   assert.equal(perfume.imagen, CATALOG_IMAGE_FALLBACK);
   assert.equal(perfume.esEjemplo, false);
+});
+
+test("pending catalog rows preserve unknown profile fields and product presentation", () => {
+  const perfume = normalizeCatalogRow({
+    ...validRow,
+    familia: null,
+    genero: null,
+    tipo_producto: "Tester",
+    presentacion_proveedor: "TESTER CASA PERFUME EDP 100ML",
+    origen_ref: 42,
+    ficha_estado: "pendiente",
+  });
+  assert.ok(perfume);
+  assert.equal(perfume.familia, undefined);
+  assert.equal(perfume.genero, undefined);
+  assert.equal(perfume.tipoProducto, "Tester");
+  assert.equal(perfume.presentacionProveedor, "TESTER CASA PERFUME EDP 100ML");
+  assert.equal(perfume.origenRef, 42);
+  assert.equal(perfume.fichaEstado, "pendiente");
 });
 
 test("sold-out stock is preserved; missing availability is never advertised in stock", () => {
@@ -199,6 +219,18 @@ test("sorting is stable, non-mutating and respects numeric prices", () => {
     minimum: 85000,
     maximum: 90000,
   });
+});
+
+test("large catalogs render in stable progressive slices", () => {
+  const items = Array.from({ length: 60 }, (_, index) => ({
+    ...examples[0],
+    id: `item-${index}`,
+  }));
+  assert.deepEqual(
+    getVisiblePerfumes(items, 24).map((item) => item.id),
+    items.slice(0, 24).map((item) => item.id),
+  );
+  assert.equal(getVisiblePerfumes(items, 100).length, 60);
 });
 
 test("navigation and concurrent readers reuse one fresh catalog request", async () => {

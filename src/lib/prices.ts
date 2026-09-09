@@ -109,6 +109,8 @@ export function filterPerfumes(
         perfume.nombre,
         perfume.marca,
         perfume.familia,
+        perfume.tipoProducto,
+        perfume.presentacionProveedor,
         perfume.descripcion,
         ...perfume.ocasiones,
         ...perfume.acordes.map((accord) => accord.nombre),
@@ -135,4 +137,11 @@ export function filterPerfumes(
     );
   }
   return result;
+}
+
+export function getVisiblePerfumes<T>(
+  items: readonly T[],
+  visibleCount: number,
+): T[] {
+  return items.slice(0, Math.max(0, visibleCount));
 }

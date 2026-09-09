@@ -26,7 +26,9 @@ def extract(source):
                 word for word in body
                 if 350 <= word["x0"] < 435 and re.fullmatch(r"[\d,]+\.\d{2}", word["text"])
             ], key=lambda word: word["top"])
-            descriptions = [word for word in body if 90 <= word["x0"] < 350]
+            footer_top = min((word["top"] for word in words if word["text"] == "Total"), default=page.height)
+            # Footer glyphs can differ by a fraction of a point on the same line.
+            descriptions = [word for word in body if 90 <= word["x0"] < 350 and word["top"] < footer_top - 2]
             page_counts.append(len(prices))
             total = re.search(r"Total item\(s\):\s*(\d+)", page.extract_text() or "")
             if total:

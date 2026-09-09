@@ -401,6 +401,20 @@
   height: 17px;
   transform: rotate(-35deg);
 }
+.card-product-type {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  padding: 7px 9px;
+  border: 1px solid #d6bd8655;
+  border-radius: 999px;
+  background: #0d0b08cc;
+  color: var(--gold-light);
+  font-size: 0.5625rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  backdrop-filter: blur(10px);
+}
 .perfume-card button:hover .card-image > img {
   transform: scale(1.035);
   filter: brightness(1.08);
@@ -429,6 +443,11 @@
   color: #e5d7c1;
   font-variant-numeric: tabular-nums;
 }
+.card-presentation {
+  margin-top: 5px;
+  color: var(--muted);
+  font-size: 0.625rem;
+}
 .card-action {
   display: flex;
   align-items: center;
@@ -456,6 +475,20 @@
   border-top: 1px solid var(--line);
   margin-top: 58px;
   padding-top: 24px;
+}
+.catalog-load-more {
+  display: flex;
+  justify-content: center;
+  padding-top: 48px;
+}
+.catalog-load-more .button {
+  min-width: min(100%, 300px);
+  justify-content: space-between;
+  gap: 24px;
+}
+.catalog-load-more .button span {
+  color: var(--gold-light);
+  font-variant-numeric: tabular-nums;
 }
 .catalog-assistance > span {
   font: italic 1.5rem var(--serif);

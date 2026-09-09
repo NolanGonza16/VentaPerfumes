@@ -157,6 +157,9 @@ export default function PerfumeDetail({
   };
 
   const presentation = [
+    perfume.tipoProducto && perfume.tipoProducto !== "Perfume"
+      ? perfume.tipoProducto
+      : null,
     perfume.concentracion,
     perfume.tamanoMl ? `${perfume.tamanoMl} ml` : null,
   ]
@@ -251,12 +254,17 @@ export default function PerfumeDetail({
             {presentation && <p className="pd-small-print">{presentation}</p>}
             <div className="pd-price-line">
               <strong>{perfume.precio}</strong>
-              <span>
-                {perfume.genero} · {perfume.familia}
-              </span>
+              {(perfume.genero || perfume.familia) && (
+                <span>
+                  {[perfume.genero, perfume.familia]
+                    .filter(Boolean)
+                    .join(" · ")}
+                </span>
+              )}
             </div>
             <p className="pd-description" id={descriptionId}>
-              {perfume.descripcion}
+              {perfume.descripcion ||
+                "Estamos preparando la ficha olfativa completa de esta referencia."}
             </p>
             {isDemo && (
               <p className="pd-demo-note">

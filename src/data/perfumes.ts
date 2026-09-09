@@ -13,6 +13,9 @@ export type OlfactoryFamily =
 export type Occasion =
   "Diario" | "Oficina" | "Noche" | "Citas" | "Eventos especiales";
 export type Availability = "disponible" | "bajo_pedido" | "agotado";
+export type Gender = "Hombre" | "Mujer" | "Unisex";
+export type ProductType =
+  "Perfume" | "Tester" | "Decant" | "Miniatura" | "Estuche" | "Corporal";
 
 export interface Perfume {
   id: string;
@@ -23,9 +26,13 @@ export interface Perfume {
   precioCrc: number;
   concentracion?: string;
   tamanoMl?: number;
+  tipoProducto?: ProductType;
+  presentacionProveedor?: string;
+  origenRef?: number;
+  fichaEstado?: "pendiente" | "parcial" | "verificada" | "requiere_revision";
   fuentes?: { titulo: string; url: string; fecha: string }[];
   imagen: string;
-  familia: OlfactoryFamily;
+  familia?: OlfactoryFamily;
   ocasiones: Occasion[];
   acordes: { emoji: string; nombre: string }[];
   notasSalida: string[];
@@ -39,7 +46,7 @@ export interface Perfume {
   disponible: boolean;
   disponibilidad: Availability;
   esEjemplo?: boolean;
-  genero: "Hombre" | "Mujer" | "Unisex";
+  genero?: Gender;
 }
 
 export const familias: OlfactoryFamily[] = [

@@ -32,11 +32,24 @@ export default function PerfumeCard({
           <span className="card-image-arrow">
             <Icon name="arrow" />
           </span>
+          {perfume.tipoProducto && perfume.tipoProducto !== "Perfume" && (
+            <span className="card-product-type">{perfume.tipoProducto}</span>
+          )}
         </span>
         <span className="card-copy">
           <span className="card-brand">{perfume.marca}</span>
           <span className="card-title">{perfume.nombre}</span>
           <span className="card-price">{perfume.precio}</span>
+          {(perfume.concentracion || perfume.tamanoMl) && (
+            <span className="card-presentation">
+              {[
+                perfume.concentracion,
+                perfume.tamanoMl && `${perfume.tamanoMl} ml`,
+              ]
+                .filter(Boolean)
+                .join(" · ")}
+            </span>
+          )}
           <span className="card-action">
             Ver detalles <Icon name="arrow" />
           </span>

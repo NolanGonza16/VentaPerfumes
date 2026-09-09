@@ -2,7 +2,12 @@ import { useCallback, useDeferredValue, useMemo, useState } from "react";
 import { familias } from "../data/perfumes";
 import type { Occasion, OlfactoryFamily, Perfume } from "../data/perfumes";
 import useCatalog from "../hooks/useCatalog";
-import { filterPerfumes, formatColones, getPriceBounds } from "../lib/prices";
+import {
+  filterPerfumes,
+  formatColones,
+  getPriceBounds,
+  getVisiblePerfumes,
+} from "../lib/prices";
 import type { CatalogSort } from "../lib/prices";
 import PerfumeCard from "../components/molecules/PerfumeCard";
 import PerfumeDetail from "../components/organisms/PerfumeDetail";
@@ -23,6 +28,7 @@ export default function CatalogPage() {
   const [sort, setSort] = useState<CatalogSort>("featured");
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [selected, setSelected] = useState<Perfume | null>(null);
+  const [visibleCount, setVisibleCount] = useState(24);
   const closeDetails = useCallback(() => setSelected(null), []);
   const bounds = useMemo(
     () => getPriceBounds(catalog.perfumes),
@@ -47,6 +53,7 @@ export default function CatalogPage() {
     gender ||
     budget !== null
   );
+  const visibleResults = getVisiblePerfumes(results, visibleCount);
   function clearFilters() {
     setSearch("");
     setFamily(null);
@@ -150,7 +157,7 @@ export default function CatalogPage() {
         </div>
       ) : results.length ? (
         <div className="catalog-grid" aria-busy={search !== deferredSearch}>
-          {results.map((perfume, index) => (
+          {visibleResults.map((perfume, index) => (
             <PerfumeCard
               key={perfume.id}
               perfume={perfume}
@@ -179,6 +186,20 @@ export default function CatalogPage() {
           <p>Prueba con otra marca, aroma o un presupuesto diferente.</p>
           <button className="button button-gold" onClick={clearFilters}>
             Ver toda la colección <Icon name="arrow" />
+          </button>
+        </div>
+      )}
+      {results.length > visibleResults.length && (
+        <div className="catalog-load-more">
+          <button
+            type="button"
+            className="button button-outline"
+            onClick={() => setVisibleCount((count) => count + 24)}
+          >
+            Ver 24 fragancias más
+            <span aria-hidden="true">
+              {visibleResults.length} / {results.length}
+            </span>
           </button>
         </div>
       )}
