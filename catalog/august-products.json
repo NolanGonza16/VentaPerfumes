@@ -2587,10 +2587,30 @@
       "precio_crc": 20400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Limón",
         "Bergamota",
@@ -2637,10 +2657,30 @@
       "precio_crc": 23800,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Frutas tropicales",
         "Toronja"
@@ -2682,10 +2722,30 @@
       "precio_crc": 20400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamota",
         "Limón",
@@ -2793,10 +2853,18 @@
       "precio_crc": 40800,
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Dulce",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Cítricos"
       ],
@@ -3178,10 +3246,30 @@
       "precio_crc": 31450,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Dulce",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Lavanda",
         "Menta"
@@ -3224,10 +3312,30 @@
       "precio_crc": 34000,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Dulce",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Lavanda",
         "Menta"
@@ -3270,10 +3378,30 @@
       "precio_crc": 22100,
       "tamano_ml": 105,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Mandarina",
         "Toronja",
@@ -3491,10 +3619,30 @@
       "precio_crc": 29750,
       "tamano_ml": 105,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamota",
         "Limón",
@@ -3540,10 +3688,31 @@
       "precio_crc": 32300,
       "tamano_ml": 105,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Azafrán",
         "Jazmín"
@@ -3585,10 +3754,31 @@
       "precio_crc": 22950,
       "tamano_ml": 105,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamota",
         "Menta",
@@ -3636,10 +3826,30 @@
       "precio_crc": 28900,
       "tamano_ml": 105,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamota",
         "Pimienta rosa",
@@ -3690,10 +3900,30 @@
       "precio_crc": 23800,
       "tamano_ml": 105,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamota",
         "Toronja",
@@ -3741,10 +3971,31 @@
       "precio_crc": 29750,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Manzana verde",
         "Toronja",
@@ -3821,10 +4072,31 @@
       "precio_crc": 34000,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": null,
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Pepper Lemon",
         "Aceite de naranja",
@@ -3909,10 +4181,22 @@
       "precio_crc": 35700,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Dulce",
       "genero": null,
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bayas silvestres",
         "Notas verdes"
@@ -3957,10 +4241,22 @@
       "precio_crc": 39950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": null,
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Durazno",
         "Bayas silvestres"
@@ -4000,10 +4296,30 @@
       "precio_crc": 20400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamota",
         "Grosella negra",
@@ -4049,10 +4365,30 @@
       "precio_crc": 24650,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamota",
         "Limón",
@@ -4135,10 +4471,31 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Azafrán",
         "Nuez moscada",
@@ -4242,10 +4599,30 @@
       "precio_crc": 31450,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Dulce",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Caramelo",
         "Cereza",
@@ -4354,10 +4731,31 @@
       "precio_crc": 30600,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Limón",
         "Pimienta rosa",
@@ -4405,10 +4803,31 @@
       "precio_crc": 21250,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Mandarina",
         "Neroli",
@@ -4489,10 +4908,30 @@
       "precio_crc": 18700,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Limón",
         "Naranja dulce",
@@ -4538,10 +4977,30 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Salvia",
         "Mandarina",
@@ -4587,10 +5046,30 @@
       "precio_crc": 33150,
       "tamano_ml": 200,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Salvia",
         "Mandarina",
@@ -4636,10 +5115,30 @@
       "precio_crc": 28050,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": null,
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Salvia",
         "Mandarina",
@@ -4685,10 +5184,30 @@
       "precio_crc": 30600,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Notas verdes",
         "Naranja"
@@ -4732,10 +5251,30 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Dulce",
       "genero": null,
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Coco",
         "Manzana",
@@ -4788,10 +5327,30 @@
       "precio_crc": 22100,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Jengibre",
         "Bergamota",
@@ -4936,10 +5495,31 @@
       "precio_crc": 30600,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Cítricos",
         "Jengibre",
@@ -5021,10 +5601,30 @@
       "precio_crc": 21250,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Canela",
         "Bergamota",
@@ -5072,10 +5672,30 @@
       "precio_crc": 31450,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Dulce",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Café",
         "Dulce de leche",
@@ -5126,10 +5746,31 @@
       "precio_crc": 20400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Toronja",
         "Notas cítricas"
@@ -5174,10 +5815,30 @@
       "precio_crc": 22100,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Aromático",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Menta",
         "Pimienta rosa",
@@ -5222,10 +5883,31 @@
       "precio_crc": 20400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamota",
         "Pimienta",
@@ -5371,10 +6053,30 @@
       "precio_crc": 18700,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Toronja",
         "Menta",
@@ -5517,10 +6219,18 @@
       "precio_crc": 22100,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Marino",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamot Mandarin Aquatic accords"
       ],
@@ -5589,10 +6299,30 @@
       "precio_crc": 21250,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Petitgrain",
         "Cidra",
@@ -5640,10 +6370,30 @@
       "precio_crc": 18700,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamota",
         "Toronja",
@@ -5692,10 +6442,30 @@
       "precio_crc": 26350,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": null,
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bayas silvestres",
         "Cereza",
@@ -15467,10 +16237,30 @@
       "precio_crc": 21250,
       "tamano_ml": 60,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Guayaba",
         "Toronja rosada",
@@ -15518,10 +16308,31 @@
       "precio_crc": 25500,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Ámbar",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Azafrán",
         "Té negro"
@@ -15565,10 +16376,30 @@
       "precio_crc": 24650,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Cardamomo",
         "Manzana",
@@ -15615,10 +16446,30 @@
       "precio_crc": 17850,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Jengibre",
         "Pimienta negra",
@@ -15696,10 +16547,31 @@
       "precio_crc": 23800,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Frambuesa",
         "Azafrán"
@@ -15810,10 +16682,30 @@
       "precio_crc": 25500,
       "tamano_ml": 60,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Nashi Pear",
         "Kumquat",
@@ -15857,10 +16749,30 @@
       "precio_crc": 24650,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Jengibre",
         "Mandarina",
@@ -15936,10 +16848,30 @@
       "precio_crc": 33150,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Mandarina",
         "Bergamota",
@@ -15984,10 +16916,31 @@
       "precio_crc": 20400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Pimienta negra",
         "Tabaco",
@@ -16034,10 +16987,31 @@
       "precio_crc": 27200,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Pimienta rosa",
         "Azafrán",
@@ -16083,10 +17057,30 @@
       "precio_crc": 23800,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Lavanda",
         "Pimienta negra"
@@ -16129,10 +17123,31 @@
       "precio_crc": 30600,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamota",
         "Incienso",
@@ -16212,10 +17227,22 @@
       "precio_crc": 37400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Dulce",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Crema de banana",
         "Dulce de leche"
@@ -16258,10 +17285,22 @@
       "precio_crc": 26350,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Dulce",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Crema de pistacho",
         "Pistacho tostado"
@@ -16305,10 +17344,31 @@
       "precio_crc": 19550,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Cítricos",
         "Lavanda",
@@ -16359,10 +17419,31 @@
       "precio_crc": 24650,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Azahar",
         "Bergamota",
@@ -16408,10 +17489,30 @@
       "precio_crc": 18700,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Cardamomo",
         "Toronja",
@@ -16487,10 +17588,30 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamota",
         "Pimienta rosa",
@@ -16715,10 +17836,31 @@
       "precio_crc": 15300,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Ámbar",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Pimienta rosa",
         "Nuez moscada",
@@ -16801,10 +17943,30 @@
       "precio_crc": 17000,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamota",
         "Toronja",
@@ -16850,10 +18012,30 @@
       "precio_crc": 28050,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Mystikal",
         "Canela"
@@ -16898,10 +18080,31 @@
       "precio_crc": 27200,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Ámbar",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Canela",
         "Lavanda",
@@ -16980,10 +18183,31 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamota",
         "Cardamomo",
@@ -17030,10 +18254,31 @@
       "precio_crc": 25500,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Ámbar",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Especias",
         "Pimienta de Jamaica",
@@ -17081,10 +18326,31 @@
       "precio_crc": 23800,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Ámbar",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Canela",
         "Nuez moscada",
@@ -17133,10 +18399,30 @@
       "precio_crc": 23800,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Dulce",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Canela",
         "Cardamomo",
@@ -17243,10 +18529,31 @@
       "precio_crc": 22100,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Pimienta negra",
         "Pimienta rosa",
@@ -17295,10 +18602,30 @@
       "precio_crc": 23800,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Pimienta",
         "Lavanda"
@@ -17343,10 +18670,30 @@
       "precio_crc": 21250,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Dulce",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Fresa",
         "Bergamota"
@@ -17389,10 +18736,30 @@
       "precio_crc": 17850,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Higo",
         "Mandarina verde",
@@ -17469,10 +18836,31 @@
       "precio_crc": 8330,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Ámbar",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Frutos rojos",
         "Azafrán",
@@ -17607,10 +18995,31 @@
       "precio_crc": 16150,
       "tamano_ml": 90,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Piña",
         "Azafrán"
@@ -17683,10 +19092,30 @@
       "precio_crc": 22950,
       "tamano_ml": 90,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Coco",
         "Cítricos",
@@ -17768,10 +19197,31 @@
       "precio_crc": 14450,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Madera de oud",
         "Cedro"
@@ -17844,10 +19294,31 @@
       "precio_crc": 22100,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Caramelo",
         "Regaliz",
@@ -17896,10 +19367,30 @@
       "precio_crc": 23800,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Manzana",
         "Durazno",
@@ -17977,10 +19468,30 @@
       "precio_crc": 31450,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Marino",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Almendra amarga",
         "Canela"
@@ -18024,10 +19535,30 @@
       "precio_crc": 20400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Piña",
         "Toronja"
@@ -18070,10 +19601,30 @@
       "precio_crc": 26350,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Bergamota",
         "Cassis"
@@ -18116,10 +19667,30 @@
       "precio_crc": 28050,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Dulce",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Caramelo",
         "Almendra amarga",
@@ -18168,10 +19739,31 @@
       "precio_crc": 31450,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderado",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Menta",
         "Bergamota"
@@ -18274,10 +19866,30 @@
       "precio_crc": 21250,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrico",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Orquídea",
         "Heliotropo",
@@ -18321,10 +19933,30 @@
       "precio_crc": 20400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Pera",
         "Pimienta rosa",
@@ -18369,10 +20001,30 @@
       "precio_crc": 20400,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Frutal",
+          "emoji": ""
+        }
+      ],
       "notas_salida": [
         "Mango",
         "Coco",

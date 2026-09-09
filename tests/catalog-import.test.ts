@@ -184,3 +184,27 @@ test("reviewed Club de Nuit variants keep their exact identities and sizes", () 
   assert.ok(imperiale?.notas_corazon.includes("Rosa turca"));
   assert.ok(milestone?.notas_salida.includes("Notas marinas"));
 });
+
+test("official Armaf pyramids receive usable profiles without invented performance", () => {
+  const sourced = catalog.records.filter(
+    (record) =>
+      record.origen_ref >= 43 &&
+      record.origen_ref <= 112 &&
+      record.fuentes.some((source) => source.url.includes("armaf.com")) &&
+      record.notas_salida.length > 0 &&
+      record.notas_corazon.length > 0 &&
+      record.notas_fondo.length > 0,
+  );
+  assert.ok(sourced.length >= 40);
+  for (const record of sourced) {
+    assert.ok(record.familia);
+    assert.ok(record.acordes.length > 0);
+    assert.ok(record.ocasiones.length > 0);
+    assert.ok(record.descripcion.length > 40);
+  }
+
+  const aura = catalog.records.find((record) => record.origen_ref === 43);
+  assert.equal(aura?.duracion, null);
+  assert.equal(aura?.proyeccion, null);
+  assert.equal(aura?.estela, null);
+});

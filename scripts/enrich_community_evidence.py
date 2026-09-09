@@ -483,10 +483,79 @@ REVIEWED = {
 }
 
 
+PROFILE_ACCORDS = {
+    "Cítrico": {"bergamota", "limón", "lima", "mandarina", "naranja", "toronja", "pomelo"},
+    "Floral": {"rosa", "jazmín", "violeta", "peonía", "magnolia", "lavanda", "gardenia", "fresia", "orquídea", "lirio"},
+    "Amaderado": {"cedro", "sándalo", "vetiver", "pachulí", "madera", "maderas", "abedul", "cachemira"},
+    "Dulce": {"vainilla", "caramelo", "praliné", "chocolate", "cacao", "malvavisco", "miel", "azúcar", "toffee"},
+    "Frutal": {"manzana", "pera", "piña", "mango", "melón", "frambuesa", "fresa", "cereza", "lichi", "ciruela", "grosella"},
+    "Aromático": {"lavanda", "romero", "salvia", "menta", "cardamomo", "albahaca", "tomillo"},
+    "Especiado": {"pimienta", "jengibre", "canela", "nuez moscada", "azafrán", "clavo"},
+    "Marino": {"mar", "marinas", "marinos", "acuático", "acuáticas", "agua de mar", "sal"},
+    "Ámbar": {"ámbar", "ambroxan", "lábdano", "incienso", "benjuí", "mirra", "oud"},
+    "Almizclado": {"almizcle", "almizclado"},
+}
+
+
+def _note_matches(note: str, terms: set[str]) -> bool:
+    normalized = note.casefold()
+    return any(term in normalized for term in terms)
+
+
+def _derive_sourced_profile(record: dict) -> bool:
+    """Complete presentation fields only from already sourced note pyramids.
+
+    Performance and ratings are deliberately excluded: those require separately
+    reviewed community evidence.
+    """
+    tiers = [record["notas_salida"], record["notas_corazon"], record["notas_fondo"]]
+    if not all(tiers) or not record.get("fuentes"):
+        return False
+
+    notes = [note for tier in tiers for note in tier]
+    ranked = sorted(
+        ((name, sum(_note_matches(note, terms) for note in notes)) for name, terms in PROFILE_ACCORDS.items()),
+        key=lambda item: (-item[1], list(PROFILE_ACCORDS).index(item[0])),
+    )
+    accords = [name for name, score in ranked if score > 0][:4]
+    if not accords:
+        return False
+
+    if not record.get("familia"):
+        record["familia"] = next(
+            (name for name in accords if name in {"Marino", "Cítrico", "Floral", "Amaderado", "Dulce", "Aromático", "Ámbar"}),
+            "Oriental",
+        )
+    if not record.get("acordes"):
+        record["acordes"] = [{"nombre": name, "emoji": ""} for name in accords]
+    if not record.get("ocasiones"):
+        if record["familia"] in {"Marino", "Cítrico", "Aromático"}:
+            record["ocasiones"] = ["Diario", "Oficina"]
+        elif record["familia"] in {"Floral", "Dulce"}:
+            record["ocasiones"] = ["Diario", "Citas"]
+        else:
+            record["ocasiones"] = ["Noche", "Citas", "Eventos especiales"]
+    if not record.get("descripcion"):
+        opening = " y ".join(record["notas_salida"][:2])
+        heart = " y ".join(record["notas_corazon"][:2])
+        base = " y ".join(record["notas_fondo"][:2])
+        record["descripcion"] = (
+            f"{opening} abren una fragancia de perfil {record['familia'].lower()}, "
+            f"con un corazón de {heart} y un fondo de {base}. Una composición "
+            f"de carácter {accords[0].lower()} pensada para {record['ocasiones'][0].lower()}."
+        )
+    return True
+
+
 def run() -> None:
     path = ROOT / "catalog" / "august-products.json"
     catalog = json.loads(path.read_text(encoding="utf-8"))
     records = {record["origen_ref"]: record for record in catalog["records"]}
+
+    derived = 0
+    for record in records.values():
+        if _derive_sourced_profile(record):
+            derived += 1
 
     for ref, evidence in REVIEWED.items():
         record = records[ref]
@@ -502,7 +571,7 @@ def run() -> None:
     path.write_text(
         json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
-    print(json.dumps({"updated": len(REVIEWED), "refs": sorted(REVIEWED)}))
+    print(json.dumps({"updated": len(REVIEWED), "derived_profiles": derived, "refs": sorted(REVIEWED)}))
 
 
 if __name__ == "__main__":
