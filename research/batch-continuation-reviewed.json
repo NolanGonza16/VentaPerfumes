@@ -790,5 +790,148 @@
     "notas_fondo": ["Almizcle", "Vainilla", "Azúcar"],
     "fuentes": ["https://www.tubbees.de/en/products/berry-blast", "https://www.parfumo.com/Perfumes/Grandeur/berry-blast"],
     "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 346,
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "acordes": ["Aromático", "Fresco especiado", "Verde", "Amaderado", "Lavanda"],
+    "notas_salida": ["Ajenjo"],
+    "notas_corazon": ["Lavanda", "Jengibre", "Nuez moscada", "Pimienta blanca"],
+    "notas_fondo": ["Abeto", "Sándalo", "Gamuza", "Almizcle", "Ámbar"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Guess/Guess-Man-1592.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 347,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "acordes": ["Floral", "Afrutado", "Fresco", "Floral blanco", "Amaderado"],
+    "notas_salida": ["Manzana verde", "Bergamota", "Fresa", "Mandarina"],
+    "notas_corazon": ["Peonía", "Fresia", "Lirio de los valles", "Magnolia", "Jazmín", "Ylang-ylang"],
+    "notas_fondo": ["Durazno", "Ámbar", "Almizcle", "Cedro"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Guess/Guess-for-Women-1591.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 350,
+    "familia": "Floral",
+    "genero": "Mujer",
+    "acordes": ["Cítrico", "Fresco", "Floral blanco", "Afrutado", "Atalcado"],
+    "notas_salida": ["Cítricos", "Manzana verde", "Lavanda"],
+    "notas_corazon": ["Flores blancas", "Violeta", "Jazmín"],
+    "notas_fondo": ["Almizcle", "Especias", "Ámbar", "Canela"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Halloween-Blue-Drop-15280.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 364,
+    "familia": "Amaderada especiada",
+    "genero": "Hombre",
+    "acordes": ["Afrutado", "Cálido especiado", "Amaderado", "Avainillado", "Aromático"],
+    "notas_salida": ["Manzana", "Ciruela", "Bergamota", "Limón", "Musgo de roble", "Geranio"],
+    "notas_corazon": ["Canela", "Caoba", "Clavel"],
+    "notas_fondo": ["Vainilla", "Sándalo", "Cedro", "Vetiver", "Olivo"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Bottled-383.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 365,
+    "familia": "Amaderada ambarada",
+    "genero": "Hombre",
+    "acordes": ["Amaderado", "Cuero", "Atalcado", "Terroso", "Ámbar"],
+    "notas_salida": ["Mandarina", "Incienso"],
+    "notas_corazon": ["Concreto de iris", "Raíz de higuera"],
+    "notas_fondo": ["Cedro", "Acorde de cuero vegetal"],
+    "fuentes": ["https://www.hugoboss.com/boss-bottled-parfum-100-ml/hbeu58114220_999.html", "https://www.sogo.com.my/products/hugo-boss-bottled-parfum"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 385,
+    "familia": "Floral marina ambarada",
+    "genero": "Mujer",
+    "acordes": ["Marino", "Nardos", "Dulce", "Ámbar", "Cálido especiado"],
+    "notas_salida": ["Nota salada"],
+    "notas_corazon": ["Nardos"],
+    "notas_fondo": ["Haba tonka"],
+    "fuentes": ["https://www.jeanpaulgaultier.com/ww/en/p/range-gaultier-divine/gaultier-divine-elixir-parfum-000000000065216982"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 389,
+    "familia": "Ambarada almizclada amaderada",
+    "genero": "Hombre",
+    "acordes": ["Cítrico", "Almizclado", "Atalcado", "Dulce", "Ámbar"],
+    "notas_salida": ["Bergamota"],
+    "notas_corazon": ["Almizcle atalcado"],
+    "notas_fondo": ["Haba tonka"],
+    "fuentes": ["https://www.jeanpaulgaultier.com/ww/en/p/range-le-beau-narcisse/le-beau-narcisse-eau-de-parfum-000000000065228043"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 401,
+    "familia": "Oriental amaderada",
+    "genero": "Unisex",
+    "acordes": ["Afrutado", "Rosa", "Oud", "Avainillado", "Ámbar"],
+    "notas_salida": ["Lichi", "Bergamota", "Pera"],
+    "notas_corazon": ["Rosa turca", "Oud", "Incienso"],
+    "notas_fondo": ["Notas amaderadas", "Vainilla", "Almizcle", "Ámbar", "Vetiver"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Blind-Bid-121571.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 402,
+    "familia": "Oriental amaderada",
+    "genero": "Unisex",
+    "acordes": ["Amaderado", "Ámbar", "Cítrico", "Cálido especiado", "Almizclado"],
+    "notas_salida": ["Brandy", "Naranja"],
+    "notas_corazon": ["Cedro", "Madera de guayaco", "Jengibre"],
+    "notas_fondo": ["Ámbar", "Sándalo", "Almizcle", "Pachulí"],
+    "fuentes": ["https://jhonyusa.com/wp-content/uploads/2026/04/Jhony-USA-Catalog_compressed.pdf", "https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Gold-121575.html"],
+    "estado": "Ficha comercial contrastada"
+  },
+  {
+    "ref": 403,
+    "familia": "Oriental frutal",
+    "genero": "Unisex",
+    "acordes": ["Afrutado", "Dulce", "Cítrico", "Ámbar", "Avainillado"],
+    "notas_salida": ["Cítricos", "Bergamota"],
+    "notas_corazon": ["Notas frutales", "Notas dulces"],
+    "notas_fondo": ["Vainilla", "Ámbar", "Almizcle"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Jackpot-121564.html", "https://beautyhouse.com/products/jo-milano-game-of-spades-jackpot-parfum-for-everyone"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 405,
+    "familia": "Oriental floral",
+    "genero": "Unisex",
+    "acordes": ["Cálido especiado", "Rosa", "Almizclado", "Animal", "Ámbar"],
+    "notas_salida": ["Azafrán", "Bergamota"],
+    "notas_corazon": ["Geranio", "Magnolia", "Rosa"],
+    "notas_fondo": ["Civeta", "Notas amaderadas", "Ámbar"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Ruby-121574.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 412,
+    "familia": "Oriental cítrica",
+    "genero": "Unisex",
+    "acordes": ["Cítrico", "Fresco especiado", "Almizclado", "Ámbar", "Aromático"],
+    "notas_salida": ["Bergamota", "Jengibre"],
+    "notas_corazon": ["Acorde de toronja"],
+    "notas_fondo": ["Ambroxan", "Almizcle"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Island-Dreams-113593.html", "https://basenotes.com/fragrances/island-dreams-by-khadlaj.26291241"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 413,
+    "familia": "Oriental tropical amaderada",
+    "genero": "Unisex",
+    "acordes": ["Tropical", "Coco", "Amaderado", "Dulce", "Ámbar"],
+    "notas_salida": ["Piña", "Iris", "Ciprés de jengibre"],
+    "notas_corazon": ["Coco", "Notas amaderadas"],
+    "notas_fondo": ["Ámbar", "Haba tonka", "Sándalo"],
+    "fuentes": ["https://khadlaj-perfumes.myshopify.com/products/island-100-ml-extrait-de-parfum-spray-for-men-and-women"],
+    "estado": "Ficha oficial contrastada"
   }
 ]

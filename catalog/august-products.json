@@ -27710,7 +27710,7 @@
       "precio_crc": 24650,
       "tamano_ml": 150,
       "concentracion": "Eau de Toilette",
-      "familia": "amaderada especiada",
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
       "ocasiones": [
         "Noche",
@@ -27719,45 +27719,42 @@
       ],
       "acordes": [
         {
-          "nombre": "mandarina",
+          "nombre": "Aromático",
           "emoji": ""
         },
         {
-          "nombre": "jengibre",
+          "nombre": "Fresco especiado",
           "emoji": ""
         },
         {
-          "nombre": "pimienta blanca",
+          "nombre": "Verde",
           "emoji": ""
         },
         {
-          "nombre": "nuez moscada",
+          "nombre": "Amaderado",
           "emoji": ""
         },
         {
-          "nombre": "lavanda",
-          "emoji": ""
-        },
-        {
-          "nombre": "sándalo",
-          "emoji": ""
-        },
-        {
-          "nombre": "ante",
-          "emoji": ""
-        },
-        {
-          "nombre": "ámbar",
-          "emoji": ""
-        },
-        {
-          "nombre": "abeto",
+          "nombre": "Lavanda",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Ajenjo"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Jengibre",
+        "Nuez moscada",
+        "Pimienta blanca"
+      ],
+      "notas_fondo": [
+        "Abeto",
+        "Sándalo",
+        "Gamuza",
+        "Almizcle",
+        "Ámbar"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -27789,6 +27786,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Guess/Guess-Man-1592.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -27796,7 +27798,7 @@
       "orden": 1346,
       "sku": "AGOSTO-2026-0346",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 346,
       "presentacion_proveedor": "GUESS CLASICO HOMBRE EDT 150ML"
     },
@@ -27807,7 +27809,7 @@
       "precio_crc": 22100,
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
-      "familia": "floral frutal",
+      "familia": "Floral frutal",
       "genero": "Mujer",
       "ocasiones": [
         "Noche",
@@ -27816,57 +27818,46 @@
       ],
       "acordes": [
         {
-          "nombre": "manzana verde",
+          "nombre": "Floral",
           "emoji": ""
         },
         {
-          "nombre": "bergamota",
+          "nombre": "Afrutado",
           "emoji": ""
         },
         {
-          "nombre": "fresa",
+          "nombre": "Fresco",
           "emoji": ""
         },
         {
-          "nombre": "mandarina",
+          "nombre": "Floral blanco",
           "emoji": ""
         },
         {
-          "nombre": "peonía",
-          "emoji": ""
-        },
-        {
-          "nombre": "magnolia",
-          "emoji": ""
-        },
-        {
-          "nombre": "melocotón",
-          "emoji": ""
-        },
-        {
-          "nombre": "fresia",
-          "emoji": ""
-        },
-        {
-          "nombre": "lirio de los valles",
-          "emoji": ""
-        },
-        {
-          "nombre": "almizcle",
-          "emoji": ""
-        },
-        {
-          "nombre": "cedro",
-          "emoji": ""
-        },
-        {
-          "nombre": "ámbar",
+          "nombre": "Amaderado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Manzana verde",
+        "Bergamota",
+        "Fresa",
+        "Mandarina"
+      ],
+      "notas_corazon": [
+        "Peonía",
+        "Fresia",
+        "Lirio de los valles",
+        "Magnolia",
+        "Jazmín",
+        "Ylang-ylang"
+      ],
+      "notas_fondo": [
+        "Durazno",
+        "Ámbar",
+        "Almizcle",
+        "Cedro"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -27898,6 +27889,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Guess/Guess-for-Women-1591.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -27905,7 +27901,7 @@
       "orden": 1347,
       "sku": "AGOSTO-2026-0347",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 347,
       "presentacion_proveedor": "GUESS CLASICO MUJER EDP 75ML"
     },
@@ -28122,7 +28118,7 @@
       "precio_crc": 27200,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": "floral acuática",
+      "familia": "Floral",
       "genero": "Mujer",
       "ocasiones": [
         "Noche",
@@ -28131,53 +28127,42 @@
       ],
       "acordes": [
         {
-          "nombre": "manzana",
+          "nombre": "Cítrico",
           "emoji": ""
         },
         {
-          "nombre": "pera",
+          "nombre": "Fresco",
           "emoji": ""
         },
         {
-          "nombre": "cítricos",
+          "nombre": "Floral blanco",
           "emoji": ""
         },
         {
-          "nombre": "notas verdes",
+          "nombre": "Afrutado",
           "emoji": ""
         },
         {
-          "nombre": "jazmín",
-          "emoji": ""
-        },
-        {
-          "nombre": "flor de azahar",
-          "emoji": ""
-        },
-        {
-          "nombre": "violeta",
-          "emoji": ""
-        },
-        {
-          "nombre": "almizcle",
-          "emoji": ""
-        },
-        {
-          "nombre": "ámbar",
-          "emoji": ""
-        },
-        {
-          "nombre": "vainilla",
-          "emoji": ""
-        },
-        {
-          "nombre": "maderas",
+          "nombre": "Atalcado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Cítricos",
+        "Manzana verde",
+        "Lavanda"
+      ],
+      "notas_corazon": [
+        "Flores blancas",
+        "Violeta",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Especias",
+        "Ámbar",
+        "Canela"
+      ],
       "duracion": 2,
       "proyeccion": 3,
       "estela": 3,
@@ -28204,6 +28189,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Jesus-Del-Pozo/Halloween-Blue-Drop-15280.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -28211,7 +28201,7 @@
       "orden": 1350,
       "sku": "AGOSTO-2026-0350",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 350,
       "presentacion_proveedor": "HALLOWEEN BLUE DROP EDT 100ML"
     },
@@ -29430,13 +29420,55 @@
       "precio_crc": 42500,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Amaderada especiada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Manzana",
+        "Ciruela",
+        "Bergamota",
+        "Limón",
+        "Musgo de roble",
+        "Geranio"
+      ],
+      "notas_corazon": [
+        "Canela",
+        "Caoba",
+        "Clavel"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Sándalo",
+        "Cedro",
+        "Vetiver",
+        "Olivo"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -29463,6 +29495,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-Bottled-383.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -29470,7 +29507,7 @@
       "orden": 1364,
       "sku": "AGOSTO-2026-0364",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 364,
       "presentacion_proveedor": "HUGO BOSS BOTTLED GRIS EDT 100ML"
     },
@@ -29481,13 +29518,47 @@
       "precio_crc": 52700,
       "tamano_ml": 100,
       "concentracion": "Parfum",
-      "familia": null,
+      "familia": "Amaderada ambarada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cuero",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Terroso",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Mandarina",
+        "Incienso"
+      ],
+      "notas_corazon": [
+        "Concreto de iris",
+        "Raíz de higuera"
+      ],
+      "notas_fondo": [
+        "Cedro",
+        "Acorde de cuero vegetal"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
@@ -29514,6 +29585,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.hugoboss.com/boss-bottled-parfum-100-ml/hbeu58114220_999.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.sogo.com.my/products/hugo-boss-bottled-parfum",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -29521,7 +29602,7 @@
       "orden": 1365,
       "sku": "AGOSTO-2026-0365",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 365,
       "presentacion_proveedor": "HUGO BOSS BOTTLED GRIS PARFUM 100ML"
     },
@@ -31254,13 +31335,44 @@
       "precio_crc": 79050,
       "tamano_ml": 100,
       "concentracion": "Parfum",
-      "familia": null,
+      "familia": "Floral marina ambarada",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "Nardos",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Nota salada"
+      ],
+      "notas_corazon": [
+        "Nardos"
+      ],
+      "notas_fondo": [
+        "Haba tonka"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
@@ -31292,6 +31404,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.jeanpaulgaultier.com/ww/en/p/range-gaultier-divine/gaultier-divine-elixir-parfum-000000000065216982",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -31299,7 +31416,7 @@
       "orden": 1385,
       "sku": "AGOSTO-2026-0385",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 385,
       "presentacion_proveedor": "JEAN PAUL GAULTIER DIVINE ELIXIR PARFUM 100ML"
     },
@@ -31597,13 +31714,44 @@
       "precio_crc": 86700,
       "tamano_ml": 125,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Ambarada almizclada amaderada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Almizcle atalcado"
+      ],
+      "notas_fondo": [
+        "Haba tonka"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -31635,6 +31783,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.jeanpaulgaultier.com/ww/en/p/range-le-beau-narcisse/le-beau-narcisse-eau-de-parfum-000000000065228043",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -31642,7 +31795,7 @@
       "orden": 1389,
       "sku": "AGOSTO-2026-0389",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 389,
       "presentacion_proveedor": "JEAN PAUL GAULTIER LE BEAU NARCISSE EDP 125ML"
     },
@@ -32626,18 +32779,57 @@
       "precio_crc": 63750,
       "tamano_ml": 100,
       "concentracion": "Parfum",
-      "familia": null,
+      "familia": "Oriental amaderada",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Rosa",
+          "emoji": ""
+        },
+        {
+          "nombre": "Oud",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Lichi",
+        "Bergamota",
+        "Pera"
+      ],
+      "notas_corazon": [
+        "Rosa turca",
+        "Oud",
+        "Incienso"
+      ],
+      "notas_fondo": [
+        "Notas amaderadas",
+        "Vainilla",
+        "Almizcle",
+        "Ámbar",
+        "Vetiver"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Lichi y Bergamota abren una fragancia de perfil oriental amaderada, con un corazón de Rosa turca y Oud y un fondo de Notas amaderadas y Vainilla. Una composición de carácter ámbar pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Game-of-spade-blind-bid.png?v=1741972267",
       "fuentes": [
         {
@@ -32664,6 +32856,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Blind-Bid-121571.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -32671,7 +32868,7 @@
       "orden": 1401,
       "sku": "AGOSTO-2026-0401",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 401,
       "presentacion_proveedor": "JO MILANO GAME OF SPADES BLIND-BID PARFUM 100ML"
     },
@@ -32682,18 +32879,55 @@
       "precio_crc": 63750,
       "tamano_ml": 90,
       "concentracion": "Parfum",
-      "familia": null,
+      "familia": "Oriental amaderada",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Brandy",
+        "Naranja"
+      ],
+      "notas_corazon": [
+        "Cedro",
+        "Madera de guayaco",
+        "Jengibre"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Sándalo",
+        "Almizcle",
+        "Pachulí"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Brandy y Naranja abren una fragancia de perfil oriental amaderada, con un corazón de Cedro y Madera de guayaco y un fondo de Ámbar y Sándalo. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Game-of-spade-gold.png?v=1741972441",
       "fuentes": [
         {
@@ -32720,6 +32954,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://jhonyusa.com/wp-content/uploads/2026/04/Jhony-USA-Catalog_compressed.pdf",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Gold-121575.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -32727,7 +32971,7 @@
       "orden": 1402,
       "sku": "AGOSTO-2026-0402",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 402,
       "presentacion_proveedor": "JO MILANO GAME OF SPADES GOLD PARFUM 90ML"
     },
@@ -32738,18 +32982,53 @@
       "precio_crc": 63750,
       "tamano_ml": 100,
       "concentracion": "Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental frutal",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Cítricos",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Notas frutales",
+        "Notas dulces"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Ámbar",
+        "Almizcle"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Cítricos y Bergamota abren una fragancia de perfil oriental frutal, con un corazón de Notas frutales y Notas dulces y un fondo de Vainilla y Ámbar. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -32771,6 +33050,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Jackpot-121564.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://beautyhouse.com/products/jo-milano-game-of-spades-jackpot-parfum-for-everyone",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -32778,7 +33067,7 @@
       "orden": 1403,
       "sku": "AGOSTO-2026-0403",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 403,
       "presentacion_proveedor": "JO MILANO GAME OF SPADES JACKPOT PARFUM 100ML"
     },
@@ -32840,18 +33129,54 @@
       "precio_crc": 63750,
       "tamano_ml": 90,
       "concentracion": "Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental floral",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Rosa",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Animal",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Azafrán",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Geranio",
+        "Magnolia",
+        "Rosa"
+      ],
+      "notas_fondo": [
+        "Civeta",
+        "Notas amaderadas",
+        "Ámbar"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Azafrán y Bergamota abren una fragancia de perfil oriental floral, con un corazón de Geranio y Magnolia y un fondo de Civeta y Notas amaderadas. Una composición de carácter floral pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -32873,6 +33198,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Jo-Milano-Paris/Game-of-Spades-Ruby-121574.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -32880,7 +33210,7 @@
       "orden": 1405,
       "sku": "AGOSTO-2026-0405",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 405,
       "presentacion_proveedor": "JO MILANO GAME OF SPADES RUBY PARFUM 90ML"
     },
@@ -33448,18 +33778,51 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Extrait de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental cítrica",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Jengibre"
+      ],
+      "notas_corazon": [
+        "Acorde de toronja"
+      ],
+      "notas_fondo": [
+        "Ambroxan",
+        "Almizcle"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Bergamota y Jengibre abren una fragancia de perfil oriental cítrica, con un corazón de Acorde de toronja y un fondo de Ambroxan y Almizcle. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -33481,6 +33844,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Island-Dreams-113593.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/island-dreams-by-khadlaj.26291241",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -33488,7 +33861,7 @@
       "orden": 1412,
       "sku": "AGOSTO-2026-0412",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 412,
       "presentacion_proveedor": "KHADLAJ ISLAND DREAMS EXTRAIT DE PARFUM 100ML"
     },
@@ -33499,18 +33872,54 @@
       "precio_crc": 22100,
       "tamano_ml": 100,
       "concentracion": "Extrait de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental tropical amaderada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Tropical",
+          "emoji": ""
+        },
+        {
+          "nombre": "Coco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Piña",
+        "Iris",
+        "Ciprés de jengibre"
+      ],
+      "notas_corazon": [
+        "Coco",
+        "Notas amaderadas"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Haba tonka",
+        "Sándalo"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Piña y Iris abren una fragancia de perfil oriental tropical amaderada, con un corazón de Coco y Notas amaderadas y un fondo de Ámbar y Haba tonka. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -33532,6 +33941,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://khadlaj-perfumes.myshopify.com/products/island-100-ml-extrait-de-parfum-spray-for-men-and-women",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -33539,7 +33953,7 @@
       "orden": 1413,
       "sku": "AGOSTO-2026-0413",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 413,
       "presentacion_proveedor": "KHADLAJ ISLAND EXTRAIT DE PARFUM 100ML"
     },
