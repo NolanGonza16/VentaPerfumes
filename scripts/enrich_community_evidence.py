@@ -777,9 +777,35 @@ def _merge_research_batches(records: dict[int, dict]) -> tuple[int, int]:
 def _inherit_exact_testers(records: dict[int, dict]) -> int:
     """Reuse a sourced fragrance profile for an exact tester of the same edition."""
     inherited = 0
+    # Supplier wording sometimes changes only the commercial format. These
+    # pairs were manually verified as the exact same fragrance and edition.
+    exact_format_variants = {
+        540: 437,  # Lattafa Bade'e Al Oud Amethyst miniature
+        670: 239,  # Dolce & Gabbana Pour Femme tester
+    }
+    profile_fields = (
+        "familia", "genero", "ocasiones", "acordes", "notas_salida", "notas_corazon",
+        "notas_fondo", "duracion", "proyeccion", "estela", "valoracion", "descripcion",
+    )
+    for target_ref, source_ref in exact_format_variants.items():
+        target, source = records[target_ref], records[source_ref]
+        if all(target.get(field) for field in ("notas_salida", "notas_corazon", "notas_fondo")):
+            continue
+        if not source.get("fuentes") or not all(
+            source.get(field) for field in ("notas_salida", "notas_corazon", "notas_fondo")
+        ):
+            continue
+        for field in profile_fields:
+            target[field] = source[field]
+        target["fuentes"] = source["fuentes"]
+        target["ficha_estado"] = source["ficha_estado"]
+        inherited += 1
+
     all_records = list(records.values())
     for target in all_records:
-        if target.get("tipo_producto") != "Tester" or target.get("ficha_estado") != "pendiente":
+        if target.get("tipo_producto") != "Tester" or all(
+            target.get(field) for field in ("notas_salida", "notas_corazon", "notas_fondo")
+        ):
             continue
         base_name = target["nombre"].removeprefix("Tester · ")
         source = next(
@@ -797,10 +823,7 @@ def _inherit_exact_testers(records: dict[int, dict]) -> int:
         )
         if not source:
             continue
-        for field in (
-            "familia", "genero", "ocasiones", "acordes", "notas_salida", "notas_corazon",
-            "notas_fondo", "duracion", "proyeccion", "estela", "valoracion", "descripcion",
-        ):
+        for field in profile_fields:
             target[field] = source[field]
         target["fuentes"] = source["fuentes"]
         target["ficha_estado"] = "verificada" if all(

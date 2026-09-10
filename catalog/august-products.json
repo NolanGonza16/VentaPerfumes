@@ -43390,20 +43390,67 @@
       "precio_crc": 7650,
       "tamano_ml": 5,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
-      "duracion": 3,
+      "familia": "Floral amaderada almizclada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "cítrico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "lavanda",
+        "romero",
+        "bergamota"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "flor de azahar",
+        "heliotropo"
+      ],
+      "notas_fondo": [
+        "almizcle blanco",
+        "ámbar",
+        "cedro"
+      ],
+      "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Eau de Parfum floral y almizclado de Lattafa.",
       "imagen_url": null,
       "fuentes": [
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://lattafa.com/product/amethyst/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Amethyst-75954.html",
+          "fecha": "2026-09-09"
+        },
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.costco.com/f/-/fragrance-buying-guide",
@@ -43425,7 +43472,7 @@
       "orden": 1540,
       "sku": "AGOSTO-2026-0540",
       "tipo_producto": "Miniatura",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 540,
       "presentacion_proveedor": "MINI LATTAFA AMETHYST 5ML"
     },
@@ -53286,33 +53333,65 @@
       "precio_crc": 51850,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "día",
+        "oficina",
+        "noche"
+      ],
+      "acordes": [
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "frutal",
+          "emoji": ""
+        },
+        {
+          "nombre": "dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "neroli",
+        "frambuesa",
+        "mandarina"
+      ],
+      "notas_corazon": [
+        "jazmín",
+        "azahar"
+      ],
+      "notas_fondo": [
+        "malvavisco",
+        "vainilla",
+        "sándalo",
+        "heliotropo"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Composición femenina floral y frutal con un carácter dulce y fondo amaderado.",
       "imagen_url": null,
       "fuentes": [
         {
-          "titulo": "Investigación olfativa",
-          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Gabbana-Pour-Femme-1551.html",
+          "titulo": "Referencia visual de PerfumeOnline.ca",
+          "url": "https://perfumeonline.ca/products/dolce-gabbana",
           "fecha": "2026-09-09"
         },
         {
           "titulo": "Investigación olfativa",
-          "url": "https://www.parfumo.com/Perfumes/Dolce_Gabbana/Dolce_Gabbana_Pour_Femme",
-          "fecha": "2026-09-09"
-        },
-        {
-          "titulo": "Investigación olfativa",
-          "url": "https://basenotes.com/fragrances/dolce-gabbana-pour-femme-by-dolce-gabbana.26120735",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Gabbana-Pour-Femme-486.html",
           "fecha": "2026-09-09"
         },
         {
@@ -53336,7 +53415,7 @@
       "orden": 1670,
       "sku": "AGOSTO-2026-0670",
       "tipo_producto": "Tester",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 670,
       "presentacion_proveedor": "TESTER DOLCE & GABBANA POUR FEMME EDT 100ML"
     },
