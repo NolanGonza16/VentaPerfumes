@@ -732,7 +732,6 @@ def _merge_research_batches(records: dict[int, dict]) -> tuple[int, int]:
                 value = evidence.get(source_field)
                 if value not in (None, "", []):
                     if target_field in {"duracion", "proyeccion", "estela", "valoracion"} and not isinstance(value, (int, float)):
-                        record[target_field] = None
                         continue
                     if target_field == "genero":
                         value = {
@@ -743,7 +742,6 @@ def _merge_research_batches(records: dict[int, dict]) -> tuple[int, int]:
                             "unisex": "Unisex",
                         }.get(str(value).casefold(), value)
                         if value not in {"Hombre", "Mujer", "Unisex"}:
-                            record[target_field] = None
                             continue
                     record[target_field] = value
 

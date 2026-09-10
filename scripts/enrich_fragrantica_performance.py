@@ -13,6 +13,7 @@ import json
 import re
 import statistics
 import time
+import zlib
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from urllib.error import HTTPError, URLError
@@ -29,16 +30,19 @@ USER_AGENT = "Mozilla/5.0 (compatible; VentaPerfumesCatalogResearch/1.0)"
 
 def fetch(url: str) -> str | None:
     parts = urlsplit(url)
-    safe_url = urlunsplit((parts.scheme, parts.netloc, quote(parts.path), quote(parts.query, safe="=&"), parts.fragment))
-    for attempt in range(2):
+    hosts = ["www.fragrantica.es", "www.fragrantica.fr", "www.fragrantica.com.br", "www.fragrantica.de"]
+    start = zlib.crc32(url.encode("utf-8")) % len(hosts)
+    for attempt in range(len(hosts)):
+        host = hosts[(start + attempt) % len(hosts)]
+        safe_url = urlunsplit((parts.scheme, host, quote(parts.path), quote(parts.query, safe="=&"), parts.fragment))
         try:
             request = Request(safe_url, headers={"User-Agent": USER_AGENT, "Accept-Language": "es,en;q=0.8"})
             with urlopen(request, timeout=12) as response:
                 return response.read().decode("utf-8", "ignore")
         except (HTTPError, URLError, TimeoutError, UnicodeError, ValueError):
-            if attempt == 1:
+            if attempt == len(hosts) - 1:
                 return None
-            time.sleep(1.5 * (attempt + 1))
+            time.sleep(0.5 * (attempt + 1))
     return None
 
 
@@ -86,7 +90,7 @@ def main() -> None:
             targets.setdefault(url, []).append(ref)
 
     results: list[dict] = []
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=4) as executor:
         futures = {executor.submit(fetch, url): url for url in targets}
         for index, future in enumerate(as_completed(futures), start=1):
             url = futures[future]

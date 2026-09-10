@@ -32,21 +32,56 @@ def values(text: str) -> list[str]:
     return [] if not text or text == "NA" else [item.strip() for item in text.split(",") if item.strip()]
 
 
+def concentration(value: str | None) -> str:
+    value = (value or "").casefold()
+    if "toilette" in value:
+        return "edt"
+    if "parfum" in value and "eau" not in value:
+        return "parfum"
+    if "parfum" in value:
+        return "edp"
+    if "cologne" in value:
+        return "edc"
+    return ""
+
+
+def catalog_name(value: str) -> str:
+    for prefix in ("Tester · ", "Decant · ", "Estuche · ", "Corporal · ", "Miniatura · "):
+        value = value.removeprefix(prefix)
+    return norm(value)
+
+
+def dataset_name(row: dict) -> str:
+    name = norm(row["Name"])
+    brand_tokens = set(norm(row["Brand"]).split())
+    return " ".join(
+        token
+        for token in name.split()
+        if token not in brand_tokens and not re.fullmatch(r"(?:19|20)\d{2}", token)
+    )
+
+
 def main() -> None:
     catalog = json.loads(CATALOG.read_text(encoding="utf-8"))["records"]
     index: dict[tuple[str, str], list[dict]] = {}
     with DATASET.open(encoding="utf-8-sig", newline="") as handle:
         for row in csv.DictReader(handle):
-            index.setdefault((norm(row["Brand"]), norm(row["Name"])), []).append(row)
+            index.setdefault((norm(row["Brand"]), dataset_name(row)), []).append(row)
 
     output: list[dict] = []
     for record in catalog:
         ref = int(record["origen_ref"])
         if ref in AMBIGUOUS_REFS or all(record.get(field) for field in ("notas_salida", "notas_corazon", "notas_fondo")):
             continue
-        name = record["nombre"].removeprefix("Tester · ")
-        matches = index.get((norm(record["marca"]), norm(name)), [])
+        matches = index.get((norm(record["marca"]), catalog_name(record["nombre"])), [])
         complete = [row for row in matches if all(values(row[field]) for field in ("Top_Notes", "Middle_Notes", "Base_Notes"))]
+        requested_concentration = concentration(record.get("concentracion"))
+        if requested_concentration:
+            matching_edition = [row for row in complete if concentration(row["Concentration"]) == requested_concentration]
+            if matching_edition:
+                complete = matching_edition
+            elif any(concentration(row["Concentration"]) for row in complete):
+                complete = []
         if len(complete) != 1:
             continue
         row = complete[0]

@@ -1,0 +1,169 @@
+[
+  {
+    "ref": 157,
+    "acordes": [
+      "Sweet",
+      "Synthetic",
+      "Spicy",
+      "Woody",
+      "Fresh"
+    ],
+    "notas_salida": [
+      "Black pepper",
+      "Grapefruit",
+      "Pink pepper",
+      "Italian bergamot",
+      "White pepper"
+    ],
+    "notas_corazon": [
+      "Clary sage",
+      "Vetiver"
+    ],
+    "notas_fondo": [
+      "Cocoa absolute",
+      "Tonka bean"
+    ],
+    "valoracion": 3.15,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Carolina_Herrera/bad-boy-eau-de-toilette"
+    ],
+    "estado": "Coincidencia exacta de nombre, marca y edición en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 161,
+    "acordes": [
+      "Floral",
+      "Fruity",
+      "Sweet",
+      "Woody",
+      "Powdery"
+    ],
+    "notas_salida": [
+      "Calabrian bergamot",
+      "Lemon"
+    ],
+    "notas_corazon": [
+      "Bulgarian rose",
+      "Orange blossom",
+      "Cinnamon",
+      "Jasmine sambac",
+      "Praliné"
+    ],
+    "notas_fondo": [
+      "Amber",
+      "Cashmere",
+      "Cedarwood",
+      "Musk",
+      "Patchouli",
+      "Sandalwood"
+    ],
+    "valoracion": 3.05,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Carolina_Herrera/CH"
+    ],
+    "estado": "Coincidencia exacta de nombre, marca y edición en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 164,
+    "acordes": [
+      "Floral",
+      "Sweet",
+      "Fruity",
+      "Creamy",
+      "Powdery"
+    ],
+    "notas_salida": [
+      "Bergamot",
+      "Bitter almond"
+    ],
+    "notas_corazon": [
+      "Peony",
+      "Ylang-ylang"
+    ],
+    "notas_fondo": [
+      "Vanilla",
+      "Tonka bean"
+    ],
+    "valoracion": 3.7,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Carolina_Herrera/good-girl-blush-eau-de-parfum"
+    ],
+    "estado": "Coincidencia exacta de nombre, marca y edición en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 165,
+    "acordes": [
+      "Sweet",
+      "Floral",
+      "Gourmand",
+      "Oriental",
+      "Creamy"
+    ],
+    "notas_salida": [
+      "Almond",
+      "Bergamot",
+      "Coffee",
+      "Lemon"
+    ],
+    "notas_corazon": [
+      "Orange blossom",
+      "Bulgarian rose",
+      "Jasmine sambac",
+      "Tuberose",
+      "Cinnamon",
+      "Praliné"
+    ],
+    "notas_fondo": [
+      "Roasted tonka bean",
+      "Amber",
+      "Cocoa",
+      "Patchouli",
+      "Cashmere",
+      "Musk",
+      "Sandalwood",
+      "Cedarwood"
+    ],
+    "valoracion": null,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Carolina_Herrera/Good_Girl_Eau_de_Parfum"
+    ],
+    "estado": "Coincidencia exacta de nombre, marca y edición en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 610,
+    "acordes": [
+      "Citrus",
+      "Spicy",
+      "Woody",
+      "Fresh",
+      "Floral"
+    ],
+    "notas_salida": [
+      "Bergamot",
+      "Geranium leaf",
+      "Grapefruit",
+      "Juniper berry",
+      "Lavender"
+    ],
+    "notas_corazon": [
+      "Black rose",
+      "Hedione",
+      "Sage",
+      "Tarragon",
+      "Thyme",
+      "White carnation"
+    ],
+    "notas_fondo": [
+      "Amber",
+      "Exotic woods",
+      "Musk",
+      "Oakmoss",
+      "Sandalwood"
+    ],
+    "valoracion": 3.55,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Perry_Ellis/Reserve"
+    ],
+    "estado": "Coincidencia exacta de nombre, marca y edición en el conjunto público de Parfumo"
+  }
+]

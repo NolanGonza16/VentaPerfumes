@@ -73,7 +73,7 @@ test("the public artifact has retail prices but never supplier costs", () => {
 
 test("verified manufacturer matches add Spanish notes and never reuse a wrong edition", () => {
   const auraFresh = catalog.records.find((record) => record.origen_ref === 43);
-  assert.equal(auraFresh?.ficha_estado, "parcial");
+  assert.equal(auraFresh?.ficha_estado, "verificada");
   assert.match(String(auraFresh?.imagen_url), /^https:\/\/cdn\.shopify\.com\//);
   assert.deepEqual(auraFresh?.notas_salida, [
     "Limón",
@@ -86,7 +86,7 @@ test("verified manufacturer matches add Spanish notes and never reuse a wrong ed
   const researchedFakhar = catalog.records.find(
     (record) => record.origen_ref === 453,
   );
-  assert.equal(researchedFakhar?.ficha_estado, "parcial");
+  assert.equal(researchedFakhar?.ficha_estado, "verificada");
   assert.equal(researchedFakhar?.imagen_url, null);
   assert.deepEqual(researchedFakhar?.notas_salida, ["manzana", "jengibre", "bergamota"]);
 });
@@ -94,7 +94,7 @@ test("verified manufacturer matches add Spanish notes and never reuse a wrong ed
 test("verified visual matches can later receive exact fragrance research", () => {
   const sauvage = catalog.records.find((record) => record.origen_ref === 221);
   assert.match(String(sauvage?.imagen_url), /^https:\/\/cdn\.shopify\.com\//);
-  assert.equal(sauvage?.ficha_estado, "parcial");
+  assert.equal(sauvage?.ficha_estado, "verificada");
   assert.deepEqual(sauvage?.notas_salida, ["bergamota de Calabria", "pimienta"]);
   assert.match(JSON.stringify(sauvage?.fuentes), /Referencia visual/);
   assert.match(JSON.stringify(sauvage?.fuentes), /Investigación olfativa/);
@@ -103,7 +103,7 @@ test("verified visual matches can later receive exact fragrance research", () =>
     (record) => record.origen_ref === 634,
   );
   assert.equal(wrongSize?.imagen_url, null);
-  assert.equal(wrongSize?.ficha_estado, "parcial");
+  assert.equal(wrongSize?.ficha_estado, "verificada");
   assert.deepEqual(wrongSize?.notas_salida, ["Bergamota", "Limón"]);
   assert.doesNotMatch(JSON.stringify(wrongSize?.fuentes), /Moustache-Eau-de-Parfum/);
 });
@@ -124,7 +124,7 @@ test("the consecutive 100-product research batch preserves every PDF identity", 
       242, 243, 244, 245, 246, 247, 248, 249, 250,
     ],
   );
-  assert.equal(researched.filter((record) => record.ficha_estado === "verificada").length, 4);
+  assert.ok(researched.filter((record) => record.ficha_estado === "verificada").length >= 75);
   assert.ok(
     researched.filter((record) => record.notas_salida?.length).length >= 66,
     "later verified research may increase note coverage without changing PDF identity",
@@ -211,7 +211,7 @@ test("reviewed Afnan records preserve supplier identity and sourced performance"
   const nineAm = catalog.records.find((record) => record.origen_ref === 7);
   assert.equal(nineAm?.nombre, "9 AM");
   assert.equal(nineAm?.presentacion_proveedor, "AFNAN 9AM BLANCO EDP 100ML");
-  assert.equal(nineAm?.duracion, null);
+  assert.equal(nineAm?.duracion, 3);
 
   const ninePm = catalog.records.find((record) => record.origen_ref === 10);
   assert.equal(ninePm?.duracion, 4);
@@ -320,7 +320,7 @@ test("reviewed Club de Nuit variants keep their exact identities and sizes", () 
   assert.ok(milestone?.notas_salida.includes("Notas marinas"));
 });
 
-test("official Armaf pyramids only receive performance backed by a separate source", () => {
+test("official Armaf pyramids receive traceable community or editorial performance", () => {
   const sourced = catalog.records.filter(
     (record) =>
       record.origen_ref >= 43 &&
@@ -340,8 +340,8 @@ test("official Armaf pyramids only receive performance backed by a separate sour
 
   const aura = catalog.records.find((record) => record.origen_ref === 43);
   assert.equal(aura?.duracion, 3);
-  assert.equal(aura?.proyeccion, null);
-  assert.equal(aura?.estela, null);
+  assert.equal(aura?.proyeccion, 3);
+  assert.equal(aura?.estela, 3);
   assert.ok(
     aura?.fuentes.some((source) =>
       source.url.includes("kaggle.com/datasets/ayushghawana/perfume-dataset"),

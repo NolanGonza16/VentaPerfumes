@@ -1,375 +1,517 @@
 [
   {
-    "ref": 58,
+    "ref": 143,
     "acordes": [
-      "Fruity",
-      "Woody",
-      "Leathery",
-      "Spicy",
-      "Sweet"
+      "Floral",
+      "Fresh",
+      "Powdery",
+      "Sweet",
+      "Woody"
     ],
     "notas_salida": [
-      "Bergamot",
-      "Passion fruit",
-      "Peach",
-      "Pear",
-      "Pineapple",
-      "Plum"
+      "Plant juice",
+      "Pink grapefruit"
     ],
     "notas_corazon": [
-      "Cashmere wood",
-      "Freesia",
-      "Jasmine",
-      "Violet leaf"
+      "Rose absolute",
+      "Iris"
     ],
     "notas_fondo": [
-      "Cambodian oud",
-      "Crystal amber",
-      "Cypriol",
-      "Musk",
-      "Sandalwood",
-      "Vanilla"
+      "Heliotrope",
+      "Woods"
     ],
-    "valoracion": 4.25,
+    "valoracion": 3.6,
     "fuentes": [
-      "https://www.parfumo.com/Perfumes/Armaf/club-de-nuit-oud"
+      "https://www.parfumo.com/Perfumes/Bvlgari/Omnia_Amethyste"
     ],
     "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
   },
   {
-    "ref": 158,
+    "ref": 160,
     "acordes": [
       "Sweet",
-      "Synthetic",
-      "Fresh",
+      "Leathery",
+      "Woody",
       "Fruity",
       "Spicy"
     ],
     "notas_salida": [
-      "Pink pepper",
-      "Lavender"
+      "Violet",
+      "Grass"
     ],
     "notas_corazon": [
-      "Black plum",
-      "Egyptian geranium"
+      "Nutmeg",
+      "Saffron"
     ],
     "notas_fondo": [
-      "Cedarwood",
-      "Truffle",
-      "Oak",
+      "Suede",
+      "Vanilla",
+      "Cashmere",
+      "Jasmine sambac",
+      "Sandalwood",
       "Vetiver"
     ],
-    "valoracion": 3.7,
+    "valoracion": 3.9,
     "fuentes": [
-      "https://www.parfumo.com/Perfumes/Carolina_Herrera/bad-boy-cobalt"
+      "https://www.parfumo.com/Perfumes/Carolina_Herrera/CH_Men_Eau_de_Toilette"
     ],
     "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
   },
   {
-    "ref": 159,
+    "ref": 163,
     "acordes": [
+      "Floral",
       "Sweet",
-      "Gourmand",
-      "Synthetic",
+      "Fruity",
       "Creamy",
-      "Oriental"
+      "Powdery"
     ],
     "notas_salida": [
-      "Ginger",
-      "Sage"
+      "Bergamot",
+      "Bitter almond"
     ],
     "notas_corazon": [
-      "Cocoa absolute",
-      "Vetiver"
+      "Peony",
+      "Ylang-ylang"
     ],
     "notas_fondo": [
-      "Patchouli",
+      "Vanilla",
       "Tonka bean"
+    ],
+    "valoracion": 3.7,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Carolina_Herrera/good-girl-blush-eau-de-parfum"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 206,
+    "acordes": [
+      "Sweet",
+      "Fruity",
+      "Synthetic",
+      "Gourmand",
+      "Creamy"
+    ],
+    "notas_salida": [
+      "Berries",
+      "Dragon fruit",
+      "Pink pineapple"
+    ],
+    "notas_corazon": [
+      "Ambrette",
+      "Coconut water",
+      "Vanilla orchid"
+    ],
+    "notas_fondo": [
+      "Praliné",
+      "Amberwood",
+      "Musk",
+      "Moss"
+    ],
+    "valoracion": 3.6,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Ariana_Grande/cloud-pink"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 251,
+    "acordes": [
+      "Floral",
+      "Powdery",
+      "Chypre",
+      "Spicy",
+      "Sweet"
+    ],
+    "notas_salida": [
+      "Aldehydes",
+      "Amazon lily",
+      "Neroli"
+    ],
+    "notas_corazon": [
+      "Carnation",
+      "Tuberose",
+      "Turkish rose",
+      "Jasmine",
+      "Iris",
+      "Narcissus"
+    ],
+    "notas_fondo": [
+      "Oakmoss",
+      "Patchouli",
+      "Sandalwood",
+      "Amber"
+    ],
+    "valoracion": 3.6,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Elizabeth_Taylor/White_Diamonds_Eau_de_Toilette"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 321,
+    "acordes": [
+      "Floral",
+      "Oriental",
+      "Sweet",
+      "Fruity",
+      "Spicy"
+    ],
+    "notas_salida": [
+      "Peach",
+      "Mandarin orange",
+      "Neroli",
+      "Violet",
+      "Plum",
+      "Rosewood"
+    ],
+    "notas_corazon": [
+      "Tuberose",
+      "Ylang-ylang",
+      "Gardenia",
+      "Jasmine",
+      "Black locust",
+      "Carnation",
+      "Cassia",
+      "Mimosa",
+      "Rose",
+      "Blackcurrant",
+      "Orchid",
+      "Red berries"
+    ],
+    "notas_fondo": [
+      "Woody notes",
+      "Amber",
+      "Cedar",
+      "Musk",
+      "Sandalwood",
+      "Tonka bean",
+      "Vanilla"
     ],
     "valoracion": 3.8,
     "fuentes": [
-      "https://www.parfumo.com/Perfumes/Carolina_Herrera/bad-boy-extreme"
+      "https://www.parfumo.com/Perfumes/Givenchy/Amarige_Eau_de_Toilette"
     ],
     "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
   },
   {
-    "ref": 309,
+    "ref": 322,
     "acordes": [
-      "Aquatic",
-      "Citrus",
-      "Fresh",
+      "Floral",
+      "Fruity",
+      "Sweet",
       "Synthetic",
-      "Woody"
+      "Powdery"
     ],
     "notas_salida": [
-      "Marine notes",
-      "Bergamot"
+      "French blackcurrant bud absolute",
+      "White tea"
     ],
     "notas_corazon": [
-      "Everlasting flower",
-      "Provençal lavender",
-      "Violet leaf absolute"
+      "Chinese orris butter",
+      "Moroccan orris butter",
+      "Rose Essential™"
     ],
     "notas_fondo": [
-      "Patchouli",
-      "Cistus absolute"
+      "Virginia cedar",
+      "White musk"
     ],
     "valoracion": 3.7,
     "fuentes": [
-      "https://www.parfumo.com/Perfumes/Giorgio_Armani/acqua-di-gio-profondo-parfum"
+      "https://www.parfumo.com/Perfumes/Givenchy/irresistible-givenchy-eau-de-toilette"
     ],
     "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
   },
   {
-    "ref": 310,
+    "ref": 323,
     "acordes": [
-      "Aquatic",
-      "Citrus",
-      "Fresh",
-      "Synthetic",
-      "Woody"
-    ],
-    "notas_salida": [
-      "Marine notes",
-      "Bergamot"
-    ],
-    "notas_corazon": [
-      "Everlasting flower",
-      "Provençal lavender",
-      "Violet leaf absolute"
-    ],
-    "notas_fondo": [
-      "Patchouli",
-      "Cistus absolute"
-    ],
-    "valoracion": 3.7,
-    "fuentes": [
-      "https://www.parfumo.com/Perfumes/Giorgio_Armani/acqua-di-gio-profondo-parfum"
-    ],
-    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
-  },
-  {
-    "ref": 387,
-    "acordes": [
+      "Floral",
+      "Oriental",
       "Sweet",
-      "Fresh",
-      "Synthetic",
-      "Fruity",
-      "Creamy"
+      "Spicy",
+      "Powdery"
     ],
     "notas_salida": [
-      "Bergamot"
-    ],
-    "notas_corazon": [
-      "Coconut palmwood"
-    ],
-    "notas_fondo": [
-      "Tonka bean"
-    ],
-    "valoracion": 3.65,
-    "fuentes": [
-      "https://www.parfumo.com/Perfumes/Jean_Paul_Gaultier/Le_Beau"
-    ],
-    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
-  },
-  {
-    "ref": 388,
-    "acordes": [
-      "Sweet",
-      "Fresh",
-      "Synthetic",
-      "Fruity",
-      "Creamy"
-    ],
-    "notas_salida": [
-      "Bergamot"
-    ],
-    "notas_corazon": [
-      "Coconut palmwood"
-    ],
-    "notas_fondo": [
-      "Tonka bean"
-    ],
-    "valoracion": 3.65,
-    "fuentes": [
-      "https://www.parfumo.com/Perfumes/Jean_Paul_Gaultier/Le_Beau"
-    ],
-    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
-  },
-  {
-    "ref": 558,
-    "acordes": [
-      "Citrus",
-      "Fresh",
-      "Aquatic",
-      "Woody",
-      "Synthetic"
-    ],
-    "notas_salida": [
-      "Lemon",
-      "Lemon sorbet",
-      "Oregano"
-    ],
-    "notas_corazon": [
-      "Sand",
-      "Freesia",
-      "Jasmine"
-    ],
-    "notas_fondo": [
-      "Musk",
-      "Cypress",
-      "Vetiver"
-    ],
-    "valoracion": 3.1,
-    "fuentes": [
-      "https://www.parfumo.com/Perfumes/Moschino/toy-2-pearl"
-    ],
-    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
-  },
-  {
-    "ref": 563,
-    "acordes": [
-      "Fruity",
-      "Aquatic",
-      "Synthetic"
-    ],
-    "notas_salida": [
-      "Apple",
-      "Green leaves"
-    ],
-    "notas_corazon": [
-      "Aquatic notes"
-    ],
-    "notas_fondo": [
-      "Musk",
-      "Amber",
-      "Moss"
-    ],
-    "valoracion": 2.9,
-    "fuentes": [
-      "https://www.parfumo.com/Perfumes/Nautica/Blue_Sail"
-    ],
-    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
-  },
-  {
-    "ref": 609,
-    "acordes": [],
-    "notas_salida": [
-      "Citrus notes",
-      "White pepper"
-    ],
-    "notas_corazon": [
-      "Frangipani",
-      "Rose",
-      "Water lily"
-    ],
-    "notas_fondo": [
-      "Bourbon vanilla",
-      "Musk",
-      "Patchouli",
-      "Plum",
-      "Sandalwood"
-    ],
-    "valoracion": null,
-    "fuentes": [
-      "https://www.parfumo.com/Perfumes/Perry_Ellis/Love"
-    ],
-    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
-  },
-  {
-    "ref": 698,
-    "acordes": [
-      "Sweet",
-      "Powdery",
-      "Citrus",
-      "Synthetic"
-    ],
-    "notas_salida": [
-      "Mandarin orange",
-      "Orange",
-      "Pear",
-      "Strawberry"
+      "Neroli",
+      "Gardenia",
+      "Bergamot",
+      "Green notes",
+      "Nutmeg"
     ],
     "notas_corazon": [
       "Jasmine",
-      "Raspberry",
-      "Rose",
-      "Sandalwood"
+      "Tuberose",
+      "Honeysuckle",
+      "Iris",
+      "Peony",
+      "Walnut"
     ],
     "notas_fondo": [
       "Amber",
-      "Coconut",
-      "Musk",
-      "Patchouli",
-      "Vanilla"
+      "Vanilla",
+      "Cedar",
+      "Gaiac wood",
+      "Woods"
     ],
-    "valoracion": 4.25,
+    "valoracion": 3.85,
     "fuentes": [
-      "https://www.parfumo.com/Perfumes/Tous/your-powers"
+      "https://www.parfumo.com/Perfumes/Givenchy/Organza"
     ],
     "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
   },
   {
-    "ref": 716,
+    "ref": 325,
     "acordes": [
-      "Sweet",
+      "Fresh",
       "Spicy",
-      "Citrus",
       "Fruity",
-      "Synthetic"
+      "Citrus",
+      "Woody"
     ],
     "notas_salida": [
+      "Grapefruit",
       "Mandarin orange",
-      "Chinotto",
-      "Lemon",
-      "Madagascar pepper",
-      "Rosemary"
+      "Coriander"
     ],
     "notas_corazon": [
-      "Pepperwood™",
-      "Rose",
-      "Geranium"
+      "Lavender",
+      "Vetiver"
     ],
     "notas_fondo": [
-      "Tonka bean",
-      "Vanilla",
-      "Patchouli",
-      "Sandalwood",
-      "Texas cedar",
-      "Haitian vetiver",
-      "Oakmoss"
+      "Cedar",
+      "Labdanum"
     ],
-    "valoracion": null,
+    "valoracion": 3.55,
     "fuentes": [
-      "https://www.parfumo.com/Perfumes/Versace/Eros_Flame"
+      "https://www.parfumo.com/Perfumes/Givenchy/Givenchy_pour_Homme_Eau_de_Toilette"
     ],
     "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
   },
   {
-    "ref": 734,
+    "ref": 348,
     "acordes": [
+      "Floral",
       "Fruity",
       "Sweet",
       "Fresh",
+      "Synthetic"
+    ],
+    "notas_salida": [
+      "Bergamot",
+      "Raspberry nectar",
+      "Melon"
+    ],
+    "notas_corazon": [
+      "Brazilian orchid",
+      "Lily"
+    ],
+    "notas_fondo": [
+      "Australian sandalwood",
+      "Musk",
+      "Bourbon vanilla"
+    ],
+    "valoracion": 2.8,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Guess/guess-girl-eau-de-toilette"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 349,
+    "acordes": [],
+    "notas_salida": [
+      "Green mandarin orange",
+      "Pink pepper",
+      "Woodland strawberry"
+    ],
+    "notas_corazon": [
+      "Blackberry blossom",
+      "Egyptian jasmine",
+      "Orange blossom"
+    ],
+    "notas_fondo": [
+      "Cedar",
+      "Musk",
+      "Vanilla"
+    ],
+    "valoracion": 4.35,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Halloween/halloween-blossom"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 501,
+    "acordes": [
+      "Sweet",
+      "Gourmand",
+      "Spicy",
+      "Woody",
+      "Creamy"
+    ],
+    "notas_salida": [
+      "Aniseed",
+      "Absinth",
+      "Ivy"
+    ],
+    "notas_corazon": [
+      "Violet wood",
+      "Orgeat syrup",
+      "Rum",
+      "Violet"
+    ],
+    "notas_fondo": [
+      "Musk",
+      "Cedarwood",
+      "Cistus",
+      "Vanilla"
+    ],
+    "valoracion": 3.85,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Lolita_Lempicka/Lempicka_Homme"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 593,
+    "acordes": [
+      "Powdery",
+      "Fruity",
+      "Sweet"
+    ],
+    "notas_salida": [
+      "Blackcurrant",
+      "Clementine",
+      "Nectarine",
+      "Raspberry"
+    ],
+    "notas_corazon": [
+      "Orange blossom",
+      "Wild orchid"
+    ],
+    "notas_fondo": [
+      "Blond woods",
+      "Musk"
+    ],
+    "valoracion": null,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Paris_Hilton/Can_Can_Burlesque_Eau_de_Parfum"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 706,
+    "acordes": [
+      "Sweet",
+      "Synthetic",
+      "Fresh",
+      "Fruity",
+      "Woody"
+    ],
+    "notas_salida": [
+      "Vanilla",
+      "Ginger"
+    ],
+    "notas_corazon": [
+      "Provençal lavender",
+      "Nutmeg"
+    ],
+    "notas_fondo": [
+      "Haitian vetiver"
+    ],
+    "valoracion": 3.9,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Valentino/valentino-uomo-born-in-roma-intense"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 721,
+    "acordes": [
+      "Fresh",
+      "Citrus",
+      "Aquatic",
+      "Synthetic",
+      "Fruity"
+    ],
+    "notas_salida": [
+      "Starfruit",
+      "Rosewood"
+    ],
+    "notas_corazon": [
+      "Clary sage",
+      "Tarragon",
+      "Cedar leaf"
+    ],
+    "notas_fondo": [
+      "Musk",
+      "Amber",
+      "Sycamore wood"
+    ],
+    "valoracion": 3.75,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Versace/Versace_Man_Eau_Fraiche_Eau_de_Toilette"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 722,
+    "acordes": [
+      "Fresh",
+      "Citrus",
+      "Aquatic",
       "Synthetic",
       "Floral"
     ],
     "notas_salida": [
-      "Calabrian bergamot",
-      "Sicilian lemon",
-      "Sicilian orange"
+      "Bergamot",
+      "Neroli",
+      "Bitter orange leaf",
+      "Lemon"
     ],
     "notas_corazon": [
-      "Fruity notes"
+      "Cedarwood",
+      "Clary sage",
+      "Geranium",
+      "Hyacinth"
     ],
     "notas_fondo": [
-      "White musk",
-      "Amber",
-      "Bourbon vanilla"
+      "Musk",
+      "Mineral amber",
+      "Tonka bean",
+      "Oud"
     ],
     "valoracion": null,
     "fuentes": [
-      "https://www.parfumo.com/Perfumes/Xerjoff/Erba_Pura"
+      "https://www.parfumo.com/Perfumes/Versace/Versace_pour_Homme"
+    ],
+    "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
+  },
+  {
+    "ref": 725,
+    "acordes": [
+      "Spicy",
+      "Sweet",
+      "Oriental",
+      "Fruity",
+      "Leathery"
+    ],
+    "notas_salida": [
+      "Cinnamon",
+      "Red pepper",
+      "Chili"
+    ],
+    "notas_corazon": [
+      "Habanero chili"
+    ],
+    "notas_fondo": [
+      "Woody notes",
+      "Leather"
+    ],
+    "valoracion": 3.95,
+    "fuentes": [
+      "https://www.parfumo.com/Perfumes/Viktor_Rolf/spicebomb-infrared-eau-de-parfum"
     ],
     "estado": "Coincidencia exacta de nombre y marca en el conjunto público de Parfumo"
   }
