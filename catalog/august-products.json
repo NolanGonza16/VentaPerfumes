@@ -14165,22 +14165,58 @@
       "precio_crc": 10200,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": "Floral oriental",
+      "familia": "Oriental floral frutal",
       "genero": "Mujer",
       "ocasiones": [
         "Noche",
         "Citas",
         "Eventos especiales"
       ],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Naranja",
+        "Durazno",
+        "Ciruela"
+      ],
+      "notas_corazon": [
+        "Fresia",
+        "Jazmín",
+        "Rosa",
+        "Violeta"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Caramelo",
+        "Vainilla",
+        "Cedro",
+        "Canela"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Naranja y Durazno abren una fragancia de perfil oriental floral frutal, con un corazón de Fresia y Jazmín y un fondo de Ámbar y Caramelo. Una composición de carácter floral pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/153911_85d6333d-d466-4a17-b543-1e93d0c2172b_spo.jpg?v=1571609939",
       "fuentes": [
         {
@@ -14207,6 +14243,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/charlie-gold-by-revlon.10212810",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -14214,7 +14255,7 @@
       "orden": 1176,
       "sku": "AGOSTO-2026-0176",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 176,
       "presentacion_proveedor": "CHARLIE GOLD EDT 100ML"
     },
@@ -16205,18 +16246,50 @@
       "precio_crc": 13600,
       "tamano_ml": 125,
       "concentracion": null,
-      "familia": null,
+      "familia": "Floral amaderada almizclada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Tabaco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Té"
+      ],
+      "notas_corazon": [
+        "Flor de tabaco"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Haba tonka"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Té abren una fragancia de perfil floral amaderada almizclada, con un corazón de Flor de tabaco y un fondo de Sándalo y Haba tonka. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -16233,6 +16306,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/curve/Curve_Connect_for_Men",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-Connect-for-Men-2778.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -16240,7 +16323,7 @@
       "orden": 1199,
       "sku": "AGOSTO-2026-0199",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 199,
       "presentacion_proveedor": "CURVE CONNECT HOMBRE 125ML"
     },
@@ -16251,18 +16334,56 @@
       "precio_crc": 12410,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
+      "familia": "Aromática frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Mandarina",
+        "Melón blanco"
+      ],
+      "notas_corazon": [
+        "Flor de cactus",
+        "Ciruela",
+        "Azafrán",
+        "Canela"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Cedro",
+        "Pachulí",
+        "Vainilla de Tahití"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Mandarina y Melón blanco abren una fragancia de perfil aromática frutal, con un corazón de Flor de cactus y Ciruela y un fondo de Sándalo y Cedro. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -16279,6 +16400,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/curve-connect-by-liz-claiborne.26134061",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-Connect-for-Women-2779.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -16286,7 +16417,7 @@
       "orden": 1200,
       "sku": "AGOSTO-2026-0200",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 200,
       "presentacion_proveedor": "CURVE CONNECT MUJER 100ML"
     },
@@ -16567,18 +16698,59 @@
       "precio_crc": 13600,
       "tamano_ml": 125,
       "concentracion": null,
-      "familia": null,
+      "familia": "Aromática acuática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Acorde de oxígeno líquido",
+        "Anís azul",
+        "Cidra acuática",
+        "Menta"
+      ],
+      "notas_corazon": [
+        "Enebro azul",
+        "Lavanda",
+        "Nuez moscada",
+        "Cardamomo"
+      ],
+      "notas_fondo": [
+        "Madera de playa",
+        "Bambú azul",
+        "Sándalo",
+        "Ámbar",
+        "Almizcle"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Acorde de oxígeno líquido y Anís azul abren una fragancia de perfil aromática acuática, con un corazón de Enebro azul y Lavanda y un fondo de Madera de playa y Bambú azul. Una composición de carácter aromático pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -16595,6 +16767,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/threads/liz-claiborne-curve-wave-for-men.178037/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -16602,7 +16779,7 @@
       "orden": 1204,
       "sku": "AGOSTO-2026-0204",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 204,
       "presentacion_proveedor": "CURVE WAVE HOMBRE 125ML"
     },
@@ -36521,18 +36698,55 @@
       "precio_crc": 35700,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental frutal amaderada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Rosa",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cuero",
+          "emoji": ""
+        },
+        {
+          "nombre": "Oud",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Ciruela",
+        "Grosella negra",
+        "Higo"
+      ],
+      "notas_corazon": [
+        "Rosa",
+        "Ruibarbo",
+        "Cuero"
+      ],
+      "notas_fondo": [
+        "Oud",
+        "Ámbar gris",
+        "Vainilla"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Ciruela y Grosella negra abren una fragancia de perfil oriental frutal amaderada, con un corazón de Rosa y Ruibarbo y un fondo de Oud y Ámbar gris. Una composición de carácter frutal pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -36554,6 +36768,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://lattafa.com/product/art-of-nature-i/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -36561,7 +36780,7 @@
       "orden": 1441,
       "sku": "AGOSTO-2026-0441",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 441,
       "presentacion_proveedor": "LATTAFA ART OF NATURE 1 EDP 100ML"
     },
@@ -37725,7 +37944,7 @@
       "precio_crc": 40800,
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
-      "familia": "Gourmand",
+      "familia": "Oriental gourmand",
       "genero": "Hombre",
       "ocasiones": [
         "Noche",
@@ -37734,13 +37953,38 @@
       ],
       "acordes": [
         {
-          "nombre": "chocolate",
+          "nombre": "Chocolate",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cacao",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Caramelo",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Fudge de chocolate negro"
+      ],
+      "notas_corazon": [
+        "Cacao en polvo",
+        "Acorde de cupcake"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Caramelo",
+        "Benjuí"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -37767,6 +38011,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://lattafa.com/product/choco-overdose/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -37774,7 +38023,7 @@
       "orden": 1455,
       "sku": "AGOSTO-2026-0455",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 455,
       "presentacion_proveedor": "LATTAFA GIVE ME GOURMAND CHOCO OVERDOSE EDP 75ML"
     },
@@ -37785,7 +38034,7 @@
       "precio_crc": 40800,
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
-      "familia": "Gourmand",
+      "familia": "Oriental gourmand",
       "genero": "Hombre",
       "ocasiones": [
         "Noche",
@@ -37794,17 +38043,39 @@
       ],
       "acordes": [
         {
-          "nombre": "dulce",
+          "nombre": "Dulce",
           "emoji": ""
         },
         {
-          "nombre": "gourmand",
+          "nombre": "Gourmand",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Lácteo",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Manteca de cacao"
+      ],
+      "notas_corazon": [
+        "Galleta",
+        "Azúcar",
+        "Leche"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Crema batida",
+        "Sándalo"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -37831,6 +38102,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://lattafa.com/product/cookie-crave/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -37838,7 +38114,7 @@
       "orden": 1456,
       "sku": "AGOSTO-2026-0456",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 456,
       "presentacion_proveedor": "LATTAFA GIVE ME GOURMAND COOKIE CRAVE EDP 75ML"
     },
@@ -37849,7 +38125,7 @@
       "precio_crc": 40800,
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
-      "familia": "Gourmand",
+      "familia": "Floral frutal gourmand",
       "genero": "Hombre",
       "ocasiones": [
         "Noche",
@@ -37858,17 +38134,39 @@
       ],
       "acordes": [
         {
-          "nombre": "dulce",
+          "nombre": "Dulce",
           "emoji": ""
         },
         {
-          "nombre": "gourmand",
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Fresa",
+        "Frambuesa"
+      ],
+      "notas_corazon": [
+        "Malvavisco",
+        "Fresia"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Crema",
+        "Almizcle"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -37895,6 +38193,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://lattafa.com/product/mallow-madness/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -37902,7 +38205,7 @@
       "orden": 1457,
       "sku": "AGOSTO-2026-0457",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 457,
       "presentacion_proveedor": "LATTAFA GIVE ME GOURMAND MALLOW MADNESS EDP 75ML"
     },
@@ -37913,7 +38216,7 @@
       "precio_crc": 40800,
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
-      "familia": "Gourmand",
+      "familia": "Oriental gourmand",
       "genero": "Hombre",
       "ocasiones": [
         "Noche",
@@ -37922,17 +38225,39 @@
       ],
       "acordes": [
         {
-          "nombre": "avainillado",
+          "nombre": "Avainillado",
           "emoji": ""
         },
         {
-          "nombre": "dulce",
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Gourmand",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almendrado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Acorde de cupcake"
+      ],
+      "notas_corazon": [
+        "Canela",
+        "Almendra",
+        "Glaseado de azúcar"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Almizcle",
+        "Crema de mantequilla"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
@@ -37959,6 +38284,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://lattafa.com/product/vanilla-freak/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -37966,7 +38296,7 @@
       "orden": 1458,
       "sku": "AGOSTO-2026-0458",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 458,
       "presentacion_proveedor": "LATTAFA GIVE ME GOURMAND VANILLA FREAK EDP 75ML"
     },
@@ -37977,7 +38307,7 @@
       "precio_crc": 40800,
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
-      "familia": "Gourmand",
+      "familia": "Oriental gourmand",
       "genero": "Hombre",
       "ocasiones": [
         "Noche",
@@ -37986,17 +38316,40 @@
       ],
       "acordes": [
         {
-          "nombre": "dulce",
+          "nombre": "Caramelo",
           "emoji": ""
         },
         {
-          "nombre": "gourmand",
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Gourmand",
+          "emoji": ""
+        },
+        {
+          "nombre": "Lácteo",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Palomitas con caramelo",
+        "Caramelo salado"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Leche"
+      ],
+      "notas_fondo": [
+        "Haba tonka",
+        "Benjuí",
+        "Almizcle",
+        "Ambrofix"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -38023,6 +38376,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://lattafa.com/product/whipped-pleasure/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -38030,7 +38388,7 @@
       "orden": 1459,
       "sku": "AGOSTO-2026-0459",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 459,
       "presentacion_proveedor": "LATTAFA GIVE ME GOURMAND WHIPPED PLEASURE EDP 75ML"
     },
@@ -40584,13 +40942,49 @@
       "precio_crc": 8330,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental frutal cuero",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cuero",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Balsámico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Albaricoque",
+        "Ciruela",
+        "Pimienta rosa"
+      ],
+      "notas_corazon": [
+        "Osmanto"
+      ],
+      "notas_fondo": [
+        "Cuero",
+        "Olíbano",
+        "Estoraque",
+        "Bálsamo de abeto"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -40617,6 +41011,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://lattafa.com/product/raw-human/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -40624,7 +41023,7 @@
       "orden": 1489,
       "sku": "AGOSTO-2026-0489",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 489,
       "presentacion_proveedor": "LATTAFA RAW HUMAN 100ML"
     },
@@ -49657,22 +50056,54 @@
       "precio_crc": 25500,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": "Floral frutal",
+      "familia": "Oriental floral",
       "genero": "Mujer",
       "ocasiones": [
         "Diario",
         "Citas",
         "Eventos especiales"
       ],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Zarzamora",
+        "Maracuyá",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Ámbar",
+        "Jazmín nocturno"
+      ],
+      "notas_fondo": [
+        "Haba tonka",
+        "Pachulí de Indonesia",
+        "Vainilla"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Zarzamora y Maracuyá abren una fragancia de perfil oriental floral, con un corazón de Ámbar y Jazmín nocturno y un fondo de Haba tonka y Pachulí de Indonesia. Una composición de carácter cítrico pensada para diario.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Perry-Ellis-18-Orchid.png?v=1601289407",
       "fuentes": [
         {
@@ -49699,6 +50130,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Perry-Ellis/18-Orchid-71682.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -49706,7 +50142,7 @@
       "orden": 1601,
       "sku": "AGOSTO-2026-0601",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 601,
       "presentacion_proveedor": "PERRY ELLIS 18 ORCHID MUJER EDP 100ML"
     },
@@ -49717,22 +50153,54 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": "Amaderada aromática",
+      "familia": "Oriental especiada amaderada",
       "genero": "Hombre",
       "ocasiones": [
         "Diario",
         "Oficina",
         "Casual"
       ],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "acordes": [
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Tabaco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cuero",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Cardamomo",
+        "Jengibre"
+      ],
+      "notas_corazon": [
+        "Nuez moscada",
+        "Tamarindo",
+        "Albahaca negra"
+      ],
+      "notas_fondo": [
+        "Tabaco",
+        "Ámbar",
+        "Gamuza"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Cardamomo y Jengibre abren una fragancia de perfil oriental especiada amaderada, con un corazón de Nuez moscada y Tamarindo y un fondo de Tabaco y Ámbar. Una composición de carácter aromático pensada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -49754,6 +50222,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.perryellis.com/products/perry-ellis-360-black-for-men-34-oz-1013217/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -49761,7 +50234,7 @@
       "orden": 1602,
       "sku": "AGOSTO-2026-0602",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 602,
       "presentacion_proveedor": "PERRY ELLIS 360 BLACK HOMBRE EDT 100ML"
     },
@@ -49772,22 +50245,56 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": "Aromática cítrica",
+      "familia": "Aromática amaderada",
       "genero": "Hombre",
       "ocasiones": [
         "Diario",
         "Oficina",
         "Casual"
       ],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Lavanda",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bayas de enebro",
+        "Limón",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Salvia",
+        "Cardamomo",
+        "Fresia"
+      ],
+      "notas_fondo": [
+        "Notas amaderadas",
+        "Vetiver",
+        "Almizcle"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Bayas de enebro y Limón abren una fragancia de perfil aromática amaderada, con un corazón de Lavanda y Salvia y un fondo de Notas amaderadas y Vetiver. Una composición de carácter aromático pensada para diario.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/perry-360men1.jpg?v=1581340998",
       "fuentes": [
         {
@@ -49814,6 +50321,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Perry-Ellis/360-for-Men-1904.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -49821,7 +50333,7 @@
       "orden": 1603,
       "sku": "AGOSTO-2026-0603",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 603,
       "presentacion_proveedor": "PERRY ELLIS 360 CLASICO HOMBRE EDT 100ML"
     },
@@ -49832,18 +50344,59 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Aromática especiada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Toronja",
+        "Manzana verde",
+        "Bruma marina"
+      ],
+      "notas_corazon": [
+        "Cardamomo",
+        "Ciprés",
+        "Artemisia",
+        "Nuez moscada",
+        "Salvia"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Bálsamo de abeto",
+        "Vetiver haitiano",
+        "Haba tonka",
+        "Musgo de árbol"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Toronja y Manzana verde abren una fragancia de perfil aromática especiada, con un corazón de Cardamomo y Ciprés y un fondo de Ámbar y Bálsamo de abeto. Una composición de carácter aromático pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Perry-Ellis-360-Green.png?v=1574755272",
       "fuentes": [
         {
@@ -49870,6 +50423,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Perry_Ellis/360_Degrees_Green_for_Men",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -49877,7 +50435,7 @@
       "orden": 1604,
       "sku": "AGOSTO-2026-0604",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 604,
       "presentacion_proveedor": "PERRY ELLIS 360 GREEN EDT 100ML"
     },
@@ -49888,22 +50446,61 @@
       "precio_crc": 23800,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": "Amaderada especiada",
+      "familia": "Oriental especiada",
       "genero": "Hombre",
       "ocasiones": [
         "Diario",
         "Citas",
         "Eventos especiales"
       ],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Lima",
+        "Bergamota",
+        "Canela",
+        "Naranja",
+        "Mandarina",
+        "Clavo",
+        "Nuez moscada"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Cilantro"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Pachulí",
+        "Sándalo",
+        "Cedro rojo japonés",
+        "Vetiver",
+        "Musgo de roble"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Lima y Bergamota abren una fragancia de perfil oriental especiada, con un corazón de Lavanda y Cilantro y un fondo de Almizcle y Pachulí. Una composición de carácter cítrico pensada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -49925,6 +50522,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.perryellis.com/products/360-red-eau-de-toilette-12252877",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Perry-Ellis/360-Red-for-Men-1906.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -49932,7 +50539,7 @@
       "orden": 1605,
       "sku": "AGOSTO-2026-0605",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 605,
       "presentacion_proveedor": "PERRY ELLIS 360 RED HOMBRE EDT 100ML"
     },
@@ -49950,15 +50557,48 @@
         "Citas",
         "Eventos especiales"
       ],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Ciclamen",
+        "Hoja de naranjo",
+        "Ciruela"
+      ],
+      "notas_corazon": [
+        "Flor de azahar",
+        "Mimosa",
+        "Orquídea",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Ámbar"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Ciclamen y Hoja de naranjo abren una fragancia de perfil floral frutal, con un corazón de Flor de azahar y Mimosa y un fondo de Almizcle y Ámbar. Una composición de carácter floral pensada para diario.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/red_4d72a5c8-999e-4287-8600-98787542e2a0.jpg?v=1571609986",
       "fuentes": [
         {
@@ -49985,6 +50625,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Perry-Ellis/360-Red-1905.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -49992,7 +50637,7 @@
       "orden": 1606,
       "sku": "AGOSTO-2026-0606",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 606,
       "presentacion_proveedor": "PERRY ELLIS 360 RED MUJER EDP 100ML"
     },
@@ -50003,22 +50648,58 @@
       "precio_crc": 23800,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": "Aromática acuática",
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
       "ocasiones": [
         "Diario",
         "Oficina",
         "Casual"
       ],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Lavanda",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Ciprés",
+        "Bergamota",
+        "Limón"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Estragón",
+        "Romero",
+        "Bálsamo de abeto",
+        "Geranio"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Pachulí",
+        "Musgo de roble",
+        "Vetiver"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Ciprés y Bergamota abren una fragancia de perfil amaderada aromática, con un corazón de Lavanda y Estragón y un fondo de Sándalo y Pachulí. Una composición de carácter amaderado pensada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -50040,6 +50721,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Perry-Ellis/360-Blue-for-Men-1903.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -50047,7 +50733,7 @@
       "orden": 1607,
       "sku": "AGOSTO-2026-0607",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 607,
       "presentacion_proveedor": "PERRY ELLIS 360 VERY BLUE 100ML"
     },
@@ -53649,18 +54335,55 @@
       "precio_crc": 21250,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Cítrica aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Yuzu",
+        "Bergamota",
+        "Toronja"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Salvia esclarea",
+        "Geranio"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Vetiver",
+        "Ámbar"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Yuzu y Bergamota abren una fragancia de perfil cítrica aromática, con un corazón de Lavanda y Salvia esclarea y un fondo de Sándalo y Vetiver. Una composición de carácter cítrico pensada para diario.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/SwissArmyAltitude.jpg?v=1712083454",
       "fuentes": [
         {
@@ -53682,6 +54405,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/search/?query=Victorinox%20Altitude",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/s_perfumes_x.php?in=1&filter=Victorinox%20Altitude",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -53689,7 +54422,7 @@
       "orden": 1662,
       "sku": "AGOSTO-2026-0662",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 662,
       "presentacion_proveedor": "SWISS ARMY ALTITUDE EDT 100ML"
     },
@@ -53803,18 +54536,59 @@
       "precio_crc": 55250,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Cítrica amaderada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Formal"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Terroso",
+          "emoji": ""
+        },
+        {
+          "nombre": "Mineral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Naranja",
+        "Toronja"
+      ],
+      "notas_corazon": [
+        "Pimienta",
+        "Geranio",
+        "Acorde de pedernal"
+      ],
+      "notas_fondo": [
+        "Vetiver",
+        "Cedro",
+        "Pachulí",
+        "Benjuí"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Naranja y Toronja abren una fragancia de perfil cítrica amaderada, con un corazón de Pimienta y Geranio y un fondo de Vetiver y Cedro. Una composición de carácter amaderado pensada para diario.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Terre-De-Hermes-Men.jpg?v=1571609935",
       "fuentes": [
         {
@@ -53836,6 +54610,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.hermes.com/us/en/product/terre-d-hermes-eau-de-toilette-V107354V0/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Hermes/Terre-d-Hermes-Eau-de-Toilette-17.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -53843,7 +54627,7 @@
       "orden": 1664,
       "sku": "AGOSTO-2026-0664",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 664,
       "presentacion_proveedor": "TERRE D HERMES EDT 100ML"
     },
@@ -57075,13 +57859,47 @@
       "precio_crc": 119850,
       "tamano_ml": 100,
       "concentracion": "Parfum",
-      "familia": null,
+      "familia": "Floral ambarada",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Licoroso",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Acorde de cassis",
+        "Bergamota",
+        "Mandarina"
+      ],
+      "notas_corazon": [
+        "Acorde de ron",
+        "Jazmín sambac"
+      ],
+      "notas_fondo": [
+        "Extracto de vainilla Bourbon de Madagascar"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
@@ -57113,6 +57931,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.valentino-beauty.us/fragrances/fragrances-women/born-in-roma-donna-extradose-le-parfum-3614274351064.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -57120,7 +57943,7 @@
       "orden": 1702,
       "sku": "AGOSTO-2026-0702",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 702,
       "presentacion_proveedor": "VALENTINO DONNA BORN IN ROMA EXTRADOSE PARFUM 100ML"
     },
@@ -57225,18 +58048,51 @@
       "precio_crc": 81600,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "Mineral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Hoja de violeta",
+        "Sal mineral",
+        "Jengibre"
+      ],
+      "notas_corazon": [
+        "Salvia aromática"
+      ],
+      "notas_fondo": [
+        "Vetiver ahumado"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Hoja de violeta y Sal mineral abren una fragancia de perfil amaderada aromática, con un corazón de Salvia aromática y un fondo de Vetiver ahumado. Una composición de carácter marino pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Valentino-Uomo-Born-In-Roma.png?v=1639756057",
       "fuentes": [
         {
@@ -57258,6 +58114,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.valentino-beauty.us/fragrances/fragrances-men/fragrances-men-born-in-roma/born-in-roma-uomo-eau-de-toilette-MPL00475.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -57265,7 +58126,7 @@
       "orden": 1704,
       "sku": "AGOSTO-2026-0704",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 704,
       "presentacion_proveedor": "VALENTINO UOMO BORN IN ROMA EDT 100ML"
     },
@@ -57591,18 +58452,55 @@
       "precio_crc": 76500,
       "tamano_ml": 90,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Rosado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota de Calabria",
+        "Durazno",
+        "Pimienta rosa"
+      ],
+      "notas_corazon": [
+        "Capullo de rosa verde",
+        "Jazmín",
+        "Sorbete de frambuesa"
+      ],
+      "notas_fondo": [
+        "Almizcle blanco",
+        "Haba tonka de Brasil",
+        "Incienso"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Bergamota de Calabria y Durazno abren una fragancia de perfil floral frutal, con un corazón de Capullo de rosa verde y Jazmín y un fondo de Almizcle blanco y Haba tonka de Brasil. Una composición de carácter floral pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -57624,6 +58522,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.versace.com/us/en/women/accessories/fragrances-body-care/crystal-emerald-edp-50-ml-green/R530030-R050MLS_RNUL.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -57631,7 +58534,7 @@
       "orden": 1709,
       "sku": "AGOSTO-2026-0709",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 709,
       "presentacion_proveedor": "VERSACE CRYSTAL EMERALD EDP 90ML"
     },
@@ -58034,18 +58937,55 @@
       "precio_crc": 60350,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Aromática fougère amaderada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Limón",
+        "Geranio Bourbon",
+        "Flor de azahar"
+      ],
+      "notas_corazon": [
+        "Pimienta rosa",
+        "Salvia esclarea",
+        "Lavanda"
+      ],
+      "notas_fondo": [
+        "Cedro de Virginia",
+        "Ambrox",
+        "Almizcle"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Limón y Geranio Bourbon abren una fragancia de perfil aromática fougère amaderada, con un corazón de Pimienta rosa y Salvia esclarea y un fondo de Cedro de Virginia y Ambrox. Una composición de carácter floral pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Versace-eau-fraiche-extreme.png?v=1759298568",
       "fuentes": [
         {
@@ -58067,6 +59007,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.versace.com/ca/en/eau-fraiche-extreme/SET_Fragrances_EauFraicheExtreme.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -58074,7 +59019,7 @@
       "orden": 1714,
       "sku": "AGOSTO-2026-0714",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 714,
       "presentacion_proveedor": "VERSACE EAU FRAICHE EXTREME EDP 100ML"
     },
@@ -58281,18 +59226,59 @@
       "precio_crc": 49300,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Oriental amaderada fresca",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Limón italiano",
+        "Mandarina italiana",
+        "Menta",
+        "Manzana confitada"
+      ],
+      "notas_corazon": [
+        "Geranio",
+        "Salvia esclarea",
+        "AmberMax"
+      ],
+      "notas_fondo": [
+        "Cedro del Atlas",
+        "Cedro de Virginia",
+        "Vetiver",
+        "Pachulí",
+        "Sándalo",
+        "Vainilla"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Limón italiano y Mandarina italiana abren una fragancia de perfil oriental amaderada fresca, con un corazón de Geranio y Salvia esclarea y un fondo de Cedro del Atlas y Cedro de Virginia. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Versace-Eros-Men.jpg?v=1571609947",
       "fuentes": [
         {
@@ -58314,6 +59300,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.versace.com/us/en/men/accessories/fragrances-body-care/eros/eros-edt-100-ml-blue/R740010-R100MLS_RNUL.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -58321,7 +59312,7 @@
       "orden": 1717,
       "sku": "AGOSTO-2026-0717",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 717,
       "presentacion_proveedor": "VERSACE EROS HOMBRE EDT 100ML"
     },
@@ -58332,18 +59323,60 @@
       "precio_crc": 54400,
       "tamano_ml": 100,
       "concentracion": "Parfum",
-      "familia": null,
+      "familia": "Cítrica aromática oriental",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Limón italiano",
+        "Mandarina italiana",
+        "Litsea cubeba",
+        "Elemí",
+        "Pimienta negra"
+      ],
+      "notas_corazon": [
+        "Pomarose",
+        "Geranio egipcio",
+        "Lavanda",
+        "Salvia esclarea"
+      ],
+      "notas_fondo": [
+        "Benjuí",
+        "Cashmeran",
+        "Pachulí",
+        "Vainilla",
+        "Vetiver haitiano"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Limón italiano y Mandarina italiana abren una fragancia de perfil cítrica aromática oriental, con un corazón de Pomarose y Geranio egipcio y un fondo de Benjuí y Cashmeran. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Versace-Eros-Parfum.png?v=1659617208",
       "fuentes": [
         {
@@ -58365,6 +59398,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.versace.com/ca/fr/homme/accessoires/parfums-et-soins-du-corps/eros/parfum-eros-100%C2%A0ml/R740210-R100MLS_RNUL.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -58372,7 +59410,7 @@
       "orden": 1718,
       "sku": "AGOSTO-2026-0718",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 718,
       "presentacion_proveedor": "VERSACE EROS HOMBRE PARFUM 100ML"
     },
@@ -58383,18 +59421,57 @@
       "precio_crc": 51850,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral amaderada almizclada",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Limón siciliano",
+        "Bergamota de Calabria",
+        "Granada"
+      ],
+      "notas_corazon": [
+        "Flor de limonero",
+        "Jazmín sambac",
+        "Jazmín",
+        "Peonía"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Ambrox",
+        "Almizcle",
+        "Notas amaderadas"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Limón siciliano y Bergamota de Calabria abren una fragancia de perfil floral amaderada almizclada, con un corazón de Flor de limonero y Jazmín sambac y un fondo de Sándalo y Ambrox. Una composición de carácter floral pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Eros_Femme.jpg?v=1773163326",
       "fuentes": [
         {
@@ -58416,6 +59493,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.versace.com/us/en/women/accessories/fragrances-body-care/eros-pour-femme/eros-pour-femme-edp-100-ml-gold/R750032-R100MLS_RNUL.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -58423,7 +59505,7 @@
       "orden": 1719,
       "sku": "AGOSTO-2026-0719",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 719,
       "presentacion_proveedor": "VERSACE EROS MUJER EDP 100ML"
     },
@@ -58434,18 +59516,57 @@
       "precio_crc": 61200,
       "tamano_ml": 100,
       "concentracion": "Parfum",
-      "familia": null,
+      "familia": "Aromática ambarada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Caramelo",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Mandarina amarilla",
+        "Salvia esclarea",
+        "Azafrán",
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Acorde de oud",
+        "Cedro de Virginia",
+        "Caramelo"
+      ],
+      "notas_fondo": [
+        "Pachulí de Indonesia",
+        "Vetiver haitiano",
+        "Incienso",
+        "Haba tonka"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Mandarina amarilla y Salvia esclarea abren una fragancia de perfil aromática ambarada, con un corazón de Acorde de oud y Cedro de Virginia y un fondo de Pachulí de Indonesia y Vetiver haitiano. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Versace-eros-najim.png?v=1759298588",
       "fuentes": [
         {
@@ -58467,6 +59588,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.versace.com/by/en/men/accessories/fragrances-body-care/eros-najim-parfum-100-ml/R740310-R100MLS_RNUL.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -58474,7 +59600,7 @@
       "orden": 1720,
       "sku": "AGOSTO-2026-0720",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 720,
       "presentacion_proveedor": "VERSACE EROS NAJIM HOMBRE PARFUM 100ML"
     },
