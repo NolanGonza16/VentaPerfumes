@@ -603,5 +603,192 @@
     "notas_fondo": ["Sándalo", "Cuero", "Cedro de Virginia", "Papiro"],
     "fuentes": ["https://www.fragrantica.com/perfume/Emper/Stallion-53-106193.html"],
     "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 271,
+    "familia": "Floral",
+    "genero": "Mujer",
+    "acordes": ["Floral", "Verde", "Fresco", "Floral blanco", "Amaderado"],
+    "notas_salida": ["Lirio blanco", "Hojas de violeta", "Acordes verdes"],
+    "notas_corazon": ["Lila negra", "Peonía blanca", "Karo-karounde", "Pimienta rosa", "Rosa rosa", "Jazmín"],
+    "notas_fondo": ["Sándalo", "Pachulí"],
+    "fuentes": ["https://www.esteelauder.com/product/12853/2094/product-catalog/fragrance/fragrance-collections/pleasures/estee-lauder-pleasures/eau-de-parfum-spray"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 290,
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "acordes": ["Tropical", "Verde", "Aromático", "Afrutado", "Amaderado"],
+    "notas_salida": ["Acorde de cielo abierto", "Hoja de higuera", "Mango verde"],
+    "notas_corazon": ["Salvia blanca", "Enebro", "Albahaca hidropónica"],
+    "notas_fondo": ["Cedro marroquí", "Pepino", "Ámbar"],
+    "fuentes": ["https://parishiltonfragrances.com/en-ca/products/paris-hilton-for-men"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 297,
+    "familia": "Oriental especiada",
+    "genero": "Hombre",
+    "acordes": ["Ámbar", "Lavanda", "Cálido especiado", "Aromático"],
+    "notas_salida": ["Especias"],
+    "notas_corazon": ["Lavanda"],
+    "notas_fondo": ["Ámbar"],
+    "fuentes": ["https://basenotes.com/fragrances/touch-for-men-by-fred-hayman.26121596", "https://www.fragrantica.com/perfume/Fred-Hayman/Touch-for-Men-5869.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 298,
+    "familia": "Aromática frutal",
+    "genero": "Unisex",
+    "acordes": ["Amaderado", "Cítrico", "Afrutado", "Verde", "Almizclado"],
+    "notas_salida": ["Manzana verde", "Bergamota", "Mandarina"],
+    "notas_corazon": ["Petitgrain", "Cachemira", "Cedro", "Violeta"],
+    "notas_fondo": ["Musgo de roble", "Almizcle", "Madera de ámbar"],
+    "fuentes": ["https://frenchavenue.com/products/aether", "https://basenotes.com/fragrances/aether-by-french-avenue.26275564"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 299,
+    "familia": "Oriental vainilla",
+    "genero": "Hombre",
+    "acordes": ["Avainillado", "Dulce", "Cálido especiado", "Ámbar", "Amaderado"],
+    "notas_salida": ["Canela", "Bergamota", "Cardamomo", "Flor de azahar"],
+    "notas_corazon": ["Vainilla Bourbon", "Elemí"],
+    "notas_fondo": ["Almizcle", "Praliné", "Ambroxan", "Madera de guayaco"],
+    "fuentes": ["https://frenchavenue.com/products/liquid-brun"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 300,
+    "familia": "Fougère oriental ambarada",
+    "genero": "Unisex",
+    "acordes": ["Avainillado", "Ámbar", "Aromático", "Cítrico", "Amaderado"],
+    "notas_salida": ["Notas cítricas y frescas", "Lavanda", "Cardamomo"],
+    "notas_corazon": ["Flor de azahar", "Rosa", "Madera de guayaco"],
+    "notas_fondo": ["Ámbar seco", "Vainilla", "Haba tonka", "Musgo de roble"],
+    "fuentes": ["https://frenchavenue.com/products/liquid-brun-limited-edition"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 301,
+    "familia": "Oriental amaderada",
+    "genero": "Hombre",
+    "acordes": ["Ron", "Café", "Amaderado", "Dulce", "Terroso"],
+    "notas_salida": ["Ron", "Mezcla de especias"],
+    "notas_corazon": ["Café", "Vetiver", "Pachulí", "Sándalo"],
+    "notas_fondo": ["Caña de azúcar"],
+    "fuentes": ["https://frenchavenue.com/products/spectre-wraith", "https://fragranceworld.ae/wp-content/uploads/2024/12/Catalogue-Fragrance-World.pdf"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 302,
+    "familia": "Floral ambarada",
+    "genero": "Unisex",
+    "acordes": ["Lácteo", "Floral blanco", "Avainillado", "Coco", "Amaderado"],
+    "notas_salida": ["Bergamota", "Neroli", "Leche"],
+    "notas_corazon": ["Flor de tiaré", "Ylang-ylang", "Flores blancas"],
+    "notas_fondo": ["Coco", "Vainilla", "Madera de guayaco", "Ládano"],
+    "fuentes": ["https://frenchavenue.com/products/veneno-bianco"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 303,
+    "familia": "Floral frutal",
+    "genero": "Unisex",
+    "acordes": ["Afrutado", "Aromático", "Dulce", "Amaderado", "Ámbar"],
+    "notas_salida": ["Bergamota", "Romero", "Grosella negra"],
+    "notas_corazon": ["Albahaca", "Frambuesa", "Acorde de vodka"],
+    "notas_fondo": ["Ámbar", "Almizcle", "Pachulí", "Sándalo", "Incienso"],
+    "fuentes": ["https://frenchavenue.com/products/vulcan-baie"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 304,
+    "familia": "Oriental amaderada",
+    "genero": "Unisex",
+    "acordes": ["Tropical", "Afrutado", "Dulce", "Cálido especiado", "Amaderado"],
+    "notas_salida": ["Jengibre", "Mango", "Limón", "Ruibarbo"],
+    "notas_corazon": ["Jazmín", "Violeta", "Praliné", "Pimienta rosa"],
+    "notas_fondo": ["Cedro", "Acorde de ámbar gris", "Haba tonka", "Musgo"],
+    "fuentes": ["https://frenchavenue.com/products/vulcan-feu"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 305,
+    "familia": "Oriental amaderada",
+    "genero": "Unisex",
+    "acordes": ["Cálido especiado", "Amaderado", "Avainillado", "Ámbar"],
+    "notas_salida": ["Whisky", "Semilla de cilantro", "Mandarina", "Naranja"],
+    "notas_corazon": ["Cachemira", "Anís", "Estoraque", "Haba tonka"],
+    "notas_fondo": ["Benjuí", "Pachulí", "Vainilla"],
+    "fuentes": ["https://frenchavenue.com/products/vulcan-sable"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 308,
+    "familia": "Aromática acuática",
+    "genero": "Hombre",
+    "acordes": ["Marino", "Cítrico", "Aromático", "Fresco", "Amaderado"],
+    "notas_salida": ["Bergamota de Calabria", "Neroli", "Mandarina verde"],
+    "notas_corazon": ["Notas marinas", "Romero", "Caqui"],
+    "notas_fondo": ["Cedro", "Pachulí de Indonesia"],
+    "fuentes": ["https://www.giorgioarmanibeauty-usa.com/fragrances/mens-cologne/acqua-di-gio/acqua-di-gio-eau-de-toilette/A005.html", "https://www.giorgioarmanibeauty-usa.com/search/article-2022-05-12-ADG-25-years.html"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 324,
+    "familia": "Oriental amaderada",
+    "genero": "Hombre",
+    "acordes": ["Avainillado", "Ámbar", "Dulce", "Almendrado", "Aromático"],
+    "notas_salida": ["Mandarina", "Estragón", "Romero", "Albahaca"],
+    "notas_corazon": ["Anís", "Neroli", "Geranio", "Lirio de los valles"],
+    "notas_fondo": ["Vainilla", "Almendra", "Haba tonka", "Benjuí", "Cedro"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Givenchy/Pi-39.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 327,
+    "familia": "Oriental floral",
+    "genero": "Mujer",
+    "acordes": ["Floral blanco", "Cálido especiado", "Dulce", "Amaderado", "Atalcado"],
+    "notas_salida": ["Aldehídos", "Flor de azahar", "Piña", "Lavanda", "Bergamota", "Notas verdes"],
+    "notas_corazon": ["Clavel", "Nardos", "Ylang-ylang", "Raíz de lirio", "Jazmín", "Rosa"],
+    "notas_fondo": ["Vainilla", "Sándalo", "Canela", "Opopónaco", "Almizcle", "Civeta", "Vetiver"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Gloria-Vanderbilt/Vanderbilt-955.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 328,
+    "familia": "Oriental amaderada",
+    "genero": "Mujer",
+    "acordes": ["Amaderado", "Ámbar", "Floral", "Cálido"],
+    "notas_salida": ["Cidra", "Madera de Buda"],
+    "notas_corazon": ["Cactus de floración nocturna"],
+    "notas_fondo": ["Ámbar blanco", "Sándalo"],
+    "fuentes": ["https://soghaat.co.uk/products/aura-pour-femme-100ml-edp-by-grandeur/"],
+    "estado": "Ficha comercial contrastada"
+  },
+  {
+    "ref": 329,
+    "familia": "Oriental gourmand",
+    "genero": "Unisex",
+    "acordes": ["Cálido especiado", "Dulce", "Avainillado", "Ámbar", "Amaderado"],
+    "notas_salida": ["Canela", "Nuez moscada", "Bergamota"],
+    "notas_corazon": ["Dátiles", "Praliné", "Nardos", "Mahonial"],
+    "notas_fondo": ["Vainilla", "Haba tonka", "Benjuí", "Mirra", "Madera de ámbar", "Akigalawood"],
+    "fuentes": ["https://perfumepalace.com.au/montage-intense-edp-by-grandeur-100ml/"],
+    "estado": "Ficha comercial contrastada"
+  },
+  {
+    "ref": 332,
+    "familia": "Floral frutal",
+    "genero": "Unisex",
+    "acordes": ["Afrutado", "Floral", "Dulce", "Almizclado", "Avainillado"],
+    "notas_salida": ["Fresia", "Grosella negra", "Bergamota"],
+    "notas_corazon": ["Pachulí", "Jazmín", "Rosa"],
+    "notas_fondo": ["Almizcle", "Vainilla", "Azúcar"],
+    "fuentes": ["https://www.tubbees.de/en/products/berry-blast", "https://www.parfumo.com/Perfumes/Grandeur/berry-blast"],
+    "estado": "Ficha oficial contrastada"
   }
 ]

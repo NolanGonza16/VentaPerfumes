@@ -21559,13 +21559,51 @@
       "precio_crc": 36550,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Lirio blanco",
+        "Hojas de violeta",
+        "Acordes verdes"
+      ],
+      "notas_corazon": [
+        "Lila negra",
+        "Peonía blanca",
+        "Karo-karounde",
+        "Pimienta rosa",
+        "Rosa rosa",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Pachulí"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -21587,6 +21625,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.esteelauder.com/product/12853/2094/product-catalog/fragrance/fragrance-collections/pleasures/estee-lauder-pleasures/eau-de-parfum-spray",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -21594,7 +21637,7 @@
       "orden": 1271,
       "sku": "AGOSTO-2026-0271",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 271,
       "presentacion_proveedor": "ESTEE LAUDER PLACERES MUJER EDP 100ML"
     },
@@ -23204,13 +23247,50 @@
       "precio_crc": 36550,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Tropical",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Acorde de cielo abierto",
+        "Hoja de higuera",
+        "Mango verde"
+      ],
+      "notas_corazon": [
+        "Salvia blanca",
+        "Enebro",
+        "Albahaca hidropónica"
+      ],
+      "notas_fondo": [
+        "Cedro marroquí",
+        "Pepino",
+        "Ámbar"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -23237,6 +23317,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://parishiltonfragrances.com/en-ca/products/paris-hilton-for-men",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -23244,7 +23329,7 @@
       "orden": 1290,
       "sku": "AGOSTO-2026-0290",
       "tipo_producto": "Estuche",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 290,
       "presentacion_proveedor": "ESTUCHE PARIS HILTON CLASICO HOMBRE 4 PZS"
     },
@@ -23714,13 +23799,40 @@
       "precio_crc": 24650,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental especiada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Lavanda",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Especias"
+      ],
+      "notas_corazon": [
+        "Lavanda"
+      ],
+      "notas_fondo": [
+        "Ámbar"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -23747,6 +23859,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/touch-for-men-by-fred-hayman.26121596",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Fred-Hayman/Touch-for-Men-5869.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -23754,7 +23876,7 @@
       "orden": 1297,
       "sku": "AGOSTO-2026-0297",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 297,
       "presentacion_proveedor": "FRED HAYMAN TOUCH M EDT 100ML"
     },
@@ -23765,13 +23887,51 @@
       "precio_crc": 28900,
       "tamano_ml": 100,
       "concentracion": "Extrait de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromática frutal",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Manzana verde",
+        "Bergamota",
+        "Mandarina"
+      ],
+      "notas_corazon": [
+        "Petitgrain",
+        "Cachemira",
+        "Cedro",
+        "Violeta"
+      ],
+      "notas_fondo": [
+        "Musgo de roble",
+        "Almizcle",
+        "Madera de ámbar"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
@@ -23793,6 +23953,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://frenchavenue.com/products/aether",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/aether-by-french-avenue.26275564",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -23800,7 +23970,7 @@
       "orden": 1298,
       "sku": "AGOSTO-2026-0298",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 298,
       "presentacion_proveedor": "FRENCH AVENUE AETHER EXTRAIT DE PARFUM 100ML"
     },
@@ -23811,13 +23981,51 @@
       "precio_crc": 28900,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Oriental vainilla",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Canela",
+        "Bergamota",
+        "Cardamomo",
+        "Flor de azahar"
+      ],
+      "notas_corazon": [
+        "Vainilla Bourbon",
+        "Elemí"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Praliné",
+        "Ambroxan",
+        "Madera de guayaco"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -23844,6 +24052,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://frenchavenue.com/products/liquid-brun",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -23851,7 +24064,7 @@
       "orden": 1299,
       "sku": "AGOSTO-2026-0299",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 299,
       "presentacion_proveedor": "FRENCH AVENUE LIQUID BRUN EDP 100ML"
     },
@@ -23862,13 +24075,51 @@
       "precio_crc": 40800,
       "tamano_ml": 150,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Fougère oriental ambarada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Notas cítricas y frescas",
+        "Lavanda",
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Flor de azahar",
+        "Rosa",
+        "Madera de guayaco"
+      ],
+      "notas_fondo": [
+        "Ámbar seco",
+        "Vainilla",
+        "Haba tonka",
+        "Musgo de roble"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -23890,6 +24141,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://frenchavenue.com/products/liquid-brun-limited-edition",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -23897,7 +24153,7 @@
       "orden": 1300,
       "sku": "AGOSTO-2026-0300",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 300,
       "presentacion_proveedor": "FRENCH AVENUE LIQUID BRUN LIMITED EDITION 150ML"
     },
@@ -23908,13 +24164,48 @@
       "precio_crc": 33150,
       "tamano_ml": 80,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental amaderada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Ron",
+          "emoji": ""
+        },
+        {
+          "nombre": "Café",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Terroso",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Ron",
+        "Mezcla de especias"
+      ],
+      "notas_corazon": [
+        "Café",
+        "Vetiver",
+        "Pachulí",
+        "Sándalo"
+      ],
+      "notas_fondo": [
+        "Caña de azúcar"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -23936,6 +24227,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://frenchavenue.com/products/spectre-wraith",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://fragranceworld.ae/wp-content/uploads/2024/12/Catalogue-Fragrance-World.pdf",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -23943,7 +24244,7 @@
       "orden": 1301,
       "sku": "AGOSTO-2026-0301",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 301,
       "presentacion_proveedor": "FRENCH AVENUE SPECTRE WRAITH EDP 80ML"
     },
@@ -23954,13 +24255,51 @@
       "precio_crc": 34850,
       "tamano_ml": 100,
       "concentracion": "Extrait de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral ambarada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Lácteo",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Coco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Neroli",
+        "Leche"
+      ],
+      "notas_corazon": [
+        "Flor de tiaré",
+        "Ylang-ylang",
+        "Flores blancas"
+      ],
+      "notas_fondo": [
+        "Coco",
+        "Vainilla",
+        "Madera de guayaco",
+        "Ládano"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
@@ -23982,6 +24321,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://frenchavenue.com/products/veneno-bianco",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -23989,7 +24333,7 @@
       "orden": 1302,
       "sku": "AGOSTO-2026-0302",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 302,
       "presentacion_proveedor": "FRENCH AVENUE VENENO BIANCO EXTRAIT DE PARFUM 100ML"
     },
@@ -24000,13 +24344,52 @@
       "precio_crc": 31450,
       "tamano_ml": 100,
       "concentracion": "Extrait de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Romero",
+        "Grosella negra"
+      ],
+      "notas_corazon": [
+        "Albahaca",
+        "Frambuesa",
+        "Acorde de vodka"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Almizcle",
+        "Pachulí",
+        "Sándalo",
+        "Incienso"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
@@ -24028,6 +24411,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://frenchavenue.com/products/vulcan-baie",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -24035,7 +24423,7 @@
       "orden": 1303,
       "sku": "AGOSTO-2026-0303",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 303,
       "presentacion_proveedor": "FRENCH AVENUE VULCAN BAIE EXTRAIT DE PARFUM 100ML"
     },
@@ -24046,13 +24434,53 @@
       "precio_crc": 30600,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental amaderada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Tropical",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Jengibre",
+        "Mango",
+        "Limón",
+        "Ruibarbo"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Violeta",
+        "Praliné",
+        "Pimienta rosa"
+      ],
+      "notas_fondo": [
+        "Cedro",
+        "Acorde de ámbar gris",
+        "Haba tonka",
+        "Musgo"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -24074,6 +24502,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://frenchavenue.com/products/vulcan-feu",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -24081,7 +24514,7 @@
       "orden": 1304,
       "sku": "AGOSTO-2026-0304",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 304,
       "presentacion_proveedor": "FRENCH AVENUE VULCAN FEU EDP 100ML"
     },
@@ -24092,13 +24525,48 @@
       "precio_crc": 32300,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Oriental amaderada",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Whisky",
+        "Semilla de cilantro",
+        "Mandarina",
+        "Naranja"
+      ],
+      "notas_corazon": [
+        "Cachemira",
+        "Anís",
+        "Estoraque",
+        "Haba tonka"
+      ],
+      "notas_fondo": [
+        "Benjuí",
+        "Pachulí",
+        "Vainilla"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -24125,6 +24593,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://frenchavenue.com/products/vulcan-sable",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -24132,7 +24605,7 @@
       "orden": 1305,
       "sku": "AGOSTO-2026-0305",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 305,
       "presentacion_proveedor": "FRENCH AVENUE VULCAN SABLE EDP 100ML"
     },
@@ -24235,13 +24708,49 @@
       "precio_crc": 59500,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Aromática acuática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota de Calabria",
+        "Neroli",
+        "Mandarina verde"
+      ],
+      "notas_corazon": [
+        "Notas marinas",
+        "Romero",
+        "Caqui"
+      ],
+      "notas_fondo": [
+        "Cedro",
+        "Pachulí de Indonesia"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -24268,6 +24777,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.giorgioarmanibeauty-usa.com/fragrances/mens-cologne/acqua-di-gio/acqua-di-gio-eau-de-toilette/A005.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.giorgioarmanibeauty-usa.com/search/article-2022-05-12-ADG-25-years.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -24275,7 +24794,7 @@
       "orden": 1308,
       "sku": "AGOSTO-2026-0308",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 308,
       "presentacion_proveedor": "GIORGIO ARMANI ACQUA DI GIO HOMBRE EDT 100ML"
     },
@@ -25840,7 +26359,7 @@
       "precio_crc": 40800,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": "Ámbar amaderado",
+      "familia": "Oriental amaderada",
       "genero": "Hombre",
       "ocasiones": [
         "Noche",
@@ -25849,57 +26368,45 @@
       ],
       "acordes": [
         {
-          "nombre": "mandarina",
+          "nombre": "Avainillado",
           "emoji": ""
         },
         {
-          "nombre": "estragón",
+          "nombre": "Ámbar",
           "emoji": ""
         },
         {
-          "nombre": "romero",
+          "nombre": "Dulce",
           "emoji": ""
         },
         {
-          "nombre": "albahaca",
+          "nombre": "Almendrado",
           "emoji": ""
         },
         {
-          "nombre": "anís",
-          "emoji": ""
-        },
-        {
-          "nombre": "lirio de los valles",
-          "emoji": ""
-        },
-        {
-          "nombre": "geranio",
-          "emoji": ""
-        },
-        {
-          "nombre": "almendra",
-          "emoji": ""
-        },
-        {
-          "nombre": "haba tonka",
-          "emoji": ""
-        },
-        {
-          "nombre": "vainilla",
-          "emoji": ""
-        },
-        {
-          "nombre": "benjuí",
-          "emoji": ""
-        },
-        {
-          "nombre": "cedro",
+          "nombre": "Aromático",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Mandarina",
+        "Estragón",
+        "Romero",
+        "Albahaca"
+      ],
+      "notas_corazon": [
+        "Anís",
+        "Neroli",
+        "Geranio",
+        "Lirio de los valles"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Almendra",
+        "Haba tonka",
+        "Benjuí",
+        "Cedro"
+      ],
       "duracion": 4,
       "proyeccion": 4,
       "estela": 4,
@@ -25931,6 +26438,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Givenchy/Pi-39.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -25938,7 +26450,7 @@
       "orden": 1324,
       "sku": "AGOSTO-2026-0324",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 324,
       "presentacion_proveedor": "GIVENCHY PI EDT 100ML"
     },
@@ -26135,8 +26647,8 @@
       "precio_crc": 14450,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": "Floral aldehídico",
-      "genero": null,
+      "familia": "Oriental floral",
+      "genero": "Mujer",
       "ocasiones": [
         "Diario",
         "Citas",
@@ -26144,61 +26656,51 @@
       ],
       "acordes": [
         {
-          "nombre": "aldehídos",
+          "nombre": "Floral blanco",
           "emoji": ""
         },
         {
-          "nombre": "bergamota",
+          "nombre": "Cálido especiado",
           "emoji": ""
         },
         {
-          "nombre": "neroli",
+          "nombre": "Dulce",
           "emoji": ""
         },
         {
-          "nombre": "piña",
+          "nombre": "Amaderado",
           "emoji": ""
         },
         {
-          "nombre": "melocotón",
-          "emoji": ""
-        },
-        {
-          "nombre": "tuberosa",
-          "emoji": ""
-        },
-        {
-          "nombre": "jazmín",
-          "emoji": ""
-        },
-        {
-          "nombre": "rosa",
-          "emoji": ""
-        },
-        {
-          "nombre": "ylang-ylang",
-          "emoji": ""
-        },
-        {
-          "nombre": "vainilla",
-          "emoji": ""
-        },
-        {
-          "nombre": "canela",
-          "emoji": ""
-        },
-        {
-          "nombre": "sándalo",
-          "emoji": ""
-        },
-        {
-          "nombre": "almizcle",
+          "nombre": "Atalcado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Aldehídos",
+        "Flor de azahar",
+        "Piña",
+        "Lavanda",
+        "Bergamota",
+        "Notas verdes"
+      ],
+      "notas_corazon": [
+        "Clavel",
+        "Nardos",
+        "Ylang-ylang",
+        "Raíz de lirio",
+        "Jazmín",
+        "Rosa"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Sándalo",
+        "Canela",
+        "Opopónaco",
+        "Almizcle",
+        "Civeta",
+        "Vetiver"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -26225,6 +26727,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Gloria-Vanderbilt/Vanderbilt-955.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -26232,7 +26739,7 @@
       "orden": 1327,
       "sku": "AGOSTO-2026-0327",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 327,
       "presentacion_proveedor": "GLORIA VANDERBILT EDT 100ML"
     },
@@ -26243,7 +26750,7 @@
       "precio_crc": 17850,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": "Ámbar floral",
+      "familia": "Oriental amaderada",
       "genero": "Mujer",
       "ocasiones": [
         "Noche",
@@ -26252,29 +26759,33 @@
       ],
       "acordes": [
         {
-          "nombre": "ruibarbo",
+          "nombre": "Amaderado",
           "emoji": ""
         },
         {
-          "nombre": "flor de azahar",
+          "nombre": "Ámbar",
           "emoji": ""
         },
         {
-          "nombre": "liana tigre",
+          "nombre": "Floral",
           "emoji": ""
         },
         {
-          "nombre": "vainilla bourbon",
-          "emoji": ""
-        },
-        {
-          "nombre": "wolfwood",
+          "nombre": "Cálido",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Cidra",
+        "Madera de Buda"
+      ],
+      "notas_corazon": [
+        "Cactus de floración nocturna"
+      ],
+      "notas_fondo": [
+        "Ámbar blanco",
+        "Sándalo"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
@@ -26301,6 +26812,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://soghaat.co.uk/products/aura-pour-femme-100ml-edp-by-grandeur/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -26308,7 +26824,7 @@
       "orden": 1328,
       "sku": "AGOSTO-2026-0328",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 328,
       "presentacion_proveedor": "GRANDEUR AURA POUR FEMME EDP 100ML"
     },
@@ -26319,13 +26835,54 @@
       "precio_crc": 21250,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental gourmand",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Canela",
+        "Nuez moscada",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Dátiles",
+        "Praliné",
+        "Nardos",
+        "Mahonial"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Haba tonka",
+        "Benjuí",
+        "Mirra",
+        "Madera de ámbar",
+        "Akigalawood"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -26347,6 +26904,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://perfumepalace.com.au/montage-intense-edp-by-grandeur-100ml/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -26354,7 +26916,7 @@
       "orden": 1329,
       "sku": "AGOSTO-2026-0329",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 329,
       "presentacion_proveedor": "GRANDEUR MONTAGE INTENSE EDP 100ML"
     },
@@ -26457,13 +27019,50 @@
       "precio_crc": 9690,
       "tamano_ml": 50,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Fresia",
+        "Grosella negra",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Pachulí",
+        "Jazmín",
+        "Rosa"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Vainilla",
+        "Azúcar"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -26485,6 +27084,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.tubbees.de/en/products/berry-blast",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Grandeur/berry-blast",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -26492,7 +27101,7 @@
       "orden": 1332,
       "sku": "AGOSTO-2026-0332",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 332,
       "presentacion_proveedor": "GRANDEUR TUBBEES BERRY BLAST EDP 50ML"
     },
@@ -43434,7 +44043,7 @@
         "ámbar",
         "cedro"
       ],
-      "duracion": 4,
+      "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
@@ -53407,6 +54016,21 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Gabbana-Pour-Femme-1551.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Dolce_Gabbana/Dolce_Gabbana_Pour_Femme",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/dolce-gabbana-pour-femme-by-dolce-gabbana.26120735",
           "fecha": "2026-09-09"
         }
       ],
