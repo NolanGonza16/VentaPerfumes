@@ -801,18 +801,50 @@
       "precio_crc": 18700,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Naranja",
+        "Manzana verde"
+      ],
+      "notas_corazon": [
+        "Jengibre",
+        "Jazmín",
+        "Rosa"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Cedro"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Bergamota y Naranja abren una fragancia de perfil floral frutal, con un corazón de Jengibre y Jazmín y un fondo de Almizcle y Cedro. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -1577,18 +1609,51 @@
       "precio_crc": 24650,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Oriental especiada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Lavanda",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Limón",
+        "Neroli",
+        "Fresia"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Bayas de enebro",
+        "Geranio"
+      ],
+      "notas_fondo": [
+        "Musgo de roble",
+        "Cuero",
+        "Vetiver"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Limón y Neroli abren una fragancia de perfil oriental especiada, con un corazón de Lavanda y Bayas de enebro y un fondo de Musgo de roble y Cuero. Una composición de carácter floral pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Animal-Edt.png?v=1600888762",
       "fuentes": [
         {
@@ -1610,6 +1675,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Animale/Animale-for-Men-5922.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/animale-for-men-by-animale-parfums.26120102",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -1617,7 +1692,7 @@
       "orden": 1023,
       "sku": "AGOSTO-2026-0023",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 23,
       "presentacion_proveedor": "ANIMALE CLASICO HOMBRE EDT 100ML"
     },
@@ -1628,18 +1703,61 @@
       "precio_crc": 29750,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Chipre",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Terroso",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Cilantro",
+        "Palisandro de Brasil",
+        "Jacinto",
+        "Notas verdes",
+        "Bergamota",
+        "Neroli"
+      ],
+      "notas_corazon": [
+        "Miel",
+        "Rosa",
+        "Clavel",
+        "Ylang-ylang",
+        "Jazmín",
+        "Raíz de lirio",
+        "Lirio de los valles"
+      ],
+      "notas_fondo": [
+        "Musgo de roble",
+        "Civeta",
+        "Pachulí",
+        "Vetiver",
+        "Almizcle",
+        "Coco"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Cilantro y Palisandro de Brasil abren una fragancia de perfil chipre, con un corazón de Miel y Rosa y un fondo de Musgo de roble y Civeta. Una composición de carácter floral pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Animal.png?v=1600888762",
       "fuentes": [
         {
@@ -1661,6 +1779,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Animale/Animale-5919.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -1668,7 +1791,7 @@
       "orden": 1024,
       "sku": "AGOSTO-2026-0024",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 24,
       "presentacion_proveedor": "ANIMALE CLASICO MUJER EDP 100ML"
     },
@@ -4888,13 +5011,47 @@
       "precio_crc": 31450,
       "tamano_ml": 70,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Gourmand",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Chocolate",
+          "emoji": ""
+        },
+        {
+          "nombre": "Pistacho",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Azúcar",
+        "Cacao",
+        "Pistacho tostado"
+      ],
+      "notas_corazon": [
+        "Chocolate con leche",
+        "Caramelo",
+        "Madera de cachemira"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Benjuí",
+        "Sándalo",
+        "Ámbar"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -4941,6 +5098,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.ulta.com/p/dubai-delicacy-kunafa-chocolate-eau-de-parfum-mkt77009803",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Kunafa-Chocolate-123187.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -4948,7 +5115,7 @@
       "orden": 1067,
       "sku": "AGOSTO-2026-0067",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 67,
       "presentacion_proveedor": "ARMAF DUBAI DELICACY KUNAFA CHOCOLATE EDP 70ML"
     },
@@ -5047,18 +5214,52 @@
       "precio_crc": 20400,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Almizcle floral amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Toronja",
+        "Hojas de cedro",
+        "Romero",
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Ylang-ylang",
+        "Nardos",
+        "Incienso"
+      ],
+      "notas_fondo": [
+        "Cedro",
+        "Sándalo",
+        "Vetiver"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Toronja y Hojas de cedro abren una fragancia de perfil almizcle floral amaderado, con un corazón de Ylang-ylang y Nardos y un fondo de Cedro y Sándalo. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Armaf-Hunter.png?v=1626101737",
       "fuentes": [
         {
@@ -5080,6 +5281,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/products/hunter-for-man",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Hunter-27695.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -5087,7 +5298,7 @@
       "orden": 1069,
       "sku": "AGOSTO-2026-0069",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 69,
       "presentacion_proveedor": "ARMAF HUNTER FOR MEN EDT 100ML"
     },
@@ -5412,18 +5623,53 @@
       "precio_crc": 21250,
       "tamano_ml": 80,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Miel",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Ciruela",
+        "Miel",
+        "Gardenia",
+        "Bergamota",
+        "Nardos"
+      ],
+      "notas_corazon": [
+        "Lirio de los valles",
+        "Jazmín",
+        "Rosa",
+        "Azafrán"
+      ],
+      "notas_fondo": [
+        "Cacao",
+        "Almizcle",
+        "Haba tonka"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Ciruela y Miel abren una fragancia de perfil floral, con un corazón de Lirio de los valles y Jazmín y un fondo de Cacao y Almizcle. Una composición de carácter floral pensada para diario.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/ODYSSEY.jpg?v=1571610003",
       "fuentes": [
         {
@@ -5445,6 +5691,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfumes/Armaf/Odyssey-Femme-68061.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -5452,7 +5703,7 @@
       "orden": 1074,
       "sku": "AGOSTO-2026-0074",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 74,
       "presentacion_proveedor": "ARMAF ODYSEEY FEMME EDP 80ML"
     },
@@ -6288,18 +6539,57 @@
       "precio_crc": 30600,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral frutal",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Mandarina",
+        "Lichi",
+        "Durazno",
+        "Frambuesa"
+      ],
+      "notas_corazon": [
+        "Peonía",
+        "Ylang-ylang",
+        "Rosa",
+        "Flor de azahar",
+        "Jazmín",
+        "Magnolia"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Sándalo",
+        "Almizcle",
+        "Caramelo",
+        "Ámbar"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Mandarina y Lichi abren una fragancia de perfil floral frutal, con un corazón de Peonía y Ylang-ylang y un fondo de Vainilla y Sándalo. Una composición de carácter floral pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ODYSSEYLI_CHILUSHEDP-1.png?v=1774993705",
       "fuentes": [
         {
@@ -6321,6 +6611,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/odyssey-li---chi-lush-by-armaf.26294417",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -6328,7 +6623,7 @@
       "orden": 1083,
       "sku": "AGOSTO-2026-0083",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 83,
       "presentacion_proveedor": "ARMAF ODYSSEY LICHI LUSH EDP 100ML"
     },
@@ -7857,18 +8152,60 @@
       "precio_crc": 31450,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Aromática amaderada avainillada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Cardamomo",
+        "Canela",
+        "Flor de azahar",
+        "Ciruela"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Davana",
+        "Elemí",
+        "Vainilla Bourbon",
+        "Almendra confitada"
+      ],
+      "notas_fondo": [
+        "Praliné",
+        "Almizcle",
+        "Haba tonka",
+        "Benjuí",
+        "Ámbar",
+        "Pachulí",
+        "Ládano",
+        "Madera de guayaco"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Bergamota y Cardamomo abren una fragancia de perfil aromática amaderada avainillada, con un corazón de Lavanda y Davana y un fondo de Praliné y Almizcle. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/SPARTACUSEDP-3.png?v=1775080965",
       "fuentes": [
         {
@@ -7890,6 +8227,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Spartacus-129502.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -7897,7 +8239,7 @@
       "orden": 1101,
       "sku": "AGOSTO-2026-0101",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 101,
       "presentacion_proveedor": "ARMAF SPARTACUS EDP 100ML"
     },
@@ -8334,18 +8676,51 @@
       "precio_crc": 22100,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Oriental amaderada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Lavanda",
+        "Cardamomo",
+        "Notas aromáticas"
+      ],
+      "notas_corazon": [
+        "Notas especiadas",
+        "Pimienta negra"
+      ],
+      "notas_fondo": [
+        "Incienso",
+        "Pachulí",
+        "Vainilla",
+        "Haba tonka"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Lavanda y Cardamomo abren una fragancia de perfil oriental amaderada, con un corazón de Notas especiadas y Pimienta negra y un fondo de Incienso y Pachulí. Una composición de carácter aromático pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Armaf-Tag-Uomo-Rosso.png?v=1760717397",
       "fuentes": [
         {
@@ -8367,6 +8742,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://armaf.com/products/tag-him-uomo-rosso-red",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Armaf/Tag-Him-Uomo-Rosso-90407.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -8374,7 +8759,7 @@
       "orden": 1106,
       "sku": "AGOSTO-2026-0106",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 106,
       "presentacion_proveedor": "ARMAF TAG UOMO ROSSO EDP 100ML"
     },
@@ -8385,18 +8770,50 @@
       "precio_crc": 24650,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Oriental",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Cardamomo",
+        "Pimienta rosa"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Incienso"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Haba tonka",
+        "Ámbar",
+        "Pachulí"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Cardamomo y Pimienta rosa abren una fragancia de perfil oriental, con un corazón de Lavanda y Incienso y un fondo de Vainilla y Haba tonka. Una composición de carácter floral pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -8418,6 +8835,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Armaf/The-Pride-Of-Armaf-Admiral-88215.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -8425,7 +8847,7 @@
       "orden": 1107,
       "sku": "AGOSTO-2026-0107",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 107,
       "presentacion_proveedor": "ARMAF THE PRIDE ADMIRAL EDP 100ML"
     },
@@ -9703,18 +10125,55 @@
       "precio_crc": 56950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Gourmand oriental",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Chocolate",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Oud",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Canela",
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Dátil",
+        "Praliné",
+        "Nardos",
+        "Coñac",
+        "Acorde de cuero"
+      ],
+      "notas_fondo": [
+        "Benjuí",
+        "Vainilla",
+        "Haba tonka",
+        "Almizcle",
+        "Oud"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Bergamota y Canela abren una fragancia de perfil gourmand oriental, con un corazón de Dátil y Praliné y un fondo de Benjuí y Vainilla. Una composición de carácter dulce pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-kive-image_5_d630c43c-1ebd-4f98-8e34-9aebde4edde9.png?v=1772127699",
       "fuentes": [
         {
@@ -9743,7 +10202,7 @@
       "orden": 1124,
       "sku": "AGOSTO-2026-0124",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 124,
       "presentacion_proveedor": "BHARARA CHOCOLATE EDP 100ML"
     },
@@ -9754,18 +10213,49 @@
       "precio_crc": 41650,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromática",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Naranja",
+        "Bergamota",
+        "Limón"
+      ],
+      "notas_corazon": [
+        "Notas frutales"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Almizcle blanco",
+        "Ámbar"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Naranja y Bergamota abren una fragancia de perfil aromática, con un corazón de Notas frutales y un fondo de Vainilla y Almizcle blanco. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/Gemini_Generated_Image_eokjadeokjadeokj.png?v=1772746597",
       "fuentes": [
         {
@@ -9787,6 +10277,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Bharara/King-74184.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://bhararabeauty.eu/bharara-collection/king/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -9794,7 +10294,7 @@
       "orden": 1125,
       "sku": "AGOSTO-2026-0125",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 125,
       "presentacion_proveedor": "BHARARA KING EDP 100ML"
     },
@@ -9805,18 +10305,50 @@
       "precio_crc": 65450,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental vainilla",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Naranja dulce",
+        "Bergamota",
+        "Limón"
+      ],
+      "notas_corazon": [
+        "Frutos rojos",
+        "Coco"
+      ],
+      "notas_fondo": [
+        "Almizcle blanco",
+        "Vainilla",
+        "Ámbar"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Naranja dulce y Bergamota abren una fragancia de perfil oriental vainilla, con un corazón de Frutos rojos y Coco y un fondo de Almizcle blanco y Vainilla. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_30.png?v=1772133191",
       "fuentes": [
         {
@@ -9838,6 +10370,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Bharara/King-Gold-Edition-125451.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -9845,7 +10382,7 @@
       "orden": 1126,
       "sku": "AGOSTO-2026-0126",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 126,
       "presentacion_proveedor": "BHARARA KING GOLD EDITION EDP 100ML"
     },
@@ -9957,18 +10494,57 @@
       "precio_crc": 73950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada especiada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Tabaco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Ron",
+        "Pimienta negra",
+        "Bergamota",
+        "Pimienta rosa",
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Pachulí",
+        "Tabaco",
+        "Haba tonka",
+        "Ámbar",
+        "Aceite de cipriol"
+      ],
+      "notas_fondo": [
+        "Caramelo",
+        "Vainilla",
+        "Sándalo",
+        "Cedro",
+        "Musgo"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Ron y Pimienta negra abren una fragancia de perfil amaderada especiada, con un corazón de Pachulí y Tabaco y un fondo de Caramelo y Vainilla. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -9995,6 +10571,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://bhararabeauty.eu/bharara-collection/pharaoh-ramesses-i/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/bharara-pharaoh-ramesses-i-by-bharara-beauty.26294134",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -10002,7 +10588,7 @@
       "orden": 1128,
       "sku": "AGOSTO-2026-0128",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 128,
       "presentacion_proveedor": "BHARARA RAMESSES 1 EDP 100ML"
     },
@@ -10013,18 +10599,52 @@
       "precio_crc": 50150,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada aromática",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Lavanda",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Enebro",
+        "Cardamomo",
+        "Pimienta rosa",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Nuez moscada",
+        "Geranio"
+      ],
+      "notas_fondo": [
+        "Pachulí",
+        "Sándalo",
+        "Ambroxan"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Enebro y Cardamomo abren una fragancia de perfil amaderada aromática, con un corazón de Lavanda y Nuez moscada y un fondo de Pachulí y Sándalo. Una composición de carácter floral pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -10051,6 +10671,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Bharara/Rey-de-Reyes-136242.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -10058,7 +10683,7 @@
       "orden": 1129,
       "sku": "AGOSTO-2026-0129",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 129,
       "presentacion_proveedor": "BHARARA REY DE REYES EDP 100ML"
     },
@@ -10069,18 +10694,55 @@
       "precio_crc": 63750,
       "tamano_ml": 100,
       "concentracion": "Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada aromática",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Cardamomo",
+        "Zanahoria",
+        "Elemí",
+        "Incienso"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Lirio de los valles",
+        "Raíz de lirio",
+        "Violeta"
+      ],
+      "notas_fondo": [
+        "Ámbar seco",
+        "Almizcle",
+        "Nagarmota",
+        "Sándalo",
+        "Vainilla"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Cardamomo y Zanahoria abren una fragancia de perfil amaderada aromática, con un corazón de Jazmín y Lirio de los valles y un fondo de Ámbar seco y Almizcle. Una composición de carácter floral pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/Generated_with_Kive.ai_-_kive-image_b9e6bea9-e93d-4413-9c10-6c17164e40fb.png?v=1772570580",
       "fuentes": [
         {
@@ -10109,7 +10771,7 @@
       "orden": 1130,
       "sku": "AGOSTO-2026-0130",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 130,
       "presentacion_proveedor": "BHARARA VIKING KASHMIR PARFUM 100ML"
     },
@@ -10120,18 +10782,53 @@
       "precio_crc": 68850,
       "tamano_ml": 100,
       "concentracion": "Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Terroso",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Hierba"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Ciruela",
+        "Rosa"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Musgo",
+        "Almizcle",
+        "Sándalo",
+        "Haba tonka",
+        "Vainilla"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Bergamota y Hierba abren una fragancia de perfil amaderada, con un corazón de Jazmín y Ciruela y un fondo de Ámbar y Musgo. Una composición de carácter floral pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcentreit.png?v=1771945994",
       "fuentes": [
         {
@@ -10153,6 +10850,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/bharara/rio",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -10160,7 +10862,7 @@
       "orden": 1131,
       "sku": "AGOSTO-2026-0131",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 131,
       "presentacion_proveedor": "BHARARA VIKING RIO PARFUM 100ML"
     },
@@ -10568,9 +11270,13 @@
       "precio_crc": 73950,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "Floral",
@@ -10609,7 +11315,7 @@
       "proyeccion": 3,
       "estela": 3,
       "valoracion": 3.6,
-      "descripcion": "",
+      "descripcion": "Plant juice y Pink grapefruit abren esta fragancia de perfil floral, con un corazón de Rose absolute y Iris y un fondo de Heliotrope y Woods. Una composición expresiva y equilibrada para diario.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/bvlgari-omnia-amethyste-65-ml-for-women-outer-box-damaged-800x800.jpg?v=1571609931",
       "fuentes": [
         {
@@ -12253,18 +12959,60 @@
       "precio_crc": 45050,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
+      "familia": "Floral",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Nardos",
+          "emoji": ""
+        },
+        {
+          "nombre": "Animálico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Albaricoque",
+        "Flor de azahar",
+        "Notas verdes",
+        "Bergamota",
+        "Palisandro de Brasil"
+      ],
+      "notas_corazon": [
+        "Nardos",
+        "Jazmín de la India",
+        "Ylang-ylang",
+        "Narciso",
+        "Madreselva",
+        "Jacinto",
+        "Lirio de los valles"
+      ],
+      "notas_fondo": [
+        "Civeta",
+        "Almizcle",
+        "Musgo de roble",
+        "Ámbar",
+        "Sándalo",
+        "Vetiver",
+        "Cedro"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Albaricoque y Flor de azahar abren una fragancia de perfil floral, con un corazón de Nardos y Jazmín de la India y un fondo de Civeta y Almizcle. Una composición de carácter amaderado pensada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -12286,6 +13034,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/carolina-herrera-by-carolina-herrera.10210532",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -12293,7 +13046,7 @@
       "orden": 1162,
       "sku": "AGOSTO-2026-0162",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 162,
       "presentacion_proveedor": "CAROLINA HERRERA CLÁSICO MUJER 100ML"
     },
@@ -12306,7 +13059,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Floral oriental",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "Floral",
@@ -12345,7 +13102,7 @@
       "proyeccion": 3,
       "estela": 3,
       "valoracion": 3.7,
-      "descripcion": "",
+      "descripcion": "Bergamot y Bitter almond abren esta fragancia de perfil floral oriental, con un corazón de Peony y Ylang-ylang y un fondo de Vanilla y Tonka bean. Una composición expresiva y equilibrada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Ch-Good-Girl-Blush.png?v=1702305335",
       "fuentes": [
         {
@@ -12400,9 +13157,13 @@
       "precio_crc": 96050,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
+      "familia": "Floral",
       "genero": null,
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "Floral",
@@ -12441,7 +13202,7 @@
       "proyeccion": 3,
       "estela": 3,
       "valoracion": 3.7,
-      "descripcion": "",
+      "descripcion": "Bergamot y Bitter almond abren esta fragancia de perfil floral, con un corazón de Peony y Ylang-ylang y un fondo de Vanilla y Tonka bean. Una composición expresiva y equilibrada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -12592,18 +13353,48 @@
       "precio_crc": 94350,
       "tamano_ml": 80,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Gourmand floral",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Grosella negra",
+        "Mandarina"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Almendra amarga"
+      ],
+      "notas_fondo": [
+        "Tófe",
+        "Haba tonka"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Grosella negra y Mandarina abren una fragancia de perfil gourmand floral, con un corazón de Jazmín y Almendra amarga y un fondo de Tófe y Haba tonka. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/CarolinaHerreraGoodGirlJasmineAbsolute.jpg?v=1785158945",
       "fuentes": [
         {
@@ -12630,6 +13421,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Carolina-Herrera/Good-Girl-Jasmine-Absolute-120291.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -12637,7 +13433,7 @@
       "orden": 1166,
       "sku": "AGOSTO-2026-0166",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 166,
       "presentacion_proveedor": "CAROLINA HERRERA GOOD GIRL JASMINE ABSOLUTE EDP 80ML"
     },
@@ -12727,26 +13523,50 @@
       "precio_crc": 85000,
       "tamano_ml": 80,
       "concentracion": "Eau de Parfum",
-      "familia": "Floral afrutada",
+      "familia": "Oriental floral",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
-          "nombre": "floral",
+          "nombre": "Floral",
           "emoji": ""
         },
         {
-          "nombre": "afrutado",
+          "nombre": "Tropical",
           "emoji": ""
         },
         {
-          "nombre": "dulce",
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Pitahaya",
+        "Piña",
+        "Mandarina amarilla"
+      ],
+      "notas_corazon": [
+        "Frangipani rojo",
+        "Peonía roja",
+        "Rosyfolia",
+        "Flor de azahar",
+        "Jazmín sambac",
+        "Pomarose"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Pachulí",
+        "Ambrofix",
+        "Haba tonka"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -12783,6 +13603,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.carolinaherrera.com/ww/es/p-fragrance/labomba",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/La-Bomba-105931.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -12790,7 +13620,7 @@
       "orden": 1168,
       "sku": "AGOSTO-2026-0168",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 168,
       "presentacion_proveedor": "CAROLINA HERRERA LA BOMBA EDP 80ML"
     },
@@ -13337,7 +14167,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "Floral oriental",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -14937,30 +15771,43 @@
       ],
       "acordes": [
         {
-          "nombre": "amaderado",
+          "nombre": "Cuero",
           "emoji": ""
         },
         {
-          "nombre": "aromático",
+          "nombre": "Amaderado",
           "emoji": ""
         },
         {
-          "nombre": "fresco especiado",
+          "nombre": "Aromático",
           "emoji": ""
         },
         {
-          "nombre": "cítrico",
+          "nombre": "Fresco especiado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Hoja de violeta",
+        "Nuez moscada",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Salvia esclarea",
+        "Musgo"
+      ],
+      "notas_fondo": [
+        "Cuero",
+        "Haba tonka",
+        "Sándalo",
+        "Madera de teca"
+      ],
       "duracion": 2,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Hoja de violeta y Nuez moscada abren una fragancia de perfil amaderada aromática, con un corazón de Lavanda y Salvia esclarea y un fondo de Cuero y Haba tonka. Una composición de carácter floral pensada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -14982,6 +15829,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-Black-44905.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -14989,7 +15841,7 @@
       "orden": 1194,
       "sku": "AGOSTO-2026-0194",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 194,
       "presentacion_proveedor": "CURVE BLACK HOMBRE 125ML"
     },
@@ -15000,7 +15852,7 @@
       "precio_crc": 13600,
       "tamano_ml": 125,
       "concentracion": null,
-      "familia": "Aromática acuática",
+      "familia": "Aromática especiada",
       "genero": "Hombre",
       "ocasiones": [
         "diario",
@@ -15008,30 +15860,44 @@
       ],
       "acordes": [
         {
-          "nombre": "acuático",
+          "nombre": "Fresco especiado",
           "emoji": ""
         },
         {
-          "nombre": "cítrico",
+          "nombre": "Aromático",
           "emoji": ""
         },
         {
-          "nombre": "aromático",
+          "nombre": "Verde",
           "emoji": ""
         },
         {
-          "nombre": "verde",
+          "nombre": "Amaderado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Aldehídos",
+        "Lima",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Violeta",
+        "Té verde",
+        "Pimienta blanca",
+        "Cilantro"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Cardamomo",
+        "Almizcle",
+        "Vetiver"
+      ],
       "duracion": 2,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Aldehídos y Lima abren una fragancia de perfil aromática especiada, con un corazón de Violeta y Té verde y un fondo de Sándalo y Cardamomo. Una composición de carácter cítrico pensada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -15053,6 +15919,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-Chill-for-Men-1777.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -15060,7 +15931,7 @@
       "orden": 1195,
       "sku": "AGOSTO-2026-0195",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 195,
       "presentacion_proveedor": "CURVE CHILL HOMBRE 125ML"
     },
@@ -15071,7 +15942,7 @@
       "precio_crc": 12410,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": "Floral frutal",
+      "familia": "Floral",
       "genero": "Mujer",
       "ocasiones": [
         "diario",
@@ -15080,30 +15951,42 @@
       ],
       "acordes": [
         {
-          "nombre": "frutal",
+          "nombre": "Floral",
           "emoji": ""
         },
         {
-          "nombre": "floral",
+          "nombre": "Verde",
           "emoji": ""
         },
         {
-          "nombre": "fresco",
+          "nombre": "Fresco",
           "emoji": ""
         },
         {
-          "nombre": "cítrico",
+          "nombre": "Cítrico",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Té verde",
+        "Jengibre",
+        "Limón"
+      ],
+      "notas_corazon": [
+        "Guisante de olor",
+        "Peonía",
+        "Fresia"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Cedro",
+        "Vetiver"
+      ],
       "duracion": 2,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Té verde y Jengibre abren una fragancia de perfil floral, con un corazón de Guisante de olor y Peonía y un fondo de Almizcle y Cedro. Una composición de carácter floral pensada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -15125,6 +16008,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-Chill-1776.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -15132,7 +16020,7 @@
       "orden": 1196,
       "sku": "AGOSTO-2026-0196",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 196,
       "presentacion_proveedor": "CURVE CHILL MUJER 100ML"
     },
@@ -15219,18 +16107,65 @@
       "precio_crc": 20400,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
+      "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Zarzamora",
+        "Toronja",
+        "Mandarina",
+        "Durazno",
+        "Bergamota",
+        "Naranja",
+        "Ylang-ylang",
+        "Albaricoque"
+      ],
+      "notas_corazon": [
+        "Lirio de los valles",
+        "Peonía rosa",
+        "Fresia amarilla",
+        "Magnolia",
+        "Loto",
+        "Rosa de Damasco",
+        "Ciclamen",
+        "Casia"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Violeta",
+        "Iris",
+        "Cedro",
+        "Sándalo",
+        "Ámbar",
+        "Caoba"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Zarzamora y Toronja abren una fragancia de perfil floral frutal, con un corazón de Lirio de los valles y Peonía rosa y un fondo de Almizcle y Violeta. Una composición de carácter floral pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -15247,6 +16182,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-1775.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -15254,7 +16194,7 @@
       "orden": 1198,
       "sku": "AGOSTO-2026-0198",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 198,
       "presentacion_proveedor": "CURVE CLASICO MUJER 100ML"
     },
@@ -15357,18 +16297,59 @@
       "precio_crc": 22100,
       "tamano_ml": 125,
       "concentracion": null,
-      "familia": null,
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Pera Bartlett",
+        "Aldehído de muguete",
+        "Albahaca",
+        "Cilantro",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Jengibre",
+        "Violeta verde",
+        "Lavanda",
+        "Salvia"
+      ],
+      "notas_fondo": [
+        "Cardamomo",
+        "Vetiver",
+        "Almizcle",
+        "Musgo"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Pera Bartlett y Aldehído de muguete abren una fragancia de perfil amaderada aromática, con un corazón de Jengibre y Violeta verde y un fondo de Cardamomo y Vetiver. Una composición de carácter aromático pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -15385,6 +16366,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-Crush-for-Men-4164.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -15392,7 +16378,7 @@
       "orden": 1201,
       "sku": "AGOSTO-2026-0201",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 201,
       "presentacion_proveedor": "CURVE CRUSH HOMBRE 125ML"
     },
@@ -15403,18 +16389,51 @@
       "precio_crc": 20400,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
+      "familia": "Oriental floral",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Cítricos",
+        "Chai latte",
+        "Néctar floral"
+      ],
+      "notas_corazon": [
+        "Orquídea blanca",
+        "Lirio de los valles",
+        "Anisete cremoso"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Haba tonka",
+        "Vainilla de Madagascar"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Cítricos y Chai latte abren una fragancia de perfil oriental floral, con un corazón de Orquídea blanca y Lirio de los valles y un fondo de Almizcle y Haba tonka. Una composición de carácter floral pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -15431,6 +16450,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-Crush-2175.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -15438,7 +16462,7 @@
       "orden": 1202,
       "sku": "AGOSTO-2026-0202",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 202,
       "presentacion_proveedor": "CURVE CRUSH MUJER 100ML"
     },
@@ -15449,18 +16473,56 @@
       "precio_crc": 22950,
       "tamano_ml": 125,
       "concentracion": null,
-      "familia": null,
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Lavanda",
+          "emoji": ""
+        },
+        {
+          "nombre": "Tabaco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Manzana roja",
+        "Romero",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Cardamomo",
+        "Salvia esclarea"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Tabaco",
+        "Musgo",
+        "Vetiver"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Manzana roja y Romero abren una fragancia de perfil amaderada aromática, con un corazón de Lavanda y Cardamomo y un fondo de Sándalo y Tabaco. Una composición de carácter aromático pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -15477,6 +16539,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-Sport-29569.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/curve-sport-for-men-by-liz-claiborne.26145166",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -15484,7 +16556,7 @@
       "orden": 1203,
       "sku": "AGOSTO-2026-0203",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 203,
       "presentacion_proveedor": "CURVE SPORT HOMBRE 125ML"
     },
@@ -15541,18 +16613,57 @@
       "precio_crc": 12410,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
+      "familia": "Floral acuática",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Tropical",
+          "emoji": ""
+        },
+        {
+          "nombre": "Acuático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Carambola",
+        "Madreselva",
+        "Frambuesa",
+        "Orquídea"
+      ],
+      "notas_corazon": [
+        "Lirio",
+        "Frangipani",
+        "Flor de la pasión",
+        "Hibisco"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Sándalo",
+        "Ámbar"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Carambola y Madreselva abren una fragancia de perfil floral acuática, con un corazón de Lirio y Frangipani y un fondo de Almizcle y Sándalo. Una composición de carácter floral pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -15569,6 +16680,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-Wave-9609.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -15576,7 +16692,7 @@
       "orden": 1205,
       "sku": "AGOSTO-2026-0205",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 205,
       "presentacion_proveedor": "CURVE WAVE MUJER 100ML"
     },
@@ -15984,18 +17100,51 @@
       "precio_crc": 4250,
       "tamano_ml": 5,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Cuero afrutado",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cuero",
+          "emoji": ""
+        },
+        {
+          "nombre": "Oud",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Higo",
+        "Ciruela",
+        "Grosella negra"
+      ],
+      "notas_corazon": [
+        "Cuero",
+        "Ruibarbo",
+        "Rosa"
+      ],
+      "notas_fondo": [
+        "Madera de oud",
+        "Ámbar gris",
+        "Vainilla"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Higo y Ciruela abren una fragancia de perfil cuero afrutado, con un corazón de Cuero y Ruibarbo y un fondo de Madera de oud y Ámbar gris. Una composición de carácter frutal pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -16017,6 +17166,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Art-Of-Nature-I-98241.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -16024,7 +17178,7 @@
       "orden": 1211,
       "sku": "AGOSTO-2026-0211",
       "tipo_producto": "Decant",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 211,
       "presentacion_proveedor": "DECANT LATTAFA ART OF NATURE 5ML"
     },
@@ -16871,18 +18025,45 @@
       "precio_crc": 56100,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental vainilla",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Melón siciliano"
+      ],
+      "notas_corazon": [
+        "Flor de azahar"
+      ],
+      "notas_fondo": [
+        "Vainilla"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Melón siciliano abren una fragancia de perfil oriental vainilla, con un corazón de Flor de azahar y un fondo de Vainilla. Una composición de carácter dulce pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -16899,6 +18080,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.dolcegabbana.com/en-mk/beauty/perfumes-for-her/devotion/your-devotion-eau-de-parfum-intense---VT03B2VT0009V000.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -16906,7 +18092,7 @@
       "orden": 1225,
       "sku": "AGOSTO-2026-0225",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 225,
       "presentacion_proveedor": "DOLCE & GABANNA YOUR DEVOTION EDP INTENSE 100ML"
     },
@@ -16917,18 +18103,45 @@
       "precio_crc": 65450,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderada especiada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Café",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Pachulí",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Limón italiano"
+      ],
+      "notas_corazon": [
+        "Café"
+      ],
+      "notas_fondo": [
+        "Pachulí"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Limón italiano abren una fragancia de perfil amaderada especiada, con un corazón de Café y un fondo de Pachulí. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Devotion_Edp_men.png?v=1742502970",
       "fuentes": [
         {
@@ -16950,6 +18163,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.dolcegabbana.com/en-us/beauty/perfumes-for-him/devotion-for-men/devotion-for-men-eau-de-parfum---VT00PCVT0009V000.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Devotion-Pour-Homme-101353.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -16957,7 +18180,7 @@
       "orden": 1226,
       "sku": "AGOSTO-2026-0226",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 226,
       "presentacion_proveedor": "DOLCE & GABBANA DEVOTION HOMBRE EDP 100ML"
     },
@@ -16968,18 +18191,48 @@
       "precio_crc": 41650,
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Neroli",
+        "Flor de papaya"
+      ],
+      "notas_corazon": [
+        "Nenúfar",
+        "Narciso",
+        "Amarilis"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Cachemira"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Neroli y Flor de papaya abren una fragancia de perfil floral, con un corazón de Nenúfar y Narciso y un fondo de Almizcle y Cachemira. Una composición de carácter amaderado pensada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -17001,6 +18254,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-22955.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -17008,7 +18266,7 @@
       "orden": 1227,
       "sku": "AGOSTO-2026-0227",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 227,
       "presentacion_proveedor": "DOLCE & GABBANA DOLCE EDP 75ML"
     },
@@ -17107,18 +18365,55 @@
       "precio_crc": 33150,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral acuática",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ozónico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Kiwi",
+        "Ruibarbo",
+        "Pimienta rosa"
+      ],
+      "notas_corazon": [
+        "Sandía",
+        "Ciclamen",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Limonero",
+        "Almizcle",
+        "Sándalo"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Kiwi y Ruibarbo abren una fragancia de perfil floral acuática, con un corazón de Sandía y Ciclamen y un fondo de Limonero y Almizcle. Una composición de carácter floral pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -17135,6 +18430,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dolce-Gabbana/D-G-Anthology-L-Imperatrice-3-6086.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -17142,7 +18442,7 @@
       "orden": 1229,
       "sku": "AGOSTO-2026-0229",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 229,
       "presentacion_proveedor": "DOLCE & GABBANA EMPERATRIZ 100ML"
     },
@@ -18510,16 +19810,62 @@
       "concentracion": "Eau de Parfum",
       "familia": "Aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Grosella negra",
+        "Naranja",
+        "Manzana",
+        "Bergamota",
+        "Pimienta rosa",
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Vainilla",
+        "Azúcar",
+        "Ámbar",
+        "Maderas secas",
+        "Azafrán",
+        "Lirio de los valles"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Cedro",
+        "Ámbar",
+        "Madera de guayaco",
+        "Almizcle",
+        "Musgo"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Grosella negra y Naranja abren una fragancia de perfil aromática, con un corazón de Vainilla y Azúcar y un fondo de Vainilla y Cedro. Una composición de carácter amaderado pensada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -18546,6 +19892,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.dumontparis.com/product/nitro-platinum/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dumont/Nitro-Platinum-101991.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -18553,7 +19909,7 @@
       "orden": 1245,
       "sku": "AGOSTO-2026-0245",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 245,
       "presentacion_proveedor": "DUMONT NITRO PLATINUM EDP 100ML"
     },
@@ -18564,18 +19920,55 @@
       "precio_crc": 26350,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Aromática frutal",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Manzana",
+        "Lavanda",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Sandía",
+        "Cedro",
+        "Cálamo"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Sándalo",
+        "Pachulí"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Manzana y Lavanda abren una fragancia de perfil aromática frutal, con un corazón de Sandía y Cedro y un fondo de Ámbar y Sándalo. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/nitro.png?v=1721670579",
       "fuentes": [
         {
@@ -18602,6 +19995,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.dumontparis.com/product/nitro-red/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Dumont/Nitro-Red-73023.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -18609,7 +20012,7 @@
       "orden": 1246,
       "sku": "AGOSTO-2026-0246",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 246,
       "presentacion_proveedor": "DUMONT NITRO RED HOMBRE EDP 100ML"
     },
@@ -18620,18 +20023,58 @@
       "precio_crc": 34000,
       "tamano_ml": 100,
       "concentracion": "Extrait de Parfum",
-      "familia": null,
+      "familia": "Aromática frutal",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Acuático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Durazno",
+        "Manzana",
+        "Melón",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Ámbar",
+        "Sal marina",
+        "Cedro",
+        "Lirio de los valles"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Pachulí",
+        "Sándalo",
+        "Musgo"
+      ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Durazno y Manzana abren una fragancia de perfil aromática frutal, con un corazón de Ámbar y Sal marina y un fondo de Ámbar y Pachulí. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -18653,6 +20096,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.thelastspritz.com/fragrance/dumont-nitro-red-intensely",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -18660,7 +20108,7 @@
       "orden": 1247,
       "sku": "AGOSTO-2026-0247",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 247,
       "presentacion_proveedor": "DUMONT NITRO RED INTENSELY EXTRAIT DE PARFUM 100ML"
     },
@@ -18957,9 +20405,13 @@
       "precio_crc": 26350,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Floral",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "Floral",
@@ -19096,13 +20548,49 @@
       "precio_crc": 16150,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral amaderada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral amarillo",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Terroso",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Balsámico",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Ylang-ylang",
+        "Pachulí",
+        "Musgo de roble"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Gardenia de Tahití",
+        "Vetiver"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Benjuí"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -19124,6 +20612,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Emper/Ilang-62-111069.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://priveperfumes.com/en/products/perfume-emper-ilang-62-edp-u-100-ml",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -19131,7 +20629,7 @@
       "orden": 1253,
       "sku": "AGOSTO-2026-0253",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 253,
       "presentacion_proveedor": "EMPER ILANG 62 EDP 100ML"
     },
@@ -19188,13 +20686,53 @@
       "precio_crc": 17000,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental gourmand",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Mandarina",
+        "Frambuesa",
+        "Cereza ácida",
+        "Gamuza"
+      ],
+      "notas_corazon": [
+        "Malvavisco",
+        "Gardenia",
+        "Vainilla",
+        "Orquídea"
+      ],
+      "notas_fondo": [
+        "Gamuza blanca",
+        "Roble",
+        "Almizcle",
+        "Sándalo"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -19216,6 +20754,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Le-Chameau/Arabia-Haya-Crush-111236.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Le_Chameau/arabia-haya-crush",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -19223,7 +20771,7 @@
       "orden": 1255,
       "sku": "AGOSTO-2026-0255",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 255,
       "presentacion_proveedor": "EMPER LE CHAMEAU ARABIA HAYA CRUSH EDP 100ML"
     },
@@ -19280,13 +20828,49 @@
       "precio_crc": 28900,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental gourmand",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Chocolate",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Café",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Almendra",
+        "Heliotropo"
+      ],
+      "notas_corazon": [
+        "Chocolate negro",
+        "Ron"
+      ],
+      "notas_fondo": [
+        "Café",
+        "Caramelo",
+        "Caña de azúcar",
+        "Sándalo"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -19308,6 +20892,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Emper/Phantom-My-Hero-103431.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.emper.ro/cumpara/parfum-emper-phantom-my-hero-1241",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -19315,7 +20909,7 @@
       "orden": 1257,
       "sku": "AGOSTO-2026-0257",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 257,
       "presentacion_proveedor": "EMPER PHANTOM MY HERO EDP 100ML"
     },
@@ -19510,13 +21104,49 @@
       "precio_crc": 15300,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental amaderada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cuero",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Cardamomo",
+        "Violeta"
+      ],
+      "notas_corazon": [
+        "Ámbar",
+        "Iris"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Cuero",
+        "Cedro de Virginia",
+        "Papiro"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -19538,6 +21168,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Emper/Stallion-53-106193.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -19545,7 +21180,7 @@
       "orden": 1262,
       "sku": "AGOSTO-2026-0262",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 262,
       "presentacion_proveedor": "EMPER STALLION 53 EDP 100ML"
     },
@@ -20316,9 +21951,13 @@
       "precio_crc": 29750,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
+      "familia": "Cítrica",
       "genero": null,
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
       "acordes": [
         {
           "nombre": "Fruity",
@@ -20730,44 +22369,44 @@
       "precio_crc": 31450,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
-          "nombre": "Floral",
+          "nombre": "Afrutado",
           "emoji": ""
         },
         {
-          "nombre": "Fruity",
+          "nombre": "Floral blanco",
           "emoji": ""
         },
         {
-          "nombre": "Sweet",
+          "nombre": "Dulce",
           "emoji": ""
         },
         {
-          "nombre": "Fresh",
-          "emoji": ""
-        },
-        {
-          "nombre": "Synthetic",
+          "nombre": "Avainillado",
           "emoji": ""
         }
       ],
       "notas_salida": [
-        "Bergamot",
-        "Raspberry nectar",
-        "Melon"
+        "Frambuesa",
+        "Melón",
+        "Bergamota"
       ],
       "notas_corazon": [
-        "Brazilian orchid",
-        "Lily"
+        "Orquídea",
+        "Azucena",
+        "Acacia negra"
       ],
       "notas_fondo": [
-        "Australian sandalwood",
-        "Musk",
-        "Bourbon vanilla"
+        "Vainilla de Madagascar",
+        "Sándalo australiano"
       ],
       "duracion": 3,
       "proyeccion": 3,
@@ -20800,6 +22439,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumo.com/Perfumes/Guess/guess-girl-eau-de-toilette",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Guess/Guess-Girl-17012.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -20818,13 +22462,46 @@
       "precio_crc": 56100,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Rosa",
+          "emoji": ""
+        },
+        {
+          "nombre": "Violeta",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Rosa de Bulgaria",
+        "Espino",
+        "Grosella negra",
+        "Mandarina"
+      ],
+      "notas_corazon": [
+        "Violeta de Parma",
+        "Rosa",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Almizcle blanco",
+        "Incienso"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -20851,6 +22528,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Kenzo/Flower-by-Kenzo-72.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -20858,7 +22540,7 @@
       "orden": 1282,
       "sku": "AGOSTO-2026-0282",
       "tipo_producto": "Estuche",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 282,
       "presentacion_proveedor": "ESTUCHE KENZO FLOWER 3 PZS"
     },
@@ -20869,13 +22551,48 @@
       "precio_crc": 29750,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental especiada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Pimienta negra",
+        "Piña",
+        "Tabaco"
+      ],
+      "notas_corazon": [
+        "Pachulí",
+        "Café",
+        "Iris"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Ámbar",
+        "Maderas secas",
+        "Benjuí",
+        "Ládano"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -20902,6 +22619,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Asad-72821.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -20909,7 +22631,7 @@
       "orden": 1283,
       "sku": "AGOSTO-2026-0283",
       "tipo_producto": "Estuche",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 283,
       "presentacion_proveedor": "ESTUCHE LATTAFA ASAD 3 PZS"
     },
@@ -20920,13 +22642,48 @@
       "precio_crc": 35700,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Champagne",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Champagne",
+        "Fresa",
+        "Rosa",
+        "Mandarina",
+        "Naranja sanguina"
+      ],
+      "notas_corazon": [
+        "Gardenia",
+        "Jazmín",
+        "Orquídea de vainilla"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Sándalo",
+        "Castaña"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -20953,6 +22710,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Haya-85031.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -20960,7 +22722,7 @@
       "orden": 1284,
       "sku": "AGOSTO-2026-0284",
       "tipo_producto": "Estuche",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 284,
       "presentacion_proveedor": "ESTUCHE LATTAFA HAYA 3PZS"
     },
@@ -20971,13 +22733,46 @@
       "precio_crc": 29750,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental floral",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bayas rojas",
+        "Durazno",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Peonía",
+        "Azucena roja"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Flor de vainilla",
+        "Almizcle"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -21004,6 +22799,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Maahir-64950.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -21011,7 +22811,7 @@
       "orden": 1285,
       "sku": "AGOSTO-2026-0285",
       "tipo_producto": "Estuche",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 285,
       "presentacion_proveedor": "ESTUCHE LATTAFA MAAHIR 3 PZS"
     },
@@ -21022,19 +22822,15 @@
       "precio_crc": 46750,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": "Floral",
-      "genero": null,
+      "familia": "Almizcle floral amaderado",
+      "genero": "Mujer",
       "ocasiones": [
         "Diario",
         "Citas"
       ],
       "acordes": [
         {
-          "nombre": "Fruity",
-          "emoji": ""
-        },
-        {
-          "nombre": "Fresh",
+          "nombre": "Afrutado",
           "emoji": ""
         },
         {
@@ -21042,28 +22838,28 @@
           "emoji": ""
         },
         {
-          "nombre": "Synthetic",
+          "nombre": "Fresco",
           "emoji": ""
         },
         {
-          "nombre": "Sweet",
+          "nombre": "Almizclado",
           "emoji": ""
         }
       ],
       "notas_salida": [
-        "Granny Smith apple",
-        "Magnolia",
-        "Mandarin orange"
+        "Manzana",
+        "Mandarina",
+        "Magnolia"
       ],
       "notas_corazon": [
-        "Jasmine",
-        "White currant",
-        "Peony"
+        "Grosella blanca",
+        "Peonía",
+        "Jazmín"
       ],
       "notas_fondo": [
-        "Crystal musk",
-        "Amberwood",
-        "Sandalwood"
+        "Almizcle",
+        "Sándalo",
+        "Amberwood"
       ],
       "duracion": 3,
       "proyeccion": 3,
@@ -21096,6 +22892,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumo.com/Perfumes/Moschino/Toy_2",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Moschino/Toy-2-51589.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -21114,49 +22915,49 @@
       "precio_crc": 47600,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
-          "nombre": "Sweet",
+          "nombre": "Dulce",
           "emoji": ""
         },
         {
-          "nombre": "Fruity",
+          "nombre": "Afrutado",
           "emoji": ""
         },
         {
-          "nombre": "Synthetic",
+          "nombre": "Rosa",
           "emoji": ""
         },
         {
-          "nombre": "Floral",
-          "emoji": ""
-        },
-        {
-          "nombre": "Fresh",
+          "nombre": "Especiado",
           "emoji": ""
         }
       ],
       "notas_salida": [
-        "Candied citrus fruits",
-        "Italian lemon",
-        "Italian orange"
+        "Frutas confitadas",
+        "Naranja amarga",
+        "Limón"
       ],
       "notas_corazon": [
-        "Chewing gum",
-        "Bulgarian rose",
-        "Blueberry",
-        "Cherry blossom",
-        "Cinnamon",
-        "Ginger",
-        "Peach"
+        "Chicle",
+        "Rosa de Bulgaria",
+        "Arándano",
+        "Durazno",
+        "Canela",
+        "Jengibre",
+        "Flor de durazno"
       ],
       "notas_fondo": [
-        "Musk",
-        "Ambrofix",
-        "Cedarwood"
+        "Ambroxan",
+        "Almizcle",
+        "Cedro"
       ],
       "duracion": 3,
       "proyeccion": 3,
@@ -21189,6 +22990,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumo.com/Perfumes/Moschino/toy-2-bubble-gum-eau-de-toilette",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Moschino/Toy-2-Bubble-Gum-64434.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -21207,52 +23013,49 @@
       "precio_crc": 45050,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": "Floral",
-      "genero": null,
+      "familia": "Amaderada especiada",
+      "genero": "Hombre",
       "ocasiones": [
         "Diario",
         "Citas"
       ],
       "acordes": [
         {
-          "nombre": "Floral",
+          "nombre": "Rosa",
           "emoji": ""
         },
         {
-          "nombre": "Spicy",
+          "nombre": "Especiado",
           "emoji": ""
         },
         {
-          "nombre": "Sweet",
+          "nombre": "Amaderado",
           "emoji": ""
         },
         {
-          "nombre": "Synthetic",
-          "emoji": ""
-        },
-        {
-          "nombre": "Fresh",
+          "nombre": "Almizclado",
           "emoji": ""
         }
       ],
       "notas_salida": [
-        "Pink pepper",
-        "Pear",
-        "Clove",
-        "Elemi resin",
-        "Indonesian nutmeg",
-        "Italian bergamot"
+        "Pimienta rosa",
+        "Pera",
+        "Nuez moscada de Indonesia",
+        "Elemí",
+        "Bergamota"
       ],
       "notas_corazon": [
-        "Rose",
-        "Cashmeran",
+        "Rosa",
+        "Clavo de olor",
         "Magnolia",
-        "Flax blossom"
+        "Lino"
       ],
       "notas_fondo": [
-        "Ambermax®",
-        "Sylkolide™",
-        "Haitian vetiver"
+        "Cachemira",
+        "Vetiver de Haití",
+        "Sylkolide",
+        "Sándalo",
+        "Ámbar"
       ],
       "duracion": 3,
       "proyeccion": 3,
@@ -21285,6 +23088,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumo.com/Perfumes/Moschino/Toy_Boy",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Moschino/Toy-Boy-55858.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -21303,44 +23111,44 @@
       "precio_crc": 36550,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
-          "nombre": "Sweet",
+          "nombre": "Afrutado",
           "emoji": ""
         },
         {
-          "nombre": "Fruity",
+          "nombre": "Dulce",
           "emoji": ""
         },
         {
-          "nombre": "Gourmand",
+          "nombre": "Ámbar",
           "emoji": ""
         },
         {
-          "nombre": "Floral",
-          "emoji": ""
-        },
-        {
-          "nombre": "Synthetic",
+          "nombre": "Cítrico",
           "emoji": ""
         }
       ],
       "notas_salida": [
-        "Blackcurrant",
-        "Clementine",
-        "Nectarine"
+        "Nectarina",
+        "Grosella negra",
+        "Clementina"
       ],
       "notas_corazon": [
-        "Orange blossom",
-        "Orchid"
+        "Orquídea silvestre",
+        "Flor de azahar del naranjo"
       ],
       "notas_fondo": [
-        "Amber",
-        "Musk",
-        "Woods"
+        "Ámbar",
+        "Almizcle",
+        "Notas amaderadas"
       ],
       "duracion": 3,
       "proyeccion": 3,
@@ -21372,6 +23180,11 @@
         {
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumo.com/Perfumes/Paris_Hilton/Can_Can_Eau_de_Parfum",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Paris-Hilton/Can-Can-1202.html",
           "fecha": "2026-09-09"
         }
       ],
@@ -21442,13 +23255,44 @@
       "precio_crc": 34850,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
+      "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Mojito",
+        "Frambuesa",
+        "Pera"
+      ],
+      "notas_corazon": [
+        "Nenúfar",
+        "Orquídea"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Vainilla"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -21475,6 +23319,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Perry-Ellis/18-9360.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -21482,7 +23331,7 @@
       "orden": 1291,
       "sku": "AGOSTO-2026-0291",
       "tipo_producto": "Estuche",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 291,
       "presentacion_proveedor": "ESTUCHE PERRY ELLIS 18 MUJER 4 PZS"
     },
@@ -21493,13 +23342,47 @@
       "precio_crc": 34000,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
+      "familia": "Aromática amaderada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bayas de enebro",
+        "Limón",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Lavanda",
+        "Salvia",
+        "Cardamomo",
+        "Fresia"
+      ],
+      "notas_fondo": [
+        "Notas amaderadas",
+        "Vetiver",
+        "Almizcle"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -21526,6 +23409,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Perry-Ellis/360-for-Men-1904.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -21533,7 +23421,7 @@
       "orden": 1292,
       "sku": "AGOSTO-2026-0292",
       "tipo_producto": "Estuche",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 292,
       "presentacion_proveedor": "ESTUCHE PERRY ELLIS 360 CLASICO HOMBRE 4 PZS"
     },
@@ -21544,13 +23432,50 @@
       "precio_crc": 34850,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
+      "familia": "Floral",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Diario",
+        "Citas"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Melón",
+        "Azucena",
+        "Osmanto",
+        "Mandarina",
+        "Rosa"
+      ],
+      "notas_corazon": [
+        "Lirio de los valles",
+        "Nenúfar",
+        "Lavanda",
+        "Salvia"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Sándalo",
+        "Vetiver",
+        "Ámbar",
+        "Vainilla"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -21577,6 +23502,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Perry-Ellis/3600-1901.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -21584,7 +23514,7 @@
       "orden": 1293,
       "sku": "AGOSTO-2026-0293",
       "tipo_producto": "Estuche",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 293,
       "presentacion_proveedor": "ESTUCHE PERRY ELLIS 360 CLASICO MUJER 4 PZS"
     },
@@ -21595,13 +23525,49 @@
       "precio_crc": 33150,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental floral",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ámbar",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Pera",
+        "Durazno",
+        "Manzana",
+        "Bergamota",
+        "Pimienta rosa"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Peonía",
+        "Lirio de los valles"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Haba tonka",
+        "Madera de cachemira",
+        "Ámbar"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -21628,6 +23594,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Perry-Ellis/3600-Coral-29247.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -21635,7 +23606,7 @@
       "orden": 1294,
       "sku": "AGOSTO-2026-0294",
       "tipo_producto": "Estuche",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 294,
       "presentacion_proveedor": "ESTUCHE PERRY ELLIS 360 CORAL 4 PZS"
     },
@@ -22828,7 +24799,7 @@
       "tamano_ml": null,
       "concentracion": "Eau de Parfum",
       "familia": "ámbar amaderada",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [
         "Noche",
         "Citas",
@@ -22927,7 +24898,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
       "familia": "ámbar fougère",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [
         "Noche",
         "Citas",
@@ -23457,7 +25428,7 @@
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
       "familia": "ámbar amaderada",
-      "genero": null,
+      "genero": "Hombre",
       "ocasiones": [
         "Noche",
         "Citas",
@@ -23675,7 +25646,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "Floral afrutado amaderado",
       "genero": null,
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "Floral",
@@ -23867,7 +25842,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "Ámbar amaderado",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "mandarina",
@@ -24061,34 +26040,47 @@
       "precio_crc": 53550,
       "tamano_ml": 75,
       "concentracion": "Eau de Toilette",
-      "familia": "Floral",
+      "familia": "Floral frutal",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
-          "nombre": "rosa",
+          "nombre": "Rosa",
           "emoji": ""
         },
         {
-          "nombre": "anís estrellado",
+          "nombre": "Floral",
           "emoji": ""
         },
         {
-          "nombre": "peonía",
+          "nombre": "Fresco",
           "emoji": ""
         },
         {
-          "nombre": "vainilla",
-          "emoji": ""
-        },
-        {
-          "nombre": "casia",
+          "nombre": "Cítrico",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Casia",
+        "Cedrón",
+        "Anís estrellado"
+      ],
+      "notas_corazon": [
+        "Rosa",
+        "Peonía",
+        "Magnolia"
+      ],
+      "notas_fondo": [
+        "Rosa de Taif",
+        "Almizcle",
+        "Vainilla",
+        "Pachulí"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -24120,6 +26112,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Givenchy/Very-Irresistible-33.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -24127,7 +26124,7 @@
       "orden": 1326,
       "sku": "AGOSTO-2026-0326",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 326,
       "presentacion_proveedor": "GIVENCHY VERY IRRESISTIBLE EDT 75ML"
     },
@@ -24140,7 +26137,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "Floral aldehídico",
       "genero": null,
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "aldehídos",
@@ -24244,7 +26245,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Ámbar floral",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "ruibarbo",
@@ -25098,7 +27103,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "amaderada especiada",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "mandarina",
@@ -25191,7 +27200,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "manzana verde",
@@ -25296,7 +27309,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "Floral",
@@ -25389,7 +27406,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "mandarina",
@@ -25494,7 +27515,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "floral acuática",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "manzana",
@@ -34679,7 +36704,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Gourmand",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "chocolate",
@@ -34735,7 +36764,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Gourmand",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "dulce",
@@ -34795,7 +36828,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Gourmand",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "dulce",
@@ -34855,7 +36892,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Gourmand",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "avainillado",
@@ -34915,7 +36956,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Gourmand",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "dulce",
@@ -37258,7 +39303,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Oriental amaderada",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "dulce",
@@ -38528,7 +40577,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "Sweet",
@@ -38572,7 +40625,7 @@
       "proyeccion": 3,
       "estela": 3,
       "valoracion": 3.85,
-      "descripcion": "",
+      "descripcion": "Aniseed y Absinth abren esta fragancia de perfil amaderada aromática, con un corazón de Violet wood y Orgeat syrup y un fondo de Musk y Cedarwood. Una composición expresiva y equilibrada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Lolita-Lempicka.png?v=1571609946",
       "fuentes": [
         {
@@ -38818,7 +40871,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -39828,7 +41885,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Tabaco",
       "genero": "Unisex",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -41189,7 +43250,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Cítrica aromática",
       "genero": "Unisex",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -42834,7 +44899,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -43274,7 +45343,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "Aromática acuática",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
       "acordes": [
         {
           "nombre": "acuático",
@@ -43686,7 +45759,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Ámbar floral",
       "genero": "Unisex",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "ámbar",
@@ -43754,7 +45831,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Ámbar",
       "genero": "Unisex",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "ámbar",
@@ -43818,7 +45899,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "Floral aldehídica",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
       "acordes": [
         {
           "nombre": "floral",
@@ -45781,7 +47866,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Floral gourmand",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "dulce",
@@ -45883,7 +47972,7 @@
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Blackcurrant y Clementine abren esta fragancia de perfil olfativo, con un corazón de Orange blossom y Wild orchid y un fondo de Blond woods y Musk. Una composición expresiva y equilibrada para distintas ocasiones.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Paris-Hilton-Can-Can-Burlesque.png?v=1601289398",
       "fuentes": [
         {
@@ -46500,7 +48589,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -46556,7 +48649,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -46607,7 +48704,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "Aromática cítrica",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -46719,7 +48820,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "Amaderada especiada",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -46770,7 +48875,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -46826,7 +48935,11 @@
       "concentracion": null,
       "familia": "Aromática acuática",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -46875,18 +48988,52 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": "Aromática cítrica",
+      "familia": "Oriental floral",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Lima",
+        "Bergamota",
+        "Cardamomo"
+      ],
+      "notas_corazon": [
+        "Flor de azahar del naranjo",
+        "Lirio de los valles",
+        "Raíz de lirio"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Haba tonka",
+        "Almizcle blanco",
+        "Cedro"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Lima y Bergamota abren una fragancia de perfil oriental floral, con un corazón de Flor de azahar del naranjo y Lirio de los valles y un fondo de Vainilla y Haba tonka. Una composición de carácter cítrico pensada para diario.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/360-WHITE-100ML-EDT-MEN.jpg?v=1571609970",
       "fuentes": [
         {
@@ -46913,6 +49060,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.es/perfume/Perry-Ellis/3600-White-for-Men-1908.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -46920,7 +49072,7 @@
       "orden": 1608,
       "sku": "AGOSTO-2026-0608",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 608,
       "presentacion_proveedor": "PERRY ELLIS 360 WHITE HOMBRE EDT 100ML"
     },
@@ -46931,9 +49083,13 @@
       "precio_crc": 31450,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrica",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
       "acordes": [],
       "notas_salida": [
         "Citrus notes",
@@ -46955,7 +49111,7 @@
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Citrus notes y White pepper abren esta fragancia de perfil cítrica, con un corazón de Frangipani y Rose y un fondo de Bourbon vanilla y Musk. Una composición expresiva y equilibrada para diario.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Perry-Ellis-Love-Women.jpg?v=1626102343",
       "fuentes": [
         {
@@ -47007,7 +49163,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
       "acordes": [
         {
           "nombre": "Citrus",
@@ -47056,7 +49216,7 @@
       "proyeccion": 3,
       "estela": 3,
       "valoracion": 3.55,
-      "descripcion": "",
+      "descripcion": "Bergamot y Geranium leaf abren esta fragancia de perfil amaderada aromática, con un corazón de Black rose y Hedione y un fondo de Amber y Exotic woods. Una composición expresiva y equilibrada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -47103,7 +49263,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -48397,7 +50561,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Frutal fresca",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -48730,7 +50898,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Floral especiada",
       "genero": "Mujer",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [],
       "notas_salida": [],
       "notas_corazon": [],
@@ -49142,9 +51314,13 @@
       "precio_crc": 76500,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
+      "familia": "Oriental",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "Sweet",
@@ -53382,9 +55558,13 @@
       "precio_crc": 26350,
       "tamano_ml": 90,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Cítrica",
       "genero": null,
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
       "acordes": [
         {
           "nombre": "Sweet",
@@ -55190,7 +57370,11 @@
       "concentracion": "Eau de Toilette",
       "familia": "Amaderada acuática",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Casual"
+      ],
       "acordes": [
         {
           "nombre": "Fresh",
@@ -55231,7 +57415,7 @@
       "proyeccion": 3,
       "estela": 3,
       "valoracion": 3.75,
-      "descripcion": "",
+      "descripcion": "Starfruit y Rosewood abren esta fragancia de perfil amaderada acuática, con un corazón de Clary sage y Tarragon y un fondo de Musk y Amber. Una composición expresiva y equilibrada para diario.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Versace-Eau-Fraiche-Men.jpg?v=1571609946",
       "fuentes": [
         {
@@ -55580,9 +57764,13 @@
       "precio_crc": 67150,
       "tamano_ml": 90,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Oriental",
       "genero": "Hombre",
-      "ocasiones": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "Spicy",
@@ -55621,7 +57809,7 @@
       "proyeccion": 3,
       "estela": 3,
       "valoracion": 3.95,
-      "descripcion": "",
+      "descripcion": "Cinnamon y Red pepper abren esta fragancia de perfil oriental, con un corazón de Habanero chili y un fondo de Woody notes y Leather. Una composición expresiva y equilibrada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/INFEDP.webp?v=1764690055",
       "fuentes": [
         {
@@ -56380,7 +58568,11 @@
       "concentracion": "Eau de Parfum",
       "familia": "Frutal almizclada",
       "genero": "Unisex",
-      "ocasiones": [],
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Eventos especiales"
+      ],
       "acordes": [
         {
           "nombre": "Fruity",
@@ -56420,7 +58612,7 @@
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Calabrian bergamot y Sicilian lemon abren esta fragancia de perfil frutal almizclada, con un corazón de Fruity notes y un fondo de White musk y Amber. Una composición expresiva y equilibrada para diario.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Xerjoff_Erba_Pura.jpg?v=1743449587",
       "fuentes": [
         {
