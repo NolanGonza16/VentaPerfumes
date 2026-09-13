@@ -56,6 +56,12 @@
       "status": "matched"
     },
     {
+      "ref": 27,
+      "source_page": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/ANTONIO-BANDERA_S-BLUE-SEDUCTION-100ML-EDT-MEN.png?v=1571610018",
+      "status": "matched_manual_exact"
+    },
+    {
       "ref": 28,
       "source_page": "https://www.fragrantica.com/perfume/Antonio-Banderas/Blue-Seduction-3751.html",
       "image_url": "https://fimgs.net/mdimg/perfume/375x500.3751.jpg",
@@ -165,6 +171,12 @@
       "status": "matched"
     },
     {
+      "ref": 93,
+      "source_page": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Untitled_design_-_2025-09-11T232349.092.png?v=1757615082",
+      "status": "matched_manual_exact"
+    },
+    {
       "ref": 95,
       "source_page": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Spectra-Blue.html",
       "image_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ODYSSEYSPECTRABLUEEDITION2_2fa3fe1f-b29a-4e52-a351-86ab93535257.png?v=1767892219",
@@ -253,6 +265,12 @@
       "source_page": "https://www.fragrantica.com/perfume/Bharara/King-70765.html",
       "image_url": "https://fimgs.net/mdimg/perfume/375x500.70765.jpg",
       "status": "matched"
+    },
+    {
+      "ref": 128,
+      "source_page": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_21.png?v=1772086303",
+      "status": "matched_manual_exact"
     },
     {
       "ref": 129,
@@ -435,6 +453,12 @@
       "status": "matched"
     },
     {
+      "ref": 193,
+      "source_page": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Cristiano-Ronaldo-Cr7-Origins.png?v=1661194995",
+      "status": "matched_manual_exact"
+    },
+    {
       "ref": 194,
       "source_page": "https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-Black-44905.html",
       "image_url": "https://fimgs.net/mdimg/perfume/375x500.44905.jpg",
@@ -574,6 +598,12 @@
       "status": "matched"
     },
     {
+      "ref": 225,
+      "source_page": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Devotion_Intense.webp?v=1740168297",
+      "status": "matched_manual_exact"
+    },
+    {
       "ref": 227,
       "source_page": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-22955.html",
       "image_url": "https://fimgs.net/mdimg/perfume/375x500.22955.jpg",
@@ -700,6 +730,12 @@
       "source_page": "https://www.fragrantica.com/perfume/Stallion-53/Uomo-Intense-137428.html",
       "image_url": "https://fimgs.net/mdimg/perfume/375x500.137428.jpg",
       "status": "matched"
+    },
+    {
+      "ref": 271,
+      "source_page": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Pleasures.png?v=1571609928",
+      "status": "matched_manual_exact"
     },
     {
       "ref": 272,
@@ -844,6 +880,12 @@
       "source_page": "https://www.fragrantica.com/perfume/Fred-Hayman/Touch-For-Men-10440.html",
       "image_url": "https://fimgs.net/mdimg/perfume/375x500.10440.jpg",
       "status": "matched"
+    },
+    {
+      "ref": 298,
+      "source_page": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Aether-Extrait.png?v=1721022648",
+      "status": "matched_manual_exact"
     },
     {
       "ref": 312,
@@ -1121,16 +1163,14 @@
     {
       "ref": 393,
       "source_page": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Paradise-Garden-81633.html",
-      "image_url": null,
-      "status": "rejected_shared_meta_image",
-      "error": "The same metadata image was returned for multiple distinct catalog rows."
+      "image_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Jean_Paul_Gaultier_Le_Beau_Paradise_Garden.jpg?v=1719323867",
+      "status": "matched_manual_exact"
     },
     {
       "ref": 394,
       "source_page": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Paradise-Garden-81633.html",
-      "image_url": null,
-      "status": "rejected_shared_meta_image",
-      "error": "The same metadata image was returned for multiple distinct catalog rows."
+      "image_url": "https://fimgs.net/mdimg/perfume/375x500.81633.jpg",
+      "status": "matched"
     },
     {
       "ref": 396,
@@ -1269,9 +1309,8 @@
     {
       "ref": 430,
       "source_page": "https://lattafa.com/product/ajwaa-pride/",
-      "image_url": null,
-      "status": "unavailable",
-      "error": "HTTP Error 404: Not Found"
+      "image_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_300f8c2f-6946-429a-a28e-e1e962f45061.png?v=1749363920",
+      "status": "matched_manual_exact"
     },
     {
       "ref": 435,
@@ -1282,9 +1321,8 @@
     {
       "ref": 437,
       "source_page": "https://lattafa.com/product/amethyst/",
-      "image_url": null,
-      "status": "unavailable",
-      "error": "HTTP Error 404: Not Found"
+      "image_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Badee-Al-Oud-Amethyst-1.png?v=1747422428",
+      "status": "matched_manual_exact"
     },
     {
       "ref": 441,
@@ -1309,6 +1347,18 @@
       "ref": 476,
       "source_page": null,
       "image_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Musamam-White-1.png?v=1747416325",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 478,
+      "source_page": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Badee-Al-Oud-Noble-Blush-1_efc7268e-6d5c-413d-ae1e-ef7c9873bb6e.png?v=1747415567",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 480,
+      "source_page": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_5a4baf04-76ee-43c9-9751-4ac43d7aba74.png?v=1747556003",
       "status": "matched_manual_exact"
     },
     {
@@ -1362,9 +1412,8 @@
     {
       "ref": 506,
       "source_page": "https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-ju.html",
-      "image_url": null,
-      "status": "unavailable",
-      "error": "HTTP Error 403: Forbidden"
+      "image_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Alhambra-Como-Moiselle.png?v=1695741668",
+      "status": "matched_manual_exact"
     },
     {
       "ref": 507,
@@ -1950,9 +1999,8 @@
     {
       "ref": 741,
       "source_page": "https://www.yslbeautyus.com/fragrance/mens-fragrances/y/y-eau-de-parfum-intense/WW-51037YSL.html",
-      "image_url": null,
-      "status": "unavailable",
-      "error": "HTTP Error 403: Forbidden"
+      "image_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Ysl-Y-Intense.png?v=1689019128",
+      "status": "matched_manual_exact"
     },
     {
       "ref": 742,

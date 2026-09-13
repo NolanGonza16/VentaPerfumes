@@ -24,17 +24,31 @@ ALLOWED_HOSTS = {
     "parisis-parfums.com", "perfumeriariach.com",
 }
 MANUAL_EXACT = {
+    27: "https://cdn.shopify.com/s/files/1/2170/5343/products/ANTONIO-BANDERA_S-BLUE-SEDUCTION-100ML-EDT-MEN.png?v=1571610018",
     76: "https://cdn.shopify.com/s/files/1/2170/5343/files/Armaf-Odyssey-Artisto-The-Red-Edition.png?v=1760717418",
+    93: "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Untitled_design_-_2025-09-11T232349.092.png?v=1757615082",
     95: "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ODYSSEYSPECTRABLUEEDITION2_2fa3fe1f-b29a-4e52-a351-86ab93535257.png?v=1767892219",
     102: "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Untitled_design_-_2025-09-24T025122.598.png?v=1758664303",
     123: "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_2.png?v=1771616601",
+    128: "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_21.png?v=1772086303",
+    193: "https://cdn.shopify.com/s/files/1/2170/5343/products/Cristiano-Ronaldo-Cr7-Origins.png?v=1661194995",
     204: "https://cdn.shopify.com/s/files/1/2170/5343/products/Curve-Wave-Edc-Men.jpg?v=1624277909",
+    225: "https://cdn.shopify.com/s/files/1/2170/5343/files/Devotion_Intense.webp?v=1740168297",
+    271: "https://cdn.shopify.com/s/files/1/2170/5343/products/Pleasures.png?v=1571609928",
+    298: "https://cdn.shopify.com/s/files/1/2170/5343/files/Aether-Extrait.png?v=1721022648",
     325: "https://cdn.shopify.com/s/files/1/2170/5343/products/100-red-label-eau-de-toilette-100-ml-for-men-eau-de-toilette-original.jpeg?v=1571609913",
+    393: "https://cdn.shopify.com/s/files/1/2170/5343/files/Jean_Paul_Gaultier_Le_Beau_Paradise_Garden.jpg?v=1719323867",
     404: "https://cdn.shopify.com/s/files/1/2170/5343/files/King.jpg?v=1762961575",
     413: "https://cdn.shopify.com/s/files/1/2170/5343/files/Khadlaj_Island_100ml_edp.webp?v=1739218815",
+    430: "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_300f8c2f-6946-429a-a28e-e1e962f45061.png?v=1749363920",
+    437: "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Badee-Al-Oud-Amethyst-1.png?v=1747422428",
     476: "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Musamam-White-1.png?v=1747416325",
+    478: "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Badee-Al-Oud-Noble-Blush-1_efc7268e-6d5c-413d-ae1e-ef7c9873bb6e.png?v=1747415567",
+    480: "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/1_5a4baf04-76ee-43c9-9751-4ac43d7aba74.png?v=1747556003",
+    506: "https://cdn.shopify.com/s/files/1/2170/5343/files/Alhambra-Como-Moiselle.png?v=1695741668",
     624: "https://cdn.shopify.com/s/files/1/2170/5343/files/social.112706.jpg?v=1757359671",
     626: "https://cdn.shopify.com/s/files/1/2170/5343/files/social.112707.jpg?v=1757938175",
+    741: "https://cdn.shopify.com/s/files/1/2170/5343/files/Ysl-Y-Intense.png?v=1689019128",
 }
 REJECTED_REFS = {453}
 
