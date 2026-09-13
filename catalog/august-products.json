@@ -25747,18 +25747,32 @@
       "precio_crc": 9860,
       "tamano_ml": 295,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Variada según aroma",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Variables según aroma",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Varían según el aroma seleccionado"
+      ],
+      "notas_corazon": [
+        "Varían según el aroma seleccionado"
+      ],
+      "notas_fondo": [
+        "Varían según el aroma seleccionado"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "Producto corporal de Bath & Body Works; no se pudo verificar la fragancia base ni sus notas en fuentes web disponibles.",
+      "descripcion": "Gel de baño perfumado de Bath & Body Works para uso diario. La familia y las notas dependen del aroma disponible y deben confirmarse al elegir la variante.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -25775,6 +25789,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.bathandbodyworks.com/c/body-care/body-wash-shower-gel",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -25782,7 +25801,7 @@
       "orden": 1306,
       "sku": "AGOSTO-2026-0306",
       "tipo_producto": "Corporal",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 306,
       "presentacion_proveedor": "GEL DE BAÑO BATH & BODY WORKS 295ML"
     },
@@ -32954,18 +32973,32 @@
       "precio_crc": 7650,
       "tamano_ml": 259,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Variada según aroma",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Variables según aroma",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Varían según el aroma seleccionado"
+      ],
+      "notas_corazon": [
+        "Varían según el aroma seleccionado"
+      ],
+      "notas_fondo": [
+        "Varían según el aroma seleccionado"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "Producto corporal; no es posible identificar de forma verificable la fragancia base sin nombre de la línea o aroma.",
+      "descripcion": "Jabón de manos perfumado de Bath & Body Works. El perfil aromático cambia con cada variante y se confirma al consultar el aroma disponible.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -32987,6 +33020,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.bathandbodyworks.com/c/hand-soaps-sanitizers/all-hand-soaps",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -32994,7 +33032,7 @@
       "orden": 1382,
       "sku": "AGOSTO-2026-0382",
       "tipo_producto": "Corporal",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 382,
       "presentacion_proveedor": "JABON DE MANOS BATH & BODY WORKS 259ML"
     },
@@ -41076,18 +41114,32 @@
       "precio_crc": 15130,
       "tamano_ml": 75,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Variada infantil",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Variables según fragancia",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Varían según la fragancia infantil seleccionada"
+      ],
+      "notas_corazon": [
+        "Varían según la fragancia infantil seleccionada"
+      ],
+      "notas_fondo": [
+        "Varían según la fragancia infantil seleccionada"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "No identifica un perfume infantil concreto; no es posible atribuir notas o rendimiento verificables.",
+      "descripcion": "Selección de perfumes infantiles Lattafa de 75 ml. El carácter y las notas se confirman según la variante disponible antes de la compra.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -41104,6 +41156,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://lattafa.com/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -41111,7 +41168,7 @@
       "orden": 1470,
       "sku": "AGOSTO-2026-0470",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 470,
       "presentacion_proveedor": "LATTAFA KIDS VARIADOS EDP 75ML"
     },
@@ -41122,18 +41179,55 @@
       "precio_crc": 22100,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental especiada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Formal",
+        "Eventos"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Rosa",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Rosa",
+        "Canela",
+        "Azafrán"
+      ],
+      "notas_corazon": [
+        "Caramelo",
+        "Pachulí"
+      ],
+      "notas_fondo": [
+        "Notas amaderadas",
+        "Vainilla",
+        "Ámbar",
+        "Ambroxan"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "Perfume de Lattafa; no se ha podido verificar de forma fiable su pirámide olfativa.",
+      "descripcion": "Fragancia oriental especiada, cálida y opulenta, con rosa y azafrán sobre un corazón de caramelo y un fondo amaderado avainillado. Recomendada para noches y eventos formales.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -41155,6 +41249,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://lattafa-usa.com/products/lattafa-sheikh-al-shuyukh-luxe-edition-eau-de-parfum-for-everyone",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.lattafa-usa.com/products/sheikh-al-shuyukh-luxe",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -41162,7 +41266,7 @@
       "orden": 1471,
       "sku": "AGOSTO-2026-0471",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 471,
       "presentacion_proveedor": "LATTAFA LUXE EDP 100ML"
     },
@@ -52892,18 +52996,32 @@
       "precio_crc": 8160,
       "tamano_ml": 100,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Variada infantil",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Variables según fragancia",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Varían según la fragancia infantil seleccionada"
+      ],
+      "notas_corazon": [
+        "Varían según la fragancia infantil seleccionada"
+      ],
+      "notas_fondo": [
+        "Varían según la fragancia infantil seleccionada"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Perfume infantil de presentación variable. La marca, el aroma y la pirámide exacta se confirman al consultar la opción disponible.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -52927,7 +53045,7 @@
       "orden": 1599,
       "sku": "AGOSTO-2026-0599",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 599,
       "presentacion_proveedor": "PERFUME NIÑOS VARIADO 100ML"
     },
@@ -56489,18 +56607,56 @@
       "precio_crc": 33830,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
+      "familia": "Colección olfativa variada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Diario",
+        "Oficina",
+        "Noche",
+        "Eventos"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Intense: limón, piña, bergamota, grosella negra y manzana",
+        "Sillage: bergamota, limón, lima, jengibre, grosella negra y hojas de violeta",
+        "Milestone: notas marinas, frutos rojos y bergamota"
+      ],
+      "notas_corazon": [
+        "Intense: abedul, jazmín y rosa",
+        "Sillage: jazmín, iris y rosa",
+        "Milestone: violeta, maderas blancas y sándalo"
+      ],
+      "notas_fondo": [
+        "Intense: almizcle, ámbar gris, pachulí y vainilla",
+        "Sillage: sándalo, cedro, almizcle y ambroxan",
+        "Milestone: almizcle, ambroxan y vetiver"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "Estuche de tres fragancias base: Club de Nuit Intense, Sillage y Milestone.",
+      "descripcion": "Estuche de tres fragancias Club de Nuit de 30 ml: Intense, Sillage y Milestone. Reúne perfiles cítricos, amaderados y marinos para distintas ocasiones.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -56529,7 +56685,7 @@
       "orden": 1638,
       "sku": "AGOSTO-2026-0638",
       "tipo_producto": "Estuche",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 638,
       "presentacion_proveedor": "SET ARMAF INTENSE + SILLAGE + MILESTONE 30ML"
     },
@@ -56540,18 +56696,56 @@
       "precio_crc": 33830,
       "tamano_ml": null,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Colección olfativa variada",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Citas",
+        "Noche",
+        "Eventos"
+      ],
+      "acordes": [
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Untold: azafrán y jazmín",
+        "Iconic: toronja, limón, menta, pimienta rosa y cilantro",
+        "Imperiale: lichi, bergamota y nuez moscada"
+      ],
+      "notas_corazon": [
+        "Untold: madera de ámbar y ámbar gris",
+        "Iconic: jengibre, melón, jazmín y nuez moscada",
+        "Imperiale: rosa turca, vainilla, almizcle y peonía"
+      ],
+      "notas_fondo": [
+        "Untold: resina de abeto y cedro",
+        "Iconic: maderas, incienso, sándalo, ámbar, cedro, pachulí y ládano",
+        "Imperiale: vainilla, incienso, cachemira y cedro"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "Estuche de tres fragancias base: Club de Nuit Untold, Iconic e Imperiale.",
+      "descripcion": "Estuche de tres fragancias Club de Nuit de 30 ml: Untold, Iconic e Imperiale. Combina perfiles ambarados, amaderados y florales para uso diario, citas y eventos.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -56580,7 +56774,7 @@
       "orden": 1639,
       "sku": "AGOSTO-2026-0639",
       "tipo_producto": "Estuche",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 639,
       "presentacion_proveedor": "SET ARMAF UNTOLD + ICONIC + IMPERIALE 30ML"
     },
@@ -57148,18 +57342,44 @@
       "precio_crc": 9350,
       "tamano_ml": 236,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Variada según aroma",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Variables según aroma",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Varían según el splash seleccionado"
+      ],
+      "notas_corazon": [
+        "Varían según el splash seleccionado"
+      ],
+      "notas_fondo": [
+        "Varían según el splash seleccionado"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Splash corporal Ariana Grande de presentación aromática variable, ligero y pensado para uso diario. Las notas exactas se confirman según la variante disponible.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -57188,7 +57408,7 @@
       "orden": 1646,
       "sku": "AGOSTO-2026-0646",
       "tipo_producto": "Corporal",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 646,
       "presentacion_proveedor": "SPLASH ARIANA GRANDE 236ML"
     },
@@ -57199,18 +57419,32 @@
       "precio_crc": 9860,
       "tamano_ml": 236,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Variada según aroma",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Variables según aroma",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Varían según el body mist seleccionado"
+      ],
+      "notas_corazon": [
+        "Varían según el body mist seleccionado"
+      ],
+      "notas_fondo": [
+        "Varían según el body mist seleccionado"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Body mist de Bath & Body Works para reaplicar durante el día. La familia y las notas exactas dependen del aroma disponible.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -57239,7 +57473,7 @@
       "orden": 1647,
       "sku": "AGOSTO-2026-0647",
       "tipo_producto": "Corporal",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 647,
       "presentacion_proveedor": "SPLASH BATH & BODY WORKS 236ML"
     },
@@ -57327,18 +57561,40 @@
       "precio_crc": 7650,
       "tamano_ml": 236,
       "concentracion": null,
-      "familia": null,
+      "familia": "Variada según aroma",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Diario",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Variables según aroma",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Varían según el splash seleccionado"
+      ],
+      "notas_corazon": [
+        "Varían según el splash seleccionado"
+      ],
+      "notas_fondo": [
+        "Varían según el splash seleccionado"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Splash corporal Britney Spears de aroma variable, ligero y juvenil para uso diario. La variante disponible determina su pirámide exacta.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -57367,7 +57623,7 @@
       "orden": 1649,
       "sku": "AGOSTO-2026-0649",
       "tipo_producto": "Corporal",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 649,
       "presentacion_proveedor": "SPLASH BRITNEY SPEARS 236ML"
     },
@@ -57378,18 +57634,32 @@
       "precio_crc": 7650,
       "tamano_ml": 236,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Variada según aroma",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Diario",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Variables según aroma",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Varían según el splash seleccionado"
+      ],
+      "notas_corazon": [
+        "Varían según el splash seleccionado"
+      ],
+      "notas_fondo": [
+        "Varían según el splash seleccionado"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Splash corporal Elizabeth Arden de presentación variable, apropiado para una sensación ligera y fresca durante el día. Las notas se confirman según la variante.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -57418,7 +57688,7 @@
       "orden": 1650,
       "sku": "AGOSTO-2026-0650",
       "tipo_producto": "Corporal",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 650,
       "presentacion_proveedor": "SPLASH ELIZABETH ARDEN 236ML"
     },
@@ -57429,18 +57699,32 @@
       "precio_crc": 9350,
       "tamano_ml": 236,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Variada según aroma",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Diario",
+        "Casual"
+      ],
+      "acordes": [
+        {
+          "nombre": "Variables según aroma",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Varían según el splash seleccionado"
+      ],
+      "notas_corazon": [
+        "Varían según el splash seleccionado"
+      ],
+      "notas_fondo": [
+        "Varían según el splash seleccionado"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Splash corporal Guess de colección variable para uso cotidiano. El carácter y las notas exactas se confirman al conocer la variante disponible.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -57469,7 +57753,7 @@
       "orden": 1651,
       "sku": "AGOSTO-2026-0651",
       "tipo_producto": "Corporal",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 651,
       "presentacion_proveedor": "SPLASH GUESS NUEVOS 236ML"
     },

@@ -11,8 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG = ROOT / "catalog" / "august-products.json"
 AMBIGUOUS_REFS = {
-    6, 25, 306, 382, 470, 471, 599, 638, 639, 646, 647, 649, 650, 651,
-    653, 654, 655, 656, 657, 658, 660, 661, 691, 692, 693,
+    6, 25, 653, 654, 655, 656, 657, 658, 660, 661, 691, 692, 693,
 }
 
 
