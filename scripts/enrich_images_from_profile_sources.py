@@ -23,6 +23,19 @@ ALLOWED_HOSTS = {
     "yslbeautyus.com", "jomilano.com", "perfumeonline.ca",
     "parisis-parfums.com", "perfumeriariach.com",
 }
+MANUAL_EXACT = {
+    76: "https://cdn.shopify.com/s/files/1/2170/5343/files/Armaf-Odyssey-Artisto-The-Red-Edition.png?v=1760717418",
+    95: "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ODYSSEYSPECTRABLUEEDITION2_2fa3fe1f-b29a-4e52-a351-86ab93535257.png?v=1767892219",
+    102: "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Untitled_design_-_2025-09-24T025122.598.png?v=1758664303",
+    123: "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_2.png?v=1771616601",
+    204: "https://cdn.shopify.com/s/files/1/2170/5343/products/Curve-Wave-Edc-Men.jpg?v=1624277909",
+    325: "https://cdn.shopify.com/s/files/1/2170/5343/products/100-red-label-eau-de-toilette-100-ml-for-men-eau-de-toilette-original.jpeg?v=1571609913",
+    404: "https://cdn.shopify.com/s/files/1/2170/5343/files/King.jpg?v=1762961575",
+    413: "https://cdn.shopify.com/s/files/1/2170/5343/files/Khadlaj_Island_100ml_edp.webp?v=1739218815",
+    476: "https://cdn.shopify.com/s/files/1/0754/4936/8799/files/Musamam-White-1.png?v=1747416325",
+    624: "https://cdn.shopify.com/s/files/1/2170/5343/files/social.112706.jpg?v=1757359671",
+    626: "https://cdn.shopify.com/s/files/1/2170/5343/files/social.112707.jpg?v=1757938175",
+}
 
 
 def host_key(url: str) -> str:
@@ -41,6 +54,14 @@ def is_product_source(url: str) -> bool:
 
 
 def og_image(url: str) -> str | None:
+    if host_key(url) in {"fragrantica.com", "fragrantica.es"}:
+        match = re.search(r"-(\d+)\.html$", urlparse(url).path)
+        if match:
+            packshot = f"https://fimgs.net/mdimg/perfume/375x500.{match.group(1)}.jpg"
+            request = Request(packshot, method="HEAD", headers={"User-Agent": "Mozilla/5.0"})
+            with urlopen(request, timeout=20) as response:
+                if response.status == 200 and response.headers.get_content_type().startswith("image/"):
+                    return packshot
     request = Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; CatalogImageResearch/1.0)"})
     with urlopen(request, timeout=25) as response:
         page = response.read(2_500_000).decode("utf-8", "ignore")
@@ -90,6 +111,15 @@ def run() -> None:
                 cached = previous_by_ref.get(ref, {}).get("image_url")
                 results[ref] = {"ref": ref, "source_page": url, "image_url": cached, "status": "matched_cached" if cached else "unavailable", "error": str(error)[:180]}
 
+    by_ref = {row["origen_ref"]: row for row in catalog["records"]}
+    for ref, image in MANUAL_EXACT.items():
+        results[ref] = {
+            "ref": ref,
+            "source_page": next((source.get("url") for source in by_ref[ref].get("fuentes", []) if is_product_source(source.get("url", ""))), None),
+            "image_url": image,
+            "status": "matched_manual_exact",
+        }
+
     repeated = Counter(row.get("image_url") for row in results.values() if row.get("image_url"))
     for result in results.values():
         if result.get("image_url") and repeated[result["image_url"]] > 1:
@@ -97,7 +127,6 @@ def run() -> None:
             result["status"] = "rejected_shared_meta_image"
             result["error"] = "The same metadata image was returned for multiple distinct catalog rows."
 
-    by_ref = {row["origen_ref"]: row for row in catalog["records"]}
     updated = 0
     for ref, result in results.items():
         if result["image_url"]:
