@@ -36,6 +36,7 @@ MANUAL_EXACT = {
     624: "https://cdn.shopify.com/s/files/1/2170/5343/files/social.112706.jpg?v=1757359671",
     626: "https://cdn.shopify.com/s/files/1/2170/5343/files/social.112707.jpg?v=1757938175",
 }
+REJECTED_REFS = {453}
 
 
 def host_key(url: str) -> str:
@@ -79,6 +80,9 @@ def og_image(url: str) -> str | None:
 
 def run() -> None:
     catalog = json.loads(CATALOG.read_text(encoding="utf-8"))
+    for record in catalog["records"]:
+        if record["origen_ref"] in REJECTED_REFS:
+            record["imagen_url"] = None
     previous_by_ref = {}
     if REPORT.exists():
         previous = json.loads(REPORT.read_text(encoding="utf-8")).get("records", [])
@@ -89,7 +93,7 @@ def run() -> None:
                 record["imagen_url"] = None
     candidates = {}
     for record in catalog["records"]:
-        if record.get("imagen_url"):
+        if record.get("imagen_url") or record["origen_ref"] in REJECTED_REFS:
             continue
         for source in record.get("fuentes", []):
             url = source.get("url", "")
