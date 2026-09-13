@@ -1595,5 +1595,708 @@
     "notas_fondo": ["Bálsamo de gurjum", "Almizcle", "Haba tonka"],
     "fuentes": ["https://www.fragrantica.com/perfume/Rasasi/Hawas-Viper-113594.html", "https://www.parfumo.com/Perfumes/Rasasi/hawas-viper-viper"],
     "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 690,
+    "familia": "Floral frutal",
+    "genero": "Unisex",
+    "acordes": ["Floral", "Afrutado", "Cítrico", "Almizclado", "Atalcado"],
+    "notas_salida": ["Bergamota", "Neroli", "Frambuesa"],
+    "notas_corazon": ["Magnolia", "Flor de azahar", "Peonía"],
+    "notas_fondo": ["Sándalo", "Almizcle", "Heliotropo"],
+    "fuentes": ["https://www.jomashop.com/tous-ladies-baby-pink-friends-edc-spray-3-4-oz-tester-fragrances-8436550508741.html", "https://www.preciosapr.com/products/tous-baby-pink-friends"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 696,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "acordes": ["Afrutado", "Floral", "Avainillado", "Almizclado", "Cálido especiado"],
+    "notas_salida": ["Mandarina", "Limón", "Grosella negra", "Pimienta rosa"],
+    "notas_corazon": ["Rosa", "Lirio de Florencia"],
+    "notas_fondo": ["Ambroxan", "Almizcle", "Haba tonka", "Vainilla"],
+    "fuentes": ["https://basenotes.com/fragrances/oh-the-origin-eau-de-parfum-by-tous.26183656", "https://www.fragrantica.com/perfume/Tous/Oh-The-Origin-49902.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 705,
+    "familia": "Fougère amaderada ambarada",
+    "genero": "Hombre",
+    "acordes": ["Aromático", "Amaderado", "Cálido especiado", "Lavanda", "Terroso"],
+    "notas_salida": ["Mezcla de especias", "Bergamota", "Mandarina"],
+    "notas_corazon": ["Lavandín"],
+    "notas_fondo": ["Vetiver"],
+    "fuentes": ["https://www.valentino-beauty.us/fragrances/fragrances-men/born-in-roma-uomo-extradose-eau-de-parfum-MPL02809.html", "https://www.valentino-beauty.us/extradose.html"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 707,
+    "familia": "Ambarada aromática amaderada",
+    "genero": "Hombre",
+    "acordes": ["Aromático", "Cálido especiado", "Ambarado", "Coco", "Lavanda"],
+    "notas_salida": ["Cardamomo", "Bergamota"],
+    "notas_corazon": ["Lavandín", "Acorde de coco"],
+    "notas_fondo": ["Maderas ambaradas"],
+    "fuentes": ["https://www.valentino-beauty.us/fragrances/fragrances-men/born-in-roma-uomo-purple-melancholia-MPL028091.html", "https://www.valentino.com/en-us/product-born-in-roma-purple-melancholia-eau-de-toilette-100ml-8LG025900_000"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 404,
+    "familia": "Cítrica ambarada",
+    "genero": "Unisex",
+    "acordes": ["Cítrico", "Afrutado", "Dulce", "Ambarado", "Avainillado"],
+    "notas_salida": ["Cítricos", "Bergamota"],
+    "notas_corazon": ["Frutas", "Notas dulces"],
+    "notas_fondo": ["Ámbar", "Almizcle", "Vainilla"],
+    "fuentes": ["https://shop.tiktok.com/us/pdp/game-of-spades-coffret-set-by-jo-milano-paris-9-fragrance-samples/1729442402767639084"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 484,
+    "familia": "Cuero",
+    "genero": "Unisex",
+    "acordes": ["Cálido especiado", "Amaderado", "Miel", "Cuero", "Dulce"],
+    "notas_salida": ["Bergamota", "Ámbar"],
+    "notas_corazon": ["Especias", "Miel", "Cuero"],
+    "notas_fondo": ["Sándalo", "Pachulí", "Vainilla", "Oud"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Lattafa-Perfumes/Qasaed-Al-Sultan-100136.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 486,
+    "familia": "Fougère oriental",
+    "genero": "Hombre",
+    "acordes": ["Cítrico", "Amaderado", "Atalcado", "Verde", "Acuático"],
+    "notas_salida": ["Verbena de limón", "Iris", "Limón"],
+    "notas_corazon": ["Hoja de violeta"],
+    "notas_fondo": ["Sándalo", "Ámbar gris", "Cedro", "Cuero"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Lattafa-Perfumes/Raghba-For-Men-25820.html", "https://www.parfumo.com/Perfumes/Lattafa/Raghba_For_Man"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 500,
+    "familia": "Oriental especiada",
+    "genero": "Hombre",
+    "acordes": ["Cálido especiado", "Aromático", "Avainillado", "Dulce", "Tabaco"],
+    "notas_salida": ["Lavanda", "Canela", "Menta"],
+    "notas_corazon": ["Cardamomo", "Vainilla", "Nuez moscada", "Benjuí"],
+    "notas_fondo": ["Miel", "Haba tonka", "Tabaco"],
+    "fuentes": ["https://lefalcone.co.uk/collections/le-falcone-fragrances/products/muharib-alpha-le-falcone-perfume-100ml", "https://www.fragrantica.com/perfume/Le-Falcone-Perfumes/Muharib-Alpha-107081.html"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 517,
+    "familia": "Oriental floral",
+    "genero": "Mujer",
+    "acordes": ["Verde", "Afrutado", "Almendrado", "Amaderado", "Floral"],
+    "notas_salida": ["Ruibarbo", "Narciso"],
+    "notas_corazon": ["Leche de almendras"],
+    "notas_fondo": ["Cachemira", "Cedro"],
+    "fuentes": ["https://beta.fragrantica.com/perfume/Maison-Alhambra/Precious-Pink-95873.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 632,
+    "familia": "Cítrica gourmand",
+    "genero": "Hombre",
+    "acordes": ["Cítrico", "Coco", "Tropical", "Dulce", "Almizclado"],
+    "notas_salida": ["Coco", "Lima", "Bergamota", "Mandarina"],
+    "notas_corazon": ["Jengibre", "Ylang-ylang", "Jazmín", "Hibisco"],
+    "notas_fondo": ["Ron blanco", "Caña de azúcar", "Almizcle"],
+    "fuentes": ["https://rayhaanperfumes.com/products/rayhaan-aquatica", "https://basenotes.com/fragrances/aquatica-by-rayhaan.26295940"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 633,
+    "familia": "Oriental especiada",
+    "genero": "Hombre",
+    "acordes": ["Cálido especiado", "Avainillado", "Canela", "Ambarado", "Dulce"],
+    "notas_salida": ["Canela", "Pimienta rosa", "Cardamomo"],
+    "notas_corazon": ["Pachulí", "Heliotropo"],
+    "notas_fondo": ["Benjuí", "Haba tonka", "Vainilla"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Rayhaan/Crimson-112761.html", "https://www.ulta.com/p/crimson-eau-de-parfum-spray-mkt77010811"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 334,
+    "familia": "Floral frutal",
+    "genero": "Unisex",
+    "acordes": ["Afrutado", "Cítrico", "Dulce", "Floral", "Almizclado"],
+    "notas_salida": ["Ralladura de limón", "Arándano", "Naranja"],
+    "notas_corazon": ["Cereza", "Rosa", "Flor de cerezo"],
+    "notas_fondo": ["Almizcle", "Ámbar", "Cedro"],
+    "fuentes": ["https://www.tubbees.de/products/blueberry-sorbet", "https://www.fragrantica.com/perfume/Tubbees/Blueberry-Sorbet-121300.html"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 335,
+    "familia": "Gourmand",
+    "genero": "Unisex",
+    "acordes": ["Dulce", "Avainillado", "Caramelo", "Frutos secos", "Atalcado"],
+    "notas_salida": ["Azúcar morena", "Praliné", "Mantequilla", "Mandarina", "Frutos secos"],
+    "notas_corazon": ["Mora", "Crema", "Vainilla"],
+    "notas_fondo": ["Notas atalcadas", "Haba tonka", "Vainilla"],
+    "fuentes": ["https://www.tubbees.de/en/products/golden-praline-bliss"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 336,
+    "familia": "Cítrica gourmand",
+    "genero": "Unisex",
+    "acordes": ["Cítrico", "Avainillado", "Dulce", "Floral blanco", "Amaderado"],
+    "notas_salida": ["Lima", "Bergamota", "Ralladura de limón", "Avellana", "Mandarina"],
+    "notas_corazon": ["Jazmín", "Té verde", "Sorbete de lima"],
+    "notas_fondo": ["Almizcle", "Ámbar", "Vainilla", "Notas atalcadas", "Sándalo"],
+    "fuentes": ["https://www.tubbees.de/en/products/lemon-a-licious"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 337,
+    "familia": "Gourmand verde",
+    "genero": "Unisex",
+    "acordes": ["Verde", "Té", "Dulce", "Chocolate", "Amaderado"],
+    "notas_salida": ["Matcha helado", "Hierbas", "Té", "Bergamota", "Limón"],
+    "notas_corazon": ["Naranja", "Flor de azahar", "Jazmín", "Ámbar", "Almendra"],
+    "notas_fondo": ["Chocolate", "Cedro", "Musgo", "Almizcle", "Ámbar", "Sándalo"],
+    "fuentes": ["https://www.tubbees.de/en/products/matcha-made-in-heaven"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 338,
+    "familia": "Floral frutal tropical",
+    "genero": "Unisex",
+    "acordes": ["Tropical", "Afrutado", "Dulce", "Cítrico", "Almizclado"],
+    "notas_salida": ["Frutas tropicales", "Grosella negra", "Maracuyá", "Lima"],
+    "notas_corazon": ["Mango", "Té verde", "Jazmín", "Rosa"],
+    "notas_fondo": ["Almizcle", "Azúcar", "Ámbar", "Sándalo"],
+    "fuentes": ["https://www.tubbees.de/en/products/passion-fruit-mojito"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 333,
+    "familia": "Gourmand",
+    "genero": "Unisex",
+    "acordes": ["Caramelo", "Dulce", "Láctico", "Avainillado", "Frutos secos"],
+    "notas_salida": ["Crema", "Mantequilla", "Frutos secos"],
+    "notas_corazon": ["Vainilla", "Notas lácticas", "Leche"],
+    "notas_fondo": ["Haba tonka", "Vainilla atalcada"],
+    "fuentes": ["https://www.tubbees.de/products/sweet-caramel"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 339,
+    "familia": "Floral frutal gourmand",
+    "genero": "Unisex",
+    "acordes": ["Tropical", "Afrutado", "Dulce", "Floral", "Avainillado"],
+    "notas_salida": ["Mango", "Naranja", "Piña", "Bergamota"],
+    "notas_corazon": ["Jazmín", "Lirio", "Rosa", "Pudín de mango"],
+    "notas_fondo": ["Vainilla", "Almizcle", "Sándalo", "Almizcle suave"],
+    "fuentes": ["https://www.tubbees.de/en/products/sweet-mango-melody"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 340,
+    "familia": "Gourmand",
+    "genero": "Unisex",
+    "acordes": ["Café", "Dulce", "Almendrado", "Caramelo", "Avainillado"],
+    "notas_salida": ["Almendra dulce", "Leche", "Café"],
+    "notas_corazon": ["Ámbar", "Regaliz", "Flores blancas"],
+    "notas_fondo": ["Caramelo", "Almizcle", "Frutos secos", "Vainilla"],
+    "fuentes": ["https://www.tubbees.de/en/products/tira-miss-you"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 341,
+    "familia": "Gourmand",
+    "genero": "Unisex",
+    "acordes": ["Láctico", "Dulce", "Avainillado", "Coco", "Amaderado"],
+    "notas_salida": ["Leche", "Almendra", "Coco"],
+    "notas_corazon": ["Jazmín", "Vainilla", "Haba tonka"],
+    "notas_fondo": ["Ámbar", "Almizcle", "Sándalo"],
+    "fuentes": ["https://www.tubbees.de/en/products/tres-leches"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 342,
+    "familia": "Floral frutal gourmand",
+    "genero": "Unisex",
+    "acordes": ["Afrutado", "Dulce", "Caramelo", "Floral blanco", "Avainillado"],
+    "notas_salida": ["Manzana", "Frutos rojos", "Bergamota"],
+    "notas_corazon": ["Flor de azahar", "Jazmín", "Ámbar"],
+    "notas_fondo": ["Almizcle", "Caramelo", "Vainilla", "Sándalo"],
+    "fuentes": ["https://www.tubbees.de/en/products/candy-pop"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 343,
+    "familia": "Gourmand",
+    "genero": "Unisex",
+    "acordes": ["Dulce", "Caramelo", "Avainillado", "Coco", "Almizclado"],
+    "notas_salida": ["Leche de coco"],
+    "notas_corazon": ["Caramelo", "Algodón de azúcar"],
+    "notas_fondo": ["Vainilla", "Almizcle"],
+    "fuentes": ["https://www.tubbees.de/en/products/cotton-candy"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 345,
+    "familia": "Gourmand frutal",
+    "genero": "Unisex",
+    "acordes": ["Dulce", "Avainillado", "Afrutado", "Láctico", "Amaderado"],
+    "notas_salida": ["Tarta de queso", "Fresa", "Vainilla"],
+    "notas_corazon": ["Vainilla", "Crema batida", "Sándalo"],
+    "notas_fondo": ["Vainilla", "Estoraque"],
+    "fuentes": ["https://www.tubbees.de/en/products/strawberry-cheesecake"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 92,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "acordes": ["Afrutado", "Floral blanco", "Dulce", "Cítrico", "Avainillado"],
+    "notas_salida": ["Melocotón", "Fresa", "Mandarina", "Manzana", "Piña", "Frambuesa"],
+    "notas_corazon": ["Flor de azahar", "Magnolia", "Jazmín", "Rosa", "Coco", "Ámbar"],
+    "notas_fondo": ["Almizcle", "Sándalo", "Ámbar", "Vainilla"],
+    "fuentes": ["https://www.ulta.com/p/odyssey-pink-pop-eau-de-parfum-mkt77009817", "https://www.fragrantica.com/perfume/Armaf/Odyssey-Pink-Pop-129501.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 252,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "acordes": ["Floral", "Afrutado", "Cítrico", "Avainillado", "Almizclado"],
+    "notas_salida": ["Pera", "Frutos rojos", "Bergamota"],
+    "notas_corazon": ["Jazmín nocturno", "Rosa", "Peonía"],
+    "notas_fondo": ["Almizcle", "Vainilla", "Sándalo"],
+    "fuentes": ["https://samsfragrances.com/products/elsatys-bloom-eau-de-parfum-75-ml-women", "https://www.fragrancenet.mx/perfume/reyane/elsatys-bloom/eau-de-parfum"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 296,
+    "familia": "Ambarada floral amaderada",
+    "genero": "Mujer",
+    "acordes": ["Floral blanco", "Cálido especiado", "Almendrado", "Amaderado", "Ambarado"],
+    "notas_salida": ["Jazmín grandiflorum"],
+    "notas_corazon": ["Azafrán", "Almendra amarga"],
+    "notas_fondo": ["Cedro", "Maderas almizcladas", "Ámbar gris"],
+    "fuentes": ["https://perfumania.com/products/flaunt-rouge-eau-de-parfum-spray-for-women"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 330,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "acordes": ["Afrutado", "Floral", "Cítrico", "Avainillado", "Almizclado"],
+    "notas_salida": ["Bergamota", "Frambuesa"],
+    "notas_corazon": ["Rosa", "Jazmín"],
+    "notas_fondo": ["Almizcle", "Vainilla"],
+    "fuentes": ["https://www.bjutip.com/grandeur-private-pink-edp-w-100-ml"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 331,
+    "familia": "Aromática amaderada",
+    "genero": "Hombre",
+    "acordes": ["Aromático", "Fresco especiado", "Avainillado", "Amaderado", "Cítrico"],
+    "notas_salida": ["Pera", "Lavanda", "Menta", "Bergamota", "Limón"],
+    "notas_corazon": ["Canela", "Salvia esclarea", "Alcaravea"],
+    "notas_fondo": ["Vainilla negra", "Ámbar", "Pachulí", "Cedro"],
+    "fuentes": ["https://www.parfumo.com/Perfumes/grandeur-elite/tribal-blue", "https://soghaat.co.uk/products/tribal-blue-100ml-edp-by-grandeur-elite"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 611,
+    "familia": "Oriental floral",
+    "genero": "Mujer",
+    "acordes": ["Floral", "Herbal", "Fresco especiado", "Amaderado", "Terroso"],
+    "notas_salida": ["Jengibre", "Manzanilla", "Loto"],
+    "notas_corazon": ["Caléndula", "Rosa", "Violeta", "Fresia"],
+    "notas_fondo": ["Pachulí", "Musgo de roble", "Sándalo"],
+    "fuentes": ["https://basenotes.com/fragrances/reserve-for-women-by-perry-ellis.26126898", "https://www.fragranceoutlet.com/products/reserve-by-perry-ellis-for-women-edp-spray"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 207,
+    "familia": "Amaderada aromática",
+    "genero": "Unisex",
+    "acordes": ["Avainillado", "Coco", "Tropical", "Dulce", "Cálido especiado"],
+    "notas_salida": ["Bergamota", "Frutos secos", "Salvia"],
+    "notas_corazon": ["Coco", "Frutas tropicales", "Canela"],
+    "notas_fondo": ["Ámbar", "Vainilla", "Haba tonka"],
+    "fuentes": ["https://armaf.com/products/odyssey-artisto", "https://basenotes.com/fragrances/odyssey-artisto-by-armaf.26282042"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 218,
+    "familia": "Oriental especiada",
+    "genero": "Hombre",
+    "acordes": ["Cítrico", "Fresco especiado", "Aromático", "Amaderado", "Canela"],
+    "notas_salida": ["Lima", "Bergamota", "Canela", "Naranja", "Mandarina", "Clavo", "Nuez moscada"],
+    "notas_corazon": ["Lavanda", "Cilantro"],
+    "notas_fondo": ["Almizcle", "Pachulí", "Cedro rojo", "Vetiver", "Sándalo", "Musgo de roble"],
+    "fuentes": ["https://beta.fragrantica.com/perfume/Perry-Ellis/3600-Red-for-Men-1906.html", "https://1000scents.blogspot.com/2007/04/afterwards-perry-ellis-360-red-men.html"],
+    "estado": "Ficha olfativa del aroma correspondiente"
+  },
+  {
+    "ref": 539,
+    "familia": "Fougère ambarada",
+    "genero": "Hombre",
+    "acordes": ["Aromático", "Amaderado", "Atalcado", "Cálido", "Avainillado"],
+    "notas_salida": ["Cardamomo", "Hoja de manzano", "Ciprés"],
+    "notas_corazon": ["Cuero", "Raíz de iris", "Lavanda"],
+    "notas_fondo": ["Cedro de Virginia", "Vainilla", "Pachulí"],
+    "fuentes": ["https://www.messifragrances.com/products/messi-eau-de-parfum"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 259,
+    "familia": "Oriental gourmand",
+    "genero": "Hombre",
+    "acordes": ["Dulce", "Avainillado", "Cálido especiado", "Afrutado", "Floral blanco"],
+    "notas_salida": ["Manzana", "Canela", "Lavanda", "Bergamota"],
+    "notas_corazon": ["Flor de azahar", "Lirio de los valles"],
+    "notas_fondo": ["Vainilla", "Haba tonka", "Ámbar", "Pachulí"],
+    "fuentes": ["https://luluahparfums.com/products/9-to-9-by-stallion-53-by-emper-100mls", "https://www.zafiroperfumeria.com/producto/9-to-9-by-stallion-53/"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 260,
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "acordes": ["Cítrico", "Amaderado", "Aromático", "Almizclado", "Ambarado"],
+    "notas_salida": ["Bergamota", "Jengibre", "Mandarina"],
+    "notas_corazon": ["Georgywood", "Flor de azahar"],
+    "notas_fondo": ["Akigalawood", "Ambrofix", "Cedro", "Almizcle"],
+    "fuentes": ["https://www.parfumo.com/Perfumes/Emper/blue-stallion-by-stallion-53"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 263,
+    "familia": "Amaderada especiada",
+    "genero": "Hombre",
+    "acordes": ["Cítrico", "Afrutado", "Cálido especiado", "Amaderado", "Aromático"],
+    "notas_salida": ["Piña", "Bergamota", "Grosella negra", "Pomelo", "Limón", "Pimienta rosa"],
+    "notas_corazon": ["Cardamomo", "Canela", "Jengibre"],
+    "notas_fondo": ["Vetiver", "Pachulí"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Stallion-53/Intenso-137429.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 266,
+    "familia": "Oriental amaderada",
+    "genero": "Hombre",
+    "acordes": ["Cítrico", "Caramelo", "Amaderado", "Ambarado", "Aromático"],
+    "notas_salida": ["Mandarina", "Naranja", "Azafrán", "Salvia"],
+    "notas_corazon": ["Caramelo", "Haba tonka", "Caléndula"],
+    "notas_fondo": ["Ambroxan", "Cedro", "Vetiver"],
+    "fuentes": ["https://emperjalisco.com/index.php/product/stallion-53-mandora-perfume-caballero-100ml-free-deluxe-decant-20-ml/", "https://zaraabparfums.com/products/emper-mandora-by-stallion-53-100-ml"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 267,
+    "familia": "Ámbar vainilla frutal",
+    "genero": "Unisex",
+    "acordes": ["Afrutado", "Tropical", "Cítrico", "Cálido especiado", "Avainillado"],
+    "notas_salida": ["Pimienta rosa", "Limón", "Flores blancas", "Naranja brasileña", "Bergamota de Calabria", "Jengibre"],
+    "notas_corazon": ["Mango", "Haba tonka", "Maderas secas", "Melón", "Pera", "Manzana verde", "Canela", "Cardamomo", "Clavo"],
+    "notas_fondo": ["Madera de gaiac", "Vainilla", "Ámbar", "Frutos secos", "Almizcle blanco", "Notas amaderadas"],
+    "fuentes": ["https://uae.emperperfumes.com/products/mangofizz-by-stallion-53", "https://www.parfumo.com/Perfumes/Emper/mangofizz-by-stallion-53"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 268,
+    "familia": "Cítrica marina",
+    "genero": "Unisex",
+    "acordes": ["Cítrico", "Fresco especiado", "Marino", "Ambarado", "Aromático"],
+    "notas_salida": ["Naranja siciliana", "Bergamota", "Mandarina"],
+    "notas_corazon": ["Jengibre"],
+    "notas_fondo": ["Ámbar gris salado"],
+    "fuentes": ["https://www.arabianperfumeryandmore.com/products/morning-dive"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 269,
+    "familia": "Amaderada acuática",
+    "genero": "Hombre",
+    "acordes": ["Amaderado", "Aromático", "Lavanda", "Marino", "Ambarado"],
+    "notas_salida": ["Hoja de violeta", "Pomelo", "Vainilla"],
+    "notas_corazon": ["Lavanda", "Notas amaderadas", "Notas marinas", "Palisandro", "Violeta"],
+    "notas_fondo": ["Vetiver", "Madera de ámbar", "Ámbar gris"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Stallion-53/Uomo-Intense-137428.html"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 261,
+    "familia": "Floral avainillada",
+    "genero": "Mujer",
+    "acordes": ["Floral blanco", "Avainillado", "Coco", "Ambarado", "Almizclado"],
+    "notas_salida": ["Flores", "Bergamota", "Pomelo"],
+    "notas_corazon": ["Coco", "Vainilla", "Sándalo", "Jazmín"],
+    "notas_fondo": ["Haba tonka", "Ámbar", "Almizcle"],
+    "fuentes": ["https://emperjalisco.com/index.php/product/donna-iintense-stallion-53-women-100mi-plus-20ml/"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 264,
+    "familia": "Floral frutal ambarada",
+    "genero": "Mujer",
+    "acordes": ["Afrutado", "Tropical", "Floral", "Avainillado", "Terroso"],
+    "notas_salida": ["Pitahaya"],
+    "notas_corazon": ["Frangipani", "Peonía roja"],
+    "notas_fondo": ["Pachulí", "Vainilla"],
+    "fuentes": ["https://www.parfumo.com/Perfumes/Emper/la-furia-by-stallion-53"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 265,
+    "familia": "Oriental amaderada",
+    "genero": "Unisex",
+    "acordes": ["Cítrico", "Aromático", "Ambarado", "Avainillado", "Amaderado"],
+    "notas_salida": ["Bergamota", "Limón", "Especias suaves"],
+    "notas_corazon": ["Lavanda", "Notas aromáticas", "Notas florales"],
+    "notas_fondo": ["Ámbar", "Vainilla", "Maderas preciosas"],
+    "fuentes": ["https://perfumescardales.com.ar/tienda/perfumes/fragancias-arabes/lahab-by-stallion-53-edp-100-ml-emper-perfumes/"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 270,
+    "familia": "Amaderada aromática",
+    "genero": "Unisex",
+    "acordes": ["Fresco especiado", "Amaderado", "Aromático", "Verde", "Tabaco"],
+    "notas_salida": ["Hoja de laurel", "Higo", "Bergamota"],
+    "notas_corazon": ["Cedro", "Vetiver", "Almizcle"],
+    "notas_fondo": ["Heno", "Tabaco"],
+    "fuentes": ["https://www.fragrantica.com/p/111067"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 254,
+    "familia": "Cuero frutal",
+    "genero": "Hombre",
+    "acordes": ["Afrutado", "Cuero", "Amaderado", "Almizclado", "Cítrico"],
+    "notas_salida": ["Piña", "Bergamota", "Grosella negra", "Manzana", "Limón", "Pimienta rosa"],
+    "notas_corazon": ["Abedul", "Jazmín", "Pachulí", "Rosa", "Geranio"],
+    "notas_fondo": ["Almizcle", "Musgo de roble", "Cedro", "Acorde de ámbar gris", "Vainilla", "Maderas secas"],
+    "fuentes": ["https://us.emperperfumes.com/products/arabia-explorer", "https://www.fragrantica.com/perfume/Le-Chameau/Arabia-Explorer-83596.html"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 256,
+    "familia": "Chipre floral",
+    "genero": "Mujer",
+    "acordes": ["Cítrico", "Floral", "Terroso", "Avainillado", "Amaderado"],
+    "notas_salida": ["Limón", "Naranja", "Bergamota"],
+    "notas_corazon": ["Jazmín", "Rosa", "Pachulí"],
+    "notas_fondo": ["Vainilla", "Vetiver", "Almizcle"],
+    "fuentes": ["https://www.emper.ro/cumpara/parfum-le-chameau-by-emper-arabia-madame-905"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 258,
+    "familia": "Cítrica aromática amaderada",
+    "genero": "Unisex",
+    "acordes": ["Cítrico", "Aromático", "Fresco especiado", "Amaderado", "Floral blanco"],
+    "notas_salida": ["Yuzu", "Neroli"],
+    "notas_corazon": ["Romero", "Tomillo", "Arena", "Clavo", "Pimienta rosa"],
+    "notas_fondo": ["Ciprés"],
+    "fuentes": ["https://www.jomashop.com/emper-unisex-shinning-city-edp-spray-3-4-oz-fragrances-6294021901444.html", "https://saduluxury.com/products/shinning-city-by-emper-34oz"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 533,
+    "familia": "Cítrica especiada amaderada",
+    "genero": "Unisex",
+    "acordes": ["Cítrico", "Fresco especiado", "Floral blanco", "Amaderado", "Ambarado"],
+    "notas_salida": ["Cítricos", "Bergamota", "Naranja dulce", "Jengibre", "Pimienta negra"],
+    "notas_corazon": ["Flores blancas", "Lirio de los valles", "Violeta", "Flor de azahar"],
+    "notas_fondo": ["Ámbar gris", "Almizcle", "Madera de gaiac", "Incienso", "Madera de cabreúva"],
+    "fuentes": ["https://www.bhararabeauty.com/products/bharara-beauty-rome-imagine-unisex-eau-de-parfum-spray-3-4-oz-100-ml", "https://www.jomashop.com/mast-perfume-mens-rome-imagine-gift-set-fragrances-810200670053.html"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 534,
+    "familia": "Amaderada ambarada aromática",
+    "genero": "Hombre",
+    "acordes": ["Cítrico", "Cálido especiado", "Amaderado", "Ahumado", "Ambarado"],
+    "notas_salida": ["Limón", "Bergamota", "Naranja"],
+    "notas_corazon": ["Acorde cremoso", "Pimienta", "Nuez moscada", "Geranio", "Lavandín"],
+    "notas_fondo": ["Sándalo", "Pachulí", "Ládano", "Acorde ahumado", "Oud", "Cedro", "Incienso", "Vetiver", "Almizcle", "Benjuí", "Vainilla", "Ámbar"],
+    "fuentes": ["https://www.bhararabeauty.com/products/mast-perfume-rome-ivory-pour-homme-edp-3-4", "https://www.fragrantica.com/board/viewtopic.php?id=353228&p=2"],
+    "estado": "Ficha oficial contrastada"
+  },
+  {
+    "ref": 535,
+    "familia": "Aromática amaderada",
+    "genero": "Hombre",
+    "acordes": ["Aromático", "Fresco especiado", "Amaderado", "Herbal", "Floral"],
+    "notas_salida": ["Acorde fougère", "Geranio"],
+    "notas_corazon": ["Especias", "Jengibre", "Salvia"],
+    "notas_fondo": ["Notas amaderadas", "Cedro", "Vetiver"],
+    "fuentes": ["https://www.bhararabeauty.com/products/bharara-rome-pour-homme-eau-de-parfum", "https://www.parfumo.com/Perfumes/mast-perfume/rome-pour-homme"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 536,
+    "familia": "Floral frutal ambarada",
+    "genero": "Mujer",
+    "acordes": ["Afrutado", "Floral blanco", "Avainillado", "Ambarado", "Almizclado"],
+    "notas_salida": ["Pera", "Mandarina", "Bergamota"],
+    "notas_corazon": ["Flor de azahar", "Esencia de neroli", "Neroli", "Jazmín sambac"],
+    "notas_fondo": ["Vainilla bourbon", "Almizcle blanco", "Ámbar", "Benjuí"],
+    "fuentes": ["https://orientalaromaswholesale.com/products/mast-perfume-sweet-velvet-women-edp-3-40z-by-bharara/mast-perfume-sweet-velvet-women-edp-3-40z-by-bharara"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 344,
+    "familia": "Gourmand floral",
+    "genero": "Unisex",
+    "acordes": ["Láctico", "Dulce", "Floral blanco", "Amaderado", "Caramelo"],
+    "notas_salida": ["Lirio de los valles", "Melocotón", "Coco", "Sándalo"],
+    "notas_corazon": ["Arroz", "Flores blancas", "Caramelo"],
+    "notas_fondo": ["Almizcle", "Sándalo", "Haba tonka", "Leche"],
+    "fuentes": ["https://www.tubbees.de/en/products/dreamy-treats"],
+    "estado": "Ficha oficial"
+  },
+  {
+    "ref": 537,
+    "familia": "Amaderada fresca",
+    "genero": "Unisex",
+    "acordes": ["Ozónico", "Cítrico", "Floral", "Almizclado", "Musgoso"],
+    "notas_salida": ["Notas ozónicas", "Cítricos"],
+    "notas_corazon": ["Notas florales", "Fresia"],
+    "notas_fondo": ["Almizcle", "Musgo", "Ámbar gris"],
+    "fuentes": ["https://alhajisperfumes.com/en-ae/products/matin-martin-santorini-edp-m-100ml", "https://www.trendyol.com/en/matin-martin/santorini-eau-de-parfum-unisex-100-ml-p-933199577"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 538,
+    "familia": "Floral frutal gourmand",
+    "genero": "Mujer",
+    "acordes": ["Afrutado", "Dulce", "Caramelo", "Amaderado", "Floral blanco"],
+    "notas_salida": ["Pera", "Grosella negra", "Limón"],
+    "notas_corazon": ["Caramelo", "Jazmín"],
+    "notas_fondo": ["Cedro", "Vainilla", "Pachulí"],
+    "fuentes": ["https://beta.fragrantica.com/perfume/Prestigious/Merazur-Red-55589.html", "https://beboldperfumes.com/products/merazur-red-edp-100ml"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 295,
+    "familia": "Floral amaderada almizclada",
+    "genero": "Mujer",
+    "acordes": ["Floral", "Amaderado", "Almizclado", "Atalcado", "Cítrico"],
+    "notas_salida": ["Cilantro", "Casia", "Bergamota", "Hojas de violeta"],
+    "notas_corazon": ["Peonía", "Jazmín sambac", "Gardenia", "Rosa"],
+    "notas_fondo": ["Iris", "Cedro de Marruecos", "Almizcle blanco"],
+    "fuentes": ["https://www.jomashop.com/tous-silver-by-tous-for-women-1-7-oz-edt-spray-8437002997021.html", "https://disfragancias.com/products/tous-silver"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 307,
+    "familia": "Amaderada aromática",
+    "genero": "Hombre",
+    "acordes": ["Fresco especiado", "Aromático", "Amaderado", "Ambarado", "Cítrico"],
+    "notas_salida": ["Pimienta", "Bergamota de Calabria"],
+    "notas_corazon": ["Geranio", "Lavanda", "Pimienta de Sichuan", "Elemí", "Pimienta rosa", "Vetiver", "Pachulí"],
+    "notas_fondo": ["Cedro", "Ládano", "Ambroxan"],
+    "fuentes": ["https://valenciaperfumes.com/products/gentle-elsatys", "https://sillagecolombia.com/producto/gentle-elsatys-%C2%B7-reyane-tradition-100ml-edp/"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 532,
+    "familia": "Amaderada especiada oriental",
+    "genero": "Hombre",
+    "ocasiones": ["Noche", "Eventos", "Formal"],
+    "acordes": ["Cítrico", "Aromático", "Amaderado", "Especiado", "Ambarado"],
+    "notas_salida": ["Limón", "Bergamota"],
+    "notas_corazon": ["Lavanda", "Romero"],
+    "notas_fondo": ["Cedro", "Ámbar"],
+    "descripcion": "Fragancia masculina cítrica, aromática y amaderada, de carácter sereno y elegante. Su fondo cálido funciona especialmente bien en noches, eventos y ocasiones formales.",
+    "fuentes": ["https://mapleprime.com/products/bharara-mast-peace-for-him-eau-de-parfum-for-men", "https://lmd.com.co/products/mast-perfume-peace-for-him-100ml-eau-de-parfum-unisex"],
+    "estado": "Ficha olfativa contrastada"
+  },
+  {
+    "ref": 641,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "acordes": ["Afrutado", "Floral", "Dulce", "Avainillado", "Almizclado"],
+    "notas_salida": ["Frambuesa", "Lichi", "Hoja de violeta"],
+    "notas_corazon": ["Peonía", "Rosa blanca", "Jazmín"],
+    "notas_fondo": ["Almizcle", "Vainilla"],
+    "fuentes": ["https://lattafa-usa.com/products/lattafa-mayar-eau-de-parfum-for-women", "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Mayar-84309.html"],
+    "estado": "Ficha oficial contrastada; el perfil corresponde a la fragancia Mayar incluida en el set"
+  },
+  {
+    "ref": 68,
+    "genero": "Unisex",
+    "fuentes": ["https://www.fragrantica.com/perfume/Armaf/Arabian-Sky-92894.html"],
+    "estado": "Género contrastado"
+  },
+  {
+    "ref": 70,
+    "genero": "Mujer",
+    "fuentes": ["https://armaf.com.my/product/island-bliss-100ml-edp/"],
+    "estado": "Género contrastado"
+  },
+  {
+    "ref": 71,
+    "genero": "Mujer",
+    "fuentes": ["https://armaf.com/products/island-breeze"],
+    "estado": "Género oficial"
+  },
+  {
+    "ref": 87,
+    "genero": "Unisex",
+    "fuentes": ["https://www.fragrantica.com/perfume/Armaf/Odyssey-Mandarin-Sky-Elixir-106709.html"],
+    "estado": "Género contrastado"
+  },
+  {
+    "ref": 89,
+    "genero": "Unisex",
+    "fuentes": ["https://armaf.com/products/odyssey-marshmallow"],
+    "estado": "Género oficial"
+  },
+  {
+    "ref": 593,
+    "familia": "Floral frutal",
+    "genero": "Mujer",
+    "ocasiones": ["Diario", "Casual", "Citas"],
+    "fuentes": ["https://www.fragrantica.com/perfume/Paris-Hilton/Can-Can-Burlesque-24464.html"],
+    "estado": "Clasificación contrastada"
+  },
+  {
+    "ref": 164,
+    "genero": "Mujer",
+    "fuentes": ["https://www.carolinaherrera.com/us/en/p-fragrance/goodgirl-polkaparadise-25-summer-collector"],
+    "estado": "Género oficial"
+  },
+  {
+    "ref": 206,
+    "genero": "Mujer",
+    "fuentes": ["https://arianagrandefragrances.com/products/cloud-pink"],
+    "estado": "Género contrastado con la línea oficial"
+  },
+  {
+    "ref": 276,
+    "genero": "Hombre",
+    "fuentes": ["https://armafusa.com/product/armaf-el-cielo-4-piece-gift-set-for-men/", "https://business.walmart.com/ip/Armaf-Men-s-El-Cielo-Gift-Set-Fragrances-6294015157383/5279356233"],
+    "estado": "Género oficial contrastado"
+  },
+  {
+    "ref": 319,
+    "genero": "Mujer",
+    "fuentes": ["https://www.giorgio-valenti.com/img/femme/rosenoire-en.html", "https://www.fragrantica.com/perfume/Giorgio-Valenti/Rose-Noire-9345.html"],
+    "estado": "Género contrastado"
+  },
+  {
+    "ref": 322,
+    "genero": "Mujer",
+    "fuentes": ["https://www.givenchybeauty.com/int/en/fragrance/women-s-fragrance/irresistible/"],
+    "estado": "Género oficial"
+  },
+  {
+    "ref": 698,
+    "genero": "Mujer",
+    "fuentes": ["https://www.tous.com/jp-en/eau-de-toilette-tous-your-powers-90-ml/p/297711070"],
+    "estado": "Género contrastado con la colección oficial"
   }
 ]

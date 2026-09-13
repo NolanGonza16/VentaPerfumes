@@ -1,0 +1,31 @@
+{
+  "estado": "Requiere identificación exacta del proveedor antes de completar la ficha olfativa",
+  "criterio": "No se asignan notas, familia, género u ocasiones de una variante elegida al azar. Los sets con varias fragancias tampoco se reducen a una pirámide única.",
+  "referencias": [
+    {"ref": 6, "presentacion": "ADIDAS HOMBRE EDT 100ML", "motivo": "No indica el nombre de la fragancia Adidas."},
+    {"ref": 25, "presentacion": "ANTONIO B BLUE SEDUCCION SUMMER ESSENCE EDT 100ML", "motivo": "La denominación no permite confirmar inequívocamente la edición comercial."},
+    {"ref": 306, "presentacion": "GEL DE BAÑO BATH & BODY WORKS 295ML", "motivo": "No indica la variante aromática."},
+    {"ref": 382, "presentacion": "JABON DE MANOS BATH & BODY WORKS 259ML", "motivo": "No indica la variante aromática."},
+    {"ref": 470, "presentacion": "LATTAFA KIDS VARIADOS EDP 75ML", "motivo": "Agrupa variantes infantiles distintas."},
+    {"ref": 471, "presentacion": "LATTAFA LUXE EDP 100ML", "motivo": "Luxe no identifica inequívocamente una fragancia Lattafa."},
+    {"ref": 599, "presentacion": "PERFUME NIÑOS VARIADO 100ML", "motivo": "No indica marca ni variante."},
+    {"ref": 638, "presentacion": "SET ARMAF INTENSE + SILLAGE + MILESTONE 30ML", "motivo": "Contiene tres fragancias con pirámides distintas; requiere fichas hijas."},
+    {"ref": 639, "presentacion": "SET ARMAF UNTOLD + ICONIC + IMPERIALE 30ML", "motivo": "Contiene tres fragancias con pirámides distintas; requiere fichas hijas."},
+    {"ref": 646, "presentacion": "SPLASH ARIANA GRANDE 236ML", "motivo": "No indica la variante aromática."},
+    {"ref": 647, "presentacion": "SPLASH BATH & BODY WORKS 236ML", "motivo": "No indica la variante aromática."},
+    {"ref": 649, "presentacion": "SPLASH BRITNEY SPEARS 236ML", "motivo": "No indica la variante aromática."},
+    {"ref": 650, "presentacion": "SPLASH ELIZABETH ARDEN 236ML", "motivo": "No indica la variante aromática."},
+    {"ref": 651, "presentacion": "SPLASH GUESS NUEVOS 236ML", "motivo": "No indica la variante aromática."},
+    {"ref": 653, "presentacion": "SPLASH NINO VARIADO", "motivo": "No indica marca ni variante."},
+    {"ref": 654, "presentacion": "SPLASH PARIS HILTON 236ML", "motivo": "No indica la variante aromática."},
+    {"ref": 655, "presentacion": "SPLASH PERRY ELLIS 236ML", "motivo": "No indica la variante aromática."},
+    {"ref": 656, "presentacion": "SPLASH PINK 250ML", "motivo": "No indica la variante aromática."},
+    {"ref": 657, "presentacion": "SPLASH VICTORIA'S SECRET", "motivo": "No indica la variante aromática."},
+    {"ref": 658, "presentacion": "SPRAY ARMAF 200ML", "motivo": "No indica la variante aromática."},
+    {"ref": 660, "presentacion": "SPRAY LATTAFA 200ML", "motivo": "No indica la variante aromática."},
+    {"ref": 661, "presentacion": "SPRAY MAISON ALHAMBRA 200ML", "motivo": "No indica la variante aromática."},
+    {"ref": 691, "presentacion": "TOUS EDP 90ML (DORADO)", "motivo": "El color del frasco no basta para confirmar la edición."},
+    {"ref": 692, "presentacion": "TOUS EDT 90ML (PLATEADO)", "motivo": "El color del frasco no basta para confirmar la edición."},
+    {"ref": 693, "presentacion": "TOUS KIDS BEAR EDT 100ML", "motivo": "La denominación no distingue con certeza la variante infantil."}
+  ]
+}
