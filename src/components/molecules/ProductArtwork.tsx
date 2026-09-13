@@ -13,11 +13,15 @@ const PLACEHOLDER = "/images/perfume-placeholder.svg";
 
 function likelyPackshot(url: string) {
   const normalized = url.toLowerCase();
+  const editorialCampaign =
+    normalized.includes("13_9am.jpg") ||
+    normalized.includes("03_9pm.jpg") ||
+    normalized.includes("still_elixir_square") ||
+    normalized.includes("campaign") ||
+    normalized.includes("editorial");
   return (
-    normalized.endsWith(".png") ||
-    normalized.includes("_sl1500") ||
-    normalized.includes("/products/") ||
-    normalized.includes("product-image")
+    !editorialCampaign &&
+    !normalized.endsWith("perfume-placeholder.svg")
   );
 }
 

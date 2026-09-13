@@ -27,3 +27,13 @@ test("product artwork preserves accessibility and loading behavior", () => {
   assert.match(artwork, /loading=/);
   assert.match(artwork, /perfume-placeholder\.svg/);
 });
+
+test("retailer imagery defaults to premium packshot treatment", () => {
+  const artwork = fs.readFileSync(
+    "src/components/molecules/ProductArtwork.tsx",
+    "utf8",
+  );
+  assert.match(artwork, /const editorialCampaign/);
+  assert.match(artwork, /!editorialCampaign/);
+  assert.match(artwork, /13_9am\.jpg/);
+});
