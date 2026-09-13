@@ -141,10 +141,9 @@
     },
     {
       "ref": 67,
-      "source_page": "https://armaf.com/products/dubai-delicacy-kunafa-chocolate",
-      "image_url": null,
-      "status": "unavailable",
-      "error": "HTTP Error 404: Not Found"
+      "source_page": "https://www.chemistwarehouse.ae/products/armaf-dubai-delicacy-kunafa-chocolate-u-edp-70ml",
+      "image_url": "https://www.chemistwarehouse.ae/cdn/shop/files/1171_2FPRODUCT_IMAGE_2F8677619a8a66a6b29020830c782d444b.jpg?v=1770794321&width=1200",
+      "status": "matched_manual_exact"
     },
     {
       "ref": 76,
@@ -1995,6 +1994,36 @@
       "image_url": null,
       "status": "unavailable",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ref": 91,
+      "source_page": "https://armafperfume.com/products/armaf-odyssey-eau-de-montagne-edp-100ml",
+      "image_url": "https://armafperfume.com/cdn/shop/files/1_e3a3e479-4837-4021-a291-e38b303778c3.png?v=1786184655",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 167,
+      "source_page": "https://perfumeriamillennio.com/products/carolina-herrera-good-girl-very-edp-80ml",
+      "image_url": "https://perfumeriamillennio.com/cdn/shop/files/carolinaherreravery.jpg?v=1777136490&width=1200",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 247,
+      "source_page": "https://luchoperfumeria.com.co/products/dumont_nitro_red_intensely",
+      "image_url": "https://luchoperfumeria.com.co/cdn/shop/files/fotos_lucho_-_2026-03-31T180848.844.png?v=1774999170&width=1600",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 300,
+      "source_page": "https://aromatick.com/products/liquid-brun-limited-edition",
+      "image_url": "https://aromatick.com/cdn/shop/files/french-avenue-liquid-brun-le-bottle1.webp?v=1778154740&width=2048",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 303,
+      "source_page": "https://www.douglas.nl/nl/p/5011994674",
+      "image_url": "https://media.douglas.nl/medias/mKIYRn1280089-0-global.jpg?context=bWFzdGVyfGltYWdlc3w2MDE1N3xpbWFnZS9qcGVnfGFESTJMMmhtT1M4Mk9UZzRPVE14TWpFMk1UZ3lNaTl0UzBsWlVtNHhNamd3TURnNVh6QmZaMnh2WW1Gc0xtcHdad3w5NTc0NzZhNWJmY2RmOGNiZDIzY2VmNWZiZjkxYmZkMmE0NWQwOTBkMjUxOWQxNTMyNDMzNTZlODJiZDQ0Mjc5&grid=true",
+      "status": "matched_manual_exact"
     },
     {
       "ref": 741,
