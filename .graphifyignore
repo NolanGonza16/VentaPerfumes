@@ -1,0 +1,11 @@
+.agents/
+.claude/
+.codex/
+.firecrawl/
+.git/
+.next/
+dist/
+node_modules/
+graphify-out/
+public/
+.tmp-catalog-august/

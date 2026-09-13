@@ -1,0 +1,614 @@
+{
+  ".figma/make/analyze-routes": {
+    "mtime": 1787719122.0,
+    "seen": 1789288541.9821684,
+    "ast_hash": "d408a5d15cc549d950d9c85aa8e6733b",
+    "semantic_hash": "d408a5d15cc549d950d9c85aa8e6733b"
+  },
+  ".figma/make/deploy": {
+    "mtime": 1787719122.0,
+    "seen": 1789288541.9821696,
+    "ast_hash": "83ee566420dd252ed3f89323c4a65854",
+    "semantic_hash": "83ee566420dd252ed3f89323c4a65854"
+  },
+  ".figma/make/deploy-preview": {
+    "mtime": 1787719122.0,
+    "seen": 1789288541.9821708,
+    "ast_hash": "fdc0963cde1d657cef0c0466c295a006",
+    "semantic_hash": "fdc0963cde1d657cef0c0466c295a006"
+  },
+  ".figma/make/dev": {
+    "mtime": 1787719122.0,
+    "seen": 1789288541.982172,
+    "ast_hash": "a5b7c2a9b3a999bfe8576e021e0f16b3",
+    "semantic_hash": "a5b7c2a9b3a999bfe8576e021e0f16b3"
+  },
+  ".figma/make/dev.json": {
+    "mtime": 1787719122.0,
+    "seen": 1789288541.982173,
+    "ast_hash": "6d5deb245a1940f815cb1e363b75fc90",
+    "semantic_hash": "6d5deb245a1940f815cb1e363b75fc90"
+  },
+  ".figma/make/format": {
+    "mtime": 1787719122.0,
+    "seen": 1789288541.982174,
+    "ast_hash": "c5130615e938cf0b5fb51e190b3f212f",
+    "semantic_hash": "c5130615e938cf0b5fb51e190b3f212f"
+  },
+  ".figma/make/install": {
+    "mtime": 1787719122.0,
+    "seen": 1789288541.9821754,
+    "ast_hash": "fb3cb807fb882cb065ee02b8874f759c",
+    "semantic_hash": "fb3cb807fb882cb065ee02b8874f759c"
+  },
+  ".figma/make/langserver": {
+    "mtime": 1787719122.0,
+    "seen": 1789288541.9821765,
+    "ast_hash": "09d73139e9a9873fe47d02fb6e66d19e",
+    "semantic_hash": "09d73139e9a9873fe47d02fb6e66d19e"
+  },
+  ".figma/make/site.json": {
+    "mtime": 1787885936.52063,
+    "seen": 1789288541.9821773,
+    "ast_hash": "697c7fa13aa6fa52767c4950a95bf5fb",
+    "semantic_hash": "697c7fa13aa6fa52767c4950a95bf5fb"
+  },
+  "catalog/image-manifest.json": {
+    "mtime": 1789288152.387734,
+    "seen": 1789288541.9821796,
+    "ast_hash": "f13218334df800e38fe04ec7d532ed5d",
+    "semantic_hash": "f13218334df800e38fe04ec7d532ed5d"
+  },
+  "catalog/reviewed-august.json": {
+    "mtime": 1788915889.0958674,
+    "seen": 1789288541.9821808,
+    "ast_hash": "5065905f9bc672d160d1bd39a09b6d01",
+    "semantic_hash": "5065905f9bc672d160d1bd39a09b6d01"
+  },
+  "package.json": {
+    "mtime": 1788893372.1605988,
+    "seen": 1789288541.9821818,
+    "ast_hash": "0f834b3bfcc6369276d89406ffdedea8",
+    "semantic_hash": "0f834b3bfcc6369276d89406ffdedea8"
+  },
+  "research/batch-147-156.json": {
+    "mtime": 1788962792.9957962,
+    "seen": 1789288541.9821835,
+    "ast_hash": "e782d70507dc6c40c98555a3a21d31af",
+    "semantic_hash": "e782d70507dc6c40c98555a3a21d31af"
+  },
+  "research/batch-251-part1.json": {
+    "mtime": 1788963622.7966864,
+    "seen": 1789288541.9821844,
+    "ast_hash": "0e99fb19c7c34aebd8a9e5a44eefe820",
+    "semantic_hash": "0e99fb19c7c34aebd8a9e5a44eefe820"
+  },
+  "research/batch-251-part2.json": {
+    "mtime": 1788963623.6981018,
+    "seen": 1789288541.9821854,
+    "ast_hash": "c6de40723cd71e6caf8bf7a36e19b480",
+    "semantic_hash": "c6de40723cd71e6caf8bf7a36e19b480"
+  },
+  "research/batch-251-part3.json": {
+    "mtime": 1788963740.3784523,
+    "seen": 1789288541.9821868,
+    "ast_hash": "3fd022a2fdf9aed06d464b7b63a07c71",
+    "semantic_hash": "3fd022a2fdf9aed06d464b7b63a07c71"
+  },
+  "research/batch-251-part4.json": {
+    "mtime": 1788963741.4674659,
+    "seen": 1789288541.9821877,
+    "ast_hash": "ad689be1a4599eb437428ccc52142229",
+    "semantic_hash": "ad689be1a4599eb437428ccc52142229"
+  },
+  "research/batch-451-part1.json": {
+    "mtime": 1788977424.5316415,
+    "seen": 1789288541.9821887,
+    "ast_hash": "6382eea1f9cba05e2bfd3c07d1d961d2",
+    "semantic_hash": "6382eea1f9cba05e2bfd3c07d1d961d2"
+  },
+  "research/batch-451-part2.json": {
+    "mtime": 1788977425.687815,
+    "seen": 1789288541.98219,
+    "ast_hash": "ef2b0882caf4502bd508deaed327bfc1",
+    "semantic_hash": "ef2b0882caf4502bd508deaed327bfc1"
+  },
+  "research/batch-451-part3.json": {
+    "mtime": 1788977494.0123014,
+    "seen": 1789288541.9821916,
+    "ast_hash": "6704f08ad2060bec9ea72baf56b71e17",
+    "semantic_hash": "6704f08ad2060bec9ea72baf56b71e17"
+  },
+  "research/batch-451-part4.json": {
+    "mtime": 1788977538.970026,
+    "seen": 1789288541.9821923,
+    "ast_hash": "4c57e1841a1680d58bca17b3f581b9ee",
+    "semantic_hash": "4c57e1841a1680d58bca17b3f581b9ee"
+  },
+  "research/batch-652-part1.json": {
+    "mtime": 1788978118.4812584,
+    "seen": 1789288541.9821935,
+    "ast_hash": "215ae87fb70a0e2efbf9939a7c465754",
+    "semantic_hash": "215ae87fb70a0e2efbf9939a7c465754"
+  },
+  "research/batch-652-part2.json": {
+    "mtime": 1788978169.2528763,
+    "seen": 1789288541.9821944,
+    "ast_hash": "e443b596ed2d063c1a80973a684e24ad",
+    "semantic_hash": "e443b596ed2d063c1a80973a684e24ad"
+  },
+  "research/batch-652-retry1.json": {
+    "mtime": 1788978497.0467463,
+    "seen": 1789288541.9821954,
+    "ast_hash": "9c42195ec3a1fe2a031ca6e5f6a6ee3e",
+    "semantic_hash": "9c42195ec3a1fe2a031ca6e5f6a6ee3e"
+  },
+  "research/batch-652-retry2.json": {
+    "mtime": 1788978498.2699513,
+    "seen": 1789288541.9821966,
+    "ast_hash": "48980f4c959e9fff6d63da716b90c90b",
+    "semantic_hash": "48980f4c959e9fff6d63da716b90c90b"
+  },
+  "research/batch-652-retry3.json": {
+    "mtime": 1788978499.6307127,
+    "seen": 1789288541.9821975,
+    "ast_hash": "21e2f61963ba0e09783e687517432267",
+    "semantic_hash": "21e2f61963ba0e09783e687517432267"
+  },
+  "research/batch-652-retry4.json": {
+    "mtime": 1788978501.4287443,
+    "seen": 1789288541.9821982,
+    "ast_hash": "1cf7cd870923dc2914be62f7bdcfc3e7",
+    "semantic_hash": "1cf7cd870923dc2914be62f7bdcfc3e7"
+  },
+  "research/batch-652-retry5.json": {
+    "mtime": 1788978548.810247,
+    "seen": 1789288541.9822,
+    "ast_hash": "614ad6a61a412ee66fc6fa233a3770f0",
+    "semantic_hash": "614ad6a61a412ee66fc6fa233a3770f0"
+  },
+  "research/batch-continuation-reviewed.json": {
+    "mtime": 1789265149.569103,
+    "seen": 1789288541.9822009,
+    "ast_hash": "23afdae0229bf219bd78ca93445df512",
+    "semantic_hash": "23afdae0229bf219bd78ca93445df512"
+  },
+  "research/batch-editorial-performance-estimates.json": {
+    "mtime": 1788998630.247045,
+    "seen": 1789288541.982202,
+    "ast_hash": "df463d9ec85c6b1262aebd6d2a45ca87",
+    "semantic_hash": "df463d9ec85c6b1262aebd6d2a45ca87"
+  },
+  "research/batch-fragrantica-community-performance.json": {
+    "mtime": 1788998468.0609164,
+    "seen": 1789288541.9822032,
+    "ast_hash": "222414b73b7b827b7e41946bc7fc09b6",
+    "semantic_hash": "222414b73b7b827b7e41946bc7fc09b6"
+  },
+  "research/batch-huggingface-parfumo-dataset.json": {
+    "mtime": 1788999089.0828414,
+    "seen": 1789288541.9822044,
+    "ast_hash": "e7e75ef020924a5ae80b55c3cd30e945",
+    "semantic_hash": "e7e75ef020924a5ae80b55c3cd30e945"
+  },
+  "research/batch-parfumo-open-dataset.json": {
+    "mtime": 1788997785.8246076,
+    "seen": 1789288541.9822056,
+    "ast_hash": "070ce058ae135a13caf0253d5d7012ab",
+    "semantic_hash": "070ce058ae135a13caf0253d5d7012ab"
+  },
+  "research/batch-pending-1.json": {
+    "mtime": 1788981667.586691,
+    "seen": 1789288541.9822073,
+    "ast_hash": "269f2f85b8d95634182503959cc89c2d",
+    "semantic_hash": "269f2f85b8d95634182503959cc89c2d"
+  },
+  "research/batch-pending-2.json": {
+    "mtime": 1788981386.3829675,
+    "seen": 1789288541.9822083,
+    "ast_hash": "4b785e98164c026a9ad9738989378f3c",
+    "semantic_hash": "4b785e98164c026a9ad9738989378f3c"
+  },
+  "research/batch-pending-3.json": {
+    "mtime": 1788981387.4175394,
+    "seen": 1789288541.9822092,
+    "ast_hash": "1ecbc3bd5ef1bc20b5bbb5c68a62b7a0",
+    "semantic_hash": "1ecbc3bd5ef1bc20b5bbb5c68a62b7a0"
+  },
+  "research/batch-pending-4.json": {
+    "mtime": 1788981388.4444325,
+    "seen": 1789288541.9822104,
+    "ast_hash": "76175601f48bf79b18eca8e713df9a9c",
+    "semantic_hash": "76175601f48bf79b18eca8e713df9a9c"
+  },
+  "research/batch-pending-5.json": {
+    "mtime": 1788981390.0075676,
+    "seen": 1789288541.9822114,
+    "ast_hash": "764cbce1b2fe43dcb882b86079f1e8b2",
+    "semantic_hash": "764cbce1b2fe43dcb882b86079f1e8b2"
+  },
+  "research/batch-pending-6.json": {
+    "mtime": 1788981391.4240324,
+    "seen": 1789288541.982212,
+    "ast_hash": "10e0b4f7908eaee50c8c9884fcae4273",
+    "semantic_hash": "10e0b4f7908eaee50c8c9884fcae4273"
+  },
+  "research/batch-pending-7.json": {
+    "mtime": 1788981393.1261823,
+    "seen": 1789288541.982213,
+    "ast_hash": "0011394f3874b73d4b37606acadf6c92",
+    "semantic_hash": "0011394f3874b73d4b37606acadf6c92"
+  },
+  "research/batch-pending-8.json": {
+    "mtime": 1788981395.1282933,
+    "seen": 1789288541.982215,
+    "ast_hash": "57bb9013067c8ca1d0d86acc29b13b5f",
+    "semantic_hash": "57bb9013067c8ca1d0d86acc29b13b5f"
+  },
+  "research/batch-pending-manual-classics.json": {
+    "mtime": 1788982025.3782818,
+    "seen": 1789288541.9822156,
+    "ast_hash": "01cda676e4cf5f36af0d58ef4fa39677",
+    "semantic_hash": "01cda676e4cf5f36af0d58ef4fa39677"
+  },
+  "research/batch-pending-manual-final.json": {
+    "mtime": 1788982585.5300405,
+    "seen": 1789288541.9822166,
+    "ast_hash": "9c655aa11022d4d9ef40a727be5457e2",
+    "semantic_hash": "9c655aa11022d4d9ef40a727be5457e2"
+  },
+  "research/batch-pending-manual-last-identifiable.json": {
+    "mtime": 1788983253.9704897,
+    "seen": 1789288541.982218,
+    "ast_hash": "ae6b4bdbf5728a7b8ebc5c9711009638",
+    "semantic_hash": "ae6b4bdbf5728a7b8ebc5c9711009638"
+  },
+  "research/batch-pending-manual-official.json": {
+    "mtime": 1788981787.554724,
+    "seen": 1789288541.982219,
+    "ast_hash": "52a587ee01e3e16f7a6eb19e78b8c6c3",
+    "semantic_hash": "52a587ee01e3e16f7a6eb19e78b8c6c3"
+  },
+  "research/batch-perfumeonline-gender.json": {
+    "mtime": 1788985001.4155877,
+    "seen": 1789288541.9822197,
+    "ast_hash": "971b4d0f212194f5c61a9d332b88c5a1",
+    "semantic_hash": "971b4d0f212194f5c61a9d332b88c5a1"
+  },
+  "research/batch-public-longevity-dataset.json": {
+    "mtime": 1788997355.0105405,
+    "seen": 1789288541.9822211,
+    "ast_hash": "e54e46f930a6b0482e28ca8e4ae12f74",
+    "semantic_hash": "e54e46f930a6b0482e28ca8e4ae12f74"
+  },
+  "research/catalog-identification-review.json": {
+    "mtime": 1789265089.3083434,
+    "seen": 1789288541.9822226,
+    "ast_hash": "a83da80fb0ff412a79e2282c315ce027",
+    "semantic_hash": "a83da80fb0ff412a79e2282c315ce027"
+  },
+  "research/image-sources-reviewed.json": {
+    "mtime": 1789288136.402569,
+    "seen": 1789288541.9822235,
+    "ast_hash": "df0d75f85b1daf78b8b9f6aec4efb7e3",
+    "semantic_hash": "df0d75f85b1daf78b8b9f6aec4efb7e3"
+  },
+  "scripts/audit_catalog_images.py": {
+    "mtime": 1789265935.6498156,
+    "seen": 1789288541.9822247,
+    "ast_hash": "7a3154bb78f5a2c9ac81e0311b1ed2bb",
+    "semantic_hash": "7a3154bb78f5a2c9ac81e0311b1ed2bb"
+  },
+  "scripts/collect_public_fragrance_sources.py": {
+    "mtime": 1789266587.1369696,
+    "seen": 1789288541.9822257,
+    "ast_hash": "3d5b54687e13959a7cc0447e1347cdb1",
+    "semantic_hash": "3d5b54687e13959a7cc0447e1347cdb1"
+  },
+  "scripts/derive_supported_catalog_fields.py": {
+    "mtime": 1789265075.2955718,
+    "seen": 1789288541.9822268,
+    "ast_hash": "6f244dafd09cb6e6a26b82f2687f9eec",
+    "semantic_hash": "6f244dafd09cb6e6a26b82f2687f9eec"
+  },
+  "scripts/enrich_community_evidence.py": {
+    "mtime": 1789001196.388455,
+    "seen": 1789288541.9822283,
+    "ast_hash": "f55f2d30ee998f0a10de19f117227c47",
+    "semantic_hash": "f55f2d30ee998f0a10de19f117227c47"
+  },
+  "scripts/enrich_editorial_performance.py": {
+    "mtime": 1788998618.2754662,
+    "seen": 1789288541.9822292,
+    "ast_hash": "32f073205a25c07deec382e2a7556168",
+    "semantic_hash": "32f073205a25c07deec382e2a7556168"
+  },
+  "scripts/enrich_fragrantica_performance.py": {
+    "mtime": 1788997919.6007998,
+    "seen": 1789288541.982231,
+    "ast_hash": "efe2afd8e953503a96aae86023b55003",
+    "semantic_hash": "efe2afd8e953503a96aae86023b55003"
+  },
+  "scripts/enrich_huggingface_perfume_dataset.py": {
+    "mtime": 1788999075.5597787,
+    "seen": 1789288541.982232,
+    "ast_hash": "81fc5fe14002c3fa9618984438915e77",
+    "semantic_hash": "81fc5fe14002c3fa9618984438915e77"
+  },
+  "scripts/enrich_images_from_profile_sources.py": {
+    "mtime": 1789284621.5709999,
+    "seen": 1789288541.982233,
+    "ast_hash": "0b1027b43686a5ef5c3047695c1767a6",
+    "semantic_hash": "0b1027b43686a5ef5c3047695c1767a6"
+  },
+  "scripts/enrich_parfumo_dataset.py": {
+    "mtime": 1788997770.1208515,
+    "seen": 1789288541.982234,
+    "ast_hash": "febc7c263cf81be6a47ecdfc3f14eed5",
+    "semantic_hash": "febc7c263cf81be6a47ecdfc3f14eed5"
+  },
+  "scripts/enrich_parfumo_performance.py": {
+    "mtime": 1788984514.1578312,
+    "seen": 1789288541.982235,
+    "ast_hash": "00309900054ad27c81a2ca5ca0fd977a",
+    "semantic_hash": "00309900054ad27c81a2ca5ca0fd977a"
+  },
+  "scripts/enrich_perfumeonline_gender.py": {
+    "mtime": 1788984977.5571785,
+    "seen": 1789288541.9822361,
+    "ast_hash": "5a82c681419a25a1b477a3e8dd79ecab",
+    "semantic_hash": "5a82c681419a25a1b477a3e8dd79ecab"
+  },
+  "scripts/enrich_public_longevity_dataset.py": {
+    "mtime": 1788997427.3482852,
+    "seen": 1789288541.982237,
+    "ast_hash": "d9e87b590800822a533547a6528c5669",
+    "semantic_hash": "d9e87b590800822a533547a6528c5669"
+  },
+  "scripts/enrich_verified_retailer_images.py": {
+    "mtime": 1788934456.9366362,
+    "seen": 1789288541.982239,
+    "ast_hash": "02895b127861528ef589b5c4992e27e5",
+    "semantic_hash": "02895b127861528ef589b5c4992e27e5"
+  },
+  "scripts/enrich_verified_sources.py": {
+    "mtime": 1788934021.2613,
+    "seen": 1789288541.98224,
+    "ast_hash": "66f7bab961bbe4f594a11d1ba8a8d676",
+    "semantic_hash": "66f7bab961bbe4f594a11d1ba8a8d676"
+  },
+  "scripts/extract_supplier_catalog.py": {
+    "mtime": 1788932792.1064649,
+    "seen": 1789288541.9822414,
+    "ast_hash": "4a29352e101e6a850b6a3f6cd8fe2ac2",
+    "semantic_hash": "4a29352e101e6a850b6a3f6cd8fe2ac2"
+  },
+  "scripts/match_fragrance_sources.py": {
+    "mtime": 1789266587.1369696,
+    "seen": 1789288541.9822423,
+    "ast_hash": "66ac9e6d1927817ee569318e2af347b5",
+    "semantic_hash": "66ac9e6d1927817ee569318e2af347b5"
+  },
+  "scripts/optimize-assets.mjs": {
+    "mtime": 1788892257.7567,
+    "seen": 1789288541.9822433,
+    "ast_hash": "406592b3b9fd717190afd47a73f821c6",
+    "semantic_hash": "406592b3b9fd717190afd47a73f821c6"
+  },
+  "scripts/prepare_august_catalog.py": {
+    "mtime": 1788933183.3407516,
+    "seen": 1789288541.9822443,
+    "ast_hash": "60b70536acaf0c3c636e5f45379d8f38",
+    "semantic_hash": "60b70536acaf0c3c636e5f45379d8f38"
+  },
+  "scripts/prepare_catalog_image_uploads.py": {
+    "mtime": 1789266299.3355458,
+    "seen": 1789288541.9822454,
+    "ast_hash": "71f5e92ae526ecd68b2568398d1806dd",
+    "semantic_hash": "71f5e92ae526ecd68b2568398d1806dd"
+  },
+  "scripts/render_catalog_import_sql.py": {
+    "mtime": 1788932718.2553248,
+    "seen": 1789288541.9822469,
+    "ast_hash": "7d25b498390237f374a12ec490e98d72",
+    "semantic_hash": "7d25b498390237f374a12ec490e98d72"
+  },
+  "scripts/render_image_updates_sql.py": {
+    "mtime": 1789266299.3355458,
+    "seen": 1789288541.9822476,
+    "ast_hash": "981a2ab18fdacd26fdf23d82464b4fab",
+    "semantic_hash": "981a2ab18fdacd26fdf23d82464b4fab"
+  },
+  "skills-lock.json": {
+    "mtime": 1789287373.3169575,
+    "seen": 1789288541.9822488,
+    "ast_hash": "5ef8a31c215066f7eb9197eac386fe72",
+    "semantic_hash": "5ef8a31c215066f7eb9197eac386fe72"
+  },
+  "src/App.tsx": {
+    "mtime": 1788892257.1010728,
+    "seen": 1789288541.98225,
+    "ast_hash": "f54b37df135422648c9f87f68addf47a",
+    "semantic_hash": "f54b37df135422648c9f87f68addf47a"
+  },
+  "src/components/atoms/Icon.tsx": {
+    "mtime": 1788899228.7660747,
+    "seen": 1789288541.9822512,
+    "ast_hash": "ed3d27949573765d4aff48148b0a61ad",
+    "semantic_hash": "ed3d27949573765d4aff48148b0a61ad"
+  },
+  "src/components/molecules/PerfumeCard.tsx": {
+    "mtime": 1789266183.190677,
+    "seen": 1789288541.9822524,
+    "ast_hash": "354f4741b0585654c5da6f2d663b5999",
+    "semantic_hash": "354f4741b0585654c5da6f2d663b5999"
+  },
+  "src/components/molecules/ProductArtwork.tsx": {
+    "mtime": 1789284116.6582785,
+    "seen": 1789288541.9822533,
+    "ast_hash": "f43023314b3672e4b00b987194d9fe27",
+    "semantic_hash": "f43023314b3672e4b00b987194d9fe27"
+  },
+  "src/components/organisms/CatalogFilters.tsx": {
+    "mtime": 1788959176.6265068,
+    "seen": 1789288541.982254,
+    "ast_hash": "ff84086eb57f68dd61637380e0f439ec",
+    "semantic_hash": "ff84086eb57f68dd61637380e0f439ec"
+  },
+  "src/components/organisms/ErrorBoundary.tsx": {
+    "mtime": 1788892257.1806474,
+    "seen": 1789288541.9822552,
+    "ast_hash": "a67f93a5822857f6e98022eecb549d54",
+    "semantic_hash": "a67f93a5822857f6e98022eecb549d54"
+  },
+  "src/components/organisms/PerfumeDetail.tsx": {
+    "mtime": 1789266183.1916816,
+    "seen": 1789288541.9822564,
+    "ast_hash": "193d8a1ea843f05090e31e3a38b2ac48",
+    "semantic_hash": "193d8a1ea843f05090e31e3a38b2ac48"
+  },
+  "src/config/store.ts": {
+    "mtime": 1788892257.2444336,
+    "seen": 1789288541.9822574,
+    "ast_hash": "297a2ad1949cdc3c206a13dca31d5e3f",
+    "semantic_hash": "297a2ad1949cdc3c206a13dca31d5e3f"
+  },
+  "src/data/perfumes.ts": {
+    "mtime": 1788933238.7902853,
+    "seen": 1789288541.9822588,
+    "ast_hash": "7ebd6aa63e19473376fd31b000fd1022",
+    "semantic_hash": "7ebd6aa63e19473376fd31b000fd1022"
+  },
+  "src/hooks/useCatalog.ts": {
+    "mtime": 1788915328.6078038,
+    "seen": 1789288541.9822598,
+    "ast_hash": "0e7bfdaf5f7d06a8542157949a160a98",
+    "semantic_hash": "0e7bfdaf5f7d06a8542157949a160a98"
+  },
+  "src/lib/catalog.ts": {
+    "mtime": 1788933238.8406818,
+    "seen": 1789288541.982261,
+    "ast_hash": "efdd050dec9de9d80ad9a9cbc99ddfe1",
+    "semantic_hash": "efdd050dec9de9d80ad9a9cbc99ddfe1"
+  },
+  "src/lib/prices.ts": {
+    "mtime": 1788935714.8274767,
+    "seen": 1789288541.9822624,
+    "ast_hash": "bb0abc3edbd631e8fba421817a783aab",
+    "semantic_hash": "bb0abc3edbd631e8fba421817a783aab"
+  },
+  "src/lib/productVisual.ts": {
+    "mtime": 1789266063.802713,
+    "seen": 1789288541.9822636,
+    "ast_hash": "435a55409d53f7ba31117a2bf8060c02",
+    "semantic_hash": "435a55409d53f7ba31117a2bf8060c02"
+  },
+  "src/lib/supabase.ts": {
+    "mtime": 1788892257.502046,
+    "seen": 1789288541.9822645,
+    "ast_hash": "7c51328a1d73af97adf8f1939a788b6a",
+    "semantic_hash": "7c51328a1d73af97adf8f1939a788b6a"
+  },
+  "src/main.tsx": {
+    "mtime": 1788892257.5060475,
+    "seen": 1789288541.982271,
+    "ast_hash": "3bd5241013c1478f989364403c19384a",
+    "semantic_hash": "3bd5241013c1478f989364403c19384a"
+  },
+  "src/pages/CatalogPage.tsx": {
+    "mtime": 1788935714.8274767,
+    "seen": 1789288541.982272,
+    "ast_hash": "6c3a39035761c40e024e2f65dbd3d820",
+    "semantic_hash": "6c3a39035761c40e024e2f65dbd3d820"
+  },
+  "src/pages/ContactPage.tsx": {
+    "mtime": 1788893372.1617248,
+    "seen": 1789288541.982273,
+    "ast_hash": "6b9c18634bb6d61fcc892d4b024a672f",
+    "semantic_hash": "6b9c18634bb6d61fcc892d4b024a672f"
+  },
+  "src/pages/HomePage.tsx": {
+    "mtime": 1788899228.7660747,
+    "seen": 1789288541.982274,
+    "ast_hash": "19741417de29c4e9b12470669b17eced",
+    "semantic_hash": "19741417de29c4e9b12470669b17eced"
+  },
+  "src/vite-env.d.ts": {
+    "mtime": 1787719122.0,
+    "seen": 1789288541.982275,
+    "ast_hash": "0352474ba2918efe13895edbc3780d94",
+    "semantic_hash": "0352474ba2918efe13895edbc3780d94"
+  },
+  "tests/catalog-image-manifest.test.ts": {
+    "mtime": 1789265909.8803222,
+    "seen": 1789288541.9822764,
+    "ast_hash": "f8760b45edf091d22174d860f20d9f54",
+    "semantic_hash": "f8760b45edf091d22174d860f20d9f54"
+  },
+  "tests/catalog-image-pipeline.test.ts": {
+    "mtime": 1789266299.3376193,
+    "seen": 1789288541.9822774,
+    "ast_hash": "13e4ae916ac57d70cef372438c958143",
+    "semantic_hash": "13e4ae916ac57d70cef372438c958143"
+  },
+  "tests/catalog-import.test.ts": {
+    "mtime": 1788999264.735294,
+    "seen": 1789288541.9822786,
+    "ast_hash": "3886608d14ae846b0dbfd87480703ccf",
+    "semantic_hash": "3886608d14ae846b0dbfd87480703ccf"
+  },
+  "tests/catalog.test.ts": {
+    "mtime": 1788935714.8274767,
+    "seen": 1789288541.9822798,
+    "ast_hash": "18a89a75b20a2d28deb70c1a83087b63",
+    "semantic_hash": "18a89a75b20a2d28deb70c1a83087b63"
+  },
+  "tests/fixtures/perfumes.ts": {
+    "mtime": 1788915328.578622,
+    "seen": 1789288541.982281,
+    "ast_hash": "407f60789edc6cdcdb09de8665fde0ec",
+    "semantic_hash": "407f60789edc6cdcdb09de8665fde0ec"
+  },
+  "tests/icons.test.ts": {
+    "mtime": 1788899249.5518427,
+    "seen": 1789288541.982282,
+    "ast_hash": "481a83ce519be3c95a59002dce221327",
+    "semantic_hash": "481a83ce519be3c95a59002dce221327"
+  },
+  "tests/product-artwork.test.ts": {
+    "mtime": 1789286227.8758667,
+    "seen": 1789288541.982283,
+    "ast_hash": "c19a9ae9d5c794c6ce196bb041a40f6a",
+    "semantic_hash": "c19a9ae9d5c794c6ce196bb041a40f6a"
+  },
+  "tests/product-visual.test.ts": {
+    "mtime": 1789266063.80171,
+    "seen": 1789288541.9822843,
+    "ast_hash": "179172859abe5caf381fb7436fe33c5e",
+    "semantic_hash": "179172859abe5caf381fb7436fe33c5e"
+  },
+  "tests/test_match_fragrance_sources.py": {
+    "mtime": 1788933727.2439535,
+    "seen": 1789288541.9822855,
+    "ast_hash": "6281830a405fe8104830885639c88d45",
+    "semantic_hash": "6281830a405fe8104830885639c88d45"
+  },
+  "tsconfig.json": {
+    "mtime": 1787719122.0,
+    "seen": 1789288541.982287,
+    "ast_hash": "f67af494aefeae8b9d2d0dc4021ce32d",
+    "semantic_hash": "f67af494aefeae8b9d2d0dc4021ce32d"
+  },
+  "vercel.json": {
+    "mtime": 1787885599.2477462,
+    "seen": 1789288541.982288,
+    "ast_hash": "5c8dae7df5817b7441b7b94d7abbf933",
+    "semantic_hash": "5c8dae7df5817b7441b7b94d7abbf933"
+  },
+  "vite.config.ts": {
+    "mtime": 1787720565.0732012,
+    "seen": 1789288541.982289,
+    "ast_hash": "90cafdad1b96ab60f7fcd576653b548c",
+    "semantic_hash": "90cafdad1b96ab60f7fcd576653b548c"
+  }
+}
