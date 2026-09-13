@@ -1,5 +1,6 @@
 import type { Perfume } from "../../data/perfumes";
 import Icon from "../atoms/Icon";
+import ProductArtwork from "./ProductArtwork";
 export default function PerfumeCard({
   perfume,
   onOpen,
@@ -17,17 +18,10 @@ export default function PerfumeCard({
         aria-label={`Ver detalles de ${perfume.nombre} de ${perfume.marca}`}
       >
         <span className="card-image">
-          <img
-            src={perfume.imagen}
-            alt={`${perfume.nombre} de ${perfume.marca}`}
-            width="600"
-            height="750"
-            loading={index < 4 ? "eager" : "lazy"}
-            decoding="async"
-            onError={(event) => {
-              if (!event.currentTarget.src.endsWith("perfume-placeholder.svg"))
-                event.currentTarget.src = "/images/perfume-placeholder.svg";
-            }}
+          <ProductArtwork
+            perfume={perfume}
+            priority={index < 4}
+            variant="card"
           />
           <span className="card-image-arrow">
             <Icon name="arrow" />

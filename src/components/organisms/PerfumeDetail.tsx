@@ -2,6 +2,7 @@ import { useEffect, useId, useLayoutEffect, useRef, useState } from "react";
 import type { MouseEvent, PointerEvent } from "react";
 import { createPortal } from "react-dom";
 import Icon from "../atoms/Icon";
+import ProductArtwork from "../molecules/ProductArtwork";
 import { whatsappUrl } from "../../config/store";
 import type { Perfume } from "../../data/perfumes";
 import "../../styles/product-detail.css";
@@ -74,7 +75,6 @@ export default function PerfumeDetail({
   const closeButtonRef = useRef<HTMLButtonElement>(null);
   const onCloseRef = useRef(onClose);
   const backdropPressRef = useRef(false);
-  const [imageFailed, setImageFailed] = useState(false);
   const availability =
     perfume.disponibilidad ??
     (perfume.disponible ? "disponible" : "bajo_pedido");
@@ -202,31 +202,7 @@ export default function PerfumeDetail({
 
       <div className="pd-body">
         <div className="pd-visual">
-          {!imageFailed ? (
-            <img
-              className="pd-product-image"
-              src={perfume.imagen}
-              alt={`${perfume.nombre}, ${perfume.marca}`}
-              decoding="async"
-              onError={() => setImageFailed(true)}
-            />
-          ) : (
-            <div className="pd-image-placeholder">
-              <svg viewBox="0 0 120 160" fill="none" aria-hidden="true">
-                <path
-                  d="M43 15h34v28H43zM34 56h52a8 8 0 0 1 8 8v77a8 8 0 0 1-8 8H34a8 8 0 0 1-8-8V64a8 8 0 0 1 8-8ZM46 43h28v13H46z"
-                  stroke="currentColor"
-                  strokeWidth="1"
-                />
-                <path
-                  d="M38 88h44v32H38z"
-                  stroke="currentColor"
-                  strokeWidth="1"
-                />
-              </svg>
-              <span>Imagen próximamente</span>
-            </div>
-          )}
+          <ProductArtwork perfume={perfume} priority variant="detail" />
           <div className="pd-image-shade" />
           <span className="pd-visual-caption">
             El arte de dejar una impresión.
