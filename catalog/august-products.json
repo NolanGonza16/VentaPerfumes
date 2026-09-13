@@ -42291,22 +42291,51 @@
       "precio_crc": 25500,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": "amaderada aromática",
+      "familia": "Oriental fougère",
       "genero": "Hombre",
       "ocasiones": [
         "Diario",
         "Oficina",
         "Casual"
       ],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Caramelo",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Mandarina",
+        "Salvia esclarea"
+      ],
+      "notas_corazon": [
+        "Caramelo",
+        "Haba tonka"
+      ],
+      "notas_fondo": [
+        "Vetiver"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Mandarina y Salvia esclarea abren una fragancia de perfil oriental fougère, con un corazón de Caramelo y Haba tonka y un fondo de Vetiver. Una composición de carácter cítrico pensada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -42328,6 +42357,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://beta.fragrantica.com/perfume/Maison-Alhambra/Candid-Pour-Homme-100487.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -42335,7 +42369,7 @@
       "orden": 1504,
       "sku": "AGOSTO-2026-0504",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 504,
       "presentacion_proveedor": "MAISON ALHAMBRA CANDID HOMBRE EDP 100ML"
     },
@@ -42881,18 +42915,47 @@
       "precio_crc": 30600,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Oriental cítrica",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Mandarina",
+        "Bergamota"
+      ],
+      "notas_corazon": [
+        "Naranja"
+      ],
+      "notas_fondo": [
+        "Jengibre",
+        "Ámbar gris"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Mandarina y Bergamota abren una fragancia de perfil oriental cítrica, con un corazón de Naranja y un fondo de Jengibre y Ámbar gris. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Jean_Lowe_Azure.png?v=1743026835",
       "fuentes": [
         {
@@ -42914,6 +42977,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Maison-Alhambra/Jean-Lowe-Azure-100480.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -42921,7 +42989,7 @@
       "orden": 1511,
       "sku": "AGOSTO-2026-0511",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 511,
       "presentacion_proveedor": "MAISON ALHAMBRA JEAN LOWE AZURE EDP 100ML"
     },
@@ -42932,18 +43000,57 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental fougère",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Lavanda",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Lavanda",
+        "Mandarina",
+        "Petitgrain",
+        "Grosella negra"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Lavanda",
+        "Naranja"
+      ],
+      "notas_fondo": [
+        "Vainilla",
+        "Almizcle",
+        "Ámbar gris",
+        "Cedro"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Lavanda y Mandarina abren una fragancia de perfil oriental fougère, con un corazón de Jazmín y Lavanda y un fondo de Vainilla y Almizcle. Una composición de carácter floral pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -42960,6 +43067,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.fr/parfum/Maison-Alhambra/Libbra-92630.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -42967,7 +43079,7 @@
       "orden": 1512,
       "sku": "AGOSTO-2026-0512",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 512,
       "presentacion_proveedor": "MAISON ALHAMBRA LIBBRA EDP 100ML"
     },
@@ -42978,18 +43090,62 @@
       "precio_crc": 22100,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Amaderada aromática",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ahumado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Toronja",
+        "Limón",
+        "Menta",
+        "Pimienta rosa",
+        "Bergamota",
+        "Aldehídos"
+      ],
+      "notas_corazon": [
+        "Jengibre",
+        "Nuez moscada",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Incienso",
+        "Vetiver",
+        "Cedro",
+        "Sándalo",
+        "Pachulí",
+        "Ládano",
+        "Almizcle blanco"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Toronja y Limón abren una fragancia de perfil amaderada aromática, con un corazón de Jengibre y Nuez moscada y un fondo de Incienso y Vetiver. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -43006,6 +43162,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://arabiaan.fr/produit/maitre-de-blue-alhambra/",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://soghaat.co.uk/fr/products/maitre-de-blue-100ml-edp-by-maison-alhambra",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -43013,7 +43179,7 @@
       "orden": 1513,
       "sku": "AGOSTO-2026-0513",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 513,
       "presentacion_proveedor": "MAISON ALHAMBRA MAITRE DE BLUE EDP 100ML"
     },
@@ -43024,18 +43190,54 @@
       "precio_crc": 29750,
       "tamano_ml": 50,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromática acuática",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "Acuático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Limón"
+      ],
+      "notas_corazon": [
+        "Algas",
+        "Calone",
+        "Hedione"
+      ],
+      "notas_fondo": [
+        "Ambroxan",
+        "Almizcle",
+        "Cedro"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Bergamota y Limón abren una fragancia de perfil aromática acuática, con un corazón de Algas y Calone y un fondo de Ambroxan y Almizcle. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -43052,6 +43254,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Maison-Alhambra/Megara-96620.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -43059,7 +43266,7 @@
       "orden": 1514,
       "sku": "AGOSTO-2026-0514",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 514,
       "presentacion_proveedor": "MAISON ALHAMBRA MEGARA EDP 50ML"
     },
@@ -43070,18 +43277,56 @@
       "precio_crc": 22100,
       "tamano_ml": null,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Lavanda",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota",
+        "Lavanda"
+      ],
+      "notas_corazon": [
+        "Jengibre",
+        "Cardamomo"
+      ],
+      "notas_fondo": [
+        "Vetiver",
+        "Incienso",
+        "Almizcle",
+        "Sándalo",
+        "Ládano",
+        "Madera de guayaco"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Bergamota y Lavanda abren una fragancia de perfil aromática, con un corazón de Jengibre y Cardamomo y un fondo de Vetiver y Incienso. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Maison_Alhambra_No_2.png?v=1740239731",
       "fuentes": [
         {
@@ -43103,6 +43348,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://beta.fragrantica.com/perfume/Maison-Alhambra/No-2-Men-94065.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -43110,7 +43360,7 @@
       "orden": 1515,
       "sku": "AGOSTO-2026-0515",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 515,
       "presentacion_proveedor": "MAISON ALHAMBRA NO 2 MEN EDP"
     },
@@ -43121,18 +43371,57 @@
       "precio_crc": 21250,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Toronja",
+        "Piña",
+        "Fresa"
+      ],
+      "notas_corazon": [
+        "Peonía",
+        "Frutos rojos",
+        "Lirio",
+        "Orquídea",
+        "Jazmín"
+      ],
+      "notas_fondo": [
+        "Musgo de roble",
+        "Notas amaderadas",
+        "Almizcle"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Toronja y Piña abren una fragancia de perfil floral frutal, con un corazón de Peonía y Frutos rojos y un fondo de Musgo de roble y Notas amaderadas. Una composición de carácter floral pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -43149,6 +43438,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Maison-Alhambra/Pink-Shimmer-Secret-92627.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -43156,7 +43450,7 @@
       "orden": 1516,
       "sku": "AGOSTO-2026-0516",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 516,
       "presentacion_proveedor": "MAISON ALHAMBRA PINK SHIMMER SECRET EDP 100ML"
     },
@@ -43213,18 +43507,53 @@
       "precio_crc": 26350,
       "tamano_ml": 80,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Floral oriental",
+      "genero": "Unisex",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Rosa",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Pachulí",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Rosa de mayo",
+        "Rosa búlgara"
+      ],
+      "notas_corazon": [
+        "Rosa turca",
+        "Azafrán"
+      ],
+      "notas_fondo": [
+        "Pachulí",
+        "Vainilla",
+        "Haba tonka"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Rosa de mayo y Rosa búlgara abren una fragancia de perfil floral oriental, con un corazón de Rosa turca y Azafrán y un fondo de Pachulí y Vainilla. Una composición de carácter floral pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -43241,6 +43570,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Maison-Alhambra/Rose-Petals-79941.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://basenotes.com/fragrances/rose-petals-by-maison-alhambra.26253186",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -43248,7 +43587,7 @@
       "orden": 1518,
       "sku": "AGOSTO-2026-0518",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 518,
       "presentacion_proveedor": "MAISON ALHAMBRA ROSE PETALS EDP 80ML"
     },
@@ -43259,18 +43598,58 @@
       "precio_crc": 21250,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental fougère",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota de Calabria",
+        "Pimienta"
+      ],
+      "notas_corazon": [
+        "Pimienta de Sichuan",
+        "Lavanda",
+        "Pimienta rosa",
+        "Vetiver",
+        "Pachulí",
+        "Geranio",
+        "Elemí"
+      ],
+      "notas_fondo": [
+        "Ambroxan",
+        "Cedro",
+        "Ládano"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Bergamota de Calabria y Pimienta abren una fragancia de perfil oriental fougère, con un corazón de Pimienta de Sichuan y Lavanda y un fondo de Ambroxan y Cedro. Una composición de carácter amaderado pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -43287,6 +43666,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://maisonalhambra-usa.com/products/maison-alhambra-salvo-eau-de-parfum-for-men",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -43294,7 +43678,7 @@
       "orden": 1519,
       "sku": "AGOSTO-2026-0519",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 519,
       "presentacion_proveedor": "MAISON ALHAMBRA SALVO EDP 100ML"
     },
@@ -43312,15 +43696,50 @@
         "Citas",
         "Eventos especiales"
       ],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Miel",
+          "emoji": ""
+        },
+        {
+          "nombre": "Tabaco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ahumado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Ciruela",
+        "Durazno",
+        "Bergamota",
+        "Cítricos"
+      ],
+      "notas_corazon": [
+        "Miel",
+        "Humo",
+        "Notas orientales"
+      ],
+      "notas_fondo": [
+        "Hoja de tabaco",
+        "Tabaco",
+        "Ámbar",
+        "Tabaco blanco"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Ciruela y Durazno abren una fragancia de perfil tabaco, con un corazón de Miel y Humo y un fondo de Hoja de tabaco y Tabaco. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -43342,6 +43761,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Maison-Alhambra/Tabac-95637.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -43349,7 +43773,7 @@
       "orden": 1520,
       "sku": "AGOSTO-2026-0520",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 520,
       "presentacion_proveedor": "MAISON ALHAMBRA TABAC EDP 100ML"
     },
@@ -46366,22 +46790,58 @@
       "precio_crc": 51850,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": "Floral frutal",
+      "familia": "Oriental gourmand",
       "genero": "Mujer",
       "ocasiones": [
         "Diario",
         "Citas",
         "Eventos especiales"
       ],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avellana",
+          "emoji": ""
+        },
+        {
+          "nombre": "Lácteo",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Bergamota italiana",
+        "Naranja sanguina italiana",
+        "Acorde de lías de vino",
+        "Acorde de avellana"
+      ],
+      "notas_corazon": [
+        "Acorde de praliné",
+        "Acorde de crema láctea",
+        "Akigalawood",
+        "Ambrofix"
+      ],
+      "notas_fondo": [
+        "Vainilla de Madagascar",
+        "Mirra",
+        "Benjuí de Laos",
+        "Almizcle"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Bergamota italiana y Naranja sanguina italiana abren una fragancia de perfil oriental gourmand, con un corazón de Acorde de praliné y Acorde de crema láctea y un fondo de Vainilla de Madagascar y Mirra. Una composición de carácter cítrico pensada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -46403,6 +46863,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.moschinobeauty.com/products/toy-2-gummy",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -46410,7 +46875,7 @@
       "orden": 1557,
       "sku": "AGOSTO-2026-0557",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 557,
       "presentacion_proveedor": "MOSCHINO TOY 2 GUMMY EDP 100ML"
     },
@@ -46514,18 +46979,56 @@
       "precio_crc": 51850,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Cítrica fresca",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Rosa",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Mandarina amarilla italiana",
+        "Bergamota italiana",
+        "Mystikal"
+      ],
+      "notas_corazon": [
+        "Geranio egipcio",
+        "Jazmín sambac",
+        "Pimienta Timut",
+        "Pimienta negra de Madagascar"
+      ],
+      "notas_fondo": [
+        "Rosa búlgara",
+        "Vetiver haitiano",
+        "Serenolide"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Mandarina amarilla italiana y Bergamota italiana abren una fragancia de perfil cítrica fresca, con un corazón de Geranio egipcio y Jazmín sambac y un fondo de Rosa búlgara y Vetiver haitiano. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -46547,6 +47050,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.moschinobeauty.com/products/toy-2-yummy-600232",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -46554,7 +47062,7 @@
       "orden": 1559,
       "sku": "AGOSTO-2026-0559",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 559,
       "presentacion_proveedor": "MOSCHINO TOY 2 YUMMY EDP 100ML"
     },
@@ -46565,18 +47073,50 @@
       "precio_crc": 36550,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Amaderada ambarada especiada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Café",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Nuez moscada",
+        "Jengibre"
+      ],
+      "notas_corazon": [
+        "Café"
+      ],
+      "notas_fondo": [
+        "Cedro"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Nuez moscada y Jengibre abren una fragancia de perfil amaderada ambarada especiada, con un corazón de Café y un fondo de Cedro. Una composición de carácter especiado pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Moschino_Toy_Boy_2_467acfe0-49a9-4562-8a9e-baaffac70013.jpg?v=1778594918",
       "fuentes": [
         {
@@ -46603,6 +47143,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.moschinobeauty.com/products/toy-boy-2-600110",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -46610,7 +47155,7 @@
       "orden": 1560,
       "sku": "AGOSTO-2026-0560",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 560,
       "presentacion_proveedor": "MOSCHINO TOY BOY 2 EDP 100ML"
     },
@@ -46901,18 +47446,67 @@
       "precio_crc": 14450,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Chipre amaderada",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Aldehídos",
+        "Lima",
+        "Limón",
+        "Bergamota",
+        "Neroli",
+        "Ciprés",
+        "Estragón",
+        "Salvia esclarea",
+        "Cilantro",
+        "Canela"
+      ],
+      "notas_corazon": [
+        "Jazmín",
+        "Ciclamen",
+        "Geranio",
+        "Rosa",
+        "Alcaravea"
+      ],
+      "notas_fondo": [
+        "Sándalo",
+        "Almizcle",
+        "Cedro",
+        "Musgo de roble",
+        "Pachulí",
+        "Ámbar"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Aldehídos y Lima abren una fragancia de perfil chipre amaderada, con un corazón de Jazmín y Ciclamen y un fondo de Sándalo y Almizcle. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -46929,6 +47523,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://beta.fragrantica.com/perfume/Nautica/Nautica-2479.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -46936,7 +47535,7 @@
       "orden": 1564,
       "sku": "AGOSTO-2026-0564",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 564,
       "presentacion_proveedor": "NAUTICA CLASICO EDT 100ML"
     },
@@ -47226,7 +47825,7 @@
       "precio_crc": 51000,
       "tamano_ml": 80,
       "concentracion": "Eau de Parfum",
-      "familia": "Ámbar floral",
+      "familia": "Oriental amaderada",
       "genero": "Unisex",
       "ocasiones": [
         "Noche",
@@ -47235,25 +47834,38 @@
       ],
       "acordes": [
         {
-          "nombre": "ámbar",
+          "nombre": "Ambarado",
           "emoji": ""
         },
         {
-          "nombre": "dulce",
+          "nombre": "Amaderado",
           "emoji": ""
         },
         {
-          "nombre": "floral",
+          "nombre": "Cálido especiado",
           "emoji": ""
         },
         {
-          "nombre": "amaderado",
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Balsámico",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Jazmín",
+        "Azafrán"
+      ],
+      "notas_corazon": [
+        "Madera de ámbar",
+        "Ámbar gris"
+      ],
+      "notas_fondo": [
+        "Resina de abeto",
+        "Cedro"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -47280,6 +47892,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://orientica.com.bd/shop/orientica-perfumes-collection/all-luxury-perfumes/amber-rouge-edp-80-ml-luxury-perfume/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -47287,7 +47904,7 @@
       "orden": 1568,
       "sku": "AGOSTO-2026-0568",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 568,
       "presentacion_proveedor": "ORIENTICA AMBER ROUGE UNISEX EDP 80ML"
     },
@@ -47298,7 +47915,7 @@
       "precio_crc": 50150,
       "tamano_ml": 80,
       "concentracion": "Eau de Parfum",
-      "familia": "Ámbar",
+      "familia": "Oriental frutal amaderada",
       "genero": "Unisex",
       "ocasiones": [
         "Noche",
@@ -47307,21 +47924,41 @@
       ],
       "acordes": [
         {
-          "nombre": "ámbar",
+          "nombre": "Afrutado",
           "emoji": ""
         },
         {
-          "nombre": "dulce",
+          "nombre": "Ambarado",
           "emoji": ""
         },
         {
-          "nombre": "amaderado",
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Bergamota",
+        "Notas verdes"
+      ],
+      "notas_corazon": [
+        "Melón",
+        "Piña",
+        "Acorde gourmand",
+        "Ámbar"
+      ],
+      "notas_fondo": [
+        "Notas amaderadas",
+        "Vainilla",
+        "Almizcle"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -47348,6 +47985,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.orientica.co.uk/en-us/collections/luxury-collection/products/orientica-luxury-collection-royal-amber-80ml",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -47355,7 +47997,7 @@
       "orden": 1569,
       "sku": "AGOSTO-2026-0569",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 569,
       "presentacion_proveedor": "ORIENTICA ROYAL AMBER EDP 80ML"
     },
@@ -47366,7 +48008,7 @@
       "precio_crc": 24650,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": "Floral aldehídica",
+      "familia": "Oriental floral",
       "genero": "Mujer",
       "ocasiones": [
         "Diario",
@@ -47375,25 +48017,46 @@
       ],
       "acordes": [
         {
-          "nombre": "floral",
+          "nombre": "Floral blanco",
           "emoji": ""
         },
         {
-          "nombre": "aldehídico",
+          "nombre": "Aromático",
           "emoji": ""
         },
         {
-          "nombre": "verde",
+          "nombre": "Amaderado",
           "emoji": ""
         },
         {
-          "nombre": "amaderado",
+          "nombre": "Ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Mandarina",
+        "Bergamota",
+        "Semillas de cilantro",
+        "Albahaca"
+      ],
+      "notas_corazon": [
+        "Ylang-ylang",
+        "Retama",
+        "Absoluto de flor de azahar",
+        "Clavel"
+      ],
+      "notas_fondo": [
+        "Opopónaco",
+        "Pachulí",
+        "Ionona",
+        "Heliotropo",
+        "Cumarina",
+        "Sándalo"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -47425,6 +48088,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.interparfumsinc.com/products/oscar-eau-de-toilette",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -47432,7 +48100,7 @@
       "orden": 1570,
       "sku": "AGOSTO-2026-0570",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 570,
       "presentacion_proveedor": "OSCAR DE LA RENTA EDT 100ML"
     },
@@ -49333,7 +50001,7 @@
       "precio_crc": 25500,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": "Floral gourmand",
+      "familia": "Floral frutal gourmand",
       "genero": "Mujer",
       "ocasiones": [
         "Noche",
@@ -49342,21 +50010,41 @@
       ],
       "acordes": [
         {
-          "nombre": "dulce",
+          "nombre": "Dulce",
           "emoji": ""
         },
         {
-          "nombre": "floral",
+          "nombre": "Afrutado",
           "emoji": ""
         },
         {
-          "nombre": "afrutado",
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Fresa",
+        "Frambuesa",
+        "Limón"
+      ],
+      "notas_corazon": [
+        "Ambroxan",
+        "Flor de azahar",
+        "Crema batida"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Malvavisco",
+        "Vainilla"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -49388,6 +50076,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.pariscornerperfumes.com/products/marshmallow-blush",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -49395,7 +50088,7 @@
       "orden": 1592,
       "sku": "AGOSTO-2026-0592",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 592,
       "presentacion_proveedor": "PARIS CORNER MARSHMALLOW BLUSH EDP 100ML"
     },
@@ -49584,18 +50277,55 @@
       "precio_crc": 23800,
       "tamano_ml": 100,
       "concentracion": "Eau de Toilette",
-      "familia": null,
+      "familia": "Amaderada aromática",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Tropical",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Acorde de aire libre",
+        "Hoja de higuera",
+        "Mango verde"
+      ],
+      "notas_corazon": [
+        "Salvia blanca",
+        "Brote de enebro",
+        "Albahaca hidropónica"
+      ],
+      "notas_fondo": [
+        "Cedro marroquí",
+        "Pepino",
+        "Ámbar"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Acorde de aire libre y Hoja de higuera abren una fragancia de perfil amaderada aromática, con un corazón de Salvia blanca y Brote de enebro y un fondo de Cedro marroquí y Pepino. Una composición de carácter aromático pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Paris-Hilton-Men.jpg?v=1571609916",
       "fuentes": [
         {
@@ -49617,6 +50347,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://parishiltonfragrances.com/en-ca/products/paris-hilton-for-men",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -49624,7 +50359,7 @@
       "orden": 1595,
       "sku": "AGOSTO-2026-0595",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 595,
       "presentacion_proveedor": "PARIS HILTON CLASICO HOMBRE EDT 100ML"
     },
@@ -51584,8 +52319,8 @@
       "precio_crc": 40800,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": "Aromática acuática",
-      "genero": "Hombre",
+      "familia": "Oriental frutal",
+      "genero": "Unisex",
       "ocasiones": [
         "diario",
         "verano",
@@ -51593,34 +52328,47 @@
       ],
       "acordes": [
         {
-          "nombre": "cítrico",
+          "nombre": "Afrutado",
           "emoji": ""
         },
         {
-          "nombre": "acuático",
+          "nombre": "Dulce",
           "emoji": ""
         },
         {
-          "nombre": "aromático",
+          "nombre": "Tropical",
           "emoji": ""
         },
         {
-          "nombre": "amaderado",
+          "nombre": "Almizclado",
           "emoji": ""
         },
         {
-          "nombre": "almizclado",
+          "nombre": "Ambarado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Durazno",
+        "Frutas amarillas",
+        "Naranja dulce"
+      ],
+      "notas_corazon": [
+        "Frutas",
+        "Maracuyá",
+        "Mango",
+        "Acorde acuático"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Ámbar",
+        "Vainilla"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Durazno y Frutas amarillas abren una fragancia de perfil oriental frutal, con un corazón de Frutas y Maracuyá y un fondo de Almizcle y Ámbar. Una composición de carácter marino pensada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -51647,6 +52395,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Chrome-136922.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -51654,7 +52407,7 @@
       "orden": 1617,
       "sku": "AGOSTO-2026-0617",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 617,
       "presentacion_proveedor": "RASASI HAWAS CHROME EDP 100ML"
     },
@@ -51854,7 +52607,7 @@
       "precio_crc": 34000,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": "Floral frutal",
+      "familia": "Oriental floral",
       "genero": "Mujer",
       "ocasiones": [
         "diario",
@@ -51864,30 +52617,46 @@
       ],
       "acordes": [
         {
-          "nombre": "floral",
+          "nombre": "Afrutado",
           "emoji": ""
         },
         {
-          "nombre": "frutal",
+          "nombre": "Avainillado",
           "emoji": ""
         },
         {
-          "nombre": "dulce",
+          "nombre": "Ambarado",
           "emoji": ""
         },
         {
-          "nombre": "almizclado",
+          "nombre": "Rosa",
+          "emoji": ""
+        },
+        {
+          "nombre": "Almizclado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Frutos rojos",
+        "Lichi",
+        "Ruibarbo"
+      ],
+      "notas_corazon": [
+        "Incienso",
+        "Rosa",
+        "Cedro"
+      ],
+      "notas_fondo": [
+        "Almizcle",
+        "Ámbar gris",
+        "Vainilla"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Frutos rojos y Lichi abren una fragancia de perfil oriental floral, con un corazón de Incienso y Rosa y un fondo de Almizcle y Ámbar gris. Una composición de carácter ámbar pensada para diario.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -51914,6 +52683,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://rasasionline.com/product/diva/",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -51921,7 +52695,7 @@
       "orden": 1620,
       "sku": "AGOSTO-2026-0620",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 620,
       "presentacion_proveedor": "RASASI HAWAS DIVA EDP 100ML"
     },
@@ -51932,8 +52706,8 @@
       "precio_crc": 30600,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": "Amaderada aromática",
-      "genero": "Hombre",
+      "familia": "Oriental gourmand aromática",
+      "genero": "Unisex",
       "ocasiones": [
         "noche",
         "otoño",
@@ -51942,34 +52716,46 @@
       ],
       "acordes": [
         {
-          "nombre": "amaderado",
+          "nombre": "Chocolate",
           "emoji": ""
         },
         {
-          "nombre": "ámbar",
+          "nombre": "Avainillado",
           "emoji": ""
         },
         {
-          "nombre": "aromático",
+          "nombre": "Aromático",
           "emoji": ""
         },
         {
-          "nombre": "especiado",
+          "nombre": "Dulce",
           "emoji": ""
         },
         {
-          "nombre": "dulce",
+          "nombre": "Ambarado",
           "emoji": ""
         }
       ],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "notas_salida": [
+        "Artemisia",
+        "Bergamota",
+        "Hierbabuena"
+      ],
+      "notas_corazon": [
+        "Chocolate negro",
+        "Lavanda",
+        "Benjuí"
+      ],
+      "notas_fondo": [
+        "Almizcle blanco",
+        "Haba tonka",
+        "Vainilla"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Artemisia y Bergamota abren una fragancia de perfil oriental gourmand aromática, con un corazón de Chocolate negro y Lavanda y un fondo de Almizcle blanco y Haba tonka. Una composición de carácter dulce pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/hawas.png?v=1738588592",
       "fuentes": [
         {
@@ -52001,6 +52787,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://store.rasasi.com.sa/en/qqbmgxk/p1607630288",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -52008,7 +52799,7 @@
       "orden": 1621,
       "sku": "AGOSTO-2026-0621",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 621,
       "presentacion_proveedor": "RASASI HAWAS ELIXIR EDP 100ML"
     },
@@ -52019,18 +52810,51 @@
       "precio_crc": 34000,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Aromática acuática ambarada",
       "genero": "Unisex",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Mineral",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Salvia esclarea francesa"
+      ],
+      "notas_corazon": [
+        "Jazmín egipcio",
+        "Notas marinas"
+      ],
+      "notas_fondo": [
+        "Ámbar gris",
+        "Ámbar mineral"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Salvia esclarea francesa abren una fragancia de perfil aromática acuática ambarada, con un corazón de Jazmín egipcio y Notas marinas y un fondo de Ámbar gris y Ámbar mineral. Una composición de carácter marino pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/RASASI-HAWAS-FIRE.png?v=1737038540",
       "fuentes": [
         {
@@ -52052,6 +52876,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://rasasistore.com/collections/best-seller/products/hawas-fire",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -52059,7 +52888,7 @@
       "orden": 1622,
       "sku": "AGOSTO-2026-0622",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 622,
       "presentacion_proveedor": "RASASI HAWAS FIRE EDP 100ML"
     },
@@ -52070,18 +52899,58 @@
       "precio_crc": 34850,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Aromática amaderada frutal",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Marino",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Manzana helada",
+        "Bergamota italiana",
+        "Limón italiano",
+        "Anís estrellado chino"
+      ],
+      "notas_corazon": [
+        "Flor de azahar",
+        "Acorde marino helado",
+        "Ciruela",
+        "Cardamomo de Ceilán"
+      ],
+      "notas_fondo": [
+        "Musgo cristalino",
+        "Madera flotante",
+        "Ámbar",
+        "Almizcle"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Manzana helada y Bergamota italiana abren una fragancia de perfil aromática amaderada frutal, con un corazón de Flor de azahar y Acorde marino helado y un fondo de Musgo cristalino y Madera flotante. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Hawas-Ice.png?v=1700420191",
       "fuentes": [
         {
@@ -52103,6 +52972,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://store.rasasi.com.sa/en/aeezlxd/p330366857",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -52110,7 +52984,7 @@
       "orden": 1623,
       "sku": "AGOSTO-2026-0623",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 623,
       "presentacion_proveedor": "RASASI HAWAS ICE EDP 100ML"
     },
@@ -52121,18 +52995,56 @@
       "precio_crc": 34850,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromática frutal",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Piña",
+        "Naranja",
+        "Toronja"
+      ],
+      "notas_corazon": [
+        "Ámbar",
+        "Iris",
+        "Lavanda"
+      ],
+      "notas_fondo": [
+        "Haba tonka",
+        "Almizcle",
+        "Cashmeran",
+        "Pachulí"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Piña y Naranja abren una fragancia de perfil aromática frutal, con un corazón de Ámbar y Iris y un fondo de Haba tonka y Almizcle. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -52149,6 +53061,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://store.rasasi.com.sa/en/vaxrnqz/p1320082477",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -52156,7 +53073,7 @@
       "orden": 1624,
       "sku": "AGOSTO-2026-0624",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 624,
       "presentacion_proveedor": "RASASI HAWAS KOBRA EDP 100ML"
     },
@@ -52167,18 +53084,56 @@
       "precio_crc": 36550,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Oriental floral",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Oriental",
+          "emoji": ""
+        },
+        {
+          "nombre": "Especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Pera",
+        "Azafrán",
+        "Pimienta rosa"
+      ],
+      "notas_corazon": [
+        "Flores blancas",
+        "Rosa",
+        "Olíbano"
+      ],
+      "notas_fondo": [
+        "Ámbar",
+        "Almizcle",
+        "Maderas rubias",
+        "Vainilla"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Pera y Azafrán abren una fragancia de perfil oriental floral, con un corazón de Flores blancas y Rosa y un fondo de Ámbar y Almizcle. Una composición de carácter floral pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/HAWASLON.jpg?v=1776365928",
       "fuentes": [
         {
@@ -52200,6 +53155,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Rasasi/hawas-london",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -52207,7 +53167,7 @@
       "orden": 1625,
       "sku": "AGOSTO-2026-0625",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 625,
       "presentacion_proveedor": "RASASI HAWAS LONDON EDP 100ML"
     },
@@ -52218,18 +53178,56 @@
       "precio_crc": 33150,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Aromática frutal fresca",
+      "genero": "Hombre",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Ambarado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Piña",
+        "Naranja",
+        "Toronja"
+      ],
+      "notas_corazon": [
+        "Ámbar",
+        "Iris",
+        "Lavanda"
+      ],
+      "notas_fondo": [
+        "Haba tonka",
+        "Almizcle",
+        "Cashmeran",
+        "Pachulí"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Piña y Naranja abren una fragancia de perfil aromática frutal fresca, con un corazón de Ámbar y Iris y un fondo de Haba tonka y Almizcle. Una composición de carácter cítrico pensada para noche.",
       "imagen_url": null,
       "fuentes": [
         {
@@ -52246,6 +53244,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://store.rasasi.com.sa/en/bpzlndr/p533992836",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -52253,7 +53256,7 @@
       "orden": 1626,
       "sku": "AGOSTO-2026-0626",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 626,
       "presentacion_proveedor": "RASASI HAWAS MALIBU EDP 100ML"
     },
@@ -52264,18 +53267,55 @@
       "precio_crc": 44200,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Oriental floral gourmand",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral blanco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Atalcado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Neroli egipcio",
+        "Canela",
+        "Nuez moscada"
+      ],
+      "notas_corazon": [
+        "Flor de azahar",
+        "Nardo",
+        "Malvavisco dorado"
+      ],
+      "notas_fondo": [
+        "Algodón de azúcar",
+        "Vainilla",
+        "Haba tonka"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Neroli egipcio y Canela abren una fragancia de perfil oriental floral gourmand, con un corazón de Flor de azahar y Nardo y un fondo de Algodón de azúcar y Vainilla. Una composición de carácter dulce pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Rasasi_Hawas_Pink.jpg?v=1765895090",
       "fuentes": [
         {
@@ -52297,6 +53337,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.rankmyperfume.com/perfume/rasasi-hawas-pink-edp",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.youtube.com/watch?v=GBmrZg50tIs",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -52304,7 +53354,7 @@
       "orden": 1627,
       "sku": "AGOSTO-2026-0627",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 627,
       "presentacion_proveedor": "RASASI HAWAS PINK EDP 100ML"
     },
@@ -52322,15 +53372,48 @@
         "Citas",
         "Eventos especiales"
       ],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "acordes": [
+        {
+          "nombre": "Tropical",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Dulce",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cremoso",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Hoja de higuera",
+        "Agua de coco",
+        "Jengibre"
+      ],
+      "notas_corazon": [
+        "Higo",
+        "Coco",
+        "Menta"
+      ],
+      "notas_fondo": [
+        "Haba tonka",
+        "Sándalo",
+        "Almizcle"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Hoja de higuera y Agua de coco abren una fragancia de perfil frutal fresca, con un corazón de Higo y Coco y un fondo de Haba tonka y Sándalo. Una composición de carácter amaderado pensada para diario.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/rasasi-mens-hawas-tropical-edp-spray-33-oz-fragrances-614514464441.jpg?v=1751125832",
       "fuentes": [
         {
@@ -52357,6 +53440,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Rasasi/hawas-tropical",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -52364,7 +53452,7 @@
       "orden": 1628,
       "sku": "AGOSTO-2026-0628",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 628,
       "presentacion_proveedor": "RASASI HAWAS TROPICAL EDP 100ML"
     },
@@ -52375,18 +53463,59 @@
       "precio_crc": 41650,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Oriental amaderada",
       "genero": "Hombre",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Cálido especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Tabaco",
+          "emoji": ""
+        },
+        {
+          "nombre": "Aromático",
+          "emoji": ""
+        },
+        {
+          "nombre": "Verde",
+          "emoji": ""
+        },
+        {
+          "nombre": "Resinoso",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Azafrán",
+        "Cannabis",
+        "Tomillo",
+        "Notas verdes",
+        "Davana"
+      ],
+      "notas_corazon": [
+        "Tabaco",
+        "Café",
+        "Canela",
+        "Violeta",
+        "Frambuesa"
+      ],
+      "notas_fondo": [
+        "Bálsamo de gurjum",
+        "Almizcle",
+        "Haba tonka"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "",
+      "descripcion": "Azafrán y Cannabis abren una fragancia de perfil oriental amaderada, con un corazón de Tabaco y Café y un fondo de Bálsamo de gurjum y Almizcle. Una composición de carácter especiado pensada para noche.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/81zgi1livoL._SL1500.jpg?v=1775216475",
       "fuentes": [
         {
@@ -52408,6 +53537,16 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Viper-113594.html",
+          "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.parfumo.com/Perfumes/Rasasi/hawas-viper-viper",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -52415,7 +53554,7 @@
       "orden": 1629,
       "sku": "AGOSTO-2026-0629",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 629,
       "presentacion_proveedor": "RASASI HAWAS VIPER EDP 100ML"
     },
@@ -57217,13 +58356,50 @@
       "precio_crc": 35700,
       "tamano_ml": 90,
       "concentracion": "Eau de Parfum",
-      "familia": null,
+      "familia": "Floral frutal",
       "genero": "Mujer",
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Rosa",
+          "emoji": ""
+        },
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Fresco especiado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Amaderado",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Toronja rosa",
+        "Pimienta rosa",
+        "Lichi"
+      ],
+      "notas_corazon": [
+        "Peonía Firbest",
+        "Rosa centifolia",
+        "Pétalos de jazmín"
+      ],
+      "notas_fondo": [
+        "Cedro",
+        "Acorde de cachemira",
+        "Mousse Crystal"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
@@ -57250,6 +58426,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.tous.com/cr-es/eau-de-parfum-loveme-30ml-woman/p/20015728-C.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -57257,7 +58438,7 @@
       "orden": 1694,
       "sku": "AGOSTO-2026-0694",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 694,
       "presentacion_proveedor": "TOUS LOVE ME EDP 90ML"
     },
@@ -57268,13 +58449,51 @@
       "precio_crc": 42500,
       "tamano_ml": 90,
       "concentracion": null,
-      "familia": null,
-      "genero": null,
-      "ocasiones": [],
-      "acordes": [],
-      "notas_salida": [],
-      "notas_corazon": [],
-      "notas_fondo": [],
+      "familia": "Oriental floral frutal",
+      "genero": "Mujer",
+      "ocasiones": [
+        "Noche",
+        "Citas",
+        "Eventos especiales"
+      ],
+      "acordes": [
+        {
+          "nombre": "Afrutado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Cítrico",
+          "emoji": ""
+        },
+        {
+          "nombre": "Floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "Avainillado",
+          "emoji": ""
+        },
+        {
+          "nombre": "Pachulí",
+          "emoji": ""
+        }
+      ],
+      "notas_salida": [
+        "Pera verde",
+        "Toronja",
+        "Néctar de naranja dulce"
+      ],
+      "notas_corazon": [
+        "Madreselva",
+        "Jazmín solar",
+        "Violeta empolvada"
+      ],
+      "notas_fondo": [
+        "Vainilla caramelizada",
+        "Pachulí de Indonesia",
+        "Cistus",
+        "Almizcle"
+      ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
@@ -57301,6 +58520,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Investigación olfativa",
+          "url": "https://www.tous.com/us-en/p/20020025.html",
+          "fecha": "2026-09-09"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -57308,7 +58532,7 @@
       "orden": 1695,
       "sku": "AGOSTO-2026-0695",
       "tipo_producto": "Perfume",
-      "ficha_estado": "parcial",
+      "ficha_estado": "verificada",
       "origen_ref": 695,
       "presentacion_proveedor": "TOUS LOVE ME EMERALD 90ML"
     },
