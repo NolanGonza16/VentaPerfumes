@@ -689,23 +689,34 @@
     padding-inline: 9px;
   }
   .filters-expanded {
+    position: fixed;
+    z-index: 40;
+    left: 12px;
+    right: 12px;
+    bottom: max(12px, env(safe-area-inset-bottom));
     grid-template-columns: 1fr;
     gap: 24px;
-    padding: 20px;
-    margin-top: 16px;
+    max-height: calc(100dvh - 92px - env(safe-area-inset-top));
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    padding: 20px 20px max(24px, env(safe-area-inset-bottom));
+    margin-top: 0;
+    border-color: #b89a6866;
+    border-radius: 12px;
+    box-shadow: 0 24px 80px rgb(0 0 0 / 72%);
   }
   .filter-selects {
-    grid-template-columns: 1fr 1fr;
-    gap: 12px;
+    grid-template-columns: 1fr;
+    gap: 16px;
   }
   .filter-selects label {
-    font-size: 0.625rem;
+    font-size: 0.75rem;
     gap: 10px;
   }
   .filter-selects select {
     font-size: 16px;
-    padding: 9px 5px;
-    min-height: 46px;
+    padding: 9px 12px;
+    min-height: 48px;
     min-width: 0;
   }
   .price-heading {
@@ -757,7 +768,7 @@
     padding: 14px 0 0;
   }
   .card-brand {
-    font-size: 0.5625rem;
+    font-size: 0.75rem;
     letter-spacing: 0.11em;
   }
   .card-title {
@@ -770,10 +781,7 @@
     font-size: 0.75rem;
   }
   .card-action {
-    font-size: 0.625rem;
-    padding-top: 8px;
-    margin-top: 10px;
-    min-height: 44px;
+    display: none;
   }
   .card-image-arrow {
     width: 28px;
@@ -803,7 +811,7 @@
     gap: 6px;
   }
   .active-filters button {
-    font-size: 0.625rem;
+    font-size: 0.75rem;
     gap: 7px;
     padding: 9px 10px;
   }
@@ -865,6 +873,12 @@
 .active-filters button {
   font-size: 0.75rem;
 }
+.card-presentation,
+.card-product-type,
+.product-type-tabs > button,
+.price-limits {
+  font-size: 0.75rem;
+}
 .card-price,
 .gender-tabs > button,
 .filter-toggle,
@@ -881,9 +895,6 @@
     font-size: 0.75rem;
   }
   .card-brand {
-    font-size: 0.6875rem;
-  }
-  .card-action {
     font-size: 0.75rem;
   }
   .catalog-heading > p {

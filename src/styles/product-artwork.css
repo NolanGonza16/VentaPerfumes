@@ -73,7 +73,35 @@
   object-fit: cover;
   object-position: var(--art-object-position);
   filter: none;
-  transition: transform 520ms cubic-bezier(0.2, 0.72, 0.2, 1);
+  opacity: 0;
+  transition:
+    opacity 240ms ease,
+    transform 520ms cubic-bezier(0.2, 0.72, 0.2, 1);
+}
+
+.product-artwork.is-loaded .product-artwork__image {
+  opacity: 1;
+}
+
+.product-artwork__loading {
+  position: absolute;
+  z-index: 4;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0;
+  background: linear-gradient(
+    105deg,
+    transparent 30%,
+    rgb(255 241 214 / 9%) 46%,
+    transparent 62%
+  );
+  background-size: 220% 100%;
+  transition: opacity 180ms ease;
+}
+
+.product-artwork.is-loading .product-artwork__loading {
+  opacity: 1;
+  animation: artwork-loading 1.35s ease-in-out infinite;
 }
 
 .product-artwork--packshot .product-artwork__image {
@@ -154,7 +182,18 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .product-artwork__image {
+  .product-artwork__image,
+  .product-artwork__loading {
     transition: none;
+    animation: none;
+  }
+}
+
+@keyframes artwork-loading {
+  from {
+    background-position: 140% 0;
+  }
+  to {
+    background-position: -120% 0;
   }
 }

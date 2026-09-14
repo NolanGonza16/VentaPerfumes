@@ -207,8 +207,8 @@
     },
     {
       "ref": 107,
-      "source_page": "https://www.fragrantica.com/perfume/The-Pride/Admiral-65447.html",
-      "image_url": "https://fimgs.net/mdimg/perfume/375x500.65447.jpg",
+      "source_page": "https://armaf.com/products/the-pride-of-armaf-admiral",
+      "image_url": "https://armaf.com/cdn/shop/files/NewProject-2024-03-21T105616.640.jpg?v=1739111655&width=1600",
       "status": "matched"
     },
     {
@@ -762,14 +762,14 @@
     },
     {
       "ref": 277,
-      "source_page": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Odyssey-Limoni-75904.html",
-      "image_url": "https://fimgs.net/mdimg/perfume/375x500.75904.jpg",
+      "source_page": "https://armaf.com/products/odyssey-limoni-gift-set",
+      "image_url": "https://armaf.com/cdn/shop/files/GS-OdysseyLimoni_PhotoGrid.pngDisplayingGS-OdysseyLimoni_PhotoGrid.png..png?v=1757025819&width=2048",
       "status": "matched"
     },
     {
       "ref": 278,
-      "source_page": "https://www.fragrantica.es/perfume/Lattafa-Perfumes/Odyssey-Mega-75806.html",
-      "image_url": "https://fimgs.net/mdimg/perfume/375x500.75806.jpg",
+      "source_page": "https://armaf.com/products/313544",
+      "image_url": "https://armaf.com/cdn/shop/files/ODYSSEYMEGAGIFTSET.png?v=1770764674&width=2048",
       "status": "matched"
     },
     {
@@ -918,8 +918,8 @@
     },
     {
       "ref": 319,
-      "source_page": "https://www.fragrantica.com/perfume/Byredo/Rose-Noire-1076.html",
-      "image_url": "https://fimgs.net/mdimg/perfume/375x500.1076.jpg",
+      "source_page": "https://www.giorgio-valenti.com/img/femme/rosenoire-en.html",
+      "image_url": "https://www.giorgio-valenti.com/img/femme/rosenoire-100ml.jpg",
       "status": "matched"
     },
     {
@@ -948,8 +948,8 @@
     },
     {
       "ref": 328,
-      "source_page": "https://www.fragrantica.com/perfume/Mugler/Aura-Mugler-44942.html",
-      "image_url": "https://fimgs.net/mdimg/perfume/375x500.44942.jpg",
+      "source_page": "https://www.jomashop.com/aura-pour-femme-edp-100-ml-3-4oz-by-grandeur-5055810035921.html",
+      "image_url": "https://cdn2.jomashop.com/media/catalog/product/cache/b3e31d40bbb1abcc90b26106659d5d3f/g/r/grandeur-ladies-aura-pour-femme-edp-spray-3-4-oz-fragrances-5055810035921.jpg?width=800&height=800",
       "status": "matched"
     },
     {
@@ -1101,9 +1101,8 @@
     {
       "ref": 375,
       "source_page": "https://www.fragrantica.com/perfume/Issey-Miyake/L-Eau-d-Issey-688.html",
-      "image_url": null,
-      "status": "rejected_shared_meta_image",
-      "error": "The same metadata image was returned for multiple distinct catalog rows."
+      "image_url": "https://fimgs.net/mdimg/perfume/375x500.688.jpg",
+      "status": "matched"
     },
     {
       "ref": 376,
@@ -1167,8 +1166,8 @@
     },
     {
       "ref": 394,
-      "source_page": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Paradise-Garden-81633.html",
-      "image_url": "https://fimgs.net/mdimg/perfume/375x500.81633.jpg",
+      "source_page": "https://www.jeanpaulgaultier.com/ww/en/p/range-la-belle/la-belle-paradise-garden-eau-de-parfum-000000000065199791",
+      "image_url": "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=3840,quality=90,format=avif/medias/sys_master/images/h36/h1a/9862236012574/9862235947038/9862235947038.png",
       "status": "matched"
     },
     {
@@ -1234,9 +1233,8 @@
     {
       "ref": 415,
       "source_page": "https://www.fragrantica.com/perfume/Lacoste/L-12-12-Blanc-Pure-White-11753.html",
-      "image_url": null,
-      "status": "rejected_shared_meta_image",
-      "error": "The same metadata image was returned for multiple distinct catalog rows."
+      "image_url": "https://fimgs.net/mdimg/perfume/375x500.11753.jpg",
+      "status": "matched"
     },
     {
       "ref": 416,
@@ -1404,8 +1402,8 @@
     },
     {
       "ref": 505,
-      "source_page": "https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Tendre-Eau-de-Parfum-52170.html",
-      "image_url": "https://fimgs.net/mdimg/perfume/375x500.52170.jpg",
+      "source_page": "https://www.fragrantica.com/perfume/Maison-Alhambra/Chants-Tenderina-89034.html",
+      "image_url": "https://f.nooncdn.com/p/pzsku/Z03D2913DCAB8FECB5024Z/45/_/1714423574/29aeb09f-2a25-4a69-8357-4aa63647e567.jpg",
       "status": "matched"
     },
     {
@@ -1630,8 +1628,8 @@
     },
     {
       "ref": 592,
-      "source_page": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Marshmallow-Blush-101291.html",
-      "image_url": "https://fimgs.net/mdimg/perfume/375x500.101291.jpg",
+      "source_page": "https://www.pariscornerperfumes.com/products/marshmallow-blush",
+      "image_url": "https://www.pariscornerperfumes.com/cdn/shop/files/WhatsAppImage2025-01-21at1.14.06PM.jpg?v=1737450880&width=1600",
       "status": "matched"
     },
     {
@@ -1699,6 +1697,12 @@
       "ref": 633,
       "source_page": "https://www.fragrantica.com/perfume/Rayhaan/Crimson-112761.html",
       "image_url": "https://fimgs.net/mdimg/perfume/375x500.112761.jpg",
+      "status": "matched"
+    },
+    {
+      "ref": 634,
+      "source_page": "https://www.rochas.com/en-us/fragrance/moustache-eau-de-toilette",
+      "image_url": "https://fimgs.net/mdimg/perfume/375x500.53403.jpg",
       "status": "matched"
     },
     {
@@ -1977,9 +1981,8 @@
     {
       "ref": 737,
       "source_page": "https://www.yslbeautyus.com/fragrance/womens-fragrance/black-opium/black-opium-eau-de-parfum/",
-      "image_url": null,
-      "status": "unavailable",
-      "error": "HTTP Error 403: Forbidden"
+      "image_url": "https://fimgs.net/mdimg/perfume/375x500.25371.jpg",
+      "status": "matched"
     },
     {
       "ref": 738,
@@ -1991,9 +1994,8 @@
     {
       "ref": 739,
       "source_page": "https://www.yslbeautyus.com/fragrance/womens-fragrances/mon-paris/mon-paris-eau-de-parfum/4150YSL.html",
-      "image_url": null,
-      "status": "unavailable",
-      "error": "HTTP Error 403: Forbidden"
+      "image_url": "https://fimgs.net/mdimg/perfume/375x500.45601.jpg",
+      "status": "matched"
     },
     {
       "ref": 91,
@@ -2056,11 +2058,215 @@
       "status": "matched_manual_exact"
     },
     {
+      "ref": 223,
+      "source_page": "https://dkny.sa/products/dkny00023",
+      "image_url": "https://dkny.sa/cdn/shop/files/DKNY00023.jpg?v=1763017908",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 235,
+      "source_page": "https://www.dolcegabbana.com/en-us/beauty/perfumes-for-her/light-blue/new-lb-edt-100ml---158057971188192.html",
+      "image_url": "https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dw8a77087f/images/zoom/VT01JMVT000_9V000_0.jpg?sw=740&sh=944",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 309,
+      "source_page": "https://www.armani.com/en-us/giorgio-armani/parfum-acqua-di-gio-profondo-100-ml-cod-LE310700-NLP-100ML/",
+      "image_url": "https://assets-cf.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1536,c_fill/LE310700_NLP_100ML_F_FW2025.jpg",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 332,
+      "source_page": "https://www.tubbees.de/products/berry-blast",
+      "image_url": "https://cdn.shopify.com/s/files/1/0951/9054/8809/files/TubbeesBerryBlast.png?v=1750076289",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 333,
+      "source_page": "https://www.tubbees.de/products/sweet-caramel",
+      "image_url": "https://cdn.shopify.com/s/files/1/0951/9054/8809/files/TubbeesSweetCaramel.png?v=1750080844",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 335,
+      "source_page": "https://www.tubbees.de/products/golden-praline-bliss",
+      "image_url": "https://cdn.shopify.com/s/files/1/0951/9054/8809/files/TubbeesGoldenPralineBliss.webp?v=1770207271",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 336,
+      "source_page": "https://www.tubbees.de/products/lemon-a-licious",
+      "image_url": "https://cdn.shopify.com/s/files/1/0951/9054/8809/files/TubbeesLemonalicious.webp?v=1770207812",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 337,
+      "source_page": "https://www.tubbees.de/products/matcha-made-in-heaven",
+      "image_url": "https://cdn.shopify.com/s/files/1/0951/9054/8809/files/TubbeesMatchaMadeinHeaven.webp?v=1770207877",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 338,
+      "source_page": "https://www.tubbees.de/products/passion-fruit-mojito",
+      "image_url": "https://cdn.shopify.com/s/files/1/0951/9054/8809/files/TubbeesPassionFruitMojito.webp?v=1770207919",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 339,
+      "source_page": "https://www.tubbees.de/products/sweet-mango-melody",
+      "image_url": "https://cdn.shopify.com/s/files/1/0951/9054/8809/files/TubbeesSweetMangoMelody.webp?v=1770207960",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 340,
+      "source_page": "https://www.tubbees.de/products/tira-miss-you",
+      "image_url": "https://cdn.shopify.com/s/files/1/0951/9054/8809/files/TubbeesTiraMissYou.webp?v=1770207999",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 341,
+      "source_page": "https://www.tubbees.de/products/tres-leches",
+      "image_url": "https://cdn.shopify.com/s/files/1/0951/9054/8809/files/TubbeesTresLeches.webp?v=1770208030",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 342,
+      "source_page": "https://www.tubbees.de/products/candy-pop",
+      "image_url": "https://cdn.shopify.com/s/files/1/0951/9054/8809/files/TubbeesCandyPop.png?v=1750077519",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 343,
+      "source_page": "https://www.tubbees.de/products/cotton-candy",
+      "image_url": "https://cdn.shopify.com/s/files/1/0951/9054/8809/files/TubbeesCottonCandy.png?v=1750079751",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 344,
+      "source_page": "https://www.tubbees.de/products/dreamy-treats",
+      "image_url": "https://cdn.shopify.com/s/files/1/0951/9054/8809/files/TubbeesDreamyTreats.png?v=1750079879",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 345,
+      "source_page": "https://www.tubbees.de/products/strawberry-cheesecake",
+      "image_url": "https://cdn.shopify.com/s/files/1/0951/9054/8809/files/TubbeesStrawberryCheesecake.png?v=1750080733",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 354,
+      "source_page": "https://arome.mx/products/perfume-halloween-kiss-sexy-mujer-edt-100ml",
+      "image_url": "https://arome.mx/cdn/shop/files/perfume-halloween-kiss-sexy-para-mujer-de-halloween-edt-100ml-arome-mexico-1_1200x1200.jpg?v=1725380987",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 355,
+      "source_page": "https://perfumecartel.com/products/halloween-man",
+      "image_url": "https://perfumecartel.com/cdn/shop/files/halloween-man-perfume-hombre.jpg?v=1739392322",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 453,
+      "source_page": "https://www.lattafa-usa.com/products/fakhar-men",
+      "image_url": "https://www.lattafa-usa.com/cdn/shop/files/1_aa0a5a38-775b-4814-a909-837c1d360d9c.png?v=1747500778",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 504,
+      "source_page": "https://www.konga.com/product/alhambra-candid-pour-homme-edp-100ml-6575489",
+      "image_url": "https://www-konga-com-res.cloudinary.com/media/catalog/product/L/B/53121_1728489426.jpg",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 510,
+      "source_page": "https://maisonalhambra-usa.com/products/maison-alhambra-glacier-pour-homme-eau-de-parfum-for-men",
+      "image_url": "https://maisonalhambra-usa.com/cdn/shop/files/010f1whedb.png?v=1732314784",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 512,
+      "source_page": "https://www.noon.com/saudi-en/libbra-edp-100ml/N52030329A/p/",
+      "image_url": "https://f.nooncdn.com/p/v1638864236/N52030329A_1.jpg",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 513,
+      "source_page": "https://soghaat.co.uk/products/maitre-de-blue-100ml-edp-by-maison-alhambra",
+      "image_url": "https://soghaat.co.uk/cdn/shop/files/Maitre-De-Blue-Perfume-Eau-De-Parfum-100ml-by-Maison-Alhambra-Lattafa.webp?v=1777406077",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 564,
+      "source_page": "https://www.perfumes.com.ph/products/nautica-classic-edt-100ml",
+      "image_url": "https://www.perfumes.com.ph/cdn/shop/files/nautica-classic-edt-100ml-perfume-philippines-best-price.webp?v=1698313789&width=2048",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 570,
+      "source_page": "https://magnaperfumes.com/oscar-de-la-renta-edt-100ml-dama/",
+      "image_url": "https://cdn11.bigcommerce.com/s-2vt02okold/images/stencil/1280x1280/products/4506/8704/MOSCR__16845.1758657406.jpg?compression=lossy",
+      "status": "matched_manual_exact"
+    },
+    {
+      "ref": 618,
+      "source_page": "https://rasasistore.com/products/hawas-for-him",
+      "image_url": "https://rasasistore.com/cdn/shop/files/HAWASFORHIMEDP100ML.jpg?v=1760625908",
+      "status": "matched_manual_exact"
+    },
+    {
       "ref": 742,
       "source_page": "https://www.yslbeautyus.com/fragrance/scent-families/fresh/",
       "image_url": null,
       "status": "unavailable",
       "error": "HTTP Error 403: Forbidden"
     }
+  ,
+    {"ref":7,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0714/3129/1097/files/13_9AM.jpg?v=1775552894&width=1080","status":"matched_manual_exact"},
+    {"ref":8,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0714/3129/1097/files/9AM-Dive-01_d4bc61ac-c620-48b5-984b-c18d267d8e82.jpg?v=1775552891&width=1080","status":"matched_manual_exact"},
+    {"ref":9,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0714/3129/1097/files/STILL_ELIXIR_SQUARE_08_2048x2048_7342c733-73a2-4e3e-b3b6-0ee0333c671d.png?v=1775218859&width=1080","status":"matched_manual_exact"},
+    {"ref":10,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0714/3129/1097/files/03_9PM.jpg?v=1775552889&width=1080","status":"matched_manual_exact"},
+    {"ref":11,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/files/TurathiElectric.png?v=1750714838","status":"matched_manual_exact"},
+    {"ref":13,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/files/Al_Haramain_Amber_Musk.png?v=1740235422","status":"matched_manual_exact"},
+    {"ref":15,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/products/Amber-Oud-Gold-Edition.png?v=1574709551","status":"matched_manual_exact"},
+    {"ref":16,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/products/Amber-Oud-Gold-Edition.png?v=1574709551","status":"matched_manual_exact"},
+    {"ref":17,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/products/61H54S7MigL._SL1500.jpg?v=1626102154","status":"matched_manual_exact"},
+    {"ref":18,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/products/AL-HARAMAIN-L_AVENTURE-100ML-EDP-MEN.png?v=1571610018","status":"matched_manual_exact"},
+    {"ref":19,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/products/Al-Haramain-Musk-Malaki.png?v=1667226653","status":"matched_manual_exact"},
+    {"ref":20,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/files/Royal-Musk.png?v=1721023438","status":"matched_manual_exact"},
+    {"ref":23,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/products/Animal-Edt.png?v=1600888762","status":"matched_manual_exact"},
+    {"ref":24,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/products/Animal.png?v=1600888762","status":"matched_manual_exact"},
+    {"ref":30,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/products/AC8411061913024.jpg?v=1571609992","status":"matched_manual_exact"},
+    {"ref":31,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/products/Ari-Ariana-Grande.png?v=1571609913","status":"matched_manual_exact"},
+    {"ref":32,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/files/ARIANA-GRANDE-CLOUD-INTENSE-100ML-EDP-WOMEN.png?v=1701522571","status":"matched_manual_exact"},
+    {"ref":33,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/products/Ariana-Grande-Cloud.png?v=1571920530","status":"matched_manual_exact"},
+    {"ref":34,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/files/cloud.webp?v=1764517748","status":"matched_manual_exact"},
+    {"ref":36,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/files/ARIANA-GRANDE-MOD-VANILLLA-100ML-EDP-WOMEN.png?v=1701522179","status":"matched_manual_exact"},
+    {"ref":40,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/products/Sweet-like-Candy-Ariana-Grande.png?v=1571609924","status":"matched_manual_exact"},
+    {"ref":43,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/armaf-aura-fresh-eau-de-parfum-for-men.jpg?v=1759863192","status":"matched_manual_exact"},
+    {"ref":44,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/armafbeach.png?v=1744396383","status":"matched_manual_exact"},
+    {"ref":45,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Q-132ABLUEHOMME100ML_M_509ed8b8-a321-4bdf-b78c-0e083d5ecacb.jpg?v=1739111254","status":"matched_manual_exact"},
+    {"ref":48,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CDN_BLING_313469_-A-1-SF.png?v=1775252102","status":"matched_manual_exact"},
+    {"ref":49,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image.webp?v=1767893940","status":"matched_manual_exact"},
+    {"ref":50,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/65.png?v=1758576123","status":"matched_manual_exact"},
+    {"ref":51,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CDN12.png?v=1781552801","status":"matched_manual_exact"},
+    {"ref":54,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Lionheart..png?v=1765209131","status":"matched_manual_exact"},
+    {"ref":55,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CLUBDENUITLIONHEARTWOMAN...png?v=1765210005","status":"matched_manual_exact"},
+    {"ref":56,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/74.png?v=1758576648","status":"matched_manual_exact"},
+    {"ref":57,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/67.png?v=1758576374","status":"matched_manual_exact"},
+    {"ref":58,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/files/Club-de-Nuit-Oud-Armaf.png?v=1710256935","status":"matched_manual_exact"},
+    {"ref":61,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/68.png?v=1758576452","status":"matched_manual_exact"},
+    {"ref":62,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/64.png?v=1758576052","status":"matched_manual_exact"},
+    {"ref":63,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CLUBDENUITURBANMAN01.png?v=1765209493","status":"matched_manual_exact"},
+    {"ref":64,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/66.png?v=1758576197","status":"matched_manual_exact"},
+    {"ref":65,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CDN1.png?v=1774468835","status":"matched_manual_exact"},
+    {"ref":66,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/armafcm_0b1cadc1-27b2-4f11-bb45-f54237b74f54.png?v=1744395852","status":"matched_manual_exact"},
+    {"ref":68,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ArabianSky.jpg?v=1739111241","status":"matched_manual_exact"},
+    {"ref":69,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/2170/5343/products/Armaf-Hunter.png?v=1626101737","status":"matched_manual_exact"},
+    {"ref":70,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/armafislandbliss.png?v=1744392136","status":"matched_manual_exact"},
+    {"ref":72,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/LEPARFAITHOMME-100MLFIF_ac83b61a-000f-40b2-8064-166eb20dfdb1.jpg?v=1739111260","status":"matched_manual_exact"},
+    {"ref":73,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/LEGACYEDPFORWOMEN100ML_ARMAFSERIES_FIF.jpg?v=1739111291","status":"matched_manual_exact"},
+    {"ref":75,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image-2023-05-04T101554.235.jpg?v=1739111569","status":"matched_manual_exact"},
+    {"ref":78,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image-2025-09-17T095429.126_900x_1bb05c54-723a-444a-bee4-2221e5041539.webp?v=1762473601","status":"matched_manual_exact"},
+    {"ref":81,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ODYSSEYGOMANGO2.png?v=1767893488","status":"matched_manual_exact"}
   ]
 }

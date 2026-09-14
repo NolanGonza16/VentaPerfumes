@@ -31,10 +31,12 @@ export default function ProductArtwork({
   variant,
 }: ProductArtworkProps) {
   const [source, setSource] = useState(perfume.imagen || PLACEHOLDER);
+  const [loaded, setLoaded] = useState(false);
   const visual = useMemo(() => getProductVisual(perfume), [perfume]);
 
   useEffect(() => {
     setSource(perfume.imagen || PLACEHOLDER);
+    setLoaded(false);
   }, [perfume.imagen]);
 
   const style = {
@@ -45,10 +47,11 @@ export default function ProductArtwork({
     "--art-object-position": visual.objectPosition,
   } as CSSProperties;
   const packshot = source !== PLACEHOLDER && likelyPackshot(source);
+  const fallback = source === PLACEHOLDER;
 
   return (
     <span
-      className={`product-artwork product-artwork--${variant} scene-${visual.scene}${packshot ? " product-artwork--packshot" : ""}`}
+      className={`product-artwork product-artwork--${variant} scene-${visual.scene}${packshot ? " product-artwork--packshot" : ""}${loaded ? " is-loaded" : " is-loading"}${fallback ? " is-fallback" : ""}`}
       style={style}
     >
       <span className="product-artwork__halo" aria-hidden="true" />
@@ -62,10 +65,15 @@ export default function ProductArtwork({
         height="1000"
         loading={priority ? "eager" : "lazy"}
         decoding="async"
+        onLoad={() => setLoaded(true)}
         onError={() => {
-          if (source !== PLACEHOLDER) setSource(PLACEHOLDER);
+          if (source !== PLACEHOLDER) {
+            setLoaded(false);
+            setSource(PLACEHOLDER);
+          }
         }}
       />
+      <span className="product-artwork__loading" aria-hidden="true" />
       <span className="product-artwork__wash" aria-hidden="true" />
       <span className="product-artwork__grain" aria-hidden="true" />
     </span>

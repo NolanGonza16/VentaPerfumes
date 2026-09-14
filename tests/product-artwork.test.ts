@@ -25,7 +25,19 @@ test("product artwork preserves accessibility and loading behavior", () => {
   assert.match(artwork, /alt=/);
   assert.match(artwork, /decoding="async"/);
   assert.match(artwork, /loading=/);
+  assert.match(artwork, /onLoad=/);
+  assert.match(artwork, /is-loading/);
+  assert.match(artwork, /is-loaded/);
   assert.match(artwork, /perfume-placeholder\.svg/);
+});
+
+test("product artwork keeps a stable loading and fallback surface", () => {
+  const css = fs.readFileSync("src/styles/product-artwork.css", "utf8");
+
+  assert.match(css, /\.product-artwork__image\s*\{[^}]*opacity:\s*0/s);
+  assert.match(css, /\.product-artwork\.is-loaded \.product-artwork__image\s*\{[^}]*opacity:\s*1/s);
+  assert.match(css, /\.product-artwork\.is-loading \.product-artwork__loading/);
+  assert.match(css, /@media \(prefers-reduced-motion: reduce\)/);
 });
 
 test("retailer imagery defaults to premium packshot treatment", () => {
