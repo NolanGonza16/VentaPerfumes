@@ -5265,7 +5265,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Toronja y Hojas de cedro abren una fragancia de perfil almizcle floral amaderado, con un corazón de Ylang-ylang y Nardos y un fondo de Cedro y Sándalo. Una composición de carácter amaderado pensada para noche.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Armaf-Hunter.png?v=1626101737",
+      "imagen_url": "/products/cutouts/ref-0069.png",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
@@ -5350,7 +5350,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Island Bliss abre con Bayas silvestres, Notas verdes; evoluciona hacia Coco, Azahar, Lactonas; descansa sobre un fondo de Vainilla, Haba tonka, Almizcle.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/armafislandbliss.png?v=1744392136",
+      "imagen_url": "/products/cutouts/ref-0070.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -5425,7 +5425,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Island Breeze abre con Durazno, Bayas silvestres; evoluciona hacia Rosa; descansa sobre un fondo de Almizcle blanco.",
-      "imagen_url": "https://scenthaven.ca/cdn/shop/files/islansbreeze100ml.webp?v=1776310996&width=1946",
+      "imagen_url": "/products/cutouts/ref-0071.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -5509,7 +5509,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Le Parfait Hombre abre con Bergamota, Grosella negra, Piña; evoluciona hacia Rosa, Acordes especiados, Jazmín; descansa sobre un fondo de Ámbar gris, Almizcle, Vainilla.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/LEPARFAITHOMME-100MLFIF_ac83b61a-000f-40b2-8064-166eb20dfdb1.jpg?v=1739111260",
+      "imagen_url": "/products/cutouts/ref-0072.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -5594,7 +5594,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Legasi Mujer abre con Bergamota, Limón, Durazno; evoluciona hacia Jazmín, Canela, Manzana; descansa sobre un fondo de Andalwood, Almizcle, Madera de cedro.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/LEGACYEDPFORWOMEN100ML_ARMAFSERIES_FIF.jpg?v=1739111291",
+      "imagen_url": "/products/cutouts/ref-0073.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -5680,7 +5680,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Ciruela y Miel abren una fragancia de perfil floral, con un corazón de Lirio de los valles y Jazmín y un fondo de Cacao y Almizcle. Una composición de carácter floral pensada para diario.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/ODYSSEY.jpg?v=1571610003",
+      "imagen_url": "/products/cutouts/ref-0074.png",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
@@ -5768,7 +5768,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Odyssey Aoud abre con Azafrán, Nuez moscada, Lavanda; evoluciona hacia Oud, Notas amaderadas; descansa sobre un fondo de Pachulí, Almizcle, Ambroxan.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image-2023-05-04T101554.235.jpg?v=1739111569",
+      "imagen_url": "/products/cutouts/ref-0075.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -5863,7 +5863,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Odyssey Artisto Red Edition de Armaf es un Eau de Parfum de 100 ml, de perfil unisex, dulce, cálido y especiado. La información pública disponible para esta edición describe una salida especiada, un corazón floral y un fondo ambarado-vainillado. La duración, la proyección, la estela y una valoración numérica no se consignan aquí porque varían según piel, clima y usuario, y no se pudo verificar una métrica homogénea para esta edición exacta. No debe confundirse con Odyssey Homme, Odyssey Mandarin Sky, Odyssey Mega ni otras variantes Odyssey.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Armaf-Odyssey-Artisto-The-Red-Edition.png?v=1760717418",
+      "imagen_url": "/products/cutouts/ref-0076.png",
       "fuentes": [
         {
           "titulo": "Investigación olfativa",
@@ -5922,8 +5922,8 @@
       "precio_crc": 27200,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": "Aromática cítrica amaderada",
-      "genero": "Hombre",
+      "familia": "Aromática acuática",
+      "genero": "Unisex",
       "ocasiones": [
         "uso diario",
         "primavera",
@@ -5935,19 +5935,19 @@
       ],
       "acordes": [
         {
-          "nombre": "cítrico",
+          "nombre": "acuático",
           "emoji": ""
         },
         {
-          "nombre": "aromático",
+          "nombre": "frutal",
           "emoji": ""
         },
         {
-          "nombre": "amaderado",
+          "nombre": "marino",
           "emoji": ""
         },
         {
-          "nombre": "fresco especiado",
+          "nombre": "fresco",
           "emoji": ""
         },
         {
@@ -5959,35 +5959,37 @@
           "emoji": ""
         },
         {
-          "nombre": "ámbar",
+          "nombre": "amaderado",
           "emoji": ""
         }
       ],
       "notas_salida": [
-        "limón",
-        "bergamota",
-        "pomelo",
-        "pimienta rosa"
+        "Algas",
+        "Melón cantalupo",
+        "Sal",
+        "Manzana Granny Smith",
+        "Pera",
+        "Melón",
+        "Ciruela"
       ],
       "notas_corazon": [
-        "lavanda",
-        "geranio",
-        "hoja de violeta",
-        "notas acuáticas"
+        "Notas acuáticas",
+        "Incienso",
+        "Nenúfar",
+        "Musgo de roble"
       ],
       "notas_fondo": [
-        "cedro",
-        "sándalo",
-        "pachulí",
-        "almizcle",
-        "ámbar"
+        "Ámbar",
+        "Azúcar",
+        "Almizcle",
+        "Madera de cedro"
       ],
       "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-      "descripcion": "Odyssey Bahamas es una Eau de Parfum de Armaf de perfil fresco, cítrico, aromático y amaderado, presentada habitualmente en frasco de 100 ml. Abre con cítricos y un matiz especiado, evoluciona hacia un corazón limpio de lavanda, geranio y acordes verdes/acuáticos, y seca sobre maderas, pachulí, ámbar y almizcle. Por su carácter ligero y refrescante suele recomendarse para el día, el calor y el uso cotidiano. Las pirámides de notas pueden diferir entre fichas comerciales y bases de datos de usuarios; las prestaciones son orientativas y dependen de piel, clima y cantidad aplicada.",
-      "imagen_url": "https://fimgs.net/mdimg/perfume/375x500.72396.jpg",
+      "descripcion": "Una fragancia acuática y frutal de espíritu tropical, con una apertura salina de frutas verdes y melón, un corazón de agua, nenúfar e incienso y un fondo cálido de ámbar, azúcar, almizcle y cedro. Ideal para días cálidos, uso casual y vacaciones.",
+      "imagen_url": "/products/cutouts/ref-0077.png",
       "fuentes": [
         {
           "titulo": "Investigación olfativa",
@@ -6028,6 +6030,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Ficha oficial de Odyssey Ba Ha Mas",
+          "url": "https://armafperfume.com/products/armaf-odyssey-ba-ha-mas-edp-100ml",
+          "fecha": "2026-09-19"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -6094,7 +6101,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Odyssey Black Forest abre con Caramelo, Cereza, Canela; evoluciona hacia Dátiles, Miel, Nuez moscada; descansa sobre un fondo de Praliné, Haba tonka, Vainilla.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image-2025-09-17T095429.126_900x_1bb05c54-723a-444a-bee4-2221e5041539.webp?v=1762473601",
+      "imagen_url": "/products/cutouts/ref-0078.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -6144,19 +6151,23 @@
       ],
       "acordes": [
         {
-          "nombre": "dulce",
-          "emoji": ""
-        },
-        {
           "nombre": "frutal",
           "emoji": ""
         },
         {
-          "nombre": "floral blanco",
+          "nombre": "dulce",
           "emoji": ""
         },
         {
-          "nombre": "vainilla",
+          "nombre": "caramelo",
+          "emoji": ""
+        },
+        {
+          "nombre": "floral",
+          "emoji": ""
+        },
+        {
+          "nombre": "tropical",
           "emoji": ""
         },
         {
@@ -6164,35 +6175,33 @@
           "emoji": ""
         },
         {
-          "nombre": "amaderado",
-          "emoji": ""
-        },
-        {
-          "nombre": "fresco",
+          "nombre": "ambarado",
           "emoji": ""
         }
       ],
       "notas_salida": [
-        "pera",
-        "pimienta rosa",
-        "bergamota"
+        "Durazno",
+        "Fresa",
+        "Frambuesa",
+        "Bergamota",
+        "Geranio"
       ],
       "notas_corazon": [
-        "jazmín",
-        "flor de azahar",
-        "tuberosa"
+        "Caramelo",
+        "Jazmín",
+        "Maracuyá"
       ],
       "notas_fondo": [
-        "vainilla",
-        "almizcle",
-        "cedro"
+        "Ámbar",
+        "Pachulí",
+        "Almizcle"
       ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-      "descripcion": "Odyssey Candee es un Eau de Parfum femenino de 100 ml de Armaf, construido alrededor de una salida frutal y ligeramente especiada, un corazón de flores blancas y un fondo dulce de vainilla, almizcle y maderas. El perfil resulta dulce, juvenil y fácil de llevar, especialmente en clima templado o cálido.",
-      "imagen_url": "https://fimgs.net/mdimg/perfume/375x500.78589.jpg",
+      "descripcion": "Una composición frutal, dulce y juguetona que abre con durazno, frutos rojos, bergamota y geranio. Su corazón combina caramelo, jazmín y maracuyá antes de asentarse sobre ámbar, pachulí y almizcle. Funciona especialmente bien en salidas casuales, citas y clima templado.",
+      "imagen_url": "/products/cutouts/ref-0079.png",
       "fuentes": [
         {
           "titulo": "Investigación olfativa",
@@ -6233,6 +6242,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Ficha oficial de Odyssey Candee Special Edition",
+          "url": "https://www.armaf.ae/products/odyssey-candee-special-edition",
+          "fecha": "2026-09-19"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -6251,7 +6265,7 @@
       "precio_crc": 22950,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-      "familia": "Ámbar vainilla / gourmand",
+      "familia": "Oriental vainilla / gourmand",
       "genero": "Unisex",
       "ocasiones": [
         "Noche",
@@ -6262,59 +6276,61 @@
       ],
       "acordes": [
         {
-          "nombre": "Dulce",
+          "nombre": "gourmand",
           "emoji": ""
         },
         {
-          "nombre": "Chocolate",
+          "nombre": "dulce",
           "emoji": ""
         },
         {
-          "nombre": "Vainilla",
+          "nombre": "chocolate",
           "emoji": ""
         },
         {
-          "nombre": "Ámbar",
+          "nombre": "vainilla",
           "emoji": ""
         },
         {
-          "nombre": "Gourmand",
+          "nombre": "nuez",
           "emoji": ""
         },
         {
-          "nombre": "Amaderado",
+          "nombre": "café",
           "emoji": ""
         },
         {
-          "nombre": "Nuez",
+          "nombre": "caramelo",
           "emoji": ""
         },
         {
-          "nombre": "Especiado cálido",
+          "nombre": "especiado cálido",
           "emoji": ""
         }
       ],
       "notas_salida": [
-        "Chocolate",
+        "Café",
+        "Pistacho",
+        "Praliné",
         "Avellana",
-        "Bergamota"
+        "Knafeh"
       ],
       "notas_corazon": [
         "Vainilla",
-        "Ámbar",
-        "Caramelo"
+        "Chocolate",
+        "Cardamomo"
       ],
       "notas_fondo": [
+        "Caramelo",
         "Haba tonka",
-        "Sándalo",
-        "Almizcle"
+        "Amberwood"
       ],
       "duracion": 5,
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-      "descripcion": "Odyssey Dubai Chocolat es un Eau de Parfum de 100 ml de Armaf, presentado como una fragancia gourmand unisex de perfil dulce y cálido. La composición gira alrededor del chocolate y la avellana, evoluciona hacia un corazón de vainilla, ámbar y caramelo y termina en una base suave de haba tonka, sándalo y almizcle. Está especialmente orientada a uso nocturno y a climas frescos. Las fichas públicas consultadas no ofrecen una métrica homogénea y verificable para duración, proyección, estela o valoración; por ello esos campos se dejan como null en vez de convertir impresiones de usuarios en datos objetivos.",
-      "imagen_url": "https://fimgs.net/mdimg/perfume/375x500.112795.jpg",
+      "descripcion": "Una fragancia oriental gourmand, cálida y opulenta. Abre con café, pistacho, avellana, praliné y knafeh; evoluciona hacia chocolate, vainilla y cardamomo y termina en caramelo, haba tonka y amberwood. Ideal para noches, citas y temporadas frescas.",
+      "imagen_url": "/products/cutouts/ref-0080.png",
       "fuentes": [
         {
           "titulo": "Investigación olfativa",
@@ -6355,6 +6371,11 @@
           "titulo": "Investigación olfativa",
           "url": "https://www.parfumelle.com/pages/fragrance-concentration-chart",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Ficha oficial de Odyssey Dubai Chocolat",
+          "url": "https://www.armaf.ae/products/odyssey-dubai-chocolat",
+          "fecha": "2026-09-19"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -6421,7 +6442,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Odyssey Go Mango abre con Limón, Pimienta rosa, Jengibre; evoluciona hacia Mango, Haba tonka, Maderas secas; descansa sobre un fondo de Vainilla, Ámbar, Madera de gaiac.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ODYSSEYGOMANGO2.png?v=1767893488",
+      "imagen_url": "/products/cutouts/ref-0081.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -6505,7 +6526,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Odyssey Homme abre con Mandarina, Neroli, Cardamomo; evoluciona hacia Rosa, Azahar; descansa sobre un fondo de Sándalo, Vainilla, Ámbar.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image-2023-05-19T090307.426.jpg?v=1739111580",
+      "imagen_url": "/products/cutouts/ref-0082.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -6600,7 +6621,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Mandarina y Lichi abren una fragancia de perfil floral frutal, con un corazón de Peonía y Ylang-ylang y un fondo de Vainilla y Sándalo. Una composición de carácter floral pensada para noche.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ODYSSEYLI_CHILUSHEDP-1.png?v=1774993705",
+      "imagen_url": "/products/cutouts/ref-0083.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -6689,7 +6710,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Odyssey Limoni abre con Limón, Naranja dulce, Bergamota; evoluciona hacia Jengibre, Azahar, Notas marinas; descansa sobre un fondo de Ámbar, Almizcle, Blue Tea.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/limoni.png?v=1744391985",
+      "imagen_url": "/products/cutouts/ref-0084.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -6773,7 +6794,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Odyssey Mandarin Sky abre con Salvia, Mandarina, Naranja; evoluciona hacia Caramelo, Haba tonka, Tagetes; descansa sobre un fondo de Vetiver, Cedro, Ambroxan.",
-      "imagen_url": "https://shoplineimg.com/654075c976cfe7000dbbb71f/68660601f300c168ca06c219/800x.jpg",
+      "imagen_url": "/products/cutouts/ref-0085.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -6857,7 +6878,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Odyssey Mandarin Sky abre con Salvia, Mandarina, Naranja; evoluciona hacia Caramelo, Haba tonka, Tagetes; descansa sobre un fondo de Vetiver, Cedro, Ambroxan.",
-      "imagen_url": "https://images.fravega.com/f1000/09d347b40af72719b94582ed6215a6ed.jpg",
+      "imagen_url": "/products/cutouts/ref-0086.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -6941,7 +6962,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Odyssey Mandarin Sky Elixir abre con Salvia, Mandarina, Naranja; evoluciona hacia Caramelo, Haba tonka, Tagetes; descansa sobre un fondo de Vetiver, Cedro, Ambroxan.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Untitleddesign_74.png?v=1749140075",
+      "imagen_url": "/products/cutouts/ref-0087.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -7028,7 +7049,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Odyssey Mandarin Sky Vintage abre con Notas verdes, Naranja; evoluciona hacia Madreselva, Nardo, Jazmín egipcio; descansa sobre un fondo de Vainilla, Raíz de lirio, Sándalo.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ODYSSEYMANDARINSKYVINTAGEEDITION2.png?v=1767891216",
+      "imagen_url": "/products/cutouts/ref-0088.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
