@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T18:35:22+00:00",
+  "generated_at": "2026-09-19T18:38:01+00:00",
   "records": [
     {
       "ref": 1,
@@ -302,12 +302,12 @@
       "nombre": "Gelato Mango Tango",
       "marca": "Amaran",
       "presentacion": "AMARAN GELATO MANGO TANGO EDP 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.119580.jpg",
+      "source_url": "/products/cutouts/ref-0022.png",
       "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "fidelity_status": "needs_exact_source",
       "treatment": "retain_or_reframe",
       "final_url": null,
-      "review_status": "approved",
+      "review_status": "pending",
       "notes": ""
     },
     {
@@ -316,12 +316,12 @@
       "nombre": "Clasico Hombre",
       "marca": "Animale",
       "presentacion": "ANIMALE CLASICO HOMBRE EDT 100ML",
-      "source_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Animal-Edt.png?v=1600888762",
+      "source_url": "/products/cutouts/ref-0023.png",
       "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "fidelity_status": "needs_exact_source",
       "treatment": "retain_or_reframe",
       "final_url": null,
-      "review_status": "approved",
+      "review_status": "pending",
       "notes": ""
     },
     {
@@ -330,12 +330,12 @@
       "nombre": "Clasico Mujer",
       "marca": "Animale",
       "presentacion": "ANIMALE CLASICO MUJER EDP 100ML",
-      "source_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Animal.png?v=1600888762",
+      "source_url": "/products/cutouts/ref-0024.png",
       "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "fidelity_status": "needs_exact_source",
       "treatment": "retain_or_reframe",
       "final_url": null,
-      "review_status": "approved",
+      "review_status": "pending",
       "notes": ""
     },
     {
@@ -358,12 +358,12 @@
       "nombre": "Black Seduction",
       "marca": "Antonio Banderas",
       "presentacion": "ANTONIO B BLACK SEDUCTION 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.6746.jpg",
+      "source_url": "/products/cutouts/ref-0026.png",
       "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "fidelity_status": "needs_exact_source",
       "treatment": "retain_or_reframe",
       "final_url": null,
-      "review_status": "approved",
+      "review_status": "pending",
       "notes": ""
     },
     {
@@ -372,12 +372,12 @@
       "nombre": "Blue Seduction Hombre",
       "marca": "Antonio Banderas",
       "presentacion": "ANTONIO B BLUE SEDUCTION HOMBRE 100ML",
-      "source_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/ANTONIO-BANDERA_S-BLUE-SEDUCTION-100ML-EDT-MEN.png?v=1571610018",
+      "source_url": "/products/cutouts/ref-0027.png",
       "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "fidelity_status": "needs_exact_source",
       "treatment": "retain_or_reframe",
       "final_url": null,
-      "review_status": "approved",
+      "review_status": "pending",
       "notes": ""
     },
     {
