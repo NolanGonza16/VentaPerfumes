@@ -696,7 +696,7 @@
       "duracion": 4,
       "proyeccion": 4,
       "estela": 4,
-      "valoracion": 4.0,
+      "valoracion": 4,
       "descripcion": "Manzana y canela dan paso a flores suaves y un fondo dulce de vainilla y haba tonka. Cálido y expresivo, es una sugerencia para salidas nocturnas y encuentros especiales.",
       "imagen_url": "https://cdn.shopify.com/s/files/1/0714/3129/1097/files/03_9PM.jpg?v=1775552889&width=1080",
       "fuentes": [
@@ -1338,7 +1338,7 @@
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
-      "valoracion": 4.0,
+      "valoracion": 4,
       "descripcion": "Un jardín floral limpio y atalcado, animado por manzana verde, limón y violeta antes de descansar sobre almizcle y sándalo. Suave y elegante para el día.",
       "imagen_url": "/products/cutouts/ref-0019.png",
       "fuentes": [
@@ -1881,7 +1881,7 @@
       "duracion": 2,
       "proyeccion": 2,
       "estela": 2,
-      "valoracion": 4.0,
+      "valoracion": 4,
       "descripcion": "Grosella negra y bergamota abren un perfil masculino especiado, suavizado por haba tonka, ámbar y maderas. Seductor pero discreto, para diario, citas y noches informales.",
       "imagen_url": "/products/cutouts/ref-0026.png",
       "fuentes": [
@@ -3469,7 +3469,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Club De Nuit Bling abre con Cítricos; evoluciona hacia Flower Prism, Stardust; descansa sobre un fondo de Vainilla, Velvet Wood.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CDN_BLING_313469_-A-1-SF.png?v=1775252102",
+      "imagen_url": "/products/cutouts/ref-0048.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -3560,7 +3560,7 @@
       "estela": 3,
       "valoracion": 4.23,
       "descripcion": "Un amaderado masculino de cítricos, menta y especias que gana profundidad con incienso, cedro y sándalo. Pulcro y versátil para oficina, diario o noche.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image.webp?v=1767893940",
+      "imagen_url": "/products/cutouts/ref-0049.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -3636,7 +3636,7 @@
       "estela": 5,
       "valoracion": 4.1,
       "descripcion": "Lichi y bergamota presentan una rosa turca intensa, cremosa por vainilla y almizcle, con incienso y maderas al fondo. Femenina y opulenta para citas y eventos.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/65.png?v=1758576123",
+      "imagen_url": "/products/cutouts/ref-0050.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -3713,7 +3713,7 @@
       "estela": 4,
       "valoracion": 4.07,
       "descripcion": "Una salida cítrica y frutal de gran presencia evoluciona hacia abedul ahumado, almizcle y pachulí. Masculino, firme y versátil para el día, la noche o eventos.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CDN12.png?v=1781552801",
+      "imagen_url": "/products/cutouts/ref-0051.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -3790,7 +3790,7 @@
       "estela": 4,
       "valoracion": 4.07,
       "descripcion": "Una salida cítrica y frutal de gran presencia evoluciona hacia abedul ahumado, almizcle y pachulí. Masculino, firme y versátil para el día, la noche o eventos.",
-      "imagen_url": "https://armaf.com/cdn/shop/files/CDN12.png?v=1781552801&width=2048",
+      "imagen_url": "/products/cutouts/ref-0052.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -3866,7 +3866,7 @@
       "estela": 5,
       "valoracion": null,
       "descripcion": "Una versión intensa y magnética de perfil cítrico ambarado, con piña y bergamota sobre vainilla, musgo, ámbar y tonka.",
-      "imagen_url": "https://armaf.com/cdn/shop/files/CDN-Overdose-john-Abraham-Edition-front.jpg?v=1783017344&width=2048",
+      "imagen_url": "/products/cutouts/ref-0053.png",
       "fuentes": [
         {
           "titulo": "Investigación olfativa",
@@ -3937,7 +3937,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Club De Nuit Lionheart Man abre con Lavanda, Menta; evoluciona hacia Benjuí, Vainilla; descansa sobre un fondo de Miel, Haba tonka, Tabaco.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Lionheart..png?v=1765209131",
+      "imagen_url": "/products/cutouts/ref-0054.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -4018,7 +4018,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Club De Nuit Lionheart Woman abre con Lavanda, Menta; evoluciona hacia Benjuí, Vainilla; descansa sobre un fondo de Miel, Haba tonka, Tabaco.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CLUBDENUITLIONHEARTWOMAN...png?v=1765210005",
+      "imagen_url": "/products/cutouts/ref-0055.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -4104,7 +4104,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Club De Nuit Man abre con Mandarina, Toronja, Menta; evoluciona hacia Canela, Clavo de olor, Jengibre; descansa sobre un fondo de Ámbar, Notas especiadas, Notas amaderadas.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/74.png?v=1758576648",
+      "imagen_url": "/products/cutouts/ref-0056.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -4188,7 +4188,7 @@
       "estela": 3,
       "valoracion": 3.92,
       "descripcion": "Notas marinas y frutos rojos crean una frescura salina sobre violeta, maderas blancas y almizcle. Unisex, relajada y elegante para días cálidos y uso casual.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/67.png?v=1758576374",
+      "imagen_url": "/products/cutouts/ref-0057.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -4273,7 +4273,7 @@
       "estela": 5,
       "valoracion": 4.25,
       "descripcion": "Bergamot y Passion fruit abren una fragancia de perfil ámbar, con un corazón de Cashmere wood y Freesia y un fondo de Cambodian oud y Crystal amber. Una composición de carácter ámbar pensada para noche.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Club-de-Nuit-Oud-Armaf.png?v=1710256935",
+      "imagen_url": "/products/cutouts/ref-0058.png",
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
@@ -4372,7 +4372,7 @@
       "estela": 4,
       "valoracion": 4.48,
       "descripcion": "Un extrait frutal, especiado y amaderado, con piña y caramelo sobre musgo, maderas blancas, cuero, ámbar y vainilla.",
-      "imagen_url": "https://fimgs.net/mdimg/perfume/375x500.93272.jpg",
+      "imagen_url": "/products/cutouts/ref-0059.png",
       "fuentes": [
         {
           "titulo": "Investigación olfativa",
@@ -4444,7 +4444,7 @@
       "estela": 5,
       "valoracion": 4.37,
       "descripcion": "Un extrait floral gourmand que contrasta sal marina y fruta fresca con flores cremosas, vainilla, crema batida y tonka.",
-      "imagen_url": "https://armaf.uk/cdn/shop/files/Product_5f3145b9-7b76-42a8-818a-455b474877a6.png?crop=center&height=1200&v=1773828088&width=1200",
+      "imagen_url": "/products/cutouts/ref-0060.png",
       "fuentes": [
         {
           "titulo": "Investigación olfativa",
@@ -4528,7 +4528,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Club De Nuit Sillage abre con Bergamota, Limón, Lima; evoluciona hacia Jazmín, Iris, Rosa; descansa sobre un fondo de Sandalwood Cedar wood Musk Ambroxan.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/68.png?v=1758576452",
+      "imagen_url": "/products/cutouts/ref-0061.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -4614,7 +4614,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Club De Nuit Untold abre con Azafrán, Jazmín; evoluciona hacia Madera de ámbar, Ámbar gris; descansa sobre un fondo de Resina de abeto, Cedro.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/64.png?v=1758576052",
+      "imagen_url": "/products/cutouts/ref-0062.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -4706,7 +4706,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Club De Nuit Urban Man abre con Bergamota, Menta, Toronja; evoluciona hacia Lavanda, Cedro, Jengibre; descansa sobre un fondo de Pachulí, Vetiver, Sándalo.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CLUBDENUITURBANMAN01.png?v=1765209493",
+      "imagen_url": "/products/cutouts/ref-0063.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -4800,7 +4800,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Club De Nuit Urban Man Elixir abre con Bergamota, Pimienta rosa, Azahar; evoluciona hacia Lavanda, Tagetes, Geranio; descansa sobre un fondo de Ambroxan, Ámbar, Pachulí.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/66.png?v=1758576197",
+      "imagen_url": "/products/cutouts/ref-0064.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -4886,7 +4886,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Club De Nuit Woman abre con Bergamota, Toronja, Durazno; evoluciona hacia Geranio, Jazmín, Lichi; descansa sobre un fondo de Almizcle, Pachulí, Vainilla.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/CDN1.png?v=1774468835",
+      "imagen_url": "/products/cutouts/ref-0065.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -4972,7 +4972,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Connoisseur Man abre con Manzana verde, Toronja, Jengibre; evoluciona hacia Geranio, Lavanda, Salvia; descansa sobre un fondo de Olíbano, Haba tonka, Pachulí.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/armafcm_0b1cadc1-27b2-4f11-bb45-f54237b74f54.png?v=1744395852",
+      "imagen_url": "/products/cutouts/ref-0066.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -5057,7 +5057,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Fragancia de Armaf comercializada con el nombre Dubai Delicacy Kunafa Chocolate, en concentración Eau de Parfum y formato de 70 ml. No fue posible verificar en las fuentes consultadas una ficha técnica pública que confirme familia olfativa, género, pirámide de notas, rendimiento o valoración; por ello esos campos se dejan sin afirmar.",
-      "imagen_url": "https://www.chemistwarehouse.ae/cdn/shop/files/1171_2FPRODUCT_IMAGE_2F8677619a8a66a6b29020830c782d444b.jpg?v=1770794321&width=1200",
+      "imagen_url": "/products/cutouts/ref-0067.png",
       "fuentes": [
         {
           "titulo": "Investigación olfativa",
@@ -5175,7 +5175,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Eter Arabian Sky abre con Pepper Lemon, Aceite de naranja, Bergamota italiana; evoluciona hacia Lavanda, Geranio egipcio, Ylang-ylang; descansa sobre un fondo de Pachulí, Vetiver, Cedro.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ArabianSky.jpg?v=1739111241",
+      "imagen_url": "/products/cutouts/ref-0067.png",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -8882,7 +8882,7 @@
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-  "descripcion": "Fragancia masculina cálida y envolvente que combina especias luminosas, lavanda e incienso con una base cremosa de vainilla, tonka y ámbar. Elegante para noches, citas y eventos en clima fresco.",
+      "descripcion": "Fragancia masculina cálida y envolvente que combina especias luminosas, lavanda e incienso con una base cremosa de vainilla, tonka y ámbar. Elegante para noches, citas y eventos en clima fresco.",
       "imagen_url": "https://armaf.com/cdn/shop/files/NewProject-2024-03-21T105616.640.jpg?v=1739111655&width=1600",
       "fuentes": [
         {
@@ -23119,11 +23119,11 @@
       "familia": "cítrica aromática",
       "genero": "Unisex",
       "ocasiones": [
-    "Diario",
-    "Casual",
-    "Exterior",
-    "Primavera",
-    "Verano"
+        "Diario",
+        "Casual",
+        "Exterior",
+        "Primavera",
+        "Verano"
       ],
       "acordes": [
         {
@@ -23144,26 +23144,26 @@
         }
       ],
       "notas_salida": [
-    "Limón",
-    "Naranja dulce",
-    "Bergamota",
-    "Mandarina"
+        "Limón",
+        "Naranja dulce",
+        "Bergamota",
+        "Mandarina"
       ],
       "notas_corazon": [
-    "Jengibre",
-    "Flor de azahar",
-    "Notas marinas"
+        "Jengibre",
+        "Flor de azahar",
+        "Notas marinas"
       ],
       "notas_fondo": [
-    "Ámbar",
-    "Almizcle",
-    "Té azul"
+        "Ámbar",
+        "Almizcle",
+        "Té azul"
       ],
-  "duracion": 3,
+      "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-  "descripcion": "Estuche unisex de frescura cítrica intensa: una apertura de limón, naranja y mandarina evoluciona hacia jengibre, azahar y acordes marinos, con un fondo limpio de té, almizcle y ámbar. Ideal para días cálidos y uso casual.",
+      "descripcion": "Estuche unisex de frescura cítrica intensa: una apertura de limón, naranja y mandarina evoluciona hacia jengibre, azahar y acordes marinos, con un fondo limpio de té, almizcle y ámbar. Ideal para días cálidos y uso casual.",
       "imagen_url": "https://armaf.com/cdn/shop/files/GS-OdysseyLimoni_PhotoGrid.pngDisplayingGS-OdysseyLimoni_PhotoGrid.png..png?v=1757025819&width=2048",
       "fuentes": [
         {
@@ -23203,15 +23203,15 @@
       "precio_crc": 34850,
       "tamano_ml": null,
       "concentracion": null,
-  "familia": "Fougère aromática amaderada",
+      "familia": "Fougère aromática amaderada",
       "genero": "Hombre",
       "ocasiones": [
-    "Diario",
-    "Oficina",
-    "Casual",
-    "Actividad",
-    "Primavera",
-    "Verano"
+        "Diario",
+        "Oficina",
+        "Casual",
+        "Actividad",
+        "Primavera",
+        "Verano"
       ],
       "acordes": [
         {
@@ -23232,30 +23232,30 @@
         }
       ],
       "notas_salida": [
-    "Jengibre",
-    "Bergamota",
-    "Naranja",
-    "Limón",
-    "Menta"
+        "Jengibre",
+        "Bergamota",
+        "Naranja",
+        "Limón",
+        "Menta"
       ],
       "notas_corazon": [
-    "Piña",
-    "Salvia",
-    "Enebro",
-    "Bayas",
-    "Geranio"
+        "Piña",
+        "Salvia",
+        "Enebro",
+        "Bayas",
+        "Geranio"
       ],
       "notas_fondo": [
-    "Almizcle",
-    "Cedro",
-    "Vetiver",
-    "Haba tonka"
+        "Almizcle",
+        "Cedro",
+        "Vetiver",
+        "Haba tonka"
       ],
-  "duracion": 3,
+      "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-  "descripcion": "Estuche masculino fresco y energético, con cítricos, jengibre y menta sobre un corazón frutal-aromático y una base limpia de cedro, vetiver, almizcle y tonka. Versátil para oficina, diario y clima cálido.",
+      "descripcion": "Estuche masculino fresco y energético, con cítricos, jengibre y menta sobre un corazón frutal-aromático y una base limpia de cedro, vetiver, almizcle y tonka. Versátil para oficina, diario y clima cálido.",
       "imagen_url": "https://armaf.com/cdn/shop/files/ODYSSEYMEGAGIFTSET.png?v=1770764674&width=2048",
       "fuentes": [
         {
@@ -27059,14 +27059,14 @@
       "precio_crc": 14450,
       "tamano_ml": 100,
       "concentracion": null,
-  "familia": "Floral empolvada almizclada",
+      "familia": "Floral empolvada almizclada",
       "genero": "Mujer",
       "ocasiones": [
-    "Formal",
-    "Noche",
-    "Eventos",
-    "Otoño",
-    "Invierno"
+        "Formal",
+        "Noche",
+        "Eventos",
+        "Otoño",
+        "Invierno"
       ],
       "acordes": [
         {
@@ -27107,27 +27107,27 @@
         }
       ],
       "notas_salida": [
-    "Geranio",
-    "Bergamota",
-    "Jazmín",
-    "Rosa"
+        "Geranio",
+        "Bergamota",
+        "Jazmín",
+        "Rosa"
       ],
       "notas_corazon": [
-    "Sándalo",
-    "Vetiver",
-    "Iris"
+        "Sándalo",
+        "Vetiver",
+        "Iris"
       ],
       "notas_fondo": [
-    "Vainilla",
-    "Ámbar",
-    "Almizcle",
-    "Musgo de roble"
+        "Vainilla",
+        "Ámbar",
+        "Almizcle",
+        "Musgo de roble"
       ],
-  "duracion": 4,
-  "proyeccion": 4,
-  "estela": 4,
+      "duracion": 4,
+      "proyeccion": 4,
+      "estela": 4,
       "valoracion": null,
-  "descripcion": "Floral femenino de carácter clásico, elegante y empolvado. Rosa, iris y jazmín descansan sobre sándalo, vainilla, musgo y almizcle para crear una presencia sofisticada, ideal para eventos, noches y clima fresco.",
+      "descripcion": "Floral femenino de carácter clásico, elegante y empolvado. Rosa, iris y jazmín descansan sobre sándalo, vainilla, musgo y almizcle para crear una presencia sofisticada, ideal para eventos, noches y clima fresco.",
       "imagen_url": "https://www.giorgio-valenti.com/img/femme/rosenoire-100ml.jpg",
       "fuentes": [
         {
@@ -28012,19 +28012,19 @@
         }
       ],
       "notas_salida": [
-    "Jazmín sambac"
+        "Jazmín sambac"
       ],
       "notas_corazon": [
-    "Cashmeran"
+        "Cashmeran"
       ],
       "notas_fondo": [
-    "Ámbar blanco"
+        "Ámbar blanco"
       ],
       "duracion": null,
       "proyeccion": null,
       "estela": null,
       "valoracion": null,
-  "descripcion": "Fragancia femenina floral-amaderada de estructura minimalista: jazmín sambac luminoso, un corazón aterciopelado de cashmeran y una base cálida de ámbar blanco. Pulida y versátil para el día, la oficina o una ocasión elegante.",
+      "descripcion": "Fragancia femenina floral-amaderada de estructura minimalista: jazmín sambac luminoso, un corazón aterciopelado de cashmeran y una base cálida de ámbar blanco. Pulida y versátil para el día, la oficina o una ocasión elegante.",
       "imagen_url": "https://cdn2.jomashop.com/media/catalog/product/cache/b3e31d40bbb1abcc90b26106659d5d3f/g/r/grandeur-ladies-aura-pour-femme-edp-spray-3-4-oz-fragrances-5055810035921.jpg?width=800&height=800",
       "fuentes": [
         {
@@ -34103,14 +34103,20 @@
           "emoji": ""
         }
       ],
-      "notas_salida": ["Loto azul"],
-      "notas_corazon": ["Iris"],
-      "notas_fondo": ["Vainilla"],
+      "notas_salida": [
+        "Loto azul"
+      ],
+      "notas_corazon": [
+        "Iris"
+      ],
+      "notas_fondo": [
+        "Vainilla"
+      ],
       "duracion": 4,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
-  "descripcion": "Un floral ambarado femenino, acuático y sensual. El loto azul aporta una frescura de laguna, el iris una textura elegante y empolvada, y la vainilla un fondo cremoso que funciona especialmente bien en citas y días cálidos.",
+      "descripcion": "Un floral ambarado femenino, acuático y sensual. El loto azul aporta una frescura de laguna, el iris una textura elegante y empolvada, y la vainilla un fondo cremoso que funciona especialmente bien en citas y días cálidos.",
       "imagen_url": "https://medias.jeanpaulgaultier.com/cdn-cgi/image/width=3840,quality=90,format=avif/medias/sys_master/images/h36/h1a/9862236012574/9862235947038/9862235947038.png",
       "fuentes": [
         {
@@ -44318,15 +44324,15 @@
       "precio_crc": 17850,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-  "familia": "Floral fresca cítrica afrutada",
+      "familia": "Floral fresca cítrica afrutada",
       "genero": "Mujer",
       "ocasiones": [
-    "Diario",
-    "Oficina",
-    "Casual",
-    "Citas",
-    "Primavera",
-    "Verano"
+        "Diario",
+        "Oficina",
+        "Casual",
+        "Citas",
+        "Primavera",
+        "Verano"
       ],
       "acordes": [
         {
@@ -44346,10 +44352,23 @@
           "emoji": ""
         }
       ],
-      "notas_salida": ["Bergamota", "Flor de pomelo", "Durazno"],
-      "notas_corazon": ["Rosa", "Jazmín", "Iris"],
-      "notas_fondo": ["Almizcle blanco", "Vainilla", "Vetiver", "Pachulí"],
-  "duracion": 3,
+      "notas_salida": [
+        "Bergamota",
+        "Flor de pomelo",
+        "Durazno"
+      ],
+      "notas_corazon": [
+        "Rosa",
+        "Jazmín",
+        "Iris"
+      ],
+      "notas_fondo": [
+        "Almizcle blanco",
+        "Vainilla",
+        "Vetiver",
+        "Pachulí"
+      ],
+      "duracion": 3,
       "proyeccion": 3,
       "estela": 3,
       "valoracion": null,
@@ -52271,36 +52290,36 @@
         }
       ],
       "notas_salida": [
-    "Bergamota italiana",
-    "Gelato de pistacho",
-    "Avellana",
-    "Ron dulce",
-    "Cardamomo"
+        "Bergamota italiana",
+        "Gelato de pistacho",
+        "Avellana",
+        "Ron dulce",
+        "Cardamomo"
       ],
       "notas_corazon": [
-    "Geranio",
-    "Peonía blanca",
-    "Lirio del valle",
-    "Jazmín",
-    "Frambuesa",
-    "Durazno blanco",
-    "Pera"
+        "Geranio",
+        "Peonía blanca",
+        "Lirio del valle",
+        "Jazmín",
+        "Frambuesa",
+        "Durazno blanco",
+        "Pera"
       ],
       "notas_fondo": [
-    "Crema batida",
-    "Malvavisco",
-    "Algodón de azúcar",
-    "Acorde de delicia turca",
-    "Cacao",
-    "Cedro",
-    "Sándalo",
-    "Haba tonka"
+        "Crema batida",
+        "Malvavisco",
+        "Algodón de azúcar",
+        "Acorde de delicia turca",
+        "Cacao",
+        "Cedro",
+        "Sándalo",
+        "Haba tonka"
       ],
-  "duracion": 4,
+      "duracion": 4,
       "proyeccion": 4,
       "estela": 4,
       "valoracion": null,
-  "descripcion": "Gourmand unisex cremoso y juguetón, construido alrededor de pistacho, avellana y ron. Flores y frutas iluminan el corazón antes de un fondo de crema, malvavisco, cacao, tonka y maderas, ideal para citas y noches frescas.",
+      "descripcion": "Gourmand unisex cremoso y juguetón, construido alrededor de pistacho, avellana y ron. Flores y frutas iluminan el corazón antes de un fondo de crema, malvavisco, cacao, tonka y maderas, ideal para citas y noches frescas.",
       "imagen_url": "https://www.pariscornerperfumes.com/cdn/shop/files/KHAIRPISTACHIO01.jpg?v=1718466745&width=1600",
       "fuentes": [
         {
@@ -52350,15 +52369,15 @@
       "precio_crc": 25500,
       "tamano_ml": 100,
       "concentracion": "Eau de Parfum",
-  "familia": "Gourmand frutal almizclada",
-  "genero": "Unisex",
+      "familia": "Gourmand frutal almizclada",
+      "genero": "Unisex",
       "ocasiones": [
-    "Citas",
-    "Diario",
-    "Casual",
-    "Noche",
-    "Primavera",
-    "Otoño"
+        "Citas",
+        "Diario",
+        "Casual",
+        "Noche",
+        "Primavera",
+        "Otoño"
       ],
       "acordes": [
         {
@@ -52397,11 +52416,11 @@
         "Malvavisco",
         "Vainilla"
       ],
-  "duracion": 4,
-  "proyeccion": 4,
-  "estela": 4,
+      "duracion": 4,
+      "proyeccion": 4,
+      "estela": 4,
       "valoracion": null,
-  "descripcion": "Gourmand unisex suave y goloso, con fresas y frambuesas avivadas por limón. Un corazón de azahar, ambroxan y crema se funde con malvavisco, vainilla y almizcle para una estela reconfortante y divertida.",
+      "descripcion": "Gourmand unisex suave y goloso, con fresas y frambuesas avivadas por limón. Un corazón de azahar, ambroxan y crema se funde con malvavisco, vainilla y almizcle para una estela reconfortante y divertida.",
       "imagen_url": "https://www.pariscornerperfumes.com/cdn/shop/files/WhatsAppImage2025-01-21at1.14.06PM.jpg?v=1737450880&width=1600",
       "fuentes": [
         {
