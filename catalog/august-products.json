@@ -57,12 +57,17 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Una colonia masculina fresca y segura, con salida cítrica, corazón aromático y un fondo limpio de maderas y almizcle. Versátil para el día y la oficina.",
-      "imagen_url": "/products/cutouts/ref-0001.png",
+      "imagen_url": "https://www.abercrombie.com.mx/media/catalog/product/k/i/kic_164-1502-0218-270_prod1.jpg?quality=100&fit=bounds&height=1600&width=1200&canvas=1200:1600",
       "fuentes": [
         {
           "titulo": "Ficha olfativa de Fragrantica",
           "url": "https://www.fragrantica.com/perfume/Abercrombie-Fitch/Fierce-Cologne-64168.html",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Imagen oficial de Abercrombie & Fitch",
+          "url": "https://www.abercrombie.com.mx/colonia-fierce-657819491",
+          "fecha": "2026-09-19"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -123,12 +128,17 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Una fragancia floral y amaderada de carácter natural, sereno y moderno. Su equilibrio aromático resulta cómodo para el uso diario y ambientes profesionales.",
-      "imagen_url": "/products/cutouts/ref-0002.png",
+      "imagen_url": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:1200/_rTME2Yc9-1191865_1.jpg",
       "fuentes": [
         {
           "titulo": "Ficha olfativa de Fragrantica",
           "url": "https://www.fragrantica.com/perfume/Abercrombie-Fitch/Naturally-Fierce-68533.html",
           "fecha": "2026-09-09"
+        },
+        {
+          "titulo": "Imagen verificada de Naturally Fierce EDP 100 ml",
+          "url": "https://www.tirabeauty.com/product/abercrombie-fitch-naturally-fierce-w-eau-de-parfum-100-ml-9247886",
+          "fecha": "2026-09-19"
         }
       ],
       "disponibilidad": "bajo_pedido",
@@ -1814,7 +1824,7 @@
       "estela": null,
       "valoracion": null,
       "descripcion": "",
-      "imagen_url": "https://yauras.cl/cdn/shop/files/RaveNowWhite100MlEdp_74_ed014bcd-2f10-4805-a139-4e621d79fc8c_700x700.jpg?v=1779905842",
+      "imagen_url": null,
       "fuentes": [
         {
           "titulo": "Ediciones Summer Essence de Fragrantica",
@@ -5175,7 +5185,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Eter Arabian Sky abre con Pepper Lemon, Aceite de naranja, Bergamota italiana; evoluciona hacia Lavanda, Geranio egipcio, Ylang-ylang; descansa sobre un fondo de Pachulí, Vetiver, Cedro.",
-      "imagen_url": "/products/cutouts/ref-0067.png",
+      "imagen_url": "https://armaf.com/cdn/shop/files/ArabianSky.jpg?v=1739111241&width=1600",
       "fuentes": [
         {
           "titulo": "Ficha oficial de Armaf",
@@ -9070,7 +9080,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "limón y verbena abren una fragancia de perfil floral amaderada almizclada, con un corazón de violeta y lavanda y un fondo de ámbar y sándalo. Una composición de carácter floral pensada para diario.",
-      "imagen_url": "https://fimgs.net/mdimg/perfume/375x500.21829.jpg",
+      "imagen_url": "https://armaf.com/cdn/shop/files/Q-121ATRESNUIT_M_3278373f-ed84-416b-8687-e1054cbbcabb.jpg?v=1739111251&width=1600",
       "fuentes": [
         {
           "titulo": "Investigación olfativa",
@@ -44021,7 +44031,7 @@
       "estela": 3,
       "valoracion": 3.85,
       "descripcion": "Aniseed y Absinth abren esta fragancia de perfil amaderada aromática, con un corazón de Violet wood y Orgeat syrup y un fondo de Musk y Cedarwood. Una composición expresiva y equilibrada para noche.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Lolita-Lempicka.png?v=1571609946",
+      "imagen_url": null,
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
@@ -47768,7 +47778,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "La miniatura corresponde a la fragancia base Honor & Glory de Lattafa, un gourmand afrutado y especiado con piña y crema brûlée.",
-      "imagen_url": "https://theskinfit.com/cdn/shop/files/LattafaBadeeAlOudHonor_GloryEauDeParfum100ml_362dc3ed-0cc8-4440-bac4-275a2da750f9.png?v=1763020941&width=3840",
+      "imagen_url": null,
       "fuentes": [
         {
           "titulo": "Investigación olfativa",
@@ -48028,7 +48038,7 @@
       "estela": 4,
       "valoracion": null,
       "descripcion": "Miniatura de Yara Candy, perfil dulce y frutal con fresa, gardenia, vainilla y almizcle.",
-      "imagen_url": "https://yaraparfum.hu/cdn/shop/files/lattafa-yara-mini-kollekcio-edp-4x5-ml-6659334.png?v=1752821169&width=3840",
+      "imagen_url": null,
       "fuentes": [
         {
           "titulo": "Investigación olfativa",
@@ -49983,7 +49993,7 @@
       "estela": 3,
       "valoracion": null,
       "descripcion": "Fragancia aromática acuática de Nautica con manzana y hojas verdes sobre loto, maderas y almizcle.",
-      "imagen_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/NAUVOY200M.png?v=1571609907",
+      "imagen_url": null,
       "fuentes": [
         {
           "titulo": "Referencia visual de PerfumeOnline.ca",
