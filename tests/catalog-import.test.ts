@@ -74,7 +74,7 @@ test("the public artifact has retail prices but never supplier costs", () => {
 test("verified manufacturer matches add Spanish notes and never reuse a wrong edition", () => {
   const auraFresh = catalog.records.find((record) => record.origen_ref === 43);
   assert.equal(auraFresh?.ficha_estado, "verificada");
-  assert.match(String(auraFresh?.imagen_url), /^https:\/\/cdn\.shopify\.com\//);
+  assert.equal(auraFresh?.imagen_url, "/products/cutouts/ref-0043.png");
   assert.deepEqual(auraFresh?.notas_salida, [
     "Limón",
     "Bergamota",
