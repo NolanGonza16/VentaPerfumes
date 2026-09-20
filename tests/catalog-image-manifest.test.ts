@@ -52,9 +52,8 @@ test("exact image claims require an approved source and a published local cutout
         if (row.fidelity_status !== "verified_exact") return true;
         return (
           row.review_status === "approved" &&
-          /^(https:\/\/|\/products\/cutouts\/ref-\d{4}\.png$)/.test(
-            row.source_url ?? "",
-          ) &&
+          /^https:\/\//.test(row.source_url ?? "") &&
+          row.source_url !== row.final_url &&
           /^\/products\/cutouts\/ref-\d{4}\.png$/.test(row.final_url ?? "") &&
           fs.existsSync(`public${row.final_url}`)
         );

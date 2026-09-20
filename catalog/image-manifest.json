@@ -36,13 +36,13 @@
       "nombre": "Delanoe Exclusif",
       "marca": "Acqua di Parisis",
       "presentacion": "ACQUA DI PARISIS DELANOE EXCLUSIF EDP 100ML",
-      "source_url": "/products/cutouts/ref-0003.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0003.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 4,
@@ -50,13 +50,13 @@
       "nombre": "Magic Red",
       "marca": "Acqua di Parisis",
       "presentacion": "ACQUA DI PARISIS MAGIC RED EDP 100ML",
-      "source_url": "/products/cutouts/ref-0004.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0004.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 5,
@@ -64,13 +64,13 @@
       "nombre": "Venizia",
       "marca": "Acqua di Parisis",
       "presentacion": "ACQUA DI PARISIS VENIZIA EDP 100ML",
-      "source_url": "/products/cutouts/ref-0005.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0005.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 6,
@@ -148,13 +148,13 @@
       "nombre": "Turathi Electric",
       "marca": "Afnan",
       "presentacion": "AFNAN TURATHI ELECTRIC EDP 90ML",
-      "source_url": "/products/cutouts/ref-0011.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0011.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 12,
@@ -162,13 +162,13 @@
       "nombre": "Gotas De Color",
       "marca": "Agatha Ruiz de la Prada",
       "presentacion": "AGATHA RUIZ DE LA PRADA GOTAS DE COLOR EDT 100ML",
-      "source_url": "/products/cutouts/ref-0012.png",
+      "source_url": "https://media.falabella.com/falabellaPE/16732418_001/w%3D1500%2Ch%3D1500%2Cfit%3Dcover",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0012.png",
       "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 13,
@@ -176,13 +176,13 @@
       "nombre": "Amber Musk",
       "marca": "Al Haramain",
       "presentacion": "AL HARAMAIN AMBER MUSK EDP 100ML",
-      "source_url": "/products/cutouts/ref-0013.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0013.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 14,
@@ -190,13 +190,13 @@
       "nombre": "Amber Oud Dubai Night",
       "marca": "Al Haramain",
       "presentacion": "AL HARAMAIN AMBER OUD DUBAI NIGHT 100ML",
-      "source_url": "/products/cutouts/ref-0014.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0014.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 15,
@@ -204,13 +204,13 @@
       "nombre": "Amber Oud Gold Edition",
       "marca": "Al Haramain",
       "presentacion": "AL HARAMAIN AMBER OUD GOLD EDITION EDP 120ML",
-      "source_url": "/products/cutouts/ref-0015.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0015.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 16,
@@ -232,13 +232,13 @@
       "nombre": "L Aventure Femme",
       "marca": "Al Haramain",
       "presentacion": "AL HARAMAIN L AVENTURE FEMME EDP 100ML",
-      "source_url": "/products/cutouts/ref-0017.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0017.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 18,
@@ -246,13 +246,13 @@
       "nombre": "L Aventure Hombre",
       "marca": "Al Haramain",
       "presentacion": "AL HARAMAIN L AVENTURE HOMBRE EDP 100ML",
-      "source_url": "/products/cutouts/ref-0018.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0018.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 19,
@@ -260,13 +260,13 @@
       "nombre": "Musk Maliki",
       "marca": "Al Haramain",
       "presentacion": "AL HARAMAIN MUSK MALIKI EDP 100ML",
-      "source_url": "/products/cutouts/ref-0019.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0019.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 20,
@@ -274,13 +274,13 @@
       "nombre": "Royal Musk",
       "marca": "Al Haramain",
       "presentacion": "AL HARAMAIN ROYAL MUSK EDP 100ML",
-      "source_url": "/products/cutouts/ref-0020.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0020.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 21,
@@ -288,13 +288,13 @@
       "nombre": "Gelato Cotton Candy Craze",
       "marca": "Amaran",
       "presentacion": "AMARAN GELATO COTTON CANDY CRAZE EDP 100ML",
-      "source_url": "/products/cutouts/ref-0021.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0021.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 22,
@@ -302,13 +302,13 @@
       "nombre": "Gelato Mango Tango",
       "marca": "Amaran",
       "presentacion": "AMARAN GELATO MANGO TANGO EDP 100ML",
-      "source_url": "/products/cutouts/ref-0022.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0022.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 23,
@@ -316,13 +316,13 @@
       "nombre": "Clasico Hombre",
       "marca": "Animale",
       "presentacion": "ANIMALE CLASICO HOMBRE EDT 100ML",
-      "source_url": "/products/cutouts/ref-0023.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0023.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 24,
@@ -330,13 +330,13 @@
       "nombre": "Clasico Mujer",
       "marca": "Animale",
       "presentacion": "ANIMALE CLASICO MUJER EDP 100ML",
-      "source_url": "/products/cutouts/ref-0024.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0024.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 25,
@@ -358,13 +358,13 @@
       "nombre": "Black Seduction",
       "marca": "Antonio Banderas",
       "presentacion": "ANTONIO B BLACK SEDUCTION 100ML",
-      "source_url": "/products/cutouts/ref-0026.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0026.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 27,
@@ -372,13 +372,13 @@
       "nombre": "Blue Seduction Hombre",
       "marca": "Antonio Banderas",
       "presentacion": "ANTONIO B BLUE SEDUCTION HOMBRE 100ML",
-      "source_url": "/products/cutouts/ref-0027.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0027.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 28,
@@ -386,13 +386,13 @@
       "nombre": "Blue Seduction Mujer",
       "marca": "Antonio Banderas",
       "presentacion": "ANTONIO B BLUE SEDUCTION MUJER EDT 80ML",
-      "source_url": "/products/cutouts/ref-0028.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0028.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 29,
@@ -400,13 +400,13 @@
       "nombre": "King Of Seduction (Plateado)",
       "marca": "Antonio Banderas",
       "presentacion": "ANTONIO B KING OF SEDUCTION 100ML (PLATEADO)",
-      "source_url": "/products/cutouts/ref-0029.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0029.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 30,
@@ -414,13 +414,13 @@
       "nombre": "Power Of Seduction",
       "marca": "Antonio Banderas",
       "presentacion": "ANTONIO B POWER OF SEDUCTION EDT 100ML",
-      "source_url": "/products/cutouts/ref-0030.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0030.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 31,
@@ -428,13 +428,13 @@
       "nombre": "Ari",
       "marca": "Ariana Grande",
       "presentacion": "ARIANA GRANDE ARI EDP 100ML",
-      "source_url": "/products/cutouts/ref-0031.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0031.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 32,
@@ -442,13 +442,13 @@
       "nombre": "Cloud 2.0 Intense",
       "marca": "Ariana Grande",
       "presentacion": "ARIANA GRANDE CLOUD 2.0 INTENSE EDP 100ML",
-      "source_url": "/products/cutouts/ref-0032.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0032.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 33,
@@ -456,13 +456,13 @@
       "nombre": "Cloud",
       "marca": "Ariana Grande",
       "presentacion": "ARIANA GRANDE CLOUD EDP 100ML",
-      "source_url": "/products/cutouts/ref-0033.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0033.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 34,
@@ -470,13 +470,13 @@
       "nombre": "Cloud Pink",
       "marca": "Ariana Grande",
       "presentacion": "ARIANA GRANDE CLOUD PINK EDP 100ML",
-      "source_url": "/products/cutouts/ref-0034.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0034.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 35,
@@ -484,13 +484,13 @@
       "nombre": "Mod Blush",
       "marca": "Ariana Grande",
       "presentacion": "ARIANA GRANDE MOD BLUSH EDP 100ML",
-      "source_url": "/products/cutouts/ref-0035.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0035.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 36,
@@ -498,13 +498,13 @@
       "nombre": "Mod Vanilla",
       "marca": "Ariana Grande",
       "presentacion": "ARIANA GRANDE MOD VANILLA EDP 100ML",
-      "source_url": "/products/cutouts/ref-0036.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0036.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 37,
@@ -512,13 +512,13 @@
       "nombre": "Moonlight",
       "marca": "Ariana Grande",
       "presentacion": "ARIANA GRANDE MOONLIGHT EDP 100ML",
-      "source_url": "/products/cutouts/ref-0037.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0037.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 38,
@@ -526,13 +526,13 @@
       "nombre": "Rem Cherry Eclipse",
       "marca": "Ariana Grande",
       "presentacion": "ARIANA GRANDE REM CHERRY ECLIPSE EDP 100ML",
-      "source_url": "/products/cutouts/ref-0038.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0038.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 39,
@@ -540,13 +540,13 @@
       "nombre": "Rem",
       "marca": "Ariana Grande",
       "presentacion": "ARIANA GRANDE REM EDP 100ML",
-      "source_url": "/products/cutouts/ref-0039.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0039.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 40,
@@ -554,13 +554,13 @@
       "nombre": "Sweet Like Candy",
       "marca": "Ariana Grande",
       "presentacion": "ARIANA GRANDE SWEET LIKE CANDY EDP 100ML",
-      "source_url": "/products/cutouts/ref-0040.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0040.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 41,
@@ -568,13 +568,13 @@
       "nombre": "Thank U Next 2.0",
       "marca": "Ariana Grande",
       "presentacion": "ARIANA GRANDE THANK U NEXT 2.0 EDP 100ML",
-      "source_url": "/products/cutouts/ref-0041.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0041.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 42,
@@ -582,13 +582,13 @@
       "nombre": "Thank U Next",
       "marca": "Ariana Grande",
       "presentacion": "ARIANA GRANDE THANK U NEXT EDP 100ML",
-      "source_url": "/products/cutouts/ref-0042.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0042.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 43,
@@ -596,13 +596,13 @@
       "nombre": "Aura Fresh",
       "marca": "Armaf",
       "presentacion": "ARMAF AURA FRESH EDP 100ML",
-      "source_url": "/products/cutouts/ref-0043.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0043.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 44,
@@ -610,13 +610,13 @@
       "nombre": "Beach Party",
       "marca": "Armaf",
       "presentacion": "ARMAF BEACH PARTY EDP 100ML",
-      "source_url": "/products/cutouts/ref-0044.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0044.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 45,
@@ -624,13 +624,13 @@
       "nombre": "Blue Homme",
       "marca": "Armaf",
       "presentacion": "ARMAF BLUE HOMME EDP 100ML",
-      "source_url": "/products/cutouts/ref-0045.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0045.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 46,
@@ -638,13 +638,13 @@
       "nombre": "Bon Bon",
       "marca": "Armaf",
       "presentacion": "ARMAF BON BON EDP 100ML",
-      "source_url": "/products/cutouts/ref-0046.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0046.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 47,
@@ -652,13 +652,13 @@
       "nombre": "Check Mate King",
       "marca": "Armaf",
       "presentacion": "ARMAF CHECK MATE KING EDP 100ML",
-      "source_url": "/products/cutouts/ref-0047.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0047.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 48,
@@ -666,13 +666,13 @@
       "nombre": "Club De Nuit Bling",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT BLING EDP 75ML",
-      "source_url": "/products/cutouts/ref-0048.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0048.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 49,
@@ -680,13 +680,13 @@
       "nombre": "Club De Nuit Iconic",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT ICONIC EDP 105ML",
-      "source_url": "/products/cutouts/ref-0049.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0049.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 50,
@@ -694,13 +694,13 @@
       "nombre": "Club De Nuit Imperiale",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT IMPERIALE EDP 105ML",
-      "source_url": "/products/cutouts/ref-0050.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0050.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 51,
@@ -708,13 +708,13 @@
       "nombre": "Club De Nuit Intense Man",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT INTENSE MAN EDT 105ML",
-      "source_url": "/products/cutouts/ref-0051.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0051.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "El mismo recurso se estaba usando para presentaciones distintas. Requiere una fuente externa específica para este volumen y concentración."
     },
     {
       "ref": 52,
@@ -722,13 +722,13 @@
       "nombre": "Club De Nuit Intense Man",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT INTENSE MAN PARFUM 150ML",
-      "source_url": "/products/cutouts/ref-0052.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0052.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "El mismo recurso se estaba usando para presentaciones distintas. Requiere una fuente externa específica para este volumen y concentración."
     },
     {
       "ref": 53,
@@ -736,13 +736,13 @@
       "nombre": "Club De Nuit Intense Overdose",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT INTENSE OVERDOSE EXTRAIT DE PARFUM 100ML",
-      "source_url": "/products/cutouts/ref-0053.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0053.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 54,
@@ -750,13 +750,13 @@
       "nombre": "Club De Nuit Lionheart Man",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT LIONHEART MAN EDP 100ML",
-      "source_url": "/products/cutouts/ref-0054.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0054.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 55,
@@ -764,13 +764,13 @@
       "nombre": "Club De Nuit Lionheart Woman",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT LIONHEART WOMAN EDP 100ML",
-      "source_url": "/products/cutouts/ref-0055.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0055.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 56,
@@ -778,13 +778,13 @@
       "nombre": "Club De Nuit Man",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT MAN EDT 105ML",
-      "source_url": "/products/cutouts/ref-0056.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0056.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 57,
@@ -792,13 +792,13 @@
       "nombre": "Club De Nuit Milestone",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT MILESTONE EDP 105ML",
-      "source_url": "/products/cutouts/ref-0057.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0057.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 58,
@@ -806,13 +806,13 @@
       "nombre": "Club De Nuit Oud",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT OUD PARFUM 105ML",
-      "source_url": "/products/cutouts/ref-0058.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0058.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 59,
@@ -820,13 +820,13 @@
       "nombre": "Club De Nuit Precieux I",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT PRECIEUX I EXTRAIT DE PARFUM 55ML",
-      "source_url": "/products/cutouts/ref-0059.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0059.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 60,
@@ -834,13 +834,13 @@
       "nombre": "Club De Nuit Precieux Iv",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT PRECIEUX IV EXTRAIT DE PARFUM 55ML",
-      "source_url": "/products/cutouts/ref-0060.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0060.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 61,
@@ -848,13 +848,13 @@
       "nombre": "Club De Nuit Sillage",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT SILLAGE EDP 105ML",
-      "source_url": "/products/cutouts/ref-0061.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0061.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 62,
@@ -862,13 +862,13 @@
       "nombre": "Club De Nuit Untold",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT UNTOLD EDP 105ML",
-      "source_url": "/products/cutouts/ref-0062.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0062.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 63,
@@ -876,13 +876,13 @@
       "nombre": "Club De Nuit Urban Man",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT URBAN MAN EDP 105ML",
-      "source_url": "/products/cutouts/ref-0063.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0063.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 64,
@@ -890,13 +890,13 @@
       "nombre": "Club De Nuit Urban Man Elixir",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT URBAN MAN ELIXIR EDP 105ML",
-      "source_url": "/products/cutouts/ref-0064.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0064.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 65,
@@ -904,13 +904,13 @@
       "nombre": "Club De Nuit Woman",
       "marca": "Armaf",
       "presentacion": "ARMAF CLUB DE NUIT WOMAN EDP 105ML",
-      "source_url": "/products/cutouts/ref-0065.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0065.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 66,
@@ -918,13 +918,13 @@
       "nombre": "Connoisseur Man",
       "marca": "Armaf",
       "presentacion": "ARMAF CONNOISSEUR MAN EDP 100ML",
-      "source_url": "/products/cutouts/ref-0066.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0066.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 67,
@@ -932,13 +932,13 @@
       "nombre": "Dubai Delicacy Kunafa Chocolate",
       "marca": "Armaf",
       "presentacion": "ARMAF DUBAI DELICACY KUNAFA CHOCOLATE EDP 70ML",
-      "source_url": "/products/cutouts/ref-0067.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0067.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 68,
@@ -960,13 +960,13 @@
       "nombre": "Hunter For Men",
       "marca": "Armaf",
       "presentacion": "ARMAF HUNTER FOR MEN EDT 100ML",
-      "source_url": "/products/cutouts/ref-0069.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0069.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 70,
@@ -974,13 +974,13 @@
       "nombre": "Island Bliss",
       "marca": "Armaf",
       "presentacion": "ARMAF ISLAND BLISS EDP 100ML",
-      "source_url": "/products/cutouts/ref-0070.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0070.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 71,
@@ -988,13 +988,13 @@
       "nombre": "Island Breeze",
       "marca": "Armaf",
       "presentacion": "ARMAF ISLAND BREEZE EDP 100ML",
-      "source_url": "/products/cutouts/ref-0071.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0071.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 72,
@@ -1002,13 +1002,13 @@
       "nombre": "Le Parfait Hombre",
       "marca": "Armaf",
       "presentacion": "ARMAF LE PARFAIT HOMBRE EDP 100ML",
-      "source_url": "/products/cutouts/ref-0072.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0072.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 73,
@@ -1016,13 +1016,13 @@
       "nombre": "Legasi Mujer",
       "marca": "Armaf",
       "presentacion": "ARMAF LEGASI MUJER EDP 100ML",
-      "source_url": "/products/cutouts/ref-0073.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0073.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 74,
@@ -1030,13 +1030,13 @@
       "nombre": "Odyseey Femme",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSEEY FEMME EDP 80ML",
-      "source_url": "/products/cutouts/ref-0074.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0074.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 75,
@@ -1044,13 +1044,13 @@
       "nombre": "Odyssey Aoud",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY AOUD EDP 100ML",
-      "source_url": "/products/cutouts/ref-0075.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0075.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 76,
@@ -1058,13 +1058,13 @@
       "nombre": "Odyssey Artisto Red Edition",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY ARTISTO RED EDITION EDP 100ML",
-      "source_url": "/products/cutouts/ref-0076.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0076.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 77,
@@ -1072,13 +1072,13 @@
       "nombre": "Odyssey Bahamas",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY BAHAMAS EDP 100ML",
-      "source_url": "/products/cutouts/ref-0077.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0077.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 78,
@@ -1086,13 +1086,13 @@
       "nombre": "Odyssey Black Forest",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY BLACK FOREST EDP 100ML",
-      "source_url": "/products/cutouts/ref-0078.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0078.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 79,
@@ -1100,13 +1100,13 @@
       "nombre": "Odyssey Candee",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY CANDEE EDP 100ML",
-      "source_url": "/products/cutouts/ref-0079.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0079.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 80,
@@ -1114,13 +1114,13 @@
       "nombre": "Odyssey Dubai Chocolat",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY DUBAI CHOCOLAT EDP 100ML",
-      "source_url": "/products/cutouts/ref-0080.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0080.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 81,
@@ -1128,13 +1128,13 @@
       "nombre": "Odyssey Go Mango",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY GO MANGO EDP 100ML",
-      "source_url": "/products/cutouts/ref-0081.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0081.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 82,
@@ -1142,13 +1142,13 @@
       "nombre": "Odyssey Homme",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY HOMME EDP 100ML",
-      "source_url": "/products/cutouts/ref-0082.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0082.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 83,
@@ -1156,13 +1156,13 @@
       "nombre": "Odyssey Lichi Lush",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY LICHI LUSH EDP 100ML",
-      "source_url": "/products/cutouts/ref-0083.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0083.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 84,
@@ -1170,13 +1170,13 @@
       "nombre": "Odyssey Limoni",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY LIMONI EDP 100ML",
-      "source_url": "/products/cutouts/ref-0084.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0084.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 85,
@@ -1184,13 +1184,13 @@
       "nombre": "Odyssey Mandarin Sky",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY MANDARIN SKY EDP 100ML",
-      "source_url": "/products/cutouts/ref-0085.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0085.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 86,
@@ -1198,13 +1198,13 @@
       "nombre": "Odyssey Mandarin Sky",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY MANDARIN SKY EDP 200ML",
-      "source_url": "/products/cutouts/ref-0086.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0086.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 87,
@@ -1212,13 +1212,13 @@
       "nombre": "Odyssey Mandarin Sky Elixir",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY MANDARIN SKY ELIXIR EDP 100ML",
-      "source_url": "/products/cutouts/ref-0087.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0087.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 88,
@@ -1226,13 +1226,13 @@
       "nombre": "Odyssey Mandarin Sky Vintage",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY MANDARIN SKY VINTAGE EDP 100ML",
-      "source_url": "/products/cutouts/ref-0088.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0088.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 89,
@@ -1240,13 +1240,13 @@
       "nombre": "Odyssey Marshmallow",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY MARSHMALLOW EDP 100ML",
-      "source_url": "/products/cutouts/ref-0089.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0089.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 90,
@@ -1254,13 +1254,13 @@
       "nombre": "Odyssey Mega",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY MEGA EDP 100ML",
-      "source_url": "/products/cutouts/ref-0090.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0090.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 91,
@@ -1268,13 +1268,13 @@
       "nombre": "Odyssey Mountain Edition",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY MOUNTAIN EDITION 100ML",
-      "source_url": "/products/cutouts/ref-0091.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0091.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 92,
@@ -1282,13 +1282,13 @@
       "nombre": "Odyssey Pink Pop",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY PINK POP EDP 100ML",
-      "source_url": "/products/cutouts/ref-0092.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0092.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 93,
@@ -1296,13 +1296,13 @@
       "nombre": "Odyssey Revolution",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY REVOLUTION EDP 100ML",
-      "source_url": "/products/cutouts/ref-0093.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0093.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 94,
@@ -1310,13 +1310,13 @@
       "nombre": "Odyssey Soda Pop",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY SODA POP EDP 100ML",
-      "source_url": "/products/cutouts/ref-0094.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0094.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 95,
@@ -1324,13 +1324,13 @@
       "nombre": "Odyssey Spectra Blu",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY SPECTRA BLU EDP 100ML",
-      "source_url": "/products/cutouts/ref-0095.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0095.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 96,
@@ -1338,13 +1338,13 @@
       "nombre": "Odyssey Spectra",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY SPECTRA EDP 100ML",
-      "source_url": "/products/cutouts/ref-0096.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0096.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 97,
@@ -1352,13 +1352,13 @@
       "nombre": "Odyssey Toffee Coffee",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY TOFFEE COFFEE EDP 100ML",
-      "source_url": "/products/cutouts/ref-0097.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0097.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 98,
@@ -1366,13 +1366,13 @@
       "nombre": "Odyssey Tyrant",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY TYRANT EDP 100ML",
-      "source_url": "/products/cutouts/ref-0098.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0098.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 99,
@@ -1380,13 +1380,13 @@
       "nombre": "Odyssey White",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY WHITE EDP 100ML",
-      "source_url": "/products/cutouts/ref-0099.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0099.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 100,
@@ -1394,13 +1394,13 @@
       "nombre": "Odyssey Wild One",
       "marca": "Armaf",
       "presentacion": "ARMAF ODYSSEY WILD ONE EDP 100ML",
-      "source_url": "/products/cutouts/ref-0100.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0100.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 101,
@@ -1408,13 +1408,13 @@
       "nombre": "Spartacus",
       "marca": "Armaf",
       "presentacion": "ARMAF SPARTACUS EDP 100ML",
-      "source_url": "/products/cutouts/ref-0101.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0101.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 102,
@@ -1422,13 +1422,13 @@
       "nombre": "Tag Donna Di Terra",
       "marca": "Armaf",
       "presentacion": "ARMAF TAG DONNA DI TERRA EDP 100ML",
-      "source_url": "/products/cutouts/ref-0102.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0102.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 103,
@@ -1436,13 +1436,13 @@
       "nombre": "Tag Him Pour Homme",
       "marca": "Armaf",
       "presentacion": "ARMAF TAG HIM POUR HOMME EDP 100ML",
-      "source_url": "/products/cutouts/ref-0103.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0103.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 104,
@@ -1450,13 +1450,13 @@
       "nombre": "Tag Him Prestige",
       "marca": "Armaf",
       "presentacion": "ARMAF TAG HIM PRESTIGE EDT 100ML",
-      "source_url": "/products/cutouts/ref-0104.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0104.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 105,
@@ -1464,13 +1464,13 @@
       "nombre": "Tag Uomo Nero",
       "marca": "Armaf",
       "presentacion": "ARMAF TAG UOMO NERO EDP 100ML",
-      "source_url": "/products/cutouts/ref-0105.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0105.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 106,
@@ -1478,13 +1478,13 @@
       "nombre": "Tag Uomo Rosso",
       "marca": "Armaf",
       "presentacion": "ARMAF TAG UOMO ROSSO EDP 100ML",
-      "source_url": "/products/cutouts/ref-0106.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0106.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 107,
@@ -1492,13 +1492,13 @@
       "nombre": "The Pride Admiral",
       "marca": "Armaf",
       "presentacion": "ARMAF THE PRIDE ADMIRAL EDP 100ML",
-      "source_url": "/products/cutouts/ref-0107.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0107.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 108,
@@ -1506,13 +1506,13 @@
       "nombre": "Tres Nuit Lyric Pour Homme",
       "marca": "Armaf",
       "presentacion": "ARMAF TRES NUIT LYRIC POUR HOMME EDP 100ML",
-      "source_url": "/products/cutouts/ref-0108.png",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0108.png",
-      "review_status": "approved",
-      "notes": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+      "review_status": "pending",
+      "notes": "La imagen publicada no puede funcionar como evidencia de su propia identidad. Requiere una fuente externa exacta antes de aprobarse."
     },
     {
       "ref": 109,
@@ -2304,13 +2304,13 @@
       "nombre": "Chance Eau Tendre",
       "marca": "Chanel",
       "presentacion": "CHANEL CHANCE EAU TENDRE EDT 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.806.jpg",
+      "source_url": "https://d3pllp7nz3wmw5.cloudfront.net/product_images/10766880206-1_FULL.jpg",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0172.png",
       "review_status": "approved",
-      "notes": "La fuente enlazada identifica la misma marca, variante y presentación."
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 173,
@@ -2318,13 +2318,13 @@
       "nombre": "Chance Eau Vive",
       "marca": "Chanel",
       "presentacion": "CHANEL CHANCE EAU VIVE EDT 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.30917.jpg",
+      "source_url": "https://cf.shopee.com.br/file/568e717c61233e2cc358f5fe1ee5c13a",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0173.png",
       "review_status": "approved",
-      "notes": "La fuente enlazada identifica la misma marca, variante y presentación."
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 174,
@@ -2346,13 +2346,13 @@
       "nombre": "Gabrielle",
       "marca": "Chanel",
       "presentacion": "CHANEL GABRIELLE EDP 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.43286.jpg",
+      "source_url": "https://www.perfumenz.co.nz/cdn/shop/products/gabrielle_chanel_1200x1200.jpg?v=1509926968",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0175.png",
       "review_status": "approved",
-      "notes": "La fuente enlazada identifica la misma marca, variante y presentación."
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 176,
@@ -4992,13 +4992,13 @@
       "nombre": "Cantimplora Verde Hombre",
       "marca": "Hugo Boss",
       "presentacion": "HUGO BOSS CANTIMPLORA VERDE HOMBRE EDT 125ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.4.jpg",
+      "source_url": "https://media.falabella.com/falabellaCL/117898842_01/w=1500,h=1500,fit=cover",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0367.png",
       "review_status": "approved",
-      "notes": "Hugo Boss — HUGO BOSS CANTIMPLORA VERDE HOMBRE EDT 125ML; el asset actual coincide en línea, variante y presentación visible/documentada."
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 368,
@@ -5006,13 +5006,13 @@
       "nombre": "Dark Blue",
       "marca": "Hugo Boss",
       "presentacion": "HUGO BOSS DARK BLUE EDT 75ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.744.jpg",
+      "source_url": "https://i5-mx.walmartimages.com/mg/gm/3pp/asr/6714f388-b3f3-48d1-b58e-775934fabef8.ee1243b26819e1f40abbe62925c412d9.jpeg?odnBg=ffffff&odnHeight=2000&odnWidth=2000",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0368.png",
       "review_status": "approved",
-      "notes": "Hugo Boss — HUGO BOSS DARK BLUE EDT 75ML; el asset actual coincide en línea, variante y presentación visible/documentada."
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 369,
@@ -5020,13 +5020,13 @@
       "nombre": "In Motion",
       "marca": "Hugo Boss",
       "presentacion": "HUGO BOSS IN MOTION EDT 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.494.jpg",
+      "source_url": "https://i5.walmartimages.com/asr/bf09079e-19e9-4383-896a-1a1707aa6cad.baff84e8bf0669c331f7977d90e6558d.jpeg",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0369.png",
       "review_status": "approved",
-      "notes": "Hugo Boss — HUGO BOSS IN MOTION EDT 100ML; el asset actual coincide en línea, variante y presentación visible/documentada."
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 370,
@@ -5034,13 +5034,13 @@
       "nombre": "Orange H New",
       "marca": "Hugo Boss",
       "presentacion": "HUGO BOSS ORANGE H NEW EDT 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.10218.jpg",
+      "source_url": "https://www.mcdaidpharmacy.ie/cdn/shop/files/Hugo_Boss_Orange_Eau_De_Toilette_100ml_-6461810.png?v=1733915676",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0370.png",
       "review_status": "approved",
-      "notes": "Hugo Boss — HUGO BOSS ORANGE H NEW EDT 100ML; el asset actual coincide en línea, variante y presentación visible/documentada."
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 371,
@@ -5048,13 +5048,13 @@
       "nombre": "The Scent Hombre",
       "marca": "Hugo Boss",
       "presentacion": "HUGO BOSS THE SCENT HOMBRE EDT 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.29272.jpg",
+      "source_url": "https://ik.imagekit.io/scentfied/products/hugo-boss-the-scent-edt.webp",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0371.png",
       "review_status": "approved",
-      "notes": "Hugo Boss — HUGO BOSS THE SCENT HOMBRE EDT 100ML; el asset actual coincide en línea, variante y presentación visible/documentada."
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 372,
@@ -5062,13 +5062,13 @@
       "nombre": "The Scent Mujer",
       "marca": "Hugo Boss",
       "presentacion": "HUGO BOSS THE SCENT MUJER EDP 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.37544.jpg",
+      "source_url": "https://www.perfumenz.co.nz/cdn/shop/products/boss_the_scent_her_100ml_1200x1200.jpg?v=1568779672",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0372.png",
       "review_status": "approved",
-      "notes": "Hugo Boss — HUGO BOSS THE SCENT MUJER EDP 100ML; el asset actual coincide en línea, variante y presentación visible/documentada."
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 373,
@@ -5076,13 +5076,13 @@
       "nombre": "Xy",
       "marca": "Hugo Boss",
       "presentacion": "HUGO BOSS XY EDT 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.1003.jpg",
+      "source_url": "https://i5.walmartimages.com/asr/e574e3d7-f1dd-4c71-a2f0-32cfc2b4c041.62d8f571a1b65a59f0f100d5092ed717.jpeg",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0373.png",
       "review_status": "approved",
-      "notes": "Hugo Boss — HUGO BOSS XY EDT 100ML; el asset actual coincide en línea, variante y presentación visible/documentada."
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 374,
@@ -5132,13 +5132,13 @@
       "nombre": "Pour Homme",
       "marca": "Issey Miyake",
       "presentacion": "ISSEY MIYAKE POUR HOMME EDT 125ML",
-      "source_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/ISSEY-MIYAKE-POUR-HOMME.jpg?v=1571609942",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0377.png",
-      "review_status": "approved",
-      "notes": "Issey Miyake — ISSEY MIYAKE POUR HOMME EDT 125ML; el asset actual coincide en línea, variante y presentación visible/documentada."
+      "review_status": "pending",
+      "notes": "El mismo recurso se estaba usando para presentaciones distintas. Requiere una fuente externa específica para este volumen y concentración."
     },
     {
       "ref": 378,
@@ -5146,13 +5146,13 @@
       "nombre": "Pour Homme",
       "marca": "Issey Miyake",
       "presentacion": "ISSEY MIYAKE POUR HOMME EDT 200ML",
-      "source_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/ISSEY-MIYAKE-POUR-HOMME.jpg?v=1571609942",
-      "source_kind": "remote",
-      "fidelity_status": "verified_exact",
+      "source_url": null,
+      "source_kind": "missing",
+      "fidelity_status": "needs_exact_source",
       "treatment": "transparent_cutout_on_gold_stage",
       "final_url": "/products/cutouts/ref-0378.png",
-      "review_status": "approved",
-      "notes": "Issey Miyake — ISSEY MIYAKE POUR HOMME EDT 200ML; el asset actual coincide en línea, variante y presentación visible/documentada."
+      "review_status": "pending",
+      "notes": "El mismo recurso se estaba usando para presentaciones distintas. Requiere una fuente externa específica para este volumen y concentración."
     },
     {
       "ref": 379,
@@ -7722,13 +7722,13 @@
       "nombre": "Blue",
       "marca": "Nautica",
       "presentacion": "NAUTICA BLUE EDT 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.421.jpg",
+      "source_url": "https://www.perfumes.com.ph/cdn/shop/files/nautica-blue-edt-100ml-perfume-philippines-best-price.webp?v=1698716982&width=2048",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0562.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 563,
@@ -7932,13 +7932,13 @@
       "nombre": "Olympea Legend",
       "marca": "Rabanne",
       "presentacion": "PACO RABANNE OLYMPEA LEGEND 80ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.54466.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Olympea-Legend_2048x2048.png?v=1571610008",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0577.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 578,
@@ -7960,13 +7960,13 @@
       "nombre": "One Million",
       "marca": "Rabanne",
       "presentacion": "PACO RABANNE ONE MILLION EDT 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.374.jpg",
+      "source_url": "https://www.montrealdutyfree.ca/cdn/shop/files/808528_2.jpg?v=1751465770&width=1500",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0579.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 580,
@@ -7974,13 +7974,13 @@
       "nombre": "One Million Gold",
       "marca": "Rabanne",
       "presentacion": "PACO RABANNE ONE MILLION GOLD EDPI 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.82842.jpg",
+      "source_url": "https://mado.mu/cdn/shop/files/7381759S_S1.jpg?v=1730883184&width=1445",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0580.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 581,
@@ -7988,7 +7988,7 @@
       "nombre": "One Million Night Elixir",
       "marca": "Rabanne",
       "presentacion": "PACO RABANNE ONE MILLION NIGHT ELIXIR PARFUM 100ML",
-      "source_url": "https://static.thcdn.com/productimg/original/13508642-7405323124799825.jpg",
+      "source_url": "https://www.news-parfums.com/61976-tm_thickbox_default/1-million-night-elixir-parfum-elixir.jpg",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
       "treatment": "background_removed_pedestal_ready",
@@ -8002,13 +8002,13 @@
       "nombre": "One Million",
       "marca": "Rabanne",
       "presentacion": "PACO RABANNE ONE MILLION PARFUM 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.57957.jpg",
+      "source_url": "https://assets.goldenscent.com/catalog/product/cache/2/small_image/750x750/9df78eab33525d08d6e5fb8d27136e95/3/3/3349668579839_paco_rabanne_1_million_parfum_edp_100ml.png",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0582.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 583,
@@ -8324,13 +8324,13 @@
       "nombre": "360 Red Hombre",
       "marca": "Perry Ellis",
       "presentacion": "PERRY ELLIS 360 RED HOMBRE EDT 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.1109.jpg",
+      "source_url": "https://i5-mx.walmartimages.com/mg/gm/3pp/asr/af619589-8471-48bc-9d8e-777997d63d75.c2acc93be7f8d7c34f9af17a454d7be5.jpeg?odnBg=ffffff&odnHeight=2000&odnWidth=2000",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0605.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 606,
@@ -8352,13 +8352,13 @@
       "nombre": "360 Very Blue",
       "marca": "Perry Ellis",
       "presentacion": "PERRY ELLIS 360 VERY BLUE 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.3945.jpg",
+      "source_url": "https://beautyhouse.com/cdn/shop/files/03ivteczwr.png?v=1765306850&width=900",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0607.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 608,
@@ -8394,13 +8394,13 @@
       "nombre": "Reserve Hombre",
       "marca": "Perry Ellis",
       "presentacion": "PERRY ELLIS RESERVE HOMBRE EDT 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.3295.jpg",
+      "source_url": "https://api.azuperfumes.com/wp-content/uploads/2025/12/117762.webp",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0610.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 611,
@@ -8688,13 +8688,13 @@
       "nombre": "Now Black",
       "marca": "Rave",
       "presentacion": "RAVE NOW BLACK EDP 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.68119.jpg",
+      "source_url": "https://lattafa.com/wp-content/uploads/2024/07/2-12.jpg",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0631.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 632,
@@ -8730,13 +8730,13 @@
       "nombre": "Moustache",
       "marca": "Rochas",
       "presentacion": "ROCHAS MOUSTACHE EDT 75ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.53403.jpg",
+      "source_url": "https://mpfperfumeserelogios.com.br/654-medium_default/moustache-rochas-eau-de-parfum-perfume-masculino-75ml.jpg",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0634.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 636,
@@ -8744,13 +8744,13 @@
       "nombre": "Sweet Tooth",
       "marca": "Sabrina Carpenter",
       "presentacion": "SABRINA CARPENTER SWEET TOOTH EDP 75ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.76178.jpg",
+      "source_url": "https://fragrancebysabrina.com/cdn/shop/files/SC_Sweet_Tooth_EDP_75ml_P.jpg?v=1770939284&width=1600",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0636.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 637,
@@ -9122,13 +9122,13 @@
       "nombre": "Sport Hombre",
       "marca": "Victorinox",
       "presentacion": "SWISS ARMY SPORT HOMBRE EDT 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.1606.jpg",
+      "source_url": "https://imageengine.victorinox.com/transform/cd378ccd-2a51-497a-9080-bb8ee3641ab0/FRA_V0000890_S1?io=transform:fit,width:1600,height:1600",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0663.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 664,
@@ -9416,13 +9416,13 @@
       "nombre": "Tester · Dylan Turquoise",
       "marca": "Versace",
       "presentacion": "TESTER VERSACE DYLAN TURQUOISE EDT 100ML",
-      "source_url": "https://cdn2.jomashop.com/media/catalog/product/cache/b3e31d40bbb1abcc90b26106659d5d3f/v/e/versace-ladies-dylan-turquoise-edt-spray-34-oz-tester-fragrances-8011003858569_10.jpg?height=800&width=800",
+      "source_url": "https://dam.elcorteingles.es/producto/www-001013512250344-00.jpg?height=1200&impolicy=Resize&width=967",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0684.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 685,
@@ -9668,13 +9668,13 @@
       "nombre": "Donna Born In Roma Extradose",
       "marca": "Valentino",
       "presentacion": "VALENTINO DONNA BORN IN ROMA EXTRADOSE PARFUM 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.88468.jpg",
+      "source_url": "https://valentino-cdn.thron.com/delivery/public/image/valentino/4addd88c-e3d5-4f3a-a357-1a44ddc9d27d/ihqstx/std/1536x0/Born-In-Roma-Extradose-Eau-De-Parfum-100Ml?quality=90&format=jpg",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0702.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 703,
@@ -9682,13 +9682,13 @@
       "nombre": "Uomo Born In Roma Coral Fantasy",
       "marca": "Valentino",
       "presentacion": "VALENTINO UOMO BORN IN ROMA CORAL FANTASY 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.72138.jpg",
+      "source_url": "https://www.valentino-beauty.us/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-valentino-master-catalog/default/dw361f6083/images/pdp/MPL01750/3614273672412.jpeg?sw=1600&sh=1600",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0703.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 704,
@@ -9710,13 +9710,13 @@
       "nombre": "Uomo Born In Roma Extradose",
       "marca": "Valentino",
       "presentacion": "VALENTINO UOMO BORN IN ROMA EXTRADOSE PARFUM 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.89576.jpg",
+      "source_url": "https://www.valentino-beauty.com/dw/image/v2/BDCR_PRD/on/demandware.static/-/Sites-valentino-master-catalog/default/dwd7edd8ca/images/pdp/MPL02809/vlt_frag_bir-extradose_launch-25_dmi_uomo-100ml_3614274350739_front%20white-1x1.jpg?sw=1600&sh=1600",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0705.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 706,
@@ -9976,13 +9976,13 @@
       "nombre": "Spicebomb",
       "marca": "Viktor & Rolf",
       "presentacion": "VIKTOR & ROLF SPICEBOMB EDT 90ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.117.jpg",
+      "source_url": "https://www.viktor-rolf.com/cdn/shop/files/square_model_vr_frag_2025_spicebomb_edt_packshot_premium_90ml_3605521515346_1600x.jpg?v=1760520792",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0724.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 725,
@@ -10105,7 +10105,7 @@
       "source_url": "https://f.nooncdn.com/p/pzsku/Z5B92B6606972B75DD45CZ/45/_/1739965586/d85eb22c-b082-4a92-9ab8-b51a96ebb7e0.jpg",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0733.png",
       "review_status": "approved",
       "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
@@ -10119,7 +10119,7 @@
       "source_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/xerjoff-erba-pura-100ml_1024x1024.png?v=1645409956",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0734.png",
       "review_status": "approved",
       "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
@@ -10158,13 +10158,13 @@
       "nombre": "Black Opium",
       "marca": "Yves Saint Laurent",
       "presentacion": "YSL BLACK OPIUM EDP 90ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.25371.jpg",
+      "source_url": "https://mcprod.ulta.com.mx/media/catalog/product/3/3/3365440787971.png",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0737.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 738,
@@ -10186,13 +10186,13 @@
       "nombre": "Mon Paris",
       "marca": "Yves Saint Laurent",
       "presentacion": "YSL MON PARIS EDP 90ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.45601.jpg",
+      "source_url": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/original/000000000491332236/azKU90UHB4-000000000491332236_1.jpg",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "transparent_cutout_on_gold_stage",
+      "treatment": "background_removed_pedestal_ready",
       "final_url": "/products/cutouts/ref-0739.png",
       "review_status": "approved",
-      "notes": ""
+      "notes": "Identidad visual verificada contra una fuente comercial u oficial y recorte normalizado para el pedestal Essence Luxe."
     },
     {
       "ref": 740,
