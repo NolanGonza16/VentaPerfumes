@@ -6,10 +6,11 @@
   height: 100%;
   min-height: 0;
   overflow: hidden;
-  background:
-    radial-gradient(circle at 50% 34%, color-mix(in srgb, var(--art-accent) 38%, transparent), transparent 29%),
-    linear-gradient(145deg, color-mix(in srgb, var(--art-accent-soft) 78%, transparent), color-mix(in srgb, var(--art-surface) 82%, transparent) 58%, rgb(8 7 6 / 88%)),
-    url("/images/editorial/premium-plum-stage.png") center / cover no-repeat;
+  background: #090706 url("/editorial/backgrounds/essence-luxe-gold-stage.png") center / cover no-repeat;
+}
+
+.product-artwork--stage-purple {
+  background-image: url("/editorial/backgrounds/essence-luxe-purple-stage.png");
 }
 
 .product-artwork::before {
@@ -79,6 +80,22 @@
     transform 520ms cubic-bezier(0.2, 0.72, 0.2, 1);
 }
 
+.product-artwork__watermark {
+  position: absolute;
+  z-index: 2;
+  left: 50%;
+  bottom: 6.5%;
+  translate: -50% 0;
+  color: rgb(245 230 200 / 34%);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(0.48rem, 1.7vw, 0.78rem);
+  font-weight: 500;
+  letter-spacing: 0.32em;
+  line-height: 1;
+  white-space: nowrap;
+  text-shadow: 0 1px 12px rgb(0 0 0 / 70%);
+}
+
 .product-artwork.is-loaded .product-artwork__image {
   opacity: 1;
 }
@@ -111,7 +128,7 @@
 }
 
 .product-artwork--packshot {
-  background: #f6f3ed;
+  background-color: #090706;
 }
 
 .product-artwork--packshot::before,

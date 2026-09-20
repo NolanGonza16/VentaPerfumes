@@ -1,1 +1,2165 @@
-{"range":"001-250","records":[{"ref":1,"status":"wrong","product":"ABERCROMBIE & FITCH FIERCE COLOGNE EDC 100ML","current":"https://www.abercrombie.com.mx/media/catalog/product/k/i/kic_164-1502-0218-270_prod1.jpg?quality=100&fit=bounds&height=1600&width=1200&canvas=1200:1600","proposed":"https://www.abercrombie.com.mx/media/catalog/product/k/i/kic_164-1502-0218-270_prod1.jpg?quality=80&fit=bounds&height=1200&width=1200&canvas=1200:1200","evidence":"https://www.abercrombie.com.mx/colonia-fierce-657819491","reason":"El archivo local muestra un frasco amarillo rotulado “OASIS”; no es Fierce Cologne."},{"ref":2,"status":"wrong","product":"ABERCROMBIE & FITCH NATURALLY FIERCE EDP 100ML","current":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:1200/_rTME2Yc9-1191865_1.jpg","proposed":"https://f.nooncdn.com/p/pzsku/Z657ABCA319CCF6193E73Z/45/_/1696358289/524358a6-4fd3-424a-a47c-6687423a05bb.jpg","evidence":"https://www.rossmann.pl/Produkt/Wody-perfumowane/Abercrombie-Fitch-Naturally-Fierce-woda-perfumowana-dla-kobiet-100-ml%2C2084064%2C13266","reason":"El archivo local muestra un frasco rotulado “CUTULI”; no es Naturally Fierce."},{"ref":3,"status":"exact","product":"ACQUA DI PARISIS DELANOE EXCLUSIF EDP 100ML","current":"/products/cutouts/ref-0003.png","proposed":null,"evidence":"https://www.perfumeriariach.com/products/133/acqua-di-parisis-delanoe-exclusif","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":4,"status":"exact","product":"ACQUA DI PARISIS MAGIC RED EDP 100ML","current":"/products/cutouts/ref-0004.png","proposed":null,"evidence":"https://www.fragrantica.com/board/viewtopic.php?id=334010&p=11","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":5,"status":"exact","product":"ACQUA DI PARISIS VENIZIA EDP 100ML","current":"/products/cutouts/ref-0005.png","proposed":null,"evidence":"https://parisis-parfums.com/lb/product/acqua-di-parisis-venizia-women-edp-100ml/","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":6,"status":"missing","product":"ADIDAS HOMBRE EDT 100ML","current":null,"proposed":null,"evidence":"catalog/image-manifest.json","reason":"No hay imagen asignada y la denominación del proveedor no permite proponer con seguridad una variante exacta."},{"ref":7,"status":"exact","product":"AFNAN 9AM BLANCO EDP 100ML","current":"https://cdn.shopify.com/s/files/1/0714/3129/1097/files/13_9AM.jpg?v=1775552894&width=1080","proposed":null,"evidence":"https://us.afnan.com/products/9-am","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":8,"status":"exact","product":"AFNAN 9AM DIVE UNISEX EDP 100ML","current":"https://cdn.shopify.com/s/files/1/0714/3129/1097/files/9AM-Dive-01_d4bc61ac-c620-48b5-984b-c18d267d8e82.jpg?v=1775552891&width=1080","proposed":null,"evidence":"https://us.afnan.com/products/9-am-dive","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":9,"status":"exact","product":"AFNAN 9PM ELIXIR PARFUM INTENSE 100ML","current":"https://cdn.shopify.com/s/files/1/0714/3129/1097/files/STILL_ELIXIR_SQUARE_08_2048x2048_7342c733-73a2-4e3e-b3b6-0ee0333c671d.png?v=1775218859&width=1080","proposed":null,"evidence":"https://afnan.com/products/9-pm-elixir","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":10,"status":"exact","product":"AFNAN 9PM HOMBRE EDP 100ML","current":"https://cdn.shopify.com/s/files/1/0714/3129/1097/files/03_9PM.jpg?v=1775552889&width=1080","proposed":null,"evidence":"https://us.afnan.com/products/9-pm","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":11,"status":"exact","product":"AFNAN TURATHI ELECTRIC EDP 90ML","current":"/products/cutouts/ref-0011.png","proposed":null,"evidence":"https://www.fragrantica.es/perfume/Afnan/Turathi-Electric-108244.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":12,"status":"exact","product":"AGATHA RUIZ DE LA PRADA GOTAS DE COLOR EDT 100ML","current":"/products/cutouts/ref-0012.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Agatha-Ruiz-de-la-Prada/12-Gotas-de-Color-10454.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":13,"status":"exact","product":"AL HARAMAIN AMBER MUSK EDP 100ML","current":"/products/cutouts/ref-0013.png","proposed":null,"evidence":"https://www.fragrantica.com/news/Al-Haramain-Musk-Series-Amber-Musk-Musk-Collection-Musk-Maliki-and-Royal-Musk-16284.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":14,"status":"exact","product":"AL HARAMAIN AMBER OUD DUBAI NIGHT 100ML","current":"/products/cutouts/ref-0014.png","proposed":null,"evidence":"https://shop.alharamainperfumes.com/E-Catalog/e-catalog.pdf","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":15,"status":"exact","product":"AL HARAMAIN AMBER OUD GOLD EDITION EDP 120ML","current":"/products/cutouts/ref-0015.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Gold-Edition-51816.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":16,"status":"exact","product":"AL HARAMAIN AMBER OUD GOLD EDITION EDP 200ML","current":"https://f.nooncdn.com/p/pzsku/ZD83BADE157F12207E54BZ/45/_/1660289511/2b0289511-2bf7-4aec-bbad-c6a867bae47f.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Gold-Edition-51816.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":17,"status":"exact","product":"AL HARAMAIN L AVENTURE FEMME EDP 100ML","current":"/products/cutouts/ref-0017.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/L-Aventure-Femme-51820.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":18,"status":"exact","product":"AL HARAMAIN L AVENTURE HOMBRE EDP 100ML","current":"/products/cutouts/ref-0018.png","proposed":null,"evidence":"https://www.parfumo.com/Perfumes/Al_Haramain/L_Aventure","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":19,"status":"exact","product":"AL HARAMAIN MUSK MALIKI EDP 100ML","current":"/products/cutouts/ref-0019.png","proposed":null,"evidence":"https://www.fragrantica.com/news/Al-Haramain-Musk-Series-Amber-Musk-Musk-Collection-Musk-Maliki-and-Royal-Musk-16284.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":20,"status":"exact","product":"AL HARAMAIN ROYAL MUSK EDP 100ML","current":"/products/cutouts/ref-0020.png","proposed":null,"evidence":"https://www.fragrantica.com/news/Al-Haramain-Musk-Series-Amber-Musk-Musk-Collection-Musk-Maliki-and-Royal-Musk-16284.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":21,"status":"exact","product":"AMARAN GELATO COTTON CANDY CRAZE EDP 100ML","current":"/products/cutouts/ref-0021.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Amaran/Gelato-Cotton-Candy-Craze-119586.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":22,"status":"exact","product":"AMARAN GELATO MANGO TANGO EDP 100ML","current":"/products/cutouts/ref-0022.png","proposed":null,"evidence":"https://www.fragrantica.es/perfume/Amaran/Gelato-Mango-Tango-119580.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":23,"status":"exact","product":"ANIMALE CLASICO HOMBRE EDT 100ML","current":"/products/cutouts/ref-0023.png","proposed":null,"evidence":"https://perfumeonline.ca/products/animal-edt","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":24,"status":"exact","product":"ANIMALE CLASICO MUJER EDP 100ML","current":"/products/cutouts/ref-0024.png","proposed":null,"evidence":"https://perfumeonline.ca/products/animal","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":25,"status":"wrong","product":"ANTONIO B BLUE SEDUCCION SUMMER ESSENCE EDT 100ML","current":"https://yauras.cl/cdn/shop/files/RaveNowWhite100MlEdp_74_ed014bcd-2f10-4805-a139-4e621d79fc8c_700x700.jpg?v=1779905842","proposed":null,"evidence":"catalog/image-manifest.json","reason":"La URL actual declara en su nombre de archivo Rave Now White 100 ml; además el nombre del proveedor no identifica inequívocamente una edición comercial de Antonio Banderas."},{"ref":26,"status":"exact","product":"ANTONIO B BLACK SEDUCTION 100ML","current":"/products/cutouts/ref-0026.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Antonio-Banderas/Seduction-in-Black-6746.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":27,"status":"exact","product":"ANTONIO B BLUE SEDUCTION HOMBRE 100ML","current":"/products/cutouts/ref-0027.png","proposed":null,"evidence":"https://beta.fragrantica.com/perfume/Antonio-Banderas/Blue-Seduction-1088.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":28,"status":"exact","product":"ANTONIO B BLUE SEDUCTION MUJER EDT 80ML","current":"/products/cutouts/ref-0028.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Antonio-Banderas/Blue-Seduction-3751.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":29,"status":"exact","product":"ANTONIO B KING OF SEDUCTION 100ML (PLATEADO)","current":"/products/cutouts/ref-0029.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Antonio-Banderas/King-of-Seduction-26412.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":30,"status":"exact","product":"ANTONIO B POWER OF SEDUCTION EDT 100ML","current":"/products/cutouts/ref-0030.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Antonio-Banderas/Power-Of-Seduction-51087.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":31,"status":"exact","product":"ARIANA GRANDE ARI EDP 100ML","current":"/products/cutouts/ref-0031.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Ariana-Grande/Ari-31661.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":32,"status":"exact","product":"ARIANA GRANDE CLOUD 2.0 INTENSE EDP 100ML","current":"/products/cutouts/ref-0032.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-Intense-69296.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":33,"status":"exact","product":"ARIANA GRANDE CLOUD EDP 100ML","current":"/products/cutouts/ref-0033.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-50384.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":34,"status":"exact","product":"ARIANA GRANDE CLOUD PINK EDP 100ML","current":"/products/cutouts/ref-0034.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-Pink-83995.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":35,"status":"exact","product":"ARIANA GRANDE MOD BLUSH EDP 100ML","current":"/products/cutouts/ref-0035.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Ariana-Grande/Mod-Blush-77800.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":36,"status":"exact","product":"ARIANA GRANDE MOD VANILLA EDP 100ML","current":"/products/cutouts/ref-0036.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Ariana-Grande/Mod-Vanilla-77799.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":37,"status":"exact","product":"ARIANA GRANDE MOONLIGHT EDP 100ML","current":"/products/cutouts/ref-0037.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Ariana-Grande/Moonlight-46410.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":38,"status":"exact","product":"ARIANA GRANDE REM CHERRY ECLIPSE EDP 100ML","current":"/products/cutouts/ref-0038.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Ariana-Grande/R-E-M-Cherry-Eclipse-102379.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":39,"status":"exact","product":"ARIANA GRANDE REM EDP 100ML","current":"/products/cutouts/ref-0039.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Ariana-Grande/R-E-M-62578.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":40,"status":"exact","product":"ARIANA GRANDE SWEET LIKE CANDY EDP 100ML","current":"/products/cutouts/ref-0040.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Ariana-Grande/Sweet-Like-Candy-39970.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":41,"status":"exact","product":"ARIANA GRANDE THANK U NEXT 2.0 EDP 100ML","current":"/products/cutouts/ref-0041.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-2-0-68367.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":42,"status":"exact","product":"ARIANA GRANDE THANK U NEXT EDP 100ML","current":"/products/cutouts/ref-0042.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-56741.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":43,"status":"exact","product":"ARMAF AURA FRESH EDP 100ML","current":"/products/cutouts/ref-0043.png","proposed":null,"evidence":"https://armaf.com/products/armaf-aura-fresh","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":44,"status":"exact","product":"ARMAF BEACH PARTY EDP 100ML","current":"/products/cutouts/ref-0044.png","proposed":null,"evidence":"https://armaf.com/products/beach-party-spr","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":45,"status":"exact","product":"ARMAF BLUE HOMME EDP 100ML","current":"/products/cutouts/ref-0045.png","proposed":null,"evidence":"https://armaf.com/products/blue-homme","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":46,"status":"exact","product":"ARMAF BON BON EDP 100ML","current":"/products/cutouts/ref-0046.png","proposed":null,"evidence":"https://armaf.uk/products/bon-bon-eau-de-parfum-100ml","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":47,"status":"exact","product":"ARMAF CHECK MATE KING EDP 100ML","current":"/products/cutouts/ref-0047.png","proposed":null,"evidence":"https://armaf.com/products/checkmate-king-spr","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":48,"status":"exact","product":"ARMAF CLUB DE NUIT BLING EDP 75ML","current":"/products/cutouts/ref-0048.png","proposed":null,"evidence":"https://armaf.com/products/club-de-nuit-bling","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":49,"status":"exact","product":"ARMAF CLUB DE NUIT ICONIC EDP 105ML","current":"/products/cutouts/ref-0049.png","proposed":null,"evidence":"https://armaf.com/products/club-de-nuit-blue-iconic-200ml","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":50,"status":"exact","product":"ARMAF CLUB DE NUIT IMPERIALE EDP 105ML","current":"/products/cutouts/ref-0050.png","proposed":null,"evidence":"https://armaf.com/products/armaf-club-de-nuit-white-imperial-buy-original-perfumes-online-uae","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":51,"status":"exact","product":"ARMAF CLUB DE NUIT INTENSE MAN EDT 105ML","current":"/products/cutouts/ref-0051.png","proposed":null,"evidence":"https://armaf.com/products/club-de-nuit-intense-man-4","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":52,"status":"exact","product":"ARMAF CLUB DE NUIT INTENSE MAN PARFUM 150ML","current":"/products/cutouts/ref-0052.png","proposed":null,"evidence":"https://armaf.com/products/club-de-nuit-intense-man-4","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":53,"status":"exact","product":"ARMAF CLUB DE NUIT INTENSE OVERDOSE EXTRAIT DE PARFUM 100ML","current":"/products/cutouts/ref-0053.png","proposed":null,"evidence":"https://armaf.com/products/club-de-nuit-intense-overdose","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":54,"status":"exact","product":"ARMAF CLUB DE NUIT LIONHEART MAN EDP 100ML","current":"/products/cutouts/ref-0054.png","proposed":null,"evidence":"https://armaf.com/products/cdn-lion-heart-man-spr","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":55,"status":"exact","product":"ARMAF CLUB DE NUIT LIONHEART WOMAN EDP 100ML","current":"/products/cutouts/ref-0055.png","proposed":null,"evidence":"https://armaf.com/products/cdn-lion-heart-spr","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":56,"status":"exact","product":"ARMAF CLUB DE NUIT MAN EDT 105ML","current":"/products/cutouts/ref-0056.png","proposed":null,"evidence":"https://armaf.com/products/club-de-nuit-man1","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":57,"status":"exact","product":"ARMAF CLUB DE NUIT MILESTONE EDP 105ML","current":"/products/cutouts/ref-0057.png","proposed":null,"evidence":"https://armaf.com/products/club-de-nuit-milestone","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":58,"status":"exact","product":"ARMAF CLUB DE NUIT OUD PARFUM 105ML","current":"/products/cutouts/ref-0058.png","proposed":null,"evidence":"https://perfumeonline.ca/products/armaf-club-de-nuit-oud","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":59,"status":"exact","product":"ARMAF CLUB DE NUIT PRECIEUX I EXTRAIT DE PARFUM 55ML","current":"/products/cutouts/ref-0059.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/armaf/club-de-nuit-precieux-93272.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":60,"status":"exact","product":"ARMAF CLUB DE NUIT PRECIEUX IV EXTRAIT DE PARFUM 55ML","current":"/products/cutouts/ref-0060.png","proposed":null,"evidence":"https://armaf.uk/collections/collections/products/club-de-nuit-precieux-iv-extrait-de-parfum-55ml","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":61,"status":"exact","product":"ARMAF CLUB DE NUIT SILLAGE EDP 105ML","current":"/products/cutouts/ref-0061.png","proposed":null,"evidence":"https://armaf.com/products/armaf-club-de-nuit-silage-men","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":62,"status":"exact","product":"ARMAF CLUB DE NUIT UNTOLD EDP 105ML","current":"/products/cutouts/ref-0062.png","proposed":null,"evidence":"https://armaf.com/products/armaf-club-de-nuit-untold","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":63,"status":"exact","product":"ARMAF CLUB DE NUIT URBAN MAN EDP 105ML","current":"/products/cutouts/ref-0063.png","proposed":null,"evidence":"https://armaf.com/products/club-de-nuit-iconic","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":64,"status":"exact","product":"ARMAF CLUB DE NUIT URBAN MAN ELIXIR EDP 105ML","current":"/products/cutouts/ref-0064.png","proposed":null,"evidence":"https://armaf.com/products/club-de-nuit-urban-elixir-100ml","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":65,"status":"exact","product":"ARMAF CLUB DE NUIT WOMAN EDP 105ML","current":"/products/cutouts/ref-0065.png","proposed":null,"evidence":"https://armaf.com/products/club-de-nuit-w","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":66,"status":"exact","product":"ARMAF CONNOISSEUR MAN EDP 100ML","current":"/products/cutouts/ref-0066.png","proposed":null,"evidence":"https://armaf.com/products/connoisseur-spr-1","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":67,"status":"exact","product":"ARMAF DUBAI DELICACY KUNAFA CHOCOLATE EDP 70ML","current":"/products/cutouts/ref-0067.png","proposed":null,"evidence":"https://armaf.com/products/dubai-delicacy-kunafa-chocolate","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":68,"status":"wrong","product":"ARMAF ETER ARABIAN SKY EDP 100ML","current":"/products/cutouts/ref-0067.png","proposed":"https://armaf.com/products/eter-arabian-sky","evidence":"https://armaf.com/products/eter-arabian-sky","reason":"La ref. 68 reutiliza exactamente /products/cutouts/ref-0067.png (Dubai Delicacy Kunafa Chocolate), no Eter Arabian Sky."},{"ref":69,"status":"exact","product":"ARMAF HUNTER FOR MEN EDT 100ML","current":"/products/cutouts/ref-0069.png","proposed":null,"evidence":"https://perfumeonline.ca/products/armaf-hunter-1","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":70,"status":"exact","product":"ARMAF ISLAND BLISS EDP 100ML","current":"/products/cutouts/ref-0070.png","proposed":null,"evidence":"https://armaf.com/products/island-bliss-delights-spr","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":71,"status":"exact","product":"ARMAF ISLAND BREEZE EDP 100ML","current":"/products/cutouts/ref-0071.png","proposed":null,"evidence":"https://armaf.com/products/island-breeze","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":72,"status":"exact","product":"ARMAF LE PARFAIT HOMBRE EDP 100ML","current":"/products/cutouts/ref-0072.png","proposed":null,"evidence":"https://armaf.com/products/le-pa-rfait-homme","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":73,"status":"exact","product":"ARMAF LEGASI MUJER EDP 100ML","current":"/products/cutouts/ref-0073.png","proposed":null,"evidence":"https://armaf.com/products/legasi","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":74,"status":"exact","product":"ARMAF ODYSEEY FEMME EDP 80ML","current":"/products/cutouts/ref-0074.png","proposed":null,"evidence":"https://perfumeonline.ca/products/armaf-odyssey-femme","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":75,"status":"exact","product":"ARMAF ODYSSEY AOUD EDP 100ML","current":"/products/cutouts/ref-0075.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-aoud-edition","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":76,"status":"exact","product":"ARMAF ODYSSEY ARTISTO RED EDITION EDP 100ML","current":"/products/cutouts/ref-0076.png","proposed":null,"evidence":"https://armaf.com/","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":77,"status":"exact","product":"ARMAF ODYSSEY BAHAMAS EDP 100ML","current":"/products/cutouts/ref-0077.png","proposed":null,"evidence":"https://armaf.com/","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":78,"status":"exact","product":"ARMAF ODYSSEY BLACK FOREST EDP 100ML","current":"/products/cutouts/ref-0078.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-toffee-coffee-copy-1","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":79,"status":"exact","product":"ARMAF ODYSSEY CANDEE EDP 100ML","current":"/products/cutouts/ref-0079.png","proposed":null,"evidence":"https://armaf.com/","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":80,"status":"exact","product":"ARMAF ODYSSEY DUBAI CHOCOLAT EDP 100ML","current":"/products/cutouts/ref-0080.png","proposed":null,"evidence":"https://armaf.com/","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":81,"status":"exact","product":"ARMAF ODYSSEY GO MANGO EDP 100ML","current":"/products/cutouts/ref-0081.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-go-mango","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":82,"status":"exact","product":"ARMAF ODYSSEY HOMME EDP 100ML","current":"/products/cutouts/ref-0082.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-homme-man","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":83,"status":"exact","product":"ARMAF ODYSSEY LICHI LUSH EDP 100ML","current":"/products/cutouts/ref-0083.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-lichi-lush-edp","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":84,"status":"exact","product":"ARMAF ODYSSEY LIMONI EDP 100ML","current":"/products/cutouts/ref-0084.png","proposed":null,"evidence":"https://armaf.com/products/armaf-odyssey-limoni-fresh-edition","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":85,"status":"exact","product":"ARMAF ODYSSEY MANDARIN SKY EDP 100ML","current":"/products/cutouts/ref-0085.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-mega-for-men","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":86,"status":"exact","product":"ARMAF ODYSSEY MANDARIN SKY EDP 200ML","current":"/products/cutouts/ref-0086.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-mega-for-men","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":87,"status":"exact","product":"ARMAF ODYSSEY MANDARIN SKY ELIXIR EDP 100ML","current":"/products/cutouts/ref-0087.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-mandarin-sky-elixir","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":88,"status":"exact","product":"ARMAF ODYSSEY MANDARIN SKY VINTAGE EDP 100ML","current":"/products/cutouts/ref-0088.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-mandarin-sky-vintage-edition","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":89,"status":"exact","product":"ARMAF ODYSSEY MARSHMALLOW EDP 100ML","current":"/products/cutouts/ref-0089.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-marshmallow","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":90,"status":"exact","product":"ARMAF ODYSSEY MEGA EDP 100ML","current":"/products/cutouts/ref-0090.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-mega-man","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":91,"status":"exact","product":"ARMAF ODYSSEY MOUNTAIN EDITION 100ML","current":"/products/cutouts/ref-0091.png","proposed":null,"evidence":"https://armaf.com/","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":92,"status":"exact","product":"ARMAF ODYSSEY PINK POP EDP 100ML","current":"/products/cutouts/ref-0092.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-pink-pop-edp","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":93,"status":"exact","product":"ARMAF ODYSSEY REVOLUTION EDP 100ML","current":"/products/cutouts/ref-0093.png","proposed":null,"evidence":"https://armaf.com/","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":94,"status":"exact","product":"ARMAF ODYSSEY SODA POP EDP 100ML","current":"/products/cutouts/ref-0094.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-soda-pop","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":95,"status":"exact","product":"ARMAF ODYSSEY SPECTRA BLU EDP 100ML","current":"/products/cutouts/ref-0095.png","proposed":null,"evidence":"https://armaf.com/","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":96,"status":"exact","product":"ARMAF ODYSSEY SPECTRA EDP 100ML","current":"/products/cutouts/ref-0096.png","proposed":null,"evidence":"https://armaf.com/products/armaf-odyssey-spectra-rainbow-edition","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":97,"status":"exact","product":"ARMAF ODYSSEY TOFFEE COFFEE EDP 100ML","current":"/products/cutouts/ref-0097.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-toffee-coffee","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":98,"status":"exact","product":"ARMAF ODYSSEY TYRANT EDP 100ML","current":"/products/cutouts/ref-0098.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-tyrant-special-edition","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":99,"status":"exact","product":"ARMAF ODYSSEY WHITE EDP 100ML","current":"/products/cutouts/ref-0099.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-homme-white-edition","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":100,"status":"exact","product":"ARMAF ODYSSEY WILD ONE EDP 100ML","current":"/products/cutouts/ref-0100.png","proposed":null,"evidence":"https://armaf.com/products/odyssey-wild-one","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":101,"status":"exact","product":"ARMAF SPARTACUS EDP 100ML","current":"/products/cutouts/ref-0101.png","proposed":null,"evidence":"https://armaf.com/products/spartacus-edp","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":102,"status":"exact","product":"ARMAF TAG DONNA DI TERRA EDP 100ML","current":"/products/cutouts/ref-0102.png","proposed":null,"evidence":"https://armaf.com/","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":103,"status":"exact","product":"ARMAF TAG HIM POUR HOMME EDP 100ML","current":"/products/cutouts/ref-0103.png","proposed":null,"evidence":"https://armaf.com/","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":104,"status":"exact","product":"ARMAF TAG HIM PRESTIGE EDT 100ML","current":"/products/cutouts/ref-0104.png","proposed":null,"evidence":"https://armaf.com/products/tag-him-prestige","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":105,"status":"exact","product":"ARMAF TAG UOMO NERO EDP 100ML","current":"/products/cutouts/ref-0105.png","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Armaf/Tag-Uomo-Nero-21404.html","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":106,"status":"exact","product":"ARMAF TAG UOMO ROSSO EDP 100ML","current":"/products/cutouts/ref-0106.png","proposed":null,"evidence":"https://perfumeonline.ca/products/armaf-tag-uomo-rosso","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":107,"status":"exact","product":"ARMAF THE PRIDE ADMIRAL EDP 100ML","current":"/products/cutouts/ref-0107.png","proposed":null,"evidence":"https://armaf.com/products/the-pride-of-armaf-admiral","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":108,"status":"exact","product":"ARMAF TRES NUIT LYRIC POUR HOMME EDP 100ML","current":"/products/cutouts/ref-0108.png","proposed":null,"evidence":"https://armaf.com/products/tres-nuit-lyric","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":109,"status":"exact","product":"ARMAF TRES NUIT POUR HOMME EDT 100ML","current":"https://armaf.com/cdn/shop/files/Q-121ATRESNUIT_M_3278373f-ed84-416b-8687-e1054cbbcabb.jpg?v=1739111251&width=1600","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Armaf/Tres-Nuit-21829.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":110,"status":"uncertain","product":"ARMAF VENTANA MARINE EDP 100ML","current":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ArmafVentanaBottle11.jpg?v=1739111646","proposed":null,"evidence":"https://armaf.com/products/ventana-marine","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":111,"status":"uncertain","product":"ARMAF VENTANA POUR HOMME EDP 100ML","current":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/VENTANAPOURHOMME-100ML_ARMAFSERIES_FIF_0276143c-8c72-44a0-acb5-34241f49b0c4.jpg?v=1739111262","proposed":null,"evidence":"https://armaf.com/products/ventana-pour-homme","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":112,"status":"uncertain","product":"ARMAF YUM YUM EDP 100ML","current":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Untitleddesign_71.png?v=1748451245","proposed":null,"evidence":"https://armaf.com/products/yum-yum-spr","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":113,"status":"uncertain","product":"AZZARO CHROME EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Chrome.png?v=1571609917","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Azzaro/Chrome-788.html","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":114,"status":"exact","product":"AZZARO POUR HOMME EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.829.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Azzaro/Azzaro-pour-Homme-829.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":115,"status":"exact","product":"AZZARO THE MOST WANTED EDPI 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.66826.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Azzaro/The-Most-Wanted-66826.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":116,"status":"uncertain","product":"AZZARO THE MOST WANTED PARFUM 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/files/Azzaro-Most-Wanted_bfde01d6-23e2-48fb-9ef4-8d718dda8a6a.png?v=1682618808","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Azzaro/The-Most-Wanted-Parfum-73664.html","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":117,"status":"uncertain","product":"AZZARO WANTED BY NIGHT EDP 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Wanted-Night.png?v=1571609994","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Azzaro/Wanted-by-Night-49144.html","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":118,"status":"exact","product":"AZZARO WANTED HOMBRE EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.38686.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Azzaro/Wanted-38686.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":119,"status":"exact","product":"BENETTON COLD EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.2487.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Benetton/Benetton-Cold-2487.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":120,"status":"uncertain","product":"BENETTON HOT EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/files/Benetton-Hot-Edt.png?v=1764185402","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Benetton/Benetton-Hot-2488.html","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":121,"status":"exact","product":"BHARARA BULLET BRONZE EDP 75ML","current":"https://www.bhararabeauty.com/cdn/shop/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_1_2f4a8553-7f64-4ff3-a1e0-b1707971ba17.png?v=1771616712","proposed":null,"evidence":"https://www.bhararabeauty.com/products/bullet-bronze-2-5-edp-sp-m","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":122,"status":"exact","product":"BHARARA BULLET GOLD EDP 75ML","current":"https://www.bhararabeauty.com/cdn/shop/files/Generated_with_Kive.ai_-_Remove_the_box__just_keep_the_bottle_and_center_it.png?v=1771616421","proposed":null,"evidence":"https://www.bhararabeauty.com/products/bullet-gold-2-5-edp-sp-m","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":123,"status":"uncertain","product":"BHARARA BULLET GUNMETAL EDP","current":"https://www.bhararabeauty.com/cdn/shop/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_2.png?v=1771616601","proposed":null,"evidence":"https://kcroyaloud.com/products/bullet-gun-metal-bharara-eau-de-parfum-2-5oz-75ml","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":124,"status":"uncertain","product":"BHARARA CHOCOLATE EDP 100ML","current":"https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-kive-image_5_d630c43c-1ebd-4f98-8e34-9aebde4edde9.png?v=1772127699","proposed":null,"evidence":"https://www.bhararabeauty.com/products/bharara-chocolate-eau-de-parfum","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":125,"status":"uncertain","product":"BHARARA KING EDP 100ML","current":"https://cdn.shopify.com/s/files/1/0594/1575/6852/files/Gemini_Generated_Image_eokjadeokjadeokj.png?v=1772746597","proposed":null,"evidence":"https://www.bhararabeauty.com/products/bharara-king","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":126,"status":"uncertain","product":"BHARARA KING GOLD EDITION EDP 100ML","current":"https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_30.png?v=1772133191","proposed":null,"evidence":"https://www.bhararabeauty.com/products/bharara-king-gold-edition-eau-de-parfum","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":127,"status":"exact","product":"BHARARA KING PARFUM 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.70765.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Bharara/King-70765.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":128,"status":"uncertain","product":"BHARARA RAMESSES 1 EDP 100ML","current":"https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_21.png?v=1772086303","proposed":null,"evidence":"https://www.fragrantica.com/search/?query=Ramesses%201","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":129,"status":"exact","product":"BHARARA REY DE REYES EDP 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.136242.jpg","proposed":null,"evidence":"https://www.fragrantica.com/search/?query=Rey%20De%20Reyes","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":130,"status":"uncertain","product":"BHARARA VIKING KASHMIR PARFUM 100ML","current":"https://cdn.shopify.com/s/files/1/0594/1575/6852/files/Generated_with_Kive.ai_-_kive-image_b9e6bea9-e93d-4413-9c10-6c17164e40fb.png?v=1772570580","proposed":null,"evidence":"https://www.bhararabeauty.com/products/bharara-viking-kashmir-3-4-parfum-spray","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":131,"status":"uncertain","product":"BHARARA VIKING RIO PARFUM 100ML","current":"https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcentreit.png?v=1771945994","proposed":null,"evidence":"https://www.bhararabeauty.com/products/bharara-viking-rio-3-4-parfum-spray","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":133,"status":"exact","product":"BILLIE EILISH NO3 EDP 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.87945.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Billie-Eilish/Eilish-No-3-87945.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":139,"status":"exact","product":"BOUCHERON POUR HOMME EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.132.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Boucheron/Boucheron-Pour-Homme-132.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":140,"status":"exact","product":"BRITNEY SPEARS FANTASY CIRCUS EDP 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.6733.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Britney-Spears/Circus-Fantasy-6733.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":141,"status":"exact","product":"BRITNEY SPEARS INTIMATE EDITION EDP 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.31170.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Britney-Spears/Fantasy-Intimate-Edition-31170.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":142,"status":"exact","product":"BULGARI AQUA POUR HOMME EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.185.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Bvlgari/Aqva-Pour-Homme-185.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":143,"status":"uncertain","product":"BULGARI OMNIA AMETHYSTE EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/bvlgari-omnia-amethyste-65-ml-for-women-outer-box-damaged-800x800.jpg?v=1571609931","proposed":null,"evidence":"https://perfumeonline.ca/products/bvlgari-omnia-amethyste","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":144,"status":"exact","product":"BULGARI SPLENDIDA TUBEREUSE MYSTIQUE MUJER","current":"https://fimgs.net/mdimg/perfume/375x500.55838.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Bvlgari/Splendida-Tubereuse-Mystique-55838.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":145,"status":"uncertain","product":"BURBERRY GODDESS EDP 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/files/Burberry-Goddess.png?v=1700581094","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Burberry/Goddess-83483.html","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":146,"status":"uncertain","product":"BURBERRY HER EDP 100ML","current":"https://assets.burberry.com/is/image/Burberryltd/170DBE43-9B00-40B1-A766-F1482E6F263D?%24BBY_V3_SL_1%24=&hei=1500&wid=1501","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Burberry/Burberry-Her-51694.html","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":147,"status":"uncertain","product":"CACHAREL ANAIS ANAIS EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/ANAIS-ANAIS.png?v=1571609909","proposed":null,"evidence":"https://perfumeonline.ca/products/anais-anais","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":148,"status":"exact","product":"CAROLINA HERRERA 212 CLASICO HOMBRE EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.644.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Carolina-Herrera/212-Men-644.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":149,"status":"exact","product":"CAROLINA HERRERA 212 HEROES HOMBRE EDT 90ML","current":"https://fimgs.net/mdimg/perfume/375x500.64641.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Carolina-Herrera/212-Heroes-64641.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":150,"status":"exact","product":"CAROLINA HERRERA 212 HEROES MUJER EDP 80ML","current":"https://fimgs.net/mdimg/perfume/375x500.64642.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Carolina-Herrera/212-Heroes-for-Her-64642.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":151,"status":"exact","product":"CAROLINA HERRERA 212 SEXY HOMBRE 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.204.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Carolina-Herrera/212-Sexy-Men-204.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":152,"status":"exact","product":"CAROLINA HERRERA 212 SEXY MUJER 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.167.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Carolina-Herrera/212-Sexy-167.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":153,"status":"exact","product":"CAROLINA HERRERA 212 VIP BLACK 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.37030.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Black-37030.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":154,"status":"exact","product":"CAROLINA HERRERA 212 VIP MUJER EDT 80ML","current":"https://fimgs.net/mdimg/perfume/375x500.18596.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-18596.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":155,"status":"exact","product":"CAROLINA HERRERA 212 VIP ROSE 80ML","current":"https://fimgs.net/mdimg/perfume/375x500.23672.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Rose-23672.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":156,"status":"uncertain","product":"CAROLINA HERRERA 212 VIP ROSE ELIXIR EDP 80ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/files/212-vip-rose-elixir.png?v=1731007650","proposed":null,"evidence":"https://perfumeonline.ca/products/212-vip-rose-elixir","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":157,"status":"uncertain","product":"CAROLINA HERRERA BAD BOY CLASICO EDT 100ML","current":"https://medias.carolinaherrera.com/medias/sys_master/images/hcd/hbc/10581247098910/10581247033374/10581247033374.jpg","proposed":null,"evidence":"https://perfumeonline.ca/products/ch-bad-boy","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":158,"status":"uncertain","product":"CAROLINA HERRERA BAD BOY COBALT EDP 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/files/Carolina-herrera-bad-boy-cobalt-electrique.png?v=1765230491","proposed":null,"evidence":"https://perfumeonline.ca/products/carolina-herrera-bad-boy-cobalt-electrique","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":159,"status":"uncertain","product":"CAROLINA HERRERA BAD BOY EXTREME EDP 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/files/Bad-Boy-Extreme.png?v=1699467061","proposed":null,"evidence":"https://perfumeonline.ca/products/bad-boy-extreme","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":160,"status":"uncertain","product":"CAROLINA HERRERA CH MEN EDT","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/188465_spo.jpg?v=1571609938","proposed":null,"evidence":"https://perfumeonline.ca/products/ch-carolina-herrera-men","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":161,"status":"uncertain","product":"CAROLINA HERRERA CH MUJER EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-Carolina-Herrera.png?v=1571609938","proposed":null,"evidence":"https://perfumeonline.ca/products/ch-carolina-herrera","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":162,"status":"exact","product":"CAROLINA HERRERA CLÁSICO MUJER 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.610.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Carolina-Herrera/Carolina-Herrera-610.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":163,"status":"uncertain","product":"CAROLINA HERRERA GOOD GIRL BLUSH EDP 80ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/files/Ch-Good-Girl-Blush.png?v=1702305335","proposed":null,"evidence":"https://perfumeonline.ca/products/ch-good-girl-blush","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":164,"status":"missing","product":"CAROLINA HERRERA GOOD GIRL BLUSH POLKA PARADISE100ML","current":null,"proposed":null,"evidence":"catalog/image-manifest.json","reason":"No hay imagen asignada y la denominación del proveedor no permite proponer con seguridad una variante exacta."},{"ref":165,"status":"uncertain","product":"CAROLINA HERRERA GOOD GIRL CLASICO EDP 80ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-Good-Girl.png?v=1725026950","proposed":null,"evidence":"https://perfumeonline.ca/products/ch-good-girl","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":166,"status":"uncertain","product":"CAROLINA HERRERA GOOD GIRL JASMINE ABSOLUTE EDP 80ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/files/CarolinaHerreraGoodGirlJasmineAbsolute.jpg?v=1785158945","proposed":null,"evidence":"https://perfumeonline.ca/products/carolina-herrera-good-girl-jasmine-absolute","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":167,"status":"uncertain","product":"CAROLINA HERRERA GOOD GIRL VERY EDP 80ML","current":"https://perfumeriamillennio.com/cdn/shop/files/carolinaherreravery.jpg?v=1777136490&width=1200","proposed":null,"evidence":"https://www.fragrantica.com/search/?query=Good%20Girl%20Very","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":168,"status":"uncertain","product":"CAROLINA HERRERA LA BOMBA EDP 80ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/files/La-Bomba.png?v=1764179417","proposed":null,"evidence":"https://perfumeonline.ca/products/la-bomba","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":170,"status":"exact","product":"CARTIER DECLARACIÓN EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.13.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Cartier/Declaration-13.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":171,"status":"exact","product":"CHANEL ALLURE HOMME SPORT EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.607.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Chanel/Allure-Homme-Sport-607.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":172,"status":"exact","product":"CHANEL CHANCE EAU TENDRE EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.806.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Tendre-806.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":173,"status":"exact","product":"CHANEL CHANCE EAU VIVE EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.30917.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Vive-30917.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":174,"status":"exact","product":"CHANEL COCO MADEMOISELLE EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.611.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-611.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":175,"status":"exact","product":"CHANEL GABRIELLE EDP 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.43286.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Chanel/Gabrielle-43286.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":176,"status":"uncertain","product":"CHARLIE GOLD EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/153911_85d6333d-d466-4a17-b543-1e93d0c2172b_spo.jpg?v=1571609939","proposed":null,"evidence":"https://perfumeonline.ca/products/charlie-gold","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":177,"status":"uncertain","product":"CK BE EDT 200ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/119918_spo.jpg?v=1571609951","proposed":null,"evidence":"https://perfumeonline.ca/products/ck-be","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":178,"status":"uncertain","product":"CK CONTRADICTION HOMBRE EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/153911_ed3c573e-6ca9-4c7a-8d9b-e8efe697c8dd_spo.jpg?v=1571609940","proposed":null,"evidence":"https://perfumeonline.ca/products/ck-contradiction-men","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":179,"status":"uncertain","product":"CK ESCAPE HOMBRE EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/CKESC100M_spo.jpg?v=1571609951","proposed":null,"evidence":"https://perfumeonline.ca/products/ck-escape-men","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":180,"status":"uncertain","product":"CK ETERNITY CLASICO HOMBRE EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/153911_997ddf7b-19b8-4bec-90ce-06c8c3912662_spo.jpg?v=1571609911","proposed":null,"evidence":"https://perfumeonline.ca/products/ck-eternity-men","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":181,"status":"exact","product":"CK EUPHORIA HOMBRE EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.217.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Calvin-Klein/Euphoria-Men-217.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":182,"status":"uncertain","product":"CK EUPHORIA MUJER EDP 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/CK-EUPHORIA.png?v=1740152158","proposed":null,"evidence":"https://perfumeonline.ca/products/ck-euphoria-w","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":183,"status":"exact","product":"CK IN2U HOMBRE EDT 150ML","current":"https://fimgs.net/mdimg/perfume/375x500.151.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Calvin-Klein/IN2U-for-Him-151.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":184,"status":"exact","product":"CK IN2U MUJER EDT 150ML","current":"https://fimgs.net/mdimg/perfume/375x500.150.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Calvin-Klein/IN2U-for-Her-150.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":185,"status":"exact","product":"CK ONE EDT 200ML","current":"https://fimgs.net/mdimg/perfume/375x500.276.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-276.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":186,"status":"exact","product":"CK ONE GOLD EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.40720.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-Gold-40720.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":187,"status":"exact","product":"CK ONE SHOCK FOR HIM EDT 200ML","current":"https://fimgs.net/mdimg/perfume/375x500.10128.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-Shock-for-Him-10128.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":188,"status":"uncertain","product":"COOL WATER HOMBRE EDT 125ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/Cool-Water-Men.jpg?v=1571609926","proposed":null,"evidence":"https://perfumeonline.ca/products/cool-water-men-1","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":189,"status":"uncertain","product":"COOL WATER MUJER EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/Cool-Water.png?v=1571609926","proposed":null,"evidence":"https://perfumeonline.ca/products/cool-water-women","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":190,"status":"exact","product":"CREED AVENTUS HOMBRE EDP 100ML","current":"https://www.scentsangel.com/cdn/shop/files/SENTSANGEL_31_87aab0d6-713e-4b81-841c-8383e61354dd.jpg?v=1777916832","proposed":null,"evidence":"https://perfumeonline.ca/products/creed-aventus","reason":"La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."},{"ref":191,"status":"exact","product":"CRISTIANO RONALDO CR7 ROJO EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.56606.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Cristiano-Ronaldo/CR7-Game-On-56606.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":192,"status":"uncertain","product":"CRISTIANO RONALDO DISCOVER EDT 100ML","current":"https://www.sasa.com.my/image/cache/catalog/product/cristiano-ronaldo/10103010205819-1-960x960.jpg","proposed":null,"evidence":"https://www.fragrantica.com/","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":193,"status":"uncertain","product":"CRISTIANO RONALDO ORIGINS EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/Cristiano-Ronaldo-Cr7-Origins.png?v=1661194995","proposed":null,"evidence":"https://www.fragrantica.com/","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":194,"status":"exact","product":"CURVE BLACK HOMBRE 125ML","current":"https://fimgs.net/mdimg/perfume/375x500.44905.jpg","proposed":null,"evidence":"https://www.fragrantica.com/","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":195,"status":"exact","product":"CURVE CHILL HOMBRE 125ML","current":"https://fimgs.net/mdimg/perfume/375x500.1777.jpg","proposed":null,"evidence":"https://www.fragrantica.com/","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":196,"status":"exact","product":"CURVE CHILL MUJER 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.1776.jpg","proposed":null,"evidence":"https://www.fragrantica.com/","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":197,"status":"exact","product":"CURVE CLASICO HOMBRE 125ML","current":"https://fimgs.net/mdimg/perfume/375x500.376.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-for-Men-376.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":198,"status":"exact","product":"CURVE CLASICO MUJER 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.1775.jpg","proposed":null,"evidence":"https://www.costco.com/f/-/fragrance-buying-guide","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":199,"status":"exact","product":"CURVE CONNECT HOMBRE 125ML","current":"https://fimgs.net/mdimg/perfume/375x500.2778.jpg","proposed":null,"evidence":"https://www.costco.com/f/-/fragrance-buying-guide","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":200,"status":"exact","product":"CURVE CONNECT MUJER 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.2779.jpg","proposed":null,"evidence":"https://www.costco.com/f/-/fragrance-buying-guide","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":201,"status":"exact","product":"CURVE CRUSH HOMBRE 125ML","current":"https://fimgs.net/mdimg/perfume/375x500.4164.jpg","proposed":null,"evidence":"https://www.costco.com/f/-/fragrance-buying-guide","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":202,"status":"exact","product":"CURVE CRUSH MUJER 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.2175.jpg","proposed":null,"evidence":"https://www.costco.com/f/-/fragrance-buying-guide","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":203,"status":"exact","product":"CURVE SPORT HOMBRE 125ML","current":"https://fimgs.net/mdimg/perfume/375x500.29569.jpg","proposed":null,"evidence":"https://www.costco.com/f/-/fragrance-buying-guide","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":204,"status":"uncertain","product":"CURVE WAVE HOMBRE 125ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/Curve-Wave-Edc-Men.jpg?v=1624277909","proposed":null,"evidence":"https://www.costco.com/f/-/fragrance-buying-guide","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":205,"status":"exact","product":"CURVE WAVE MUJER 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.9609.jpg","proposed":null,"evidence":"https://www.costco.com/f/-/fragrance-buying-guide","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":206,"status":"missing","product":"DECANT ARIANA GRANDE CLOUD PINK 2ML","current":null,"proposed":null,"evidence":"catalog/image-manifest.json","reason":"No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."},{"ref":207,"status":"missing","product":"DECANT ARMAF ODYSSEY ARTISTO 5ML","current":null,"proposed":null,"evidence":"catalog/image-manifest.json","reason":"No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."},{"ref":208,"status":"missing","product":"DECANT ARMAF VENTANA 5ML","current":null,"proposed":null,"evidence":"catalog/image-manifest.json","reason":"No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."},{"ref":209,"status":"missing","product":"DECANT CAROLINA HERRERA 212 VIP ROSE 10ML","current":null,"proposed":null,"evidence":"catalog/image-manifest.json","reason":"No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."},{"ref":210,"status":"missing","product":"DECANT DIOR SAUVAGE EDT 5ML","current":null,"proposed":null,"evidence":"catalog/image-manifest.json","reason":"No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."},{"ref":211,"status":"missing","product":"DECANT LATTAFA ART OF NATURE 5ML","current":null,"proposed":null,"evidence":"catalog/image-manifest.json","reason":"No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."},{"ref":215,"status":"missing","product":"DECANT MOSCHINO FUNNY 5ML","current":null,"proposed":null,"evidence":"catalog/image-manifest.json","reason":"No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."},{"ref":216,"status":"missing","product":"DECANT MOSCHINO TOY 2 BUBBLE GUM 5ML","current":null,"proposed":null,"evidence":"catalog/image-manifest.json","reason":"No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."},{"ref":217,"status":"missing","product":"DECANT VERSACE DYLAN BLUE HOMBRE 2ML","current":null,"proposed":null,"evidence":"catalog/image-manifest.json","reason":"No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."},{"ref":218,"status":"uncertain","product":"DESODORANTE PERRY ELLIS 360 RED HOMBRE 170ML","current":"https://foreverlux.com/cdn/shop/files/1418201__74385.1698007912.1280.1280.png?v=1761779160","proposed":null,"evidence":"https://www.costco.com/f/-/fragrance-buying-guide","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":219,"status":"uncertain","product":"DIOR FAHRENHEIT EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/CDFAH100M_spo.jpg?v=1571609902","proposed":null,"evidence":"https://perfumeonline.ca/products/dior-fahrenheit","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":220,"status":"uncertain","product":"DIOR JADORE EDP 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/JADORE.png?v=1571609905","proposed":null,"evidence":"https://perfumeonline.ca/products/jadore","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":221,"status":"uncertain","product":"DIOR SAUVAGE EDP 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-sauvage-Edp.png?v=1571609964","proposed":null,"evidence":"https://perfumeonline.ca/products/dior-sauvage","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":222,"status":"exact","product":"DKNY FRESH BLOSSOM EDP 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.533.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/DKNY/Fresh-Blossom-533.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":223,"status":"uncertain","product":"DKNY WOMEN EDP 100ML","current":"https://dkny.sa/cdn/shop/files/DKNY00023.jpg?v=1763017908","proposed":null,"evidence":"https://www.fragrantica.com/perfume/DKNY/DKNY-Women-100.html","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":224,"status":"exact","product":"DOLCE & GABANNA DOLCE LILY EDT 75ML","current":"https://fimgs.net/mdimg/perfume/375x500.68972.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Lily-68972.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":225,"status":"uncertain","product":"DOLCE & GABANNA YOUR DEVOTION EDP INTENSE 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/files/Devotion_Intense.webp?v=1740168297","proposed":null,"evidence":"https://www.costco.com/f/-/fragrance-buying-guide","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":226,"status":"uncertain","product":"DOLCE & GABBANA DEVOTION HOMBRE EDP 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/files/Devotion_Edp_men.png?v=1742502970","proposed":null,"evidence":"https://perfumeonline.ca/products/devotion-edp","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":227,"status":"exact","product":"DOLCE & GABBANA DOLCE EDP 75ML","current":"https://fimgs.net/mdimg/perfume/375x500.22955.jpg","proposed":null,"evidence":"https://www.dolcegabbana.com/","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":228,"status":"exact","product":"DOLCE & GABBANA DOLCE SHINE EDP 75ML","current":"https://fimgs.net/mdimg/perfume/375x500.59929.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Shine-59929.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":229,"status":"exact","product":"DOLCE & GABBANA EMPERATRIZ 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.6086.jpg","proposed":null,"evidence":"https://www.costco.com/f/-/fragrance-buying-guide","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":230,"status":"uncertain","product":"DOLCE & GABBANA KING EDP 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/dg-king-edp.png?v=1613493387","proposed":null,"evidence":"https://perfumeonline.ca/products/dolce-gabbana-king-edp","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":231,"status":"uncertain","product":"DOLCE & GABBANA KING EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/DG-KING-100ML-EDT-MEN.png?v=1571610020","proposed":null,"evidence":"https://perfumeonline.ca/products/dg-king","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":232,"status":"uncertain","product":"DOLCE & GABBANA KING PARFUM 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/files/8054754405095-1.jpg?v=1748270966","proposed":null,"evidence":"https://perfumeonline.ca/products/k-parfum","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":233,"status":"exact","product":"DOLCE & GABBANA LIGHT BLUE HOMBRE NUEVO EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.107.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Pour-Homme-107.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":234,"status":"exact","product":"DOLCE & GABBANA LIGHT BLUE INTENSE MUJER EDP 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.43444.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Eau-Intense-for-Women-43444.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":235,"status":"uncertain","product":"DOLCE & GABBANA LIGHT BLUE MUJER 100ML","current":"https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dw8a77087f/images/zoom/VT01JMVT000_9V000_0.jpg?sw=740&sh=944","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-485.html","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":236,"status":"uncertain","product":"DOLCE & GABBANA LIGHT BLUE MUJER 200ML","current":"https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dw8a77087f/images/zoom/VT01JMVT000_9V000_0.jpg?sw=1480&sh=1888","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-485.html","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":237,"status":"exact","product":"DOLCE & GABBANA LIGHT BLUE SUMMER VIBES H EDT 125ML","current":"https://fimgs.net/mdimg/perfume/375x500.80056.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Summer-Vibes-Pour-Homme-80056.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":238,"status":"exact","product":"DOLCE & GABBANA LIGHT BLUE SUMMER VIBES MUJER 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.74282.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Summer-Vibes-74282.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":239,"status":"uncertain","product":"DOLCE & GABBANA POUR FEMME EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/117705_spo.jpg?v=1571609930","proposed":null,"evidence":"https://perfumeonline.ca/products/dolce-gabbana","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":240,"status":"exact","product":"DOLCE & GABBANA POUR HOMME 125ML","current":"https://fimgs.net/mdimg/perfume/375x500.486.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Gabbana-Pour-Homme-486.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":241,"status":"uncertain","product":"DOLCE & GABBANA Q EDP 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/files/Dolce-_-Gabbana-Queen.png?v=1699031065","proposed":null,"evidence":"https://perfumeonline.ca/products/d-g-queen","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":242,"status":"exact","product":"DOLCE & GABBANA THE ONE HOMBRE EDT 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.1835.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-for-Men-1835.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":243,"status":"exact","product":"DOLCE & GABBANA THE ONE MUJER EDP 75ML","current":"https://fimgs.net/mdimg/perfume/375x500.698.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-for-Women-698.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":244,"status":"uncertain","product":"DRAKKAR NOIR EDT 200ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/DRAK200M.jpg?v=1571609907","proposed":null,"evidence":"https://perfumeonline.ca/products/drakkar-noir","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":245,"status":"exact","product":"DUMONT NITRO PLATINUM EDP 100ML","current":"https://fimgs.net/mdimg/perfume/375x500.101991.jpg","proposed":null,"evidence":"https://www.fragrantica.com/search/?query=Dumont%20Nitro%20Platinum","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":246,"status":"uncertain","product":"DUMONT NITRO RED HOMBRE EDP 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/files/nitro.png?v=1721670579","proposed":null,"evidence":"https://perfumeonline.ca/products/nitro-red","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":247,"status":"uncertain","product":"DUMONT NITRO RED INTENSELY EXTRAIT DE PARFUM 100ML","current":"https://luchoperfumeria.com.co/cdn/shop/files/fotos_lucho_-_2026-03-31T180848.844.png?v=1774999170&width=1600","proposed":null,"evidence":"https://www.fragrantica.com/search/?query=Dumont%20Nitro%20Red%20Intensely","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":248,"status":"exact","product":"ELIZABETH ARDEN 5TA AVENIDA 125ML","current":"https://fimgs.net/mdimg/perfume/375x500.819.jpg","proposed":null,"evidence":"https://www.fragrantica.com/perfume/Elizabeth-Arden/5th-Avenue-819.html","reason":"La fuente enlazada identifica la misma marca, variante y presentación."},{"ref":249,"status":"uncertain","product":"ELIZABETH ARDEN GREEN TEA EDP 100ML","current":"https://www.elizabetharden.com/cdn/shop/files/pdp-green-tea-spray-3.3oz.jpg?crop=center&height=1024&v=1766526887&width=1024","proposed":null,"evidence":"https://perfumeonline.ca/products/green-tea","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."},{"ref":250,"status":"uncertain","product":"ELIZABETH ARDEN RED DOOR EDT 100ML","current":"https://cdn.shopify.com/s/files/1/2170/5343/products/Red-Door.png?v=1571609935","proposed":null,"evidence":"https://perfumeonline.ca/products/red-door","reason":"La URL/nombre del asset es compatible con la variante, pero la evidencia disponible no demuestra simultáneamente marca, variante, concentración y tamaño; requiere cotejo visual antes del recorte."}]}
+{
+  "range": "001-250",
+  "records": [
+    {
+      "ref": 1,
+      "status": "wrong",
+      "product": "ABERCROMBIE & FITCH FIERCE COLOGNE EDC 100ML",
+      "current": "https://www.abercrombie.com.mx/media/catalog/product/k/i/kic_164-1502-0218-270_prod1.jpg?quality=100&fit=bounds&height=1600&width=1200&canvas=1200:1600",
+      "proposed": "https://www.abercrombie.com.mx/media/catalog/product/k/i/kic_164-1502-0218-270_prod1.jpg?quality=80&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "evidence": "https://www.abercrombie.com.mx/colonia-fierce-657819491",
+      "reason": "El archivo local muestra un frasco amarillo rotulado “OASIS”; no es Fierce Cologne."
+    },
+    {
+      "ref": 2,
+      "status": "wrong",
+      "product": "ABERCROMBIE & FITCH NATURALLY FIERCE EDP 100ML",
+      "current": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:1200/_rTME2Yc9-1191865_1.jpg",
+      "proposed": "https://f.nooncdn.com/p/pzsku/Z657ABCA319CCF6193E73Z/45/_/1696358289/524358a6-4fd3-424a-a47c-6687423a05bb.jpg",
+      "evidence": "https://www.rossmann.pl/Produkt/Wody-perfumowane/Abercrombie-Fitch-Naturally-Fierce-woda-perfumowana-dla-kobiet-100-ml%2C2084064%2C13266",
+      "reason": "El archivo local muestra un frasco rotulado “CUTULI”; no es Naturally Fierce."
+    },
+    {
+      "ref": 3,
+      "status": "exact",
+      "product": "ACQUA DI PARISIS DELANOE EXCLUSIF EDP 100ML",
+      "current": "/products/cutouts/ref-0003.png",
+      "proposed": null,
+      "evidence": "https://www.perfumeriariach.com/products/133/acqua-di-parisis-delanoe-exclusif",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 4,
+      "status": "exact",
+      "product": "ACQUA DI PARISIS MAGIC RED EDP 100ML",
+      "current": "/products/cutouts/ref-0004.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/board/viewtopic.php?id=334010&p=11",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 5,
+      "status": "exact",
+      "product": "ACQUA DI PARISIS VENIZIA EDP 100ML",
+      "current": "/products/cutouts/ref-0005.png",
+      "proposed": null,
+      "evidence": "https://parisis-parfums.com/lb/product/acqua-di-parisis-venizia-women-edp-100ml/",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 6,
+      "status": "missing",
+      "product": "ADIDAS HOMBRE EDT 100ML",
+      "current": null,
+      "proposed": null,
+      "evidence": "catalog/image-manifest.json",
+      "reason": "No hay imagen asignada y la denominación del proveedor no permite proponer con seguridad una variante exacta."
+    },
+    {
+      "ref": 7,
+      "status": "exact",
+      "product": "AFNAN 9AM BLANCO EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/0714/3129/1097/files/13_9AM.jpg?v=1775552894&width=1080",
+      "proposed": null,
+      "evidence": "https://us.afnan.com/products/9-am",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 8,
+      "status": "exact",
+      "product": "AFNAN 9AM DIVE UNISEX EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/0714/3129/1097/files/9AM-Dive-01_d4bc61ac-c620-48b5-984b-c18d267d8e82.jpg?v=1775552891&width=1080",
+      "proposed": null,
+      "evidence": "https://us.afnan.com/products/9-am-dive",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 9,
+      "status": "exact",
+      "product": "AFNAN 9PM ELIXIR PARFUM INTENSE 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/0714/3129/1097/files/STILL_ELIXIR_SQUARE_08_2048x2048_7342c733-73a2-4e3e-b3b6-0ee0333c671d.png?v=1775218859&width=1080",
+      "proposed": null,
+      "evidence": "https://afnan.com/products/9-pm-elixir",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 10,
+      "status": "exact",
+      "product": "AFNAN 9PM HOMBRE EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/0714/3129/1097/files/03_9PM.jpg?v=1775552889&width=1080",
+      "proposed": null,
+      "evidence": "https://us.afnan.com/products/9-pm",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 11,
+      "status": "exact",
+      "product": "AFNAN TURATHI ELECTRIC EDP 90ML",
+      "current": "/products/cutouts/ref-0011.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.es/perfume/Afnan/Turathi-Electric-108244.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 12,
+      "status": "exact",
+      "product": "AGATHA RUIZ DE LA PRADA GOTAS DE COLOR EDT 100ML",
+      "current": "/products/cutouts/ref-0012.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Agatha-Ruiz-de-la-Prada/12-Gotas-de-Color-10454.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 13,
+      "status": "exact",
+      "product": "AL HARAMAIN AMBER MUSK EDP 100ML",
+      "current": "/products/cutouts/ref-0013.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/news/Al-Haramain-Musk-Series-Amber-Musk-Musk-Collection-Musk-Maliki-and-Royal-Musk-16284.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 14,
+      "status": "exact",
+      "product": "AL HARAMAIN AMBER OUD DUBAI NIGHT 100ML",
+      "current": "/products/cutouts/ref-0014.png",
+      "proposed": null,
+      "evidence": "https://shop.alharamainperfumes.com/E-Catalog/e-catalog.pdf",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 15,
+      "status": "exact",
+      "product": "AL HARAMAIN AMBER OUD GOLD EDITION EDP 120ML",
+      "current": "/products/cutouts/ref-0015.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Gold-Edition-51816.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 16,
+      "status": "exact",
+      "product": "AL HARAMAIN AMBER OUD GOLD EDITION EDP 200ML",
+      "current": "https://f.nooncdn.com/p/pzsku/ZD83BADE157F12207E54BZ/45/_/1660289511/2b0289511-2bf7-4aec-bbad-c6a867bae47f.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Gold-Edition-51816.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 17,
+      "status": "exact",
+      "product": "AL HARAMAIN L AVENTURE FEMME EDP 100ML",
+      "current": "/products/cutouts/ref-0017.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/L-Aventure-Femme-51820.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 18,
+      "status": "exact",
+      "product": "AL HARAMAIN L AVENTURE HOMBRE EDP 100ML",
+      "current": "/products/cutouts/ref-0018.png",
+      "proposed": null,
+      "evidence": "https://www.parfumo.com/Perfumes/Al_Haramain/L_Aventure",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 19,
+      "status": "exact",
+      "product": "AL HARAMAIN MUSK MALIKI EDP 100ML",
+      "current": "/products/cutouts/ref-0019.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/news/Al-Haramain-Musk-Series-Amber-Musk-Musk-Collection-Musk-Maliki-and-Royal-Musk-16284.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 20,
+      "status": "exact",
+      "product": "AL HARAMAIN ROYAL MUSK EDP 100ML",
+      "current": "/products/cutouts/ref-0020.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/news/Al-Haramain-Musk-Series-Amber-Musk-Musk-Collection-Musk-Maliki-and-Royal-Musk-16284.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 21,
+      "status": "exact",
+      "product": "AMARAN GELATO COTTON CANDY CRAZE EDP 100ML",
+      "current": "/products/cutouts/ref-0021.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Amaran/Gelato-Cotton-Candy-Craze-119586.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 22,
+      "status": "exact",
+      "product": "AMARAN GELATO MANGO TANGO EDP 100ML",
+      "current": "/products/cutouts/ref-0022.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.es/perfume/Amaran/Gelato-Mango-Tango-119580.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 23,
+      "status": "exact",
+      "product": "ANIMALE CLASICO HOMBRE EDT 100ML",
+      "current": "/products/cutouts/ref-0023.png",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/animal-edt",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 24,
+      "status": "exact",
+      "product": "ANIMALE CLASICO MUJER EDP 100ML",
+      "current": "/products/cutouts/ref-0024.png",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/animal",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 25,
+      "status": "wrong",
+      "product": "ANTONIO B BLUE SEDUCCION SUMMER ESSENCE EDT 100ML",
+      "current": "https://yauras.cl/cdn/shop/files/RaveNowWhite100MlEdp_74_ed014bcd-2f10-4805-a139-4e621d79fc8c_700x700.jpg?v=1779905842",
+      "proposed": null,
+      "evidence": "catalog/image-manifest.json",
+      "reason": "La URL actual declara en su nombre de archivo Rave Now White 100 ml; además el nombre del proveedor no identifica inequívocamente una edición comercial de Antonio Banderas."
+    },
+    {
+      "ref": 26,
+      "status": "exact",
+      "product": "ANTONIO B BLACK SEDUCTION 100ML",
+      "current": "/products/cutouts/ref-0026.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Antonio-Banderas/Seduction-in-Black-6746.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 27,
+      "status": "exact",
+      "product": "ANTONIO B BLUE SEDUCTION HOMBRE 100ML",
+      "current": "/products/cutouts/ref-0027.png",
+      "proposed": null,
+      "evidence": "https://beta.fragrantica.com/perfume/Antonio-Banderas/Blue-Seduction-1088.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 28,
+      "status": "exact",
+      "product": "ANTONIO B BLUE SEDUCTION MUJER EDT 80ML",
+      "current": "/products/cutouts/ref-0028.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Antonio-Banderas/Blue-Seduction-3751.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 29,
+      "status": "exact",
+      "product": "ANTONIO B KING OF SEDUCTION 100ML (PLATEADO)",
+      "current": "/products/cutouts/ref-0029.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Antonio-Banderas/King-of-Seduction-26412.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 30,
+      "status": "exact",
+      "product": "ANTONIO B POWER OF SEDUCTION EDT 100ML",
+      "current": "/products/cutouts/ref-0030.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Antonio-Banderas/Power-Of-Seduction-51087.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 31,
+      "status": "exact",
+      "product": "ARIANA GRANDE ARI EDP 100ML",
+      "current": "/products/cutouts/ref-0031.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Ariana-Grande/Ari-31661.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 32,
+      "status": "exact",
+      "product": "ARIANA GRANDE CLOUD 2.0 INTENSE EDP 100ML",
+      "current": "/products/cutouts/ref-0032.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-Intense-69296.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 33,
+      "status": "exact",
+      "product": "ARIANA GRANDE CLOUD EDP 100ML",
+      "current": "/products/cutouts/ref-0033.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-50384.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 34,
+      "status": "exact",
+      "product": "ARIANA GRANDE CLOUD PINK EDP 100ML",
+      "current": "/products/cutouts/ref-0034.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Ariana-Grande/Cloud-Pink-83995.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 35,
+      "status": "exact",
+      "product": "ARIANA GRANDE MOD BLUSH EDP 100ML",
+      "current": "/products/cutouts/ref-0035.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Ariana-Grande/Mod-Blush-77800.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 36,
+      "status": "exact",
+      "product": "ARIANA GRANDE MOD VANILLA EDP 100ML",
+      "current": "/products/cutouts/ref-0036.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Ariana-Grande/Mod-Vanilla-77799.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 37,
+      "status": "exact",
+      "product": "ARIANA GRANDE MOONLIGHT EDP 100ML",
+      "current": "/products/cutouts/ref-0037.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Ariana-Grande/Moonlight-46410.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 38,
+      "status": "exact",
+      "product": "ARIANA GRANDE REM CHERRY ECLIPSE EDP 100ML",
+      "current": "/products/cutouts/ref-0038.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Ariana-Grande/R-E-M-Cherry-Eclipse-102379.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 39,
+      "status": "exact",
+      "product": "ARIANA GRANDE REM EDP 100ML",
+      "current": "/products/cutouts/ref-0039.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Ariana-Grande/R-E-M-62578.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 40,
+      "status": "exact",
+      "product": "ARIANA GRANDE SWEET LIKE CANDY EDP 100ML",
+      "current": "/products/cutouts/ref-0040.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Ariana-Grande/Sweet-Like-Candy-39970.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 41,
+      "status": "exact",
+      "product": "ARIANA GRANDE THANK U NEXT 2.0 EDP 100ML",
+      "current": "/products/cutouts/ref-0041.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-2-0-68367.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 42,
+      "status": "exact",
+      "product": "ARIANA GRANDE THANK U NEXT EDP 100ML",
+      "current": "/products/cutouts/ref-0042.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Ariana-Grande/Thank-U-Next-56741.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 43,
+      "status": "exact",
+      "product": "ARMAF AURA FRESH EDP 100ML",
+      "current": "/products/cutouts/ref-0043.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/armaf-aura-fresh",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 44,
+      "status": "exact",
+      "product": "ARMAF BEACH PARTY EDP 100ML",
+      "current": "/products/cutouts/ref-0044.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/beach-party-spr",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 45,
+      "status": "exact",
+      "product": "ARMAF BLUE HOMME EDP 100ML",
+      "current": "/products/cutouts/ref-0045.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/blue-homme",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 46,
+      "status": "exact",
+      "product": "ARMAF BON BON EDP 100ML",
+      "current": "/products/cutouts/ref-0046.png",
+      "proposed": null,
+      "evidence": "https://armaf.uk/products/bon-bon-eau-de-parfum-100ml",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 47,
+      "status": "exact",
+      "product": "ARMAF CHECK MATE KING EDP 100ML",
+      "current": "/products/cutouts/ref-0047.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/checkmate-king-spr",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 48,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT BLING EDP 75ML",
+      "current": "/products/cutouts/ref-0048.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/club-de-nuit-bling",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 49,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT ICONIC EDP 105ML",
+      "current": "/products/cutouts/ref-0049.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/club-de-nuit-blue-iconic-200ml",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 50,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT IMPERIALE EDP 105ML",
+      "current": "/products/cutouts/ref-0050.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/armaf-club-de-nuit-white-imperial-buy-original-perfumes-online-uae",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 51,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT INTENSE MAN EDT 105ML",
+      "current": "/products/cutouts/ref-0051.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/club-de-nuit-intense-man-4",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 52,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT INTENSE MAN PARFUM 150ML",
+      "current": "/products/cutouts/ref-0052.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/club-de-nuit-intense-man-4",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 53,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT INTENSE OVERDOSE EXTRAIT DE PARFUM 100ML",
+      "current": "/products/cutouts/ref-0053.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/club-de-nuit-intense-overdose",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 54,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT LIONHEART MAN EDP 100ML",
+      "current": "/products/cutouts/ref-0054.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/cdn-lion-heart-man-spr",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 55,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT LIONHEART WOMAN EDP 100ML",
+      "current": "/products/cutouts/ref-0055.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/cdn-lion-heart-spr",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 56,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT MAN EDT 105ML",
+      "current": "/products/cutouts/ref-0056.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/club-de-nuit-man1",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 57,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT MILESTONE EDP 105ML",
+      "current": "/products/cutouts/ref-0057.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/club-de-nuit-milestone",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 58,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT OUD PARFUM 105ML",
+      "current": "/products/cutouts/ref-0058.png",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/armaf-club-de-nuit-oud",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 59,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT PRECIEUX I EXTRAIT DE PARFUM 55ML",
+      "current": "/products/cutouts/ref-0059.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/armaf/club-de-nuit-precieux-93272.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 60,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT PRECIEUX IV EXTRAIT DE PARFUM 55ML",
+      "current": "/products/cutouts/ref-0060.png",
+      "proposed": null,
+      "evidence": "https://armaf.uk/collections/collections/products/club-de-nuit-precieux-iv-extrait-de-parfum-55ml",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 61,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT SILLAGE EDP 105ML",
+      "current": "/products/cutouts/ref-0061.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/armaf-club-de-nuit-silage-men",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 62,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT UNTOLD EDP 105ML",
+      "current": "/products/cutouts/ref-0062.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/armaf-club-de-nuit-untold",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 63,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT URBAN MAN EDP 105ML",
+      "current": "/products/cutouts/ref-0063.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/club-de-nuit-iconic",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 64,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT URBAN MAN ELIXIR EDP 105ML",
+      "current": "/products/cutouts/ref-0064.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/club-de-nuit-urban-elixir-100ml",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 65,
+      "status": "exact",
+      "product": "ARMAF CLUB DE NUIT WOMAN EDP 105ML",
+      "current": "/products/cutouts/ref-0065.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/club-de-nuit-w",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 66,
+      "status": "exact",
+      "product": "ARMAF CONNOISSEUR MAN EDP 100ML",
+      "current": "/products/cutouts/ref-0066.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/connoisseur-spr-1",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 67,
+      "status": "exact",
+      "product": "ARMAF DUBAI DELICACY KUNAFA CHOCOLATE EDP 70ML",
+      "current": "/products/cutouts/ref-0067.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/dubai-delicacy-kunafa-chocolate",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 68,
+      "status": "wrong",
+      "product": "ARMAF ETER ARABIAN SKY EDP 100ML",
+      "current": "/products/cutouts/ref-0067.png",
+      "proposed": "https://armaf.com/products/eter-arabian-sky",
+      "evidence": "https://armaf.com/products/eter-arabian-sky",
+      "reason": "La ref. 68 reutiliza exactamente /products/cutouts/ref-0067.png (Dubai Delicacy Kunafa Chocolate), no Eter Arabian Sky."
+    },
+    {
+      "ref": 69,
+      "status": "exact",
+      "product": "ARMAF HUNTER FOR MEN EDT 100ML",
+      "current": "/products/cutouts/ref-0069.png",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/armaf-hunter-1",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 70,
+      "status": "exact",
+      "product": "ARMAF ISLAND BLISS EDP 100ML",
+      "current": "/products/cutouts/ref-0070.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/island-bliss-delights-spr",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 71,
+      "status": "exact",
+      "product": "ARMAF ISLAND BREEZE EDP 100ML",
+      "current": "/products/cutouts/ref-0071.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/island-breeze",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 72,
+      "status": "exact",
+      "product": "ARMAF LE PARFAIT HOMBRE EDP 100ML",
+      "current": "/products/cutouts/ref-0072.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/le-pa-rfait-homme",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 73,
+      "status": "exact",
+      "product": "ARMAF LEGASI MUJER EDP 100ML",
+      "current": "/products/cutouts/ref-0073.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/legasi",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 74,
+      "status": "exact",
+      "product": "ARMAF ODYSEEY FEMME EDP 80ML",
+      "current": "/products/cutouts/ref-0074.png",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/armaf-odyssey-femme",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 75,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY AOUD EDP 100ML",
+      "current": "/products/cutouts/ref-0075.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-aoud-edition",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 76,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY ARTISTO RED EDITION EDP 100ML",
+      "current": "/products/cutouts/ref-0076.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 77,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY BAHAMAS EDP 100ML",
+      "current": "/products/cutouts/ref-0077.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 78,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY BLACK FOREST EDP 100ML",
+      "current": "/products/cutouts/ref-0078.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-toffee-coffee-copy-1",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 79,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY CANDEE EDP 100ML",
+      "current": "/products/cutouts/ref-0079.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 80,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY DUBAI CHOCOLAT EDP 100ML",
+      "current": "/products/cutouts/ref-0080.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 81,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY GO MANGO EDP 100ML",
+      "current": "/products/cutouts/ref-0081.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-go-mango",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 82,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY HOMME EDP 100ML",
+      "current": "/products/cutouts/ref-0082.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-homme-man",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 83,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY LICHI LUSH EDP 100ML",
+      "current": "/products/cutouts/ref-0083.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-lichi-lush-edp",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 84,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY LIMONI EDP 100ML",
+      "current": "/products/cutouts/ref-0084.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/armaf-odyssey-limoni-fresh-edition",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 85,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY MANDARIN SKY EDP 100ML",
+      "current": "/products/cutouts/ref-0085.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-mega-for-men",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 86,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY MANDARIN SKY EDP 200ML",
+      "current": "/products/cutouts/ref-0086.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-mega-for-men",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 87,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY MANDARIN SKY ELIXIR EDP 100ML",
+      "current": "/products/cutouts/ref-0087.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-mandarin-sky-elixir",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 88,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY MANDARIN SKY VINTAGE EDP 100ML",
+      "current": "/products/cutouts/ref-0088.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-mandarin-sky-vintage-edition",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 89,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY MARSHMALLOW EDP 100ML",
+      "current": "/products/cutouts/ref-0089.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-marshmallow",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 90,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY MEGA EDP 100ML",
+      "current": "/products/cutouts/ref-0090.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-mega-man",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 91,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY MOUNTAIN EDITION 100ML",
+      "current": "/products/cutouts/ref-0091.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 92,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY PINK POP EDP 100ML",
+      "current": "/products/cutouts/ref-0092.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-pink-pop-edp",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 93,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY REVOLUTION EDP 100ML",
+      "current": "/products/cutouts/ref-0093.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 94,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY SODA POP EDP 100ML",
+      "current": "/products/cutouts/ref-0094.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-soda-pop",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 95,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY SPECTRA BLU EDP 100ML",
+      "current": "/products/cutouts/ref-0095.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 96,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY SPECTRA EDP 100ML",
+      "current": "/products/cutouts/ref-0096.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/armaf-odyssey-spectra-rainbow-edition",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 97,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY TOFFEE COFFEE EDP 100ML",
+      "current": "/products/cutouts/ref-0097.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-toffee-coffee",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 98,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY TYRANT EDP 100ML",
+      "current": "/products/cutouts/ref-0098.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-tyrant-special-edition",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 99,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY WHITE EDP 100ML",
+      "current": "/products/cutouts/ref-0099.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-homme-white-edition",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 100,
+      "status": "exact",
+      "product": "ARMAF ODYSSEY WILD ONE EDP 100ML",
+      "current": "/products/cutouts/ref-0100.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/odyssey-wild-one",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 101,
+      "status": "exact",
+      "product": "ARMAF SPARTACUS EDP 100ML",
+      "current": "/products/cutouts/ref-0101.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/spartacus-edp",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 102,
+      "status": "exact",
+      "product": "ARMAF TAG DONNA DI TERRA EDP 100ML",
+      "current": "/products/cutouts/ref-0102.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 103,
+      "status": "exact",
+      "product": "ARMAF TAG HIM POUR HOMME EDP 100ML",
+      "current": "/products/cutouts/ref-0103.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 104,
+      "status": "exact",
+      "product": "ARMAF TAG HIM PRESTIGE EDT 100ML",
+      "current": "/products/cutouts/ref-0104.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/tag-him-prestige",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 105,
+      "status": "exact",
+      "product": "ARMAF TAG UOMO NERO EDP 100ML",
+      "current": "/products/cutouts/ref-0105.png",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Armaf/Tag-Uomo-Nero-21404.html",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 106,
+      "status": "exact",
+      "product": "ARMAF TAG UOMO ROSSO EDP 100ML",
+      "current": "/products/cutouts/ref-0106.png",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/armaf-tag-uomo-rosso",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 107,
+      "status": "exact",
+      "product": "ARMAF THE PRIDE ADMIRAL EDP 100ML",
+      "current": "/products/cutouts/ref-0107.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/the-pride-of-armaf-admiral",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 108,
+      "status": "exact",
+      "product": "ARMAF TRES NUIT LYRIC POUR HOMME EDP 100ML",
+      "current": "/products/cutouts/ref-0108.png",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/tres-nuit-lyric",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 109,
+      "status": "exact",
+      "product": "ARMAF TRES NUIT POUR HOMME EDT 100ML",
+      "current": "https://armaf.com/cdn/shop/files/Q-121ATRESNUIT_M_3278373f-ed84-416b-8687-e1054cbbcabb.jpg?v=1739111251&width=1600",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Armaf/Tres-Nuit-21829.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 110,
+      "status": "exact",
+      "product": "ARMAF VENTANA MARINE EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ArmafVentanaBottle11.jpg?v=1739111646",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/ventana-marine ; https://armafperfume.com/products/armaf-ventana-marine-perfume-for-men-100ml-edp",
+      "reason": "La imagen actual es la imagen principal publicada por ARMAF para Ventana Marine; la ficha oficial confirma Eau de Parfum y una ficha específica de Armaf India confirma 100 ml. Botella, nombre, marca, variante, concentración y presentación quedan cotejados."
+    },
+    {
+      "ref": 111,
+      "status": "exact",
+      "product": "ARMAF VENTANA POUR HOMME EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/VENTANAPOURHOMME-100ML_ARMAFSERIES_FIF_0276143c-8c72-44a0-acb5-34241f49b0c4.jpg?v=1739111262",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/ventana-pour-homme ; https://armaf.uk/products/ventana-pour-homme-eau-de-parfum-100ml",
+      "reason": "La imagen actual coincide byte-for-byte en URL de asset con la imagen principal oficial de ARMAF; la ficha oficial identifica Ventana Pour Homme Eau de Parfum y ARMAF UK confirma la presentación de 100 ml."
+    },
+    {
+      "ref": 112,
+      "status": "exact",
+      "product": "ARMAF YUM YUM EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/0875/1513/6299/files/Untitleddesign_71.png?v=1748451245",
+      "proposed": null,
+      "evidence": "https://armaf.com/products/yum-yum-spr ; https://www.arenal.com/yum-yum-armaf-eau-parfum-mujer",
+      "reason": "La imagen actual es la imagen principal publicada por ARMAF para Yum Yum. La ficha oficial confirma identidad y la ficha específica de Arenal confirma Eau de Parfum de 100 ml."
+    },
+    {
+      "ref": 113,
+      "status": "exact",
+      "product": "AZZARO CHROME EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Chrome.png?v=1571609917",
+      "proposed": null,
+      "evidence": "https://www.azzaro.com/en/fragrances/azzaro-chrome/eau-de-toilette ; https://perfumeonline.ca/products/chrome",
+      "reason": "El frasco de la imagen actual corresponde visualmente a Azzaro Chrome. La página oficial confirma la variante Eau de Toilette y el retailer enlazado ofrece específicamente 100 ml EDT con esa imagen de producto."
+    },
+    {
+      "ref": 114,
+      "status": "exact",
+      "product": "AZZARO POUR HOMME EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.829.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Azzaro/Azzaro-pour-Homme-829.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 115,
+      "status": "exact",
+      "product": "AZZARO THE MOST WANTED EDPI 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.66826.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Azzaro/The-Most-Wanted-66826.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 116,
+      "status": "wrong",
+      "product": "AZZARO THE MOST WANTED PARFUM 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/files/Azzaro-Most-Wanted_bfde01d6-23e2-48fb-9ef4-8d718dda8a6a.png?v=1682618808",
+      "proposed": "https://www.chemistwarehouse.ae/cdn/shop/files/1171_2FPRODUCT_IMAGE_2FDA01761952_2FIM15225646.jpg?v=1758870000&width=2000",
+      "evidence": "https://www.azzaro.com/pt/perfumes/azzaro-the-most-wanted/parfum ; https://www.chemistwarehouse.ae/products/azzaro-the-most-wanted-m-parfum-100ml",
+      "reason": "La imagen actual muestra y rotula 50 ml en la caja, por lo que no corresponde a la presentación vendida de 100 ml. La propuesta muestra de forma legible Azzaro, The Most Wanted, Parfum y 100 ml, y pertenece a una ficha específica de 100 ml de un retailer reconocido."
+    },
+    {
+      "ref": 117,
+      "status": "wrong",
+      "product": "AZZARO WANTED BY NIGHT EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Wanted-Night.png?v=1571609994",
+      "proposed": "https://perfumeplanet.com.pa/cdn/shop/products/s-l640.jpg?v=1574747822",
+      "evidence": "https://www.azzaro.com/en/fragrances/azzaro-wanted-by-night/eau-de-parfum ; https://perfumeplanet.com.pa/products/wanted-by-night-edp-for-men",
+      "reason": "La imagen actual muestra y rotula 150 ml, no 100 ml. La propuesta muestra de forma legible Azzaro Wanted by Night, Eau de Parfum y 100 ml/3.4 fl oz, respaldada por una ficha específica del producto."
+    },
+    {
+      "ref": 118,
+      "status": "exact",
+      "product": "AZZARO WANTED HOMBRE EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.38686.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Azzaro/Wanted-38686.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 119,
+      "status": "exact",
+      "product": "BENETTON COLD EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.2487.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Benetton/Benetton-Cold-2487.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 120,
+      "status": "exact",
+      "product": "BENETTON HOT EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/files/Benetton-Hot-Edt.png?v=1764185402",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/benetton-hot-edt ; https://www.noon.com/saudi-en/hot-edt-100ml/N36551129A/p/",
+      "reason": "La imagen actual está vinculada por el retailer a Benetton Hot EDT y coincide visualmente con su frasco. La ficha específica de Noon confirma la presentación femenina Eau de Toilette de 100 ml."
+    },
+    {
+      "ref": 121,
+      "status": "exact",
+      "product": "BHARARA BULLET BRONZE EDP 75ML",
+      "current": "https://www.bhararabeauty.com/cdn/shop/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_1_2f4a8553-7f64-4ff3-a1e0-b1707971ba17.png?v=1771616712",
+      "proposed": null,
+      "evidence": "https://www.bhararabeauty.com/products/bullet-bronze-2-5-edp-sp-m",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 122,
+      "status": "exact",
+      "product": "BHARARA BULLET GOLD EDP 75ML",
+      "current": "https://www.bhararabeauty.com/cdn/shop/files/Generated_with_Kive.ai_-_Remove_the_box__just_keep_the_bottle_and_center_it.png?v=1771616421",
+      "proposed": null,
+      "evidence": "https://www.bhararabeauty.com/products/bullet-gold-2-5-edp-sp-m",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 123,
+      "status": "exact",
+      "product": "BHARARA BULLET GUNMETAL EDP",
+      "current": "https://www.bhararabeauty.com/cdn/shop/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_2.png?v=1771616601",
+      "proposed": null,
+      "evidence": "https://www.bhararabeauty.com/products/bullet-gun-metal-2-5-edp-sp-m",
+      "reason": "La imagen actual es exactamente la imagen principal publicada por Bharara Beauty para Bullet Gun Metal Eau de Parfum 2.5 oz (75 ml); la botella y la ficha oficial coinciden en marca, variante, concentración y tamaño."
+    },
+    {
+      "ref": 124,
+      "status": "exact",
+      "product": "BHARARA CHOCOLATE EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-kive-image_5_d630c43c-1ebd-4f98-8e34-9aebde4edde9.png?v=1772127699",
+      "proposed": null,
+      "evidence": "https://www.bhararabeauty.com/products/bharara-chocolate-eau-de-parfum",
+      "reason": "La imagen actual es exactamente la imagen principal de la ficha oficial de Bharara Chocolate Eau de Parfum; esa ficha identifica la presentación de 3.4 fl oz (100 ml). Coinciden marca, variante, concentración y tamaño."
+    },
+    {
+      "ref": 125,
+      "status": "exact",
+      "product": "BHARARA KING EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/Gemini_Generated_Image_eokjadeokjadeokj.png?v=1772746597",
+      "proposed": null,
+      "evidence": "https://www.bhararabeauty.com/products/bharara-king",
+      "reason": "La imagen actual es exactamente la imagen principal de la ficha oficial de Bharara King Eau de Parfum. La variante seleccionable 3.4 fl oz equivale a 100 ml; identidad, concentración y tamaño quedan confirmados."
+    },
+    {
+      "ref": 126,
+      "status": "exact",
+      "product": "BHARARA KING GOLD EDITION EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_30.png?v=1772133191",
+      "proposed": null,
+      "evidence": "https://www.bhararabeauty.com/products/bharara-king-gold-edition-eau-de-parfum",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 127,
+      "status": "wrong",
+      "product": "BHARARA KING PARFUM 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.70765.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Bharara/King-70765.html",
+      "reason": "El asset actual de fimgs 70765 muestra un frasco Zara Yellow Velvet Splash, no Bharara King Parfum; la imagen es de otro producto."
+    },
+    {
+      "ref": 128,
+      "status": "exact",
+      "product": "BHARARA RAMESSES 1 EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_21.png?v=1772086303",
+      "proposed": null,
+      "evidence": "https://www.bhararabeauty.com/products/bharara-pharaoh-ramesses-i-eau-de-parfum",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 129,
+      "status": "exact",
+      "product": "BHARARA REY DE REYES EDP 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.136242.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/search/?query=Rey%20De%20Reyes",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 130,
+      "status": "exact",
+      "product": "BHARARA VIKING KASHMIR PARFUM 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/Generated_with_Kive.ai_-_kive-image_b9e6bea9-e93d-4413-9c10-6c17164e40fb.png?v=1772570580",
+      "proposed": null,
+      "evidence": "https://www.bhararabeauty.com/products/bharara-viking-kashmir-3-4-parfum-spray",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 131,
+      "status": "exact",
+      "product": "BHARARA VIKING RIO PARFUM 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/0594/1575/6852/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcentreit.png?v=1771945994",
+      "proposed": null,
+      "evidence": "https://www.bhararabeauty.com/products/bharara-viking-rio-3-4-parfum-spray",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 133,
+      "status": "exact",
+      "product": "BILLIE EILISH NO3 EDP 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.87945.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Billie-Eilish/Eilish-No-3-87945.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 139,
+      "status": "exact",
+      "product": "BOUCHERON POUR HOMME EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.132.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Boucheron/Boucheron-Pour-Homme-132.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 140,
+      "status": "exact",
+      "product": "BRITNEY SPEARS FANTASY CIRCUS EDP 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.6733.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Britney-Spears/Circus-Fantasy-6733.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 141,
+      "status": "exact",
+      "product": "BRITNEY SPEARS INTIMATE EDITION EDP 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.31170.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Britney-Spears/Fantasy-Intimate-Edition-31170.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 142,
+      "status": "exact",
+      "product": "BULGARI AQUA POUR HOMME EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.185.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Bvlgari/Aqva-Pour-Homme-185.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 143,
+      "status": "wrong",
+      "product": "BULGARI OMNIA AMETHYSTE EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/bvlgari-omnia-amethyste-65-ml-for-women-outer-box-damaged-800x800.jpg?v=1571609931",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/bvlgari-omnia-amethyste",
+      "reason": "El asset actual muestra y rotula Omnia Amethyste EDT de 65 ml (2.2 fl oz), no la presentación de 100 ml solicitada."
+    },
+    {
+      "ref": 144,
+      "status": "exact",
+      "product": "BULGARI SPLENDIDA TUBEREUSE MYSTIQUE MUJER",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.55838.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Bvlgari/Splendida-Tubereuse-Mystique-55838.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 145,
+      "status": "exact",
+      "product": "BURBERRY GODDESS EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/files/Burberry-Goddess.png?v=1700581094",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Burberry/Goddess-83483.html",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 146,
+      "status": "exact",
+      "product": "BURBERRY HER EDP 100ML",
+      "current": "https://assets.burberry.com/is/image/Burberryltd/170DBE43-9B00-40B1-A766-F1482E6F263D?%24BBY_V3_SL_1%24=&hei=1500&wid=1501",
+      "proposed": null,
+      "evidence": "https://us.burberry.com/her-eau-de-parfum-100ml-p40804591",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 147,
+      "status": "exact",
+      "product": "CACHAREL ANAIS ANAIS EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/ANAIS-ANAIS.png?v=1571609909",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/anais-anais",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 148,
+      "status": "exact",
+      "product": "CAROLINA HERRERA 212 CLASICO HOMBRE EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.644.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Men-644.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 149,
+      "status": "exact",
+      "product": "CAROLINA HERRERA 212 HEROES HOMBRE EDT 90ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.64641.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Heroes-64641.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 150,
+      "status": "exact",
+      "product": "CAROLINA HERRERA 212 HEROES MUJER EDP 80ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.64642.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Heroes-for-Her-64642.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 151,
+      "status": "exact",
+      "product": "CAROLINA HERRERA 212 SEXY HOMBRE 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.204.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Sexy-Men-204.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 152,
+      "status": "exact",
+      "product": "CAROLINA HERRERA 212 SEXY MUJER 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.167.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Sexy-167.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 153,
+      "status": "exact",
+      "product": "CAROLINA HERRERA 212 VIP BLACK 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.37030.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Black-37030.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 154,
+      "status": "exact",
+      "product": "CAROLINA HERRERA 212 VIP MUJER EDT 80ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.18596.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-18596.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 155,
+      "status": "exact",
+      "product": "CAROLINA HERRERA 212 VIP ROSE 80ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.23672.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Rose-23672.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 156,
+      "status": "exact",
+      "product": "CAROLINA HERRERA 212 VIP ROSE ELIXIR EDP 80ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/files/212-vip-rose-elixir.png?v=1731007650",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/212-vip-rose-elixir",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 157,
+      "status": "exact",
+      "product": "CAROLINA HERRERA BAD BOY CLASICO EDT 100ML",
+      "current": "https://medias.carolinaherrera.com/medias/sys_master/images/hcd/hbc/10581247098910/10581247033374/10581247033374.jpg",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/ch-bad-boy",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 158,
+      "status": "exact",
+      "product": "CAROLINA HERRERA BAD BOY COBALT EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/files/Carolina-herrera-bad-boy-cobalt-electrique.png?v=1765230491",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/carolina-herrera-bad-boy-cobalt-electrique",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 159,
+      "status": "exact",
+      "product": "CAROLINA HERRERA BAD BOY EXTREME EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/files/Bad-Boy-Extreme.png?v=1699467061",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/bad-boy-extreme",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 160,
+      "status": "exact",
+      "product": "CAROLINA HERRERA CH MEN EDT",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/188465_spo.jpg?v=1571609938",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/ch-carolina-herrera-men",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 161,
+      "status": "exact",
+      "product": "CAROLINA HERRERA CH MUJER EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-Carolina-Herrera.png?v=1571609938",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/ch-carolina-herrera",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 162,
+      "status": "exact",
+      "product": "CAROLINA HERRERA CLÁSICO MUJER 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.610.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Carolina-Herrera/Carolina-Herrera-610.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 163,
+      "status": "exact",
+      "product": "CAROLINA HERRERA GOOD GIRL BLUSH EDP 80ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/files/Ch-Good-Girl-Blush.png?v=1702305335",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/ch-good-girl-blush",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 164,
+      "status": "wrong",
+      "product": "CAROLINA HERRERA GOOD GIRL BLUSH POLKA PARADISE100ML",
+      "current": null,
+      "proposed": null,
+      "evidence": "https://www.carolinaherrera.com/uk/en/editorial/fragrance-good-girl-blush-polka-paradise",
+      "reason": "La presentación del catálogo no existe en 100 ml: Carolina Herrera identifica oficialmente Good Girl Blush Polka Paradise como edición de coleccionista EDP de 80 ml."
+    },
+    {
+      "ref": 165,
+      "status": "exact",
+      "product": "CAROLINA HERRERA GOOD GIRL CLASICO EDP 80ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/Ch-Good-Girl.png?v=1725026950",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/ch-good-girl",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 166,
+      "status": "exact",
+      "product": "CAROLINA HERRERA GOOD GIRL JASMINE ABSOLUTE EDP 80ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/files/CarolinaHerreraGoodGirlJasmineAbsolute.jpg?v=1785158945",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/carolina-herrera-good-girl-jasmine-absolute",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 167,
+      "status": "exact",
+      "product": "CAROLINA HERRERA GOOD GIRL VERY EDP 80ML",
+      "current": "https://perfumeriamillennio.com/cdn/shop/files/carolinaherreravery.jpg?v=1777136490&width=1200",
+      "proposed": null,
+      "evidence": "https://www.carolinaherrera.com/ww/en/p-fragrance/very-good-girl",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 168,
+      "status": "wrong",
+      "product": "CAROLINA HERRERA LA BOMBA EDP 80ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/files/La-Bomba.png?v=1764179417",
+      "proposed": null,
+      "evidence": "https://www.carolinaherrera.com/ww/en/p-fragrance/labomba?sku=000000000065195954",
+      "reason": "El asset actual corresponde visualmente al frasco/caja de 50 ml (1.7 fl oz), mientras el registro solicita La Bomba EDP 80 ml."
+    },
+    {
+      "ref": 170,
+      "status": "exact",
+      "product": "CARTIER DECLARACIÓN EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.13.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Cartier/Declaration-13.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 171,
+      "status": "exact",
+      "product": "CHANEL ALLURE HOMME SPORT EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.607.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Chanel/Allure-Homme-Sport-607.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 172,
+      "status": "exact",
+      "product": "CHANEL CHANCE EAU TENDRE EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.806.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Tendre-806.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 173,
+      "status": "exact",
+      "product": "CHANEL CHANCE EAU VIVE EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.30917.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Chanel/Chance-Eau-Vive-30917.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 174,
+      "status": "exact",
+      "product": "CHANEL COCO MADEMOISELLE EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.611.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Chanel/Coco-Mademoiselle-611.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 175,
+      "status": "exact",
+      "product": "CHANEL GABRIELLE EDP 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.43286.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Chanel/Gabrielle-43286.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 176,
+      "status": "exact",
+      "product": "CHARLIE GOLD EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/153911_85d6333d-d466-4a17-b543-1e93d0c2172b_spo.jpg?v=1571609939",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/charlie-gold",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 177,
+      "status": "exact",
+      "product": "CK BE EDT 200ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/119918_spo.jpg?v=1571609951",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/ck-be",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 178,
+      "status": "exact",
+      "product": "CK CONTRADICTION HOMBRE EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/153911_ed3c573e-6ca9-4c7a-8d9b-e8efe697c8dd_spo.jpg?v=1571609940",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/ck-contradiction-men",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 179,
+      "status": "exact",
+      "product": "CK ESCAPE HOMBRE EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/CKESC100M_spo.jpg?v=1571609951",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/ck-escape-men",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 180,
+      "status": "exact",
+      "product": "CK ETERNITY CLASICO HOMBRE EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/153911_997ddf7b-19b8-4bec-90ce-06c8c3912662_spo.jpg?v=1571609911",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/ck-eternity-men",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 181,
+      "status": "exact",
+      "product": "CK EUPHORIA HOMBRE EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.217.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Calvin-Klein/Euphoria-Men-217.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 182,
+      "status": "wrong",
+      "product": "CK EUPHORIA MUJER EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/CK-EUPHORIA.png?v=1740152158",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/ck-euphoria-w",
+      "reason": "El asset actual muestra Euphoria EDP de 50 ml (1.7 fl oz) en la caja; el registro solicita 100 ml."
+    },
+    {
+      "ref": 183,
+      "status": "exact",
+      "product": "CK IN2U HOMBRE EDT 150ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.151.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Calvin-Klein/IN2U-for-Him-151.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 184,
+      "status": "exact",
+      "product": "CK IN2U MUJER EDT 150ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.150.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Calvin-Klein/IN2U-for-Her-150.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 185,
+      "status": "exact",
+      "product": "CK ONE EDT 200ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.276.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-276.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 186,
+      "status": "exact",
+      "product": "CK ONE GOLD EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.40720.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-Gold-40720.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 187,
+      "status": "exact",
+      "product": "CK ONE SHOCK FOR HIM EDT 200ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.10128.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Calvin-Klein/CK-One-Shock-for-Him-10128.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 188,
+      "status": "exact",
+      "product": "COOL WATER HOMBRE EDT 125ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/Cool-Water-Men.jpg?v=1571609926",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/cool-water-men-1",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 189,
+      "status": "exact",
+      "product": "COOL WATER MUJER EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/Cool-Water.png?v=1571609926",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/cool-water-women",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 190,
+      "status": "exact",
+      "product": "CREED AVENTUS HOMBRE EDP 100ML",
+      "current": "https://www.scentsangel.com/cdn/shop/files/SENTSANGEL_31_87aab0d6-713e-4b81-841c-8383e61354dd.jpg?v=1777916832",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/creed-aventus",
+      "reason": "La revisión visual del archivo servido coincide en marca y variante; la presentación indicada es compatible con la fuente enlazada."
+    },
+    {
+      "ref": 191,
+      "status": "exact",
+      "product": "CRISTIANO RONALDO CR7 ROJO EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.56606.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Cristiano-Ronaldo/CR7-Game-On-56606.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 192,
+      "status": "exact",
+      "product": "CRISTIANO RONALDO DISCOVER EDT 100ML",
+      "current": "https://www.sasa.com.my/image/cache/catalog/product/cristiano-ronaldo/10103010205819-1-960x960.jpg",
+      "proposed": null,
+      "evidence": "https://www.sasa.com.my/index.php?mobile=1&product_id=2172&route=product%2Fproduct",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 193,
+      "status": "exact",
+      "product": "CRISTIANO RONALDO ORIGINS EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/Cristiano-Ronaldo-Cr7-Origins.png?v=1661194995",
+      "proposed": null,
+      "evidence": "https://cr7fragrances.store/products/cr7-origins-eau-de-toilette",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 194,
+      "status": "exact",
+      "product": "CURVE BLACK HOMBRE 125ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.44905.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 195,
+      "status": "exact",
+      "product": "CURVE CHILL HOMBRE 125ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.1777.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 196,
+      "status": "exact",
+      "product": "CURVE CHILL MUJER 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.1776.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 197,
+      "status": "exact",
+      "product": "CURVE CLASICO HOMBRE 125ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.376.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Liz-Claiborne/Curve-for-Men-376.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 198,
+      "status": "exact",
+      "product": "CURVE CLASICO MUJER 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.1775.jpg",
+      "proposed": null,
+      "evidence": "https://www.costco.com/f/-/fragrance-buying-guide",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 199,
+      "status": "exact",
+      "product": "CURVE CONNECT HOMBRE 125ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.2778.jpg",
+      "proposed": null,
+      "evidence": "https://www.costco.com/f/-/fragrance-buying-guide",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 200,
+      "status": "exact",
+      "product": "CURVE CONNECT MUJER 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.2779.jpg",
+      "proposed": null,
+      "evidence": "https://www.costco.com/f/-/fragrance-buying-guide",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 201,
+      "status": "exact",
+      "product": "CURVE CRUSH HOMBRE 125ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.4164.jpg",
+      "proposed": null,
+      "evidence": "https://www.costco.com/f/-/fragrance-buying-guide",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 202,
+      "status": "exact",
+      "product": "CURVE CRUSH MUJER 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.2175.jpg",
+      "proposed": null,
+      "evidence": "https://www.costco.com/f/-/fragrance-buying-guide",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 203,
+      "status": "exact",
+      "product": "CURVE SPORT HOMBRE 125ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.29569.jpg",
+      "proposed": null,
+      "evidence": "https://www.costco.com/f/-/fragrance-buying-guide",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 204,
+      "status": "wrong",
+      "product": "CURVE WAVE HOMBRE 125ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/Curve-Wave-Edc-Men.jpg?v=1624277909",
+      "proposed": null,
+      "evidence": "https://www.curvefragrances.com/curve/fragrance/men/curve-wave-men/",
+      "reason": "El asset actual muestra Curve Wave Cologne de 2.5 fl oz (75 ml); la ficha oficial confirma que la presentación solicitada de 4.2 fl oz es 125 ml."
+    },
+    {
+      "ref": 205,
+      "status": "exact",
+      "product": "CURVE WAVE MUJER 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.9609.jpg",
+      "proposed": null,
+      "evidence": "https://www.costco.com/f/-/fragrance-buying-guide",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 206,
+      "status": "missing",
+      "product": "DECANT ARIANA GRANDE CLOUD PINK 2ML",
+      "current": null,
+      "proposed": null,
+      "evidence": "catalog/image-manifest.json",
+      "reason": "No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."
+    },
+    {
+      "ref": 207,
+      "status": "missing",
+      "product": "DECANT ARMAF ODYSSEY ARTISTO 5ML",
+      "current": null,
+      "proposed": null,
+      "evidence": "catalog/image-manifest.json",
+      "reason": "No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."
+    },
+    {
+      "ref": 208,
+      "status": "missing",
+      "product": "DECANT ARMAF VENTANA 5ML",
+      "current": null,
+      "proposed": null,
+      "evidence": "catalog/image-manifest.json",
+      "reason": "No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."
+    },
+    {
+      "ref": 209,
+      "status": "missing",
+      "product": "DECANT CAROLINA HERRERA 212 VIP ROSE 10ML",
+      "current": null,
+      "proposed": null,
+      "evidence": "catalog/image-manifest.json",
+      "reason": "No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."
+    },
+    {
+      "ref": 210,
+      "status": "missing",
+      "product": "DECANT DIOR SAUVAGE EDT 5ML",
+      "current": null,
+      "proposed": null,
+      "evidence": "catalog/image-manifest.json",
+      "reason": "No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."
+    },
+    {
+      "ref": 211,
+      "status": "missing",
+      "product": "DECANT LATTAFA ART OF NATURE 5ML",
+      "current": null,
+      "proposed": null,
+      "evidence": "catalog/image-manifest.json",
+      "reason": "No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."
+    },
+    {
+      "ref": 215,
+      "status": "missing",
+      "product": "DECANT MOSCHINO FUNNY 5ML",
+      "current": null,
+      "proposed": null,
+      "evidence": "catalog/image-manifest.json",
+      "reason": "No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."
+    },
+    {
+      "ref": 216,
+      "status": "missing",
+      "product": "DECANT MOSCHINO TOY 2 BUBBLE GUM 5ML",
+      "current": null,
+      "proposed": null,
+      "evidence": "catalog/image-manifest.json",
+      "reason": "No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."
+    },
+    {
+      "ref": 217,
+      "status": "missing",
+      "product": "DECANT VERSACE DYLAN BLUE HOMBRE 2ML",
+      "current": null,
+      "proposed": null,
+      "evidence": "catalog/image-manifest.json",
+      "reason": "No hay imagen asignada. Para decants se requiere fotografía propia del atomizador rotulado; una botella retail no acredita la presentación vendida."
+    },
+    {
+      "ref": 218,
+      "status": "exact",
+      "product": "DESODORANTE PERRY ELLIS 360 RED HOMBRE 170ML",
+      "current": "https://foreverlux.com/cdn/shop/files/1418201__74385.1698007912.1280.1280.png?v=1761779160",
+      "proposed": null,
+      "evidence": "https://www.walmart.com/ip/153310055",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 219,
+      "status": "exact",
+      "product": "DIOR FAHRENHEIT EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/CDFAH100M_spo.jpg?v=1571609902",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/dior-fahrenheit",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 220,
+      "status": "exact",
+      "product": "DIOR JADORE EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/JADORE.png?v=1571609905",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/jadore",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 221,
+      "status": "exact",
+      "product": "DIOR SAUVAGE EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/Dior-sauvage-Edp.png?v=1571609964",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/dior-sauvage",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 222,
+      "status": "exact",
+      "product": "DKNY FRESH BLOSSOM EDP 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.533.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/DKNY/Fresh-Blossom-533.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 223,
+      "status": "exact",
+      "product": "DKNY WOMEN EDP 100ML",
+      "current": "https://dkny.sa/cdn/shop/files/DKNY00023.jpg?v=1763017908",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/DKNY/DKNY-Women-100.html",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 224,
+      "status": "exact",
+      "product": "DOLCE & GABANNA DOLCE LILY EDT 75ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.68972.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Lily-68972.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 225,
+      "status": "exact",
+      "product": "DOLCE & GABANNA YOUR DEVOTION EDP INTENSE 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/files/Devotion_Intense.webp?v=1740168297",
+      "proposed": null,
+      "evidence": "https://www.costco.com/f/-/fragrance-buying-guide",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 226,
+      "status": "exact",
+      "product": "DOLCE & GABBANA DEVOTION HOMBRE EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/files/Devotion_Edp_men.png?v=1742502970",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/devotion-edp",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 227,
+      "status": "exact",
+      "product": "DOLCE & GABBANA DOLCE EDP 75ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.22955.jpg",
+      "proposed": null,
+      "evidence": "https://www.dolcegabbana.com/",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 228,
+      "status": "exact",
+      "product": "DOLCE & GABBANA DOLCE SHINE EDP 75ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.59929.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Shine-59929.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 229,
+      "status": "exact",
+      "product": "DOLCE & GABBANA EMPERATRIZ 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.6086.jpg",
+      "proposed": null,
+      "evidence": "https://www.costco.com/f/-/fragrance-buying-guide",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 230,
+      "status": "exact",
+      "product": "DOLCE & GABBANA KING EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/dg-king-edp.png?v=1613493387",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/dolce-gabbana-king-edp",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 231,
+      "status": "exact",
+      "product": "DOLCE & GABBANA KING EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/DG-KING-100ML-EDT-MEN.png?v=1571610020",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/dg-king",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 232,
+      "status": "exact",
+      "product": "DOLCE & GABBANA KING PARFUM 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/files/8054754405095-1.jpg?v=1748270966",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/k-parfum",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 233,
+      "status": "exact",
+      "product": "DOLCE & GABBANA LIGHT BLUE HOMBRE NUEVO EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.107.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Pour-Homme-107.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 234,
+      "status": "exact",
+      "product": "DOLCE & GABBANA LIGHT BLUE INTENSE MUJER EDP 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.43444.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Eau-Intense-for-Women-43444.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 235,
+      "status": "exact",
+      "product": "DOLCE & GABBANA LIGHT BLUE MUJER 100ML",
+      "current": "https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dw8a77087f/images/zoom/VT01JMVT000_9V000_0.jpg?sw=740&sh=944",
+      "proposed": null,
+      "evidence": "https://www.dolcegabbana.com/en-us/beauty/perfumes-for-her/light-blue/",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 236,
+      "status": "exact",
+      "product": "DOLCE & GABBANA LIGHT BLUE MUJER 200ML",
+      "current": "https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dw8a77087f/images/zoom/VT01JMVT000_9V000_0.jpg?sw=1480&sh=1888",
+      "proposed": null,
+      "evidence": "https://www.dolcegabbana.com/en-us/beauty/perfumes-for-her/light-blue/new-lb-edt-200ml---158057971188208.html",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 237,
+      "status": "exact",
+      "product": "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES H EDT 125ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.80056.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Summer-Vibes-Pour-Homme-80056.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 238,
+      "status": "exact",
+      "product": "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES MUJER 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.74282.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Light-Blue-Summer-Vibes-74282.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 239,
+      "status": "exact",
+      "product": "DOLCE & GABBANA POUR FEMME EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/117705_spo.jpg?v=1571609930",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/dolce-gabbana",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 240,
+      "status": "exact",
+      "product": "DOLCE & GABBANA POUR HOMME 125ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.486.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Dolce-Gabbana/Dolce-Gabbana-Pour-Homme-486.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 241,
+      "status": "exact",
+      "product": "DOLCE & GABBANA Q EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/files/Dolce-_-Gabbana-Queen.png?v=1699031065",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/d-g-queen",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 242,
+      "status": "exact",
+      "product": "DOLCE & GABBANA THE ONE HOMBRE EDT 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.1835.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-for-Men-1835.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 243,
+      "status": "exact",
+      "product": "DOLCE & GABBANA THE ONE MUJER EDP 75ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.698.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Dolce-Gabbana/The-One-for-Women-698.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 244,
+      "status": "exact",
+      "product": "DRAKKAR NOIR EDT 200ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/DRAK200M.jpg?v=1571609907",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/drakkar-noir",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 245,
+      "status": "exact",
+      "product": "DUMONT NITRO PLATINUM EDP 100ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.101991.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/search/?query=Dumont%20Nitro%20Platinum",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 246,
+      "status": "exact",
+      "product": "DUMONT NITRO RED HOMBRE EDP 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/files/nitro.png?v=1721670579",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/nitro-red",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 247,
+      "status": "exact",
+      "product": "DUMONT NITRO RED INTENSELY EXTRAIT DE PARFUM 100ML",
+      "current": "https://luchoperfumeria.com.co/cdn/shop/files/fotos_lucho_-_2026-03-31T180848.844.png?v=1774999170&width=1600",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/search/?query=Dumont%20Nitro%20Red%20Intensely",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 248,
+      "status": "exact",
+      "product": "ELIZABETH ARDEN 5TA AVENIDA 125ML",
+      "current": "https://fimgs.net/mdimg/perfume/375x500.819.jpg",
+      "proposed": null,
+      "evidence": "https://www.fragrantica.com/perfume/Elizabeth-Arden/5th-Avenue-819.html",
+      "reason": "La fuente enlazada identifica la misma marca, variante y presentación."
+    },
+    {
+      "ref": 249,
+      "status": "exact",
+      "product": "ELIZABETH ARDEN GREEN TEA EDP 100ML",
+      "current": "https://www.elizabetharden.com/cdn/shop/files/pdp-green-tea-spray-3.3oz.jpg?crop=center&height=1024&v=1766526887&width=1024",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/green-tea",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    },
+    {
+      "ref": 250,
+      "status": "exact",
+      "product": "ELIZABETH ARDEN RED DOOR EDT 100ML",
+      "current": "https://cdn.shopify.com/s/files/1/2170/5343/products/Red-Door.png?v=1571609935",
+      "proposed": null,
+      "evidence": "https://perfumeonline.ca/products/red-door",
+      "reason": "Cotejo visual del asset y ficha específica: coinciden marca, variante, concentración y presentación indicada; no se detecta una edición distinta."
+    }
+  ]
+}

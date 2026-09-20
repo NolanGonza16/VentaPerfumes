@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T23:30:03+00:00",
+  "generated_at": "2026-09-20T04:58:40+00:00",
   "records": [
     {
       "ref": 1,
@@ -1618,13 +1618,13 @@
       "nombre": "The Most Wanted",
       "marca": "Azzaro",
       "presentacion": "AZZARO THE MOST WANTED PARFUM 100ML",
-      "source_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/Azzaro-Most-Wanted_bfde01d6-23e2-48fb-9ef4-8d718dda8a6a.png?v=1682618808",
+      "source_url": "https://www.chemistwarehouse.ae/cdn/shop/files/1171_2FPRODUCT_IMAGE_2FDA01761952_2FIM15225646.jpg?v=1758870000&width=2000",
       "source_kind": "remote",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "retain_or_reframe",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "Producto, concentración y presentación de 100 ml verificados visualmente."
     },
     {
       "ref": 117,
@@ -1632,13 +1632,13 @@
       "nombre": "Wanted By Night",
       "marca": "Azzaro",
       "presentacion": "AZZARO WANTED BY NIGHT EDP 100ML",
-      "source_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Azzaro-Wanted-Night.png?v=1571609994",
+      "source_url": "https://perfumeplanet.com.pa/cdn/shop/products/s-l640.jpg?v=1574747822",
       "source_kind": "remote",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "retain_or_reframe",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "Producto, concentración y presentación de 100 ml verificados visualmente."
     },
     {
       "ref": 118,
@@ -1660,13 +1660,13 @@
       "nombre": "Cold",
       "marca": "Benetton",
       "presentacion": "BENETTON COLD EDT 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.2487.jpg",
+      "source_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/05/28285/ad77624a-edba-4b2b-bdcf-6dfae7109a7c_size3840_cropCenter.jpg",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "retain_or_reframe",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
       "review_status": "approved",
-      "notes": ""
+      "notes": "Benetton Cold EDT de 100 ml verificado visualmente."
     },
     {
       "ref": 120,
@@ -1772,13 +1772,13 @@
       "nombre": "King",
       "marca": "Bharara",
       "presentacion": "BHARARA KING PARFUM 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.70765.jpg",
+      "source_url": "https://www.bhararabeauty.com/cdn/shop/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_29.png?v=1772132284",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "retain_or_reframe",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
       "review_status": "approved",
-      "notes": ""
+      "notes": "Bharara King Parfum de 100 ml verificado con fuente oficial."
     },
     {
       "ref": 128,
@@ -1912,13 +1912,13 @@
       "nombre": "Omnia Amethyste",
       "marca": "Bvlgari",
       "presentacion": "BULGARI OMNIA AMETHYSTE EDT 100ML",
-      "source_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/bvlgari-omnia-amethyste-65-ml-for-women-outer-box-damaged-800x800.jpg?v=1571609931",
+      "source_url": "https://media2.bulgari.com/f_auto,q_auto/production/dwc6c93630/images/images/1463991.png",
       "source_kind": "remote",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "retain_or_reframe",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "Bvlgari Omnia Amethyste EDT de 100 ml verificado con fuente oficial."
     },
     {
       "ref": 144,
@@ -2262,13 +2262,13 @@
       "nombre": "La Bomba",
       "marca": "Carolina Herrera",
       "presentacion": "CAROLINA HERRERA LA BOMBA EDP 80ML",
-      "source_url": "https://cdn.shopify.com/s/files/1/2170/5343/files/La-Bomba.png?v=1764179417",
+      "source_url": "https://medias.carolinaherrera.com/medias/sys_master/images/h0e/h81/10975715098654/10975715033118/10975715033118.jpg",
       "source_kind": "remote",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "retain_or_reframe",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "Carolina Herrera La Bomba EDP de 80 ml verificado con fuente oficial."
     },
     {
       "ref": 170,
@@ -2444,13 +2444,13 @@
       "nombre": "Euphoria Mujer",
       "marca": "Calvin Klein",
       "presentacion": "CK EUPHORIA MUJER EDP 100ML",
-      "source_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/CK-EUPHORIA.png?v=1740152158",
+      "source_url": "https://images.tcdn.com.br/img/img_prod/1347493/euphoria_eau_de_parfum_perfume_feminino_5839_1_100d0fba67c137714fa49a8725f709de.jpg",
       "source_kind": "remote",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "retain_or_reframe",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "Calvin Klein Euphoria Mujer EDP de 100 ml verificado visualmente."
     },
     {
       "ref": 183,
@@ -2752,13 +2752,13 @@
       "nombre": "Curve Wave Hombre",
       "marca": "Liz Claiborne",
       "presentacion": "CURVE WAVE HOMBRE 125ML",
-      "source_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Curve-Wave-Edc-Men.jpg?v=1624277909",
+      "source_url": "https://www.curvefragrances.com/wp-content/uploads/2019/09/curve-wave-cologne-for-men-4-2-fl-oz.jpg",
       "source_kind": "remote",
       "fidelity_status": "verified_exact",
-      "treatment": "retain_or_reframe",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
       "review_status": "approved",
-      "notes": ""
+      "notes": "Curve Wave Cologne de 4.2 oz/125 ml verificado con fuente oficial."
     },
     {
       "ref": 205,
@@ -3508,13 +3508,13 @@
       "nombre": "Stallion 53 Donna Intense",
       "marca": "Emper",
       "presentacion": "EMPER STALLION 53 DONNA INTENSE EDP 100ML",
-      "source_url": null,
-      "source_kind": "missing",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "acquire_exact_packshot",
+      "source_url": "https://www-konga-com-res.cloudinary.com/media/catalog/product/W/M/179593_1779835922.jpg",
+      "source_kind": "remote",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "Donna Intense by Stallion 53 EDP de 100 ml verificado visualmente."
     },
     {
       "ref": 262,
@@ -3550,13 +3550,13 @@
       "nombre": "Stallion 53 La Furia",
       "marca": "Emper",
       "presentacion": "EMPER STALLION 53 LA FURIA EDP 100ML",
-      "source_url": null,
-      "source_kind": "missing",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "acquire_exact_packshot",
+      "source_url": "https://liemfragances.com/cdn/shop/files/IMG-5406.png?v=1788055145",
+      "source_kind": "remote",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "La Furia by Stallion 53 EDP de 100 ml verificado visualmente."
     },
     {
       "ref": 265,
@@ -3564,13 +3564,13 @@
       "nombre": "Stallion 53 Lahab",
       "marca": "Emper",
       "presentacion": "EMPER STALLION 53 LAHAB EDP 100ML",
-      "source_url": null,
-      "source_kind": "missing",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "acquire_exact_packshot",
+      "source_url": "https://piaus.mx/cdn/shop/files/Frasco-Photoroom_2c2c605d-832e-46c9-bc63-ecd9826ae2ed.jpg?v=1778472594",
+      "source_kind": "remote",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "Lahab by Stallion 53 EDP de 100 ml verificado visualmente."
     },
     {
       "ref": 266,
@@ -3606,13 +3606,13 @@
       "nombre": "Stallion 53 Morning Dive",
       "marca": "Emper",
       "presentacion": "EMPER STALLION 53 MORNING DIVE EDP 100ML",
-      "source_url": null,
-      "source_kind": "missing",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "acquire_exact_packshot",
+      "source_url": "https://oasisperfumeshn.com/cdn/shop/files/EMP36_6_1.jpg?v=1780349073",
+      "source_kind": "remote",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "Morning Dive by Stallion 53 EDP de 100 ml verificado visualmente."
     },
     {
       "ref": 269,
@@ -6448,13 +6448,13 @@
       "nombre": "Luxe",
       "marca": "Lattafa",
       "presentacion": "LATTAFA LUXE EDP 100ML",
-      "source_url": null,
-      "source_kind": "missing",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "acquire_exact_packshot",
+      "source_url": "https://lattafa.com/wp-content/uploads/2024/05/3-74.jpg",
+      "source_kind": "remote",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "Lattafa Sheikh Al Shuyukh Luxe Edition EDP de 100 ml verificado con fuente oficial."
     },
     {
       "ref": 472,
@@ -6868,13 +6868,13 @@
       "nombre": "Homme",
       "marca": "Lolita Lempicka",
       "presentacion": "LOLITA LEMPICKA HOMME EDT 100ML",
-      "source_url": null,
-      "source_kind": "missing",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "acquire_exact_packshot",
+      "source_url": "https://www.lolitalempicka.com/cdn/shop/files/F100000_LempickaHommeBox100mlssvoice_600x600.jpg?v=1714477756",
+      "source_kind": "remote",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "Lempicka Homme EDT de 100 ml verificado con fuente oficial."
     },
     {
       "ref": 502,
@@ -7428,13 +7428,13 @@
       "nombre": "Miniatura · Honor & Glory",
       "marca": "Lattafa",
       "presentacion": "MINI LATTAFA HONOR & GLORY 5ML",
-      "source_url": null,
-      "source_kind": "missing",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "acquire_exact_packshot",
+      "source_url": "https://cdnx.jumpseller.com/miniaromas/image/78165967/36FBF6B8-57A3-485C-BBCF-2FFCB0372825.png?1782331205",
+      "source_kind": "remote",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "Miniatura Honor & Glory de 5 ml verificada visualmente."
     },
     {
       "ref": 542,
@@ -7470,13 +7470,13 @@
       "nombre": "Miniatura · Yara Candy",
       "marca": "Lattafa",
       "presentacion": "MINI LATTAFA YARA CANDY 5ML",
-      "source_url": null,
-      "source_kind": "missing",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "acquire_exact_packshot",
+      "source_url": "https://perfumedaddy.pk/cdn/shop/files/LattafaYaraCandyEauDeParfumForWomenMini5ml.png?v=1775423119",
+      "source_kind": "remote",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "Miniatura Yara Candy de 5 ml verificada visualmente."
     },
     {
       "ref": 545,
@@ -7764,13 +7764,13 @@
       "nombre": "Voyage",
       "marca": "Nautica",
       "presentacion": "NAUTICA VOYAGE EDT 100ML",
-      "source_url": null,
-      "source_kind": "missing",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "acquire_exact_packshot",
+      "source_url": "https://www.perfumes.com.ph/cdn/shop/files/nautica-voyage-edt-100ml-perfume-philippines-best-price.webp?v=1698313943&width=2048",
+      "source_kind": "remote",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "Nautica Voyage EDT de 100 ml verificado visualmente."
     },
     {
       "ref": 566,
@@ -7988,13 +7988,13 @@
       "nombre": "One Million Night Elixir",
       "marca": "Rabanne",
       "presentacion": "PACO RABANNE ONE MILLION NIGHT ELIXIR PARFUM 100ML",
-      "source_url": "https://fimgs.net/mdimg/perfume/375x500.125545.jpg",
+      "source_url": "https://media.sephora.eu/content/dam/gdam/europe/digital/pim/published/R/RABANNE_FRAGRANCES/804952/400321-media_swatch-0.jpg?scaleHeight=750&scaleMode=fit&scaleWidth=750",
       "source_kind": "remote",
-      "fidelity_status": "needs_exact_source",
-      "treatment": "retain_or_reframe",
+      "fidelity_status": "verified_exact",
+      "treatment": "remove_background_then_compose",
       "final_url": null,
-      "review_status": "pending",
-      "notes": ""
+      "review_status": "approved",
+      "notes": "Rabanne 1 Million Night Elixir Parfum de 100 ml verificado visualmente en Sephora."
     },
     {
       "ref": 582,

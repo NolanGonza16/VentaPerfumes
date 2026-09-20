@@ -237,9 +237,9 @@
     },
     {
       "ref": 119,
-      "source_page": "https://www.fragrantica.com/perfume/Benetton/Benetton-Cold-2487.html",
-      "image_url": "https://fimgs.net/mdimg/perfume/375x500.2487.jpg",
-      "status": "matched"
+      "source_page": "https://gcc.luluhypermarket.com/en-sa/benetton-cold-edt-for-men-100ml/p/44519/",
+      "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/05/28285/ad77624a-edba-4b2b-bdcf-6dfae7109a7c_size3840_cropCenter.jpg",
+      "status": "matched_manual_exact"
     },
     {
       "ref": 121,
@@ -261,9 +261,9 @@
     },
     {
       "ref": 127,
-      "source_page": "https://www.fragrantica.com/perfume/Bharara/King-70765.html",
-      "image_url": "https://fimgs.net/mdimg/perfume/375x500.70765.jpg",
-      "status": "matched"
+      "source_page": "https://www.bhararabeauty.com/products/bharara-king-parfum-3-4-fl-oz-100-ml",
+      "image_url": "https://www.bhararabeauty.com/cdn/shop/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_29.png?v=1772132284",
+      "status": "matched_manual_exact"
     },
     {
       "ref": 128,
@@ -519,8 +519,8 @@
     },
     {
       "ref": 204,
-      "source_page": null,
-      "image_url": "https://cdn.shopify.com/s/files/1/2170/5343/products/Curve-Wave-Edc-Men.jpg?v=1624277909",
+      "source_page": "https://www.curvefragrances.com/product/curve-wave-cologne-spray-for-men-4-2-fl-oz/",
+      "image_url": "https://www.curvefragrances.com/wp-content/uploads/2019/09/curve-wave-cologne-for-men-4-2-fl-oz.jpg",
       "status": "matched_manual_exact"
     },
     {
@@ -1487,10 +1487,9 @@
     },
     {
       "ref": 541,
-      "source_page": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Honor-Glory-785THOOK.html",
-      "image_url": null,
-      "status": "unavailable",
-      "error": "HTTP Error 403: Forbidden"
+      "source_page": "https://miniaromas.cl/products/miniatura-honor-glory-5ml-lattafa",
+      "image_url": "https://cdnx.jumpseller.com/miniaromas/image/78165967/36FBF6B8-57A3-485C-BBCF-2FFCB0372825.png?1782331205",
+      "status": "matched_manual_exact"
     },
     {
       "ref": 542,
@@ -1506,10 +1505,9 @@
     },
     {
       "ref": 544,
-      "source_page": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Yara-Candy-88195.html",
-      "image_url": null,
-      "status": "unavailable",
-      "error": "HTTP Error 404: Not Found"
+      "source_page": "https://perfumedaddy.pk/products/lattafa-yara-candy-eau-de-parfum-for-women-mini-5ml",
+      "image_url": "https://perfumedaddy.pk/cdn/shop/files/LattafaYaraCandyEauDeParfumForWomenMini5ml.png?v=1775423119",
+      "status": "matched_manual_exact"
     },
     {
       "ref": 545,
@@ -2267,6 +2265,19 @@
     {"ref":73,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/LEGACYEDPFORWOMEN100ML_ARMAFSERIES_FIF.jpg?v=1739111291","status":"matched_manual_exact"},
     {"ref":75,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image-2023-05-04T101554.235.jpg?v=1739111569","status":"matched_manual_exact"},
     {"ref":78,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/image-2025-09-17T095429.126_900x_1bb05c54-723a-444a-bee4-2221e5041539.webp?v=1762473601","status":"matched_manual_exact"},
-    {"ref":81,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ODYSSEYGOMANGO2.png?v=1767893488","status":"matched_manual_exact"}
+    {"ref":81,"source_page":null,"image_url":"https://cdn.shopify.com/s/files/1/0875/1513/6299/files/ODYSSEYGOMANGO2.png?v=1767893488","status":"matched_manual_exact"},
+    {"ref":116,"source_page":"https://www.chemistwarehouse.ae/buy/152256/azzaro-the-most-wanted-parfum-100ml","image_url":"https://www.chemistwarehouse.ae/cdn/shop/files/1171_2FPRODUCT_IMAGE_2FDA01761952_2FIM15225646.jpg?v=1758870000&width=2000","status":"matched_manual_exact"},
+    {"ref":117,"source_page":"https://perfumeplanet.com.pa/products/azzaro-wanted-by-night","image_url":"https://perfumeplanet.com.pa/cdn/shop/products/s-l640.jpg?v=1574747822","status":"matched_manual_exact"},
+    {"ref":143,"source_page":"https://www.bulgari.com/en-int/fragrances/omnia/42061.html","image_url":"https://media2.bulgari.com/f_auto,q_auto/production/dwc6c93630/images/images/1463991.png","status":"matched_manual_exact"},
+    {"ref":168,"source_page":"https://www.carolinaherrera.com/ww/en/p-fragrance/labomba?sku=000000000065195954","image_url":"https://medias.carolinaherrera.com/medias/sys_master/images/h0e/h81/10975715098654/10975715033118/10975715033118.jpg","status":"matched_manual_exact"},
+    {"ref":182,"source_page":"https://www.euphoria.com.br/euphoria-eau-de-parfum-perfume-feminino","image_url":"https://images.tcdn.com.br/img/img_prod/1347493/euphoria_eau_de_parfum_perfume_feminino_5839_1_100d0fba67c137714fa49a8725f709de.jpg","status":"matched_manual_exact"},
+    {"ref":501,"source_page":"https://www.lolitalempicka.com/products/lempicka-homme","image_url":"https://www.lolitalempicka.com/cdn/shop/files/F100000_LempickaHommeBox100mlssvoice_600x600.jpg?v=1714477756","status":"matched_manual_exact"},
+    {"ref":565,"source_page":"https://www.perfumes.com.ph/products/nautica-voyage-edt-100ml","image_url":"https://www.perfumes.com.ph/cdn/shop/files/nautica-voyage-edt-100ml-perfume-philippines-best-price.webp?v=1698313943&width=2048","status":"matched_manual_exact"},
+    {"ref":261,"source_page":"https://www.konga.com/product/emper-stallion-53-donna-intense-edp-100ml-6988903","image_url":"https://www-konga-com-res.cloudinary.com/media/catalog/product/W/M/179593_1779835922.jpg","status":"matched_manual_exact"},
+    {"ref":264,"source_page":"https://liemfragances.com/products/la-furia-by-stallion-53-women-100ml","image_url":"https://liemfragances.com/cdn/shop/files/IMG-5406.png?v=1788055145","status":"matched_manual_exact"},
+    {"ref":265,"source_page":"https://piaus.mx/products/emper-lahab-by-stallion-53-edp-100-ml-20-ml","image_url":"https://piaus.mx/cdn/shop/files/Frasco-Photoroom_2c2c605d-832e-46c9-bc63-ecd9826ae2ed.jpg?v=1778472594","status":"matched_manual_exact"},
+    {"ref":268,"source_page":"https://oasisperfumeshn.com/products/emper-morning-dive-by-stallion-53-edp-u-100ml","image_url":"https://oasisperfumeshn.com/cdn/shop/files/EMP36_6_1.jpg?v=1780349073","status":"matched_manual_exact"},
+    {"ref":471,"source_page":"https://lattafa.com/product/sheikh-al-shuyukh-luxe-edtion/","image_url":"https://lattafa.com/wp-content/uploads/2024/05/3-74.jpg","status":"matched_manual_exact"},
+    {"ref":581,"source_page":"https://www.sephora.fr/p/1-million-night-elixir-%E2%80%93-parfum-elixir-804952.html","image_url":"https://media.sephora.eu/content/dam/gdam/europe/digital/pim/published/R/RABANNE_FRAGRANCES/804952/400321-media_swatch-0.jpg?scaleHeight=750&scaleMode=fit&scaleWidth=750","status":"matched_manual_exact"}
   ]
 }

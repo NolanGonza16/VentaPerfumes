@@ -48,15 +48,21 @@ export default function ProductArtwork({
   } as CSSProperties;
   const packshot = source !== PLACEHOLDER && likelyPackshot(source);
   const fallback = source === PLACEHOLDER;
+  const stage = ["floral", "gourmand", "oriental"].includes(visual.scene)
+    ? "purple"
+    : "gold";
 
   return (
     <span
-      className={`product-artwork product-artwork--${variant} scene-${visual.scene}${packshot ? " product-artwork--packshot" : ""}${loaded ? " is-loaded" : " is-loading"}${fallback ? " is-fallback" : ""}`}
+      className={`product-artwork product-artwork--${variant} product-artwork--stage-${stage} scene-${visual.scene}${packshot ? " product-artwork--packshot" : ""}${loaded ? " is-loaded" : " is-loading"}${fallback ? " is-fallback" : ""}`}
       style={style}
     >
       <span className="product-artwork__halo" aria-hidden="true" />
       <span className="product-artwork__architecture" aria-hidden="true" />
       <span className="product-artwork__surface" aria-hidden="true" />
+      <span className="product-artwork__watermark" aria-hidden="true">
+        ESSENCE LUXE
+      </span>
       <img
         className="product-artwork__image"
         src={source}

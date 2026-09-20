@@ -64,9 +64,11 @@ test("product pixels stay above decorative effects without color blending", () =
   assert.doesNotMatch(packshotRule, /background:/);
 });
 
-test("opaque packshots use one clean neutral canvas without decorative seams", () => {
+test("packshots use the shared Essence Luxe stage without decorative seams", () => {
   const css = fs.readFileSync("src/styles/product-artwork.css", "utf8");
-  assert.match(css, /\.product-artwork--packshot\s*\{[^}]*background:\s*#f6f3ed/s);
+  assert.match(css, /essence-luxe-gold-stage\.png/);
+  assert.match(css, /essence-luxe-purple-stage\.png/);
+  assert.match(css, /\.product-artwork--packshot\s*\{[^}]*background-color:\s*#090706/s);
   assert.match(
     css,
     /\.product-artwork--packshot \.product-artwork__(?:halo|architecture)[\s\S]*display:\s*none/,
