@@ -48,14 +48,14 @@ export default function ProductArtwork({
   } as CSSProperties;
   const packshot = source !== PLACEHOLDER && likelyPackshot(source);
   const fallback = source === PLACEHOLDER;
-  const pedestalPilot = perfume.origenRef === 119;
-  const stage = ["floral", "gourmand", "oriental"].includes(visual.scene)
+  const pedestalReady = source.startsWith("/products/cutouts/");
+  const stage = !pedestalReady && ["floral", "gourmand", "oriental"].includes(visual.scene)
     ? "purple"
     : "gold";
 
   return (
     <span
-      className={`product-artwork product-artwork--${variant} product-artwork--stage-${stage} scene-${visual.scene}${packshot ? " product-artwork--packshot" : ""}${pedestalPilot ? " product-artwork--pedestal-pilot" : ""}${loaded ? " is-loaded" : " is-loading"}${fallback ? " is-fallback" : ""}`}
+      className={`product-artwork product-artwork--${variant} product-artwork--stage-${stage} scene-${visual.scene}${packshot ? " product-artwork--packshot" : ""}${pedestalReady ? " product-artwork--pedestal" : ""}${loaded ? " is-loaded" : " is-loading"}${fallback ? " is-fallback" : ""}`}
       style={style}
     >
       <span className="product-artwork__halo" aria-hidden="true" />

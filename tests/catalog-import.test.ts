@@ -87,16 +87,13 @@ test("verified manufacturer matches add Spanish notes and never reuse a wrong ed
     (record) => record.origen_ref === 453,
   );
   assert.equal(researchedFakhar?.ficha_estado, "verificada");
-  assert.match(
-    String(researchedFakhar?.imagen_url),
-    /^https:\/\/www\.lattafa-usa\.com\/cdn\/shop\/files\//,
-  );
+  assert.equal(researchedFakhar?.imagen_url, "/products/cutouts/ref-0453.png");
   assert.deepEqual(researchedFakhar?.notas_salida, ["manzana", "jengibre", "bergamota"]);
 });
 
 test("verified visual matches can later receive exact fragrance research", () => {
   const sauvage = catalog.records.find((record) => record.origen_ref === 221);
-  assert.match(String(sauvage?.imagen_url), /^https:\/\/cdn\.shopify\.com\//);
+  assert.equal(sauvage?.imagen_url, "/products/cutouts/ref-0221.png");
   assert.equal(sauvage?.ficha_estado, "verificada");
   assert.deepEqual(sauvage?.notas_salida, ["bergamota de Calabria", "pimienta"]);
   assert.match(JSON.stringify(sauvage?.fuentes), /Referencia visual/);
@@ -105,7 +102,7 @@ test("verified visual matches can later receive exact fragrance research", () =>
   const verifiedEdt = catalog.records.find(
     (record) => record.origen_ref === 634,
   );
-  assert.match(String(verifiedEdt?.imagen_url), /375x500\.53403\.jpg$/);
+  assert.equal(verifiedEdt?.imagen_url, "/products/cutouts/ref-0634.png");
   assert.equal(verifiedEdt?.ficha_estado, "verificada");
   assert.deepEqual(verifiedEdt?.notas_salida, ["Bergamota", "Limón"]);
   assert.doesNotMatch(JSON.stringify(verifiedEdt?.fuentes), /Moustache-Eau-de-Parfum/);

@@ -131,8 +131,8 @@
   background-color: #090706;
 }
 
-/* Product-specific placement: seat the slender Cold bottle on the photographed plinth. */
-.product-artwork--pedestal-pilot::after {
+/* Seat verified transparent product cutouts on the photographed plinth. */
+.product-artwork--pedestal::after {
   content: "";
   position: absolute;
   z-index: 4;
@@ -147,7 +147,7 @@
   opacity: 0.82;
 }
 
-.product-artwork--pedestal-pilot .product-artwork__image {
+.product-artwork--pedestal .product-artwork__image {
   position: absolute;
   left: 50%;
   bottom: 29.15%;
@@ -160,7 +160,7 @@
   transform-origin: center bottom;
 }
 
-.perfume-card button:hover .product-artwork--pedestal-pilot .product-artwork__image {
+.perfume-card button:hover .product-artwork--pedestal .product-artwork__image {
   transform: translateX(-50%) scale(1.018);
   filter: drop-shadow(0 18px 14px rgb(0 0 0 / 46%));
 }

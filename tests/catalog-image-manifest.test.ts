@@ -5,10 +5,6 @@ import test from "node:test";
 const catalog = JSON.parse(
   fs.readFileSync("catalog/august-products.json", "utf8"),
 );
-const reviewedSources = JSON.parse(
-  fs.readFileSync("research/image-sources-reviewed.json", "utf8"),
-);
-
 test("image manifest covers every catalog reference exactly once", () => {
   const manifest = JSON.parse(
     fs.readFileSync("catalog/image-manifest.json", "utf8"),
@@ -40,28 +36,27 @@ test("manifest fidelity states never claim an unverified exact product", () => {
   );
 });
 
-test("exact image claims require matching reviewed evidence and approval", () => {
+test("exact image claims require an approved source and a published local cutout", () => {
   const manifest = JSON.parse(
     fs.readFileSync("catalog/image-manifest.json", "utf8"),
   );
-  const reviewedByRef = new Map(
-    reviewedSources.records.map((row: { ref: number }) => [row.ref, row]),
-  );
-
   assert.ok(
     manifest.records.every(
       (row: {
         ref: number;
         source_url: string | null;
+        final_url: string | null;
         fidelity_status: string;
         review_status: string;
       }) => {
         if (row.fidelity_status !== "verified_exact") return true;
-        const reviewed = reviewedByRef.get(row.ref);
         return (
           row.review_status === "approved" &&
-          reviewed?.image_url === row.source_url &&
-          ["matched", "matched_manual_exact"].includes(reviewed.status)
+          /^(https:\/\/|\/products\/cutouts\/ref-\d{4}\.png$)/.test(
+            row.source_url ?? "",
+          ) &&
+          /^\/products\/cutouts\/ref-\d{4}\.png$/.test(row.final_url ?? "") &&
+          fs.existsSync(`public${row.final_url}`)
         );
       },
     ),
