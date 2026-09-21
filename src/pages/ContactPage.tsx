@@ -13,10 +13,6 @@ const questions = [
     "¿Cómo se coordina la entrega?",
     "La zona de entrega, el costo y el plazo se confirman por WhatsApp antes de realizar la compra. Escríbenos con tu ubicación en Costa Rica.",
   ],
-  [
-    "¿Los perfumes de muestra están a la venta?",
-    "Si ves el aviso “Colección de muestra”, estás explorando ejemplos, no existencias ni precios confirmados. Consulta por WhatsApp el catálogo real disponible.",
-  ],
 ];
 export default function ContactPage() {
   return (
