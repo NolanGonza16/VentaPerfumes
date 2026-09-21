@@ -40,10 +40,8 @@ export default function CatalogFilters(props: FilterProps) {
   const productTypes: Array<{ value: ProductType; label: string }> = [
     { value: "Perfume", label: "Perfumes" },
     { value: "Tester", label: "Testers" },
-    { value: "Decant", label: "Decants" },
     { value: "Miniatura", label: "Minis" },
     { value: "Estuche", label: "Estuches" },
-    { value: "Corporal", label: "Cuidado corporal" },
   ]
   return (
     <div className="catalog-tools">
