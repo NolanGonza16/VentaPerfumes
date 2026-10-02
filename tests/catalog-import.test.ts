@@ -68,7 +68,7 @@ test("the public artifact has retail prices but never supplier costs", () => {
   }
   const yslY = catalog.records.find((record) => record.origen_ref === 742);
   assert.equal(yslY?.nombre, "Y");
-  assert.equal(yslY?.precio_crc, 74800);
+  assert.equal(yslY?.precio_crc, 63000);
 });
 
 test("verified manufacturer matches add Spanish notes and never reuse a wrong edition", () => {
